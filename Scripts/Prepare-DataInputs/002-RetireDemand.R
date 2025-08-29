@@ -1,133 +1,151 @@
-# ICE Survival and new demand
+# ICE & HEV Survival and new demand
 ## YZC Aug 2025
 source("Scripts/00-Libraries.R", encoding = "UTF-8")
-
 # ---------------------------
-# 1) Build 2020 State × Age stock from totals × fractions
-#    Output: stock_2020_state_age (State, ageID=0..30, N; 30 == "30+")
+# 0) Survival (logistic)
+#    S(a) = 1/(1 + exp((a - mu)/b)); annual y(a) = S(a+1)/S(a), ages 0..49
 # ---------------------------
-build_stock_2020_state_age <- function(regs, state_age_long_filled) {
-  regs_2020 <- regs %>%
-    filter(Year == 2020) %>%
-    select(State, Gasoline)
-  
-  frac_2020 <- state_age_long_filled %>%
-    filter(yearID == 2020) %>%
-    select(State = state, ageID, ageFraction_state)
-  
-  regs_2020 %>%
-    inner_join(frac_2020, by = "State") %>%
-    mutate(N = Gasoline * ageFraction_state) %>%
-    select(State, ageID, N) %>%
-    arrange(State, ageID)
-}
+S_log <- function(age, mu, b) 1 / (1 + exp((age - mu) / b))
 
-stock_2020_state_age <- build_stock_2020_state_age(regs, state_age_long_filled)
-
-# ---------------------------
-# 2) Logistic survival (μ=16, b=4)
-#    S(a) = 1 / (1 + exp((a - mu)/b))
-#    Annual survival y(a) = S(a+1)/S(a), we need ages 0..49
-# ---------------------------
-mu_comp <- 16
-b_comp  <- 4
-
-S_log <- function(age, mu = mu_comp, b = b_comp) {
-  1 / (1 + exp((age - mu) / b))
-}
-
-make_surv_tbl_0_49 <- function(mu = mu_comp, b = b_comp) {
+make_surv_tbl_0_49 <- function(mu, b) {
   S <- S_log(0:50, mu, b)
   y <- S[-1] / S[-length(S)]
-  tibble(ageID = 0:49,
-         y     = pmin(pmax(y, 1e-8), 0.999999),  # numeric safety
-         q     = 1 - y)
+  tibble(
+    ageID = 0:49,
+    y     = pmin(pmax(y, 1e-8), 0.999999),
+    q     = 1 - y
+  )
 }
 
-surv_tbl <- make_surv_tbl_0_49()
+# Car and Truck survival tables (different parameters)
+surv_tbl_by_type <- list(
+  Car   = make_surv_tbl_0_49(mu = 16, b = 4),
+  Truck = make_surv_tbl_0_49(mu = 19, b = 4.5)
+)
 
 # ---------------------------
-# 3) Split "30+" into 30..50 using logistic tail weights
-#    weight for a=30..49: S(a)-S(a+1); for 50+: S(50); normalized to sum=1
-#    Build turnover stock (0..49) and initial vintage (>=50)
+# 1) Build 2020 state totals and split by Car/Truck share
+#    - If HEV is present, include it in ICE pool (ICE+HEV)
 # ---------------------------
-make_tail_weights_30_50 <- function(mu = mu_comp, b = b_comp) {
+regs_2020 <- regs %>%
+  filter(Year == 2020) %>%
+  mutate(HEV_col = dplyr::coalesce(`Hybrid Electric (HEV)`, 0),
+         ICE_pool = Gasoline + HEV_col) %>%
+  select(State, ICE_pool)
+
+share_2020 <- state_type_share %>%
+  filter(yearID == 2020) %>%
+  select(State = state,
+         share_Car   = type_share_Car,
+         share_Truck = type_share_Truck)
+
+totals_by_type <- regs_2020 %>%
+  left_join(share_2020, by = "State") %>%
+  # safety: if any share is NA, fall back to 50/50 (you can change this)
+  mutate(share_Car   = coalesce(share_Car,   0.5),
+         share_Truck = coalesce(share_Truck, 0.5)) %>%
+  transmute(State,
+            Car   = ICE_pool * share_Car,
+            Truck = ICE_pool * share_Truck) %>%
+  pivot_longer(c(Car, Truck), names_to = "Type", values_to = "TotalType")
+
+# ---------------------------
+# 2) Apply state×Type×age fractions to split totals into age bins
+#    Input fractions: state_age_long_filled_by_type (yearID=2020)
+#    Result: 0..30 (where 30 ≡ "30+")
+# ---------------------------
+frac_2020_by_type <- state_age_long_filled_by_type %>%
+  filter(yearID == 2020) %>%
+  select(State = state, Type, ageID, ageFraction_state_type)
+
+stock_by_type_0_30 <- totals_by_type %>%
+  inner_join(frac_2020_by_type, by = c("State", "Type")) %>%
+  mutate(N = TotalType * ageFraction_state_type) %>%
+  select(State, Type, ageID, N) %>%
+  arrange(State, Type, ageID)
+
+# ---------------------------
+# 3) Tail weights 30+ → 30..50 per Type (use matching logistic params)
+#    w(a) ∝ S(a) - S(a+1), a=30..49; w(50) ∝ S(50); normalize to 1
+# ---------------------------
+make_tail_weights <- function(mu, b, Type) {
   mass_30_49 <- S_log(30:49, mu, b) - S_log(31:50, mu, b)
-  mass_50    <- S_log(50, mu, b)
-  w_raw <- c(mass_30_49, mass_50)
-  w     <- if (sum(w_raw) > 0) w_raw / sum(w_raw) else rep(1/21, 21)
-  tibble(ageID = 30:50, w = as.numeric(w))
+  mass_50    <- S_log(50,    mu, b)
+  w_raw      <- c(mass_30_49, mass_50)
+  w          <- if (sum(w_raw) > 0) w_raw / sum(w_raw) else rep(1/21, 21)
+  tibble(Type = Type, ageID = 30:50, w = as.numeric(w))
 }
 
-tail_w <- make_tail_weights_30_50()
+tail_w_tbl <- bind_rows(
+  make_tail_weights(mu = 16, b = 4, Type = "Car"),
+  make_tail_weights(mu = 20, b = 5, Type = "Truck")
+)
 
-build_stock_0_49_and_vintage <- function(stock_2020_state_age, tail_w) {
-  base   <- stock_2020_state_age
-  plus30 <- base %>% filter(ageID == 30) %>% select(State, N30 = N)
-  
-  # 30+ → 30..50
-  spread_30_50 <- plus30 %>%
-    crossing(tail_w) %>%
-    mutate(N = N30 * w) %>%
-    select(State, ageID, N)
-  
-  df50 <- base %>%
-    filter(ageID <= 29) %>%
-    bind_rows(spread_30_50) %>%
-    arrange(State, ageID)
-  
-  stock_turnover_0_49 <- df50 %>%
-    filter(ageID <= 49) %>%
-    select(State, ageID, N)
-  
-  vintage_init_by_state <- df50 %>%
-    filter(ageID >= 50) %>%
-    group_by(State) %>%
-    summarise(vintage_2020 = sum(N, na.rm = TRUE), .groups = "drop")
-  
-  list(stock_turnover_0_49   = stock_turnover_0_49,
-       vintage_init_by_state = vintage_init_by_state)
-}
+# Expand 30+ per Type and build turnover/vintage sets
+plus30 <- stock_by_type_0_30 %>%
+  filter(ageID == 30) %>%
+  select(State, Type, N30 = N)
 
-init_objs <- build_stock_0_49_and_vintage(stock_2020_state_age, tail_w)
-stock_turnover_0_49   <- init_objs$stock_turnover_0_49
-vintage_init_by_state <- init_objs$vintage_init_by_state
+spread_30_50 <- plus30 %>%
+  inner_join(tail_w_tbl, by = "Type") %>%
+  mutate(N = N30 * w) %>%
+  select(State, Type, ageID, N)
+
+df50 <- stock_by_type_0_30 %>%
+  filter(ageID <= 29) %>%
+  bind_rows(spread_30_50) %>%
+  arrange(State, Type, ageID)
+
+stock_turnover_0_49_Type <- df50 %>%
+  filter(ageID <= 49) %>%
+  select(State, Type, ageID, N)
+
+vintage_init_by_state_Type <- df50 %>%
+  filter(ageID >= 50) %>%
+  group_by(State, Type) %>%
+  summarise(vintage_2020 = sum(N, na.rm = TRUE), .groups = "drop")
 
 # ---------------------------
-# 4) Retirement-only roll-forward (0..49 participate; 49→vintage; vintage accumulates)
+# 4) Simulator by Type (Type-specific survival tables)
+#    - Ages 0..49 participate; 49→vintage (>=50)
+#    - No new sales here (retirement-only)
 # ---------------------------
-simulate_retire_turnover_0_49 <- function(stock_0_49,
-                                          surv_tbl_0_49,
-                                          years = 2020:2035,
-                                          vintage_init = vintage_init_by_state) {
-  y_vec <- surv_tbl_0_49$y; names(y_vec) <- as.character(surv_tbl_0_49$ageID)
-  q_vec <- 1 - y_vec
-  states <- sort(unique(stock_0_49$State))
+simulate_retire_turnover_by_type <- function(stock_0_49_Type,
+                                             surv_tbl_by_type,
+                                             years = 2020:2035,
+                                             vintage_init_Type = vintage_init_by_state_Type) {
+  keys <- stock_0_49_Type %>% distinct(State, Type) %>% arrange(State, Type)
   
-  map_dfr(states, function(st) {
-    base <- stock_0_49 %>% filter(State == st) %>% arrange(ageID)
+  map_dfr(seq_len(nrow(keys)), function(i) {
+    st <- keys$State[i]; tp <- keys$Type[i]
+    
+    base <- stock_0_49_Type %>% filter(State == st, Type == tp) %>% arrange(ageID)
     full <- tibble(ageID = 0:49) %>%
       left_join(base, by = "ageID") %>%
-      mutate(State = st, N = coalesce(N, 0))
+      mutate(State = st, Type = tp, N = coalesce(N, 0))
     N <- full$N
     
-    vint0 <- vintage_init %>% filter(State == st) %>% pull(vintage_2020)
+    surv_tbl <- surv_tbl_by_type[[tp]]
+    y_vec <- surv_tbl$y; names(y_vec) <- as.character(surv_tbl$ageID)
+    q_vec <- 1 - y_vec
+    
+    vint0 <- vintage_init_Type %>% filter(State == st, Type == tp) %>% pull(vintage_2020)
     if (!length(vint0)) vint0 <- 0
     vintage <- vint0
     
     out <- vector("list", length(years)); names(out) <- years
-    for (i in seq_along(years)) {
-      yr <- years[i]
+    for (k in seq_along(years)) {
+      yr <- years[k]
       
       retire_by_age <- N * q_vec[as.character(0:49)]
       retire_total  <- sum(retire_by_age, na.rm = TRUE)
       
       survivors <- N * y_vec[as.character(0:49)]
       N_next <- numeric(length(N))
-      N_next[2:50] <- survivors[1:49]    # 0..48 → 1..49
-      vintage <- vintage + survivors[50] # 49 → vintage (>=50)
+      N_next[2:50] <- survivors[1:49]    # ages 0..48 → 1..49
+      vintage <- vintage + survivors[50] # age 49 → vintage
       
-      out[[i]] <- tibble(State = st, Year = yr,
+      out[[k]] <- tibble(State = st, Type = tp, Year = yr,
                          retire_total = retire_total,
                          vintage_stock = vintage)
       N <- N_next
@@ -139,22 +157,39 @@ simulate_retire_turnover_0_49 <- function(stock_0_49,
 # ---------------------------
 # 5) Run and aggregate
 # ---------------------------
-retire_state_year <- simulate_retire_turnover_0_49(
-  stock_turnover_0_49,
-  surv_tbl,
-  years = 2020:2050,
-  vintage_init = vintage_init_by_state
+retire_state_year_Type <- simulate_retire_turnover_by_type(
+  stock_turnover_0_49_Type,
+  surv_tbl_by_type,
+  years = 2020:2035,
+  vintage_init_Type = vintage_init_by_state_Type
 )
 
-retire_US <- retire_state_year %>%
+# (a) Keep split by Type (Car vs Truck)
+# head(retire_state_year_Type)
+
+# (b) Total across Types
+retire_state_year_total <- retire_state_year_Type %>%
+  group_by(State, Year) %>%
+  summarise(retire_total = sum(retire_total, na.rm = TRUE),
+            vintage_stock = sum(vintage_stock, na.rm = TRUE),
+            .groups = "drop")
+
+# (c) National totals by Type and overall
+retire_US_by_Type <- retire_state_year_Type %>%
+  group_by(Year, Type) %>%
+  summarise(retire_total_US = sum(retire_total, na.rm = TRUE),
+            vintage_US      = sum(vintage_stock, na.rm = TRUE),
+            .groups = "drop")
+
+retire_US_total <- retire_state_year_total %>%
   group_by(Year) %>%
   summarise(retire_total_US = sum(retire_total, na.rm = TRUE),
             vintage_US      = sum(vintage_stock, na.rm = TRUE),
             .groups = "drop")
 
-# Inspect
-# head(stock_2020_state_age)
-# head(stock_turnover_0_49)
-# head(vintage_init_by_state)
-# head(retire_state_year)
-retire_US
+# Quick looks
+# head(stock_turnover_0_49_Type)
+# head(vintage_init_by_state_Type)
+# head(retire_state_year_Type)
+# retire_US_by_Type
+# retire_US_total
