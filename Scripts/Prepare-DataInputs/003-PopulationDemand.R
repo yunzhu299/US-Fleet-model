@@ -15,6 +15,30 @@ regs_base_2020 <- regs %>%
   ) %>%
   dplyr::transmute(State, TotalVeh_2020 = BEV + PHEV + HEV + ICE)
 
+pop_long <- PopulationProj %>%
+  # Keep state name only; drop US aggregate if present
+  rename(State = `Geography Name`) %>%
+  filter(!is.na(State), State != "United States") %>%
+  # Keep all year columns like "2020","2030",...
+  pivot_longer(cols = matches("^20\\d{2}$"),
+               names_to = "Year", values_to = "Population") %>%
+  mutate(Year = as.integer(Year)) %>%
+  arrange(State, Year)
+
+# Make it annual by linear interpolation within each state
+pop_annual <- pop_long %>%
+  group_by(State) %>%
+  complete(Year = full_seq(2020:2050, 1)) %>%   # create 2020..2050 for each state
+  arrange(State, Year) %>%
+  mutate(
+    Population = approx(
+      x    = Year[!is.na(Population)],
+      y    = Population[!is.na(Population)],
+      xout = Year, method = "linear", rule = 2
+    )$y
+  ) %>%
+  ungroup()
+
 pop_2020 <- pop_annual %>%
   dplyr::filter(Year == 2020) %>%
   dplyr::select(State, Pop_2020 = Population)
