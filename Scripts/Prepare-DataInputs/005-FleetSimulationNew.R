@@ -1,5 +1,6 @@
 ## 05 — Closed-loop Fleet Simulation (2020–2050) with dynamic penetration rates
 ## Uses ICE survival from 02 and EV engine from 04 (Logistic + LIB reuse/recycling)
+## Warm-up with 2014–2019 EV_historical sales
 ## YZC Sep 2025
 
 library(dplyr)
@@ -16,13 +17,13 @@ library(scales)
 # -----------------------------
 years <- 2020:2050
 
-# Safe scalar helper (avoid vector/tibble being assigned to [1,1])
+# Helper: safely coerce any input (vector/tibble) to a scalar numeric
 as_scalar_num <- function(x, default = 0) {
   if (is.null(x) || length(x) == 0) return(default)
   x <- suppressWarnings(as.numeric(x))
   if (length(x) > 1) x <- sum(x, na.rm = TRUE)
   if (!is.finite(x)) x <- default
-  return(x)
+  x
 }
 
 dir.create("Outputs", showWarnings = FALSE)
@@ -32,19 +33,22 @@ dir.create("Outputs", showWarnings = FALSE)
 # -----------------------------
 P_R_ACCII  <- read_csv("~/Downloads/PR_ACCII.csv")
 P_R_Repeal <- read_csv("~/Downloads/PR_Repeal.csv") %>%
-  # fix state spelling + trim spaces
-  mutate(State = str_trim(State),
-         State = dplyr::recode(State,
-                               "Massachusettes" = "Massachusetts"))
+  mutate(
+    State = str_trim(State),
+    State = dplyr::recode(State, "Massachusettes" = "Massachusetts")
+  )
 
 # -----------------------------
 # 1) Split population growth to Car/SUV by 2020 shares
+#    (uses inputs you already have in your environment)
 # -----------------------------
 seg_share_2020 <- state_type_share %>%
   filter(yearID == 2020) %>%
-  transmute(State = state,
-            Car = coalesce(type_share_Car,   0.5),
-            SUV = coalesce(type_share_Truck, 0.5))
+  transmute(
+    State = state,
+    Car = coalesce(type_share_Car,   0.5),
+    SUV = coalesce(type_share_Truck, 0.5)
+  )
 
 growth_seg_base <- growth_from_pop %>%
   transmute(State, Year, Growth_from_pop = coalesce(Growth_from_pop, 0)) %>%
@@ -54,21 +58,25 @@ growth_seg_base <- growth_from_pop %>%
   select(State, Segment, Year, Growth_seg)
 
 # -----------------------------
-# helper: run one scenario end-to-end
+# Sanity check: EV_historical should exist (loaded in 04)
+# -----------------------------
+if (!exists("EV_historical")) {
+  stop("EV_historical not found in the environment. In 04, please ensure you run: EV_historical <- read_csv('~/Downloads/historical_state_pt_veh_df.csv')")
+}
+
+# -----------------------------
+# Main scenario runner
 # -----------------------------
 run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
   
-  # reshape to wide for easier join
+  # Reshape penetration rates for easier join: State×Year wide with BEV, PHEV, ICE
   PR_wide <- PR_table %>%
-    mutate(State = str_trim(State),
-           Year  = as.integer(Year)) %>%
-    filter(Propulsion %in% c("BEV","PHEV")) %>%
+    mutate(State = str_trim(State), Year = as.integer(Year)) %>%
+    filter(Propulsion %in% c("BEV", "PHEV")) %>%
     select(State, Year, Propulsion, Fraction) %>%
     pivot_wider(names_from = Propulsion, values_from = Fraction) %>%
-    mutate(BEV  = coalesce(BEV, 0),
-           PHEV = coalesce(PHEV, 0)) %>%
-    # fill 2020 with 2021 values if missing
-    {
+    mutate(BEV = coalesce(BEV, 0), PHEV = coalesce(PHEV, 0)) %>%
+    {   # backfill 2020 using 2021 if 2020 missing
       have2021 <- dplyr::filter(., Year == 2021)
       add2020  <- dplyr::mutate(have2021, Year = 2020)
       bind_rows(., add2020)
@@ -76,18 +84,13 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     arrange(State, Year) %>%
     mutate(ICE = pmax(0, 1 - BEV - PHEV))
   
-  # -----------------------------
-  # 1) Split population growth to Car/SUV by 2020 shares
-  # -----------------------------
+  # 1) Growth split prepared outside: just reuse here
   growth_seg <- growth_seg_base
   
-  # -----------------------------
-  # 2) Initialize ICE stock at 2020 (Car/SUV split, age 0..49)
-  # -----------------------------
+  # 2) Initialize ICE stock at start of 2020 (Car/SUV split, age 0..49)
   regs_2020_pt <- regs %>%
     filter(Year == 2020) %>%
-    transmute(State,
-              ICE = coalesce(Gasoline, 0) + coalesce(`Hybrid Electric (HEV)`, 0))
+    transmute(State, ICE = coalesce(Gasoline, 0) + coalesce(`Hybrid Electric (HEV)`, 0))
   
   regs_2020_ICE_seg <- regs_2020_pt %>%
     inner_join(seg_share_2020, by = "State") %>%
@@ -95,38 +98,42 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     mutate(TotalPT_Seg = ICE * seg_share) %>%
     select(State, Segment, TotalPT_Seg)
   
+  # Age distribution for 2020 ICE (0..49), by state × segment
   frac_age_2020 <- state_age_long_filled_by_type %>%
     filter(yearID == 2020) %>%
-    transmute(State = state,
-              Segment = if_else(Type == "Truck", "SUV", Type),
-              ageID,
-              age_frac = ageFraction_state_type) %>%
+    transmute(
+      State   = state,
+      Segment = if_else(Type == "Truck", "SUV", Type),
+      ageID,
+      age_frac = ageFraction_state_type
+    ) %>%
     filter(Segment %in% c("Car", "SUV"))
   
   ice_init_0_49 <- regs_2020_ICE_seg %>%
-    inner_join(frac_age_2020, by = c("State","Segment")) %>%
+    inner_join(frac_age_2020, by = c("State", "Segment")) %>%
     mutate(N = pmax(TotalPT_Seg * age_frac, 0)) %>%
     filter(ageID <= 49) %>%
     group_by(State, Segment, ageID) %>%
     summarise(N = sum(N, na.rm = TRUE), .groups = "drop")
   
+  # Survival tables for ICE (0..49)
   surv_tbl_ice <- list(
     Car = surv_tbl_by_type$Car,
     SUV = { tmp <- surv_tbl_by_type$Truck; tmp$ageID <- 0:49; tmp }
   )
   
+  # Hold per-state×segment ICE age vectors (length 50)
   ice_env <- new.env(parent = emptyenv())
   ice_keys <- ice_init_0_49 %>% distinct(State, Segment) %>% arrange(State, Segment)
   for (i in seq_len(nrow(ice_keys))) {
-    k <- ice_keys[i,]
-    vec <- ice_init_0_49 %>% filter(State==k$State, Segment==k$Segment) %>% arrange(ageID) %>% pull(N)
+    k <- ice_keys[i, ]
+    vec <- ice_init_0_49 %>% filter(State == k$State, Segment == k$Segment) %>%
+      arrange(ageID) %>% pull(N)
     if (length(vec) < 50) vec <- c(vec, rep(0, 50 - length(vec)))
     ice_env[[paste(k$State, k$Segment, sep = " | ")]] <- vec
   }
   
-  # -----------------------------
-  # 3) Initialize EV engines with 2014–2019 history
-  # -----------------------------
+  # 3) Initialize EV engines with 2014–2019 warm-up
   ev_engines <- new.env(parent = emptyenv())
   
   get_or_create_engine <- function(state, segment, propulsion) {
@@ -134,160 +141,186 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     if (exists(key, envir = ev_engines, inherits = FALSE)) {
       return(get(key, envir = ev_engines, inherits = FALSE))
     }
+    
+    # Slice historical sales (2014–2019) for this State×Segment×PT
     slice <- EV_historical %>%
       filter(State == state, `Global Segment` == segment, Propulsion == propulsion) %>%
       arrange(`Sale Year`)
     if (nrow(slice) == 0) slice <- tibble(`Sale Year` = 2014:2019, Sales = 0)
-    eng <- EV_engine_init(slice, segment = segment, propulsion = propulsion,
-                          lifetime_scen = "Baseline",
-                          start_year = 2014, warmup_last_year = 2019)
+    
+    # Initialize engine (04 provides EV_engine_init)
+    eng <- EV_engine_init(
+      slice, segment = segment, propulsion = propulsion,
+      lifetime_scen = "Baseline",
+      start_year = 2014, warmup_last_year = 2019
+    )
+    
+    # Warm-up aging: for each year 2014..2019, step the engine with that year's sales
+    for (y in 2014:2019) {
+      sales_y <- slice %>% filter(`Sale Year` == y) %>% pull(Sales)
+      step <- EV_engine_step(eng, sales_y = as_scalar_num(sales_y, 0))
+      eng <- step$engine
+    }
+    
     assign(key, eng, envir = ev_engines)
-    return(eng)
+    eng
   }
   
+  # Build all State×Segment×PT engines with warm-up completed
   states_ev   <- unique(EV_historical$State)
   segments_ev <- c("Car", "SUV")
   props_ev    <- c("BEV", "PHEV")
   for (st in states_ev) {
     for (seg in segments_ev) {
       for (pp in props_ev) {
-        slice <- EV_historical %>% filter(State==st, `Global Segment`==seg, Propulsion==pp)
+        slice <- EV_historical %>% filter(State == st, `Global Segment` == seg, Propulsion == pp)
         if (nrow(slice) == 0) next
-        eng <- EV_engine_init(slice, segment = seg, propulsion = pp,
-                              lifetime_scen = "Baseline",
-                              start_year = 2014, warmup_last_year = 2019)
-        assign(paste(st, seg, pp, sep = " | "), eng, envir = ev_engines)
+        get_or_create_engine(st, seg, pp)
       }
     }
   }
   
   # -----------------------------
-  # 4) Yearly loop
+  # 4) Yearly loop (2020–2050)
   # -----------------------------
   results_rows <- list()
   
-  # NEW: collect EV/LIB flow vectors per State×Segment×Propulsion×Year
+  # Collect per-year EV/LIB flows (detail by PT) for CSV
   evlib_rows <- list()
   
   for (yr in years) {
     
-    # --- 4.1 ICE retirements and advance (without additions yet) ---
+    # 4.1 ICE retirements & advance ages (no additions here)
     ice_retire_df <- map_dfr(seq_len(nrow(ice_keys)), function(i) {
-      k <- ice_keys[i,]; key <- paste(k$State, k$Segment, sep = " | ")
+      k <- ice_keys[i, ]; key <- paste(k$State, k$Segment, sep = " | ")
       N <- ice_env[[key]]
+      
       surv <- surv_tbl_ice[[k$Segment]]
       y <- surv$y; names(y) <- as.character(surv$ageID)
       q <- 1 - y
+      
       retire_by_age <- N * q[as.character(0:49)]
-      survivors <- N * y[as.character(0:49)]
-      N_next <- numeric(50); N_next[2:50] <- survivors[1:49]
+      survivors     <- N * y[as.character(0:49)]
+      
+      N_next <- numeric(50)
+      N_next[2:50] <- survivors[1:49]  # shift ages by +1
       ice_env[[key]] <- N_next
+      
       tibble(State = k$State, Segment = k$Segment, Year = yr,
              ret_ICE = sum(retire_by_age, na.rm = TRUE))
     })
     
-    # --- 4.2 EV retirements only (first step with sales_y = 0) ---
+    # 4.2 EV retirements (read-only): estimate with a temp copy to avoid double-aging
     ev_retire_rows <- list()
     for (nm in ls(envir = ev_engines)) {
       eng <- get(nm, envir = ev_engines, inherits = FALSE)
-      step1 <- EV_engine_step(eng, sales_y = 0)
+      eng_tmp <- eng
+      step1 <- EV_engine_step(eng_tmp, sales_y = 0)  # DO NOT write back
       parts <- str_split(nm, " \\| ", simplify = TRUE)
-      ev_retire_rows[[nm]] <- tibble(State = parts[1], Segment = parts[2], Propulsion = parts[3],
-                                     Year = yr, ret_EV_pt = as_scalar_num(step1$EV_retired))
-      assign(nm, step1$engine, envir = ev_engines)
+      ev_retire_rows[[nm]] <- tibble(
+        State = parts[1], Segment = parts[2], Propulsion = parts[3],
+        Year = yr, ret_EV_pt = as_scalar_num(step1$EV_retired)
+      )
     }
     ev_retire_df <- if (length(ev_retire_rows)) bind_rows(ev_retire_rows) else
-      tibble(State=character(), Segment=character(), Propulsion=character(), Year=integer(), ret_EV_pt=double())
+      tibble(State=character(), Segment=character(), Propulsion=character(),
+             Year=integer(), ret_EV_pt=double())
     
     ev_retire_seg <- ev_retire_df %>%
       group_by(State, Segment, Year) %>%
-      summarise(ret_BEV  = sum(ret_EV_pt[Propulsion == "BEV"],  na.rm = TRUE),
-                ret_PHEV = sum(ret_EV_pt[Propulsion == "PHEV"], na.rm = TRUE),
-                .groups = "drop")
+      summarise(
+        ret_BEV  = sum(ret_EV_pt[Propulsion == "BEV"],  na.rm = TRUE),
+        ret_PHEV = sum(ret_EV_pt[Propulsion == "PHEV"], na.rm = TRUE),
+        .groups = "drop"
+      )
     
-    # --- 4.3 Population growth for this year (Car/SUV) ---
+    # 4.3 Population growth for this year (Car/SUV)
     grow_now <- growth_seg %>% filter(Year == yr)
     
-    # --- 4.4 Total demand per State×Segment and split to PT ---
+    # 4.4 Total demand and split by PT using PR_wide
     add_need <- ice_retire_df %>%
-      left_join(ev_retire_seg, by = c("State","Segment","Year")) %>%
-      left_join(grow_now,     by = c("State","Segment","Year")) %>%
-      mutate(ret_BEV   = coalesce(ret_BEV, 0),
-             ret_PHEV  = coalesce(ret_PHEV, 0),
-             Growth_seg = coalesce(Growth_seg, 0),
-             Demand_total = ret_ICE + ret_BEV + ret_PHEV + Growth_seg) %>%
-      left_join(PR_wide, by = c("State","Year")) %>%
-      mutate(add_BEV  = Demand_total * coalesce(BEV,  0),
-             add_PHEV = Demand_total * coalesce(PHEV, 0),
-             add_ICE  = Demand_total * coalesce(ICE,  1))
+      left_join(ev_retire_seg, by = c("State", "Segment", "Year")) %>%
+      left_join(grow_now,     by = c("State", "Segment", "Year")) %>%
+      mutate(
+        ret_BEV    = coalesce(ret_BEV, 0),
+        ret_PHEV   = coalesce(ret_PHEV, 0),
+        Growth_seg = coalesce(Growth_seg, 0),
+        Demand_total = ret_ICE + ret_BEV + ret_PHEV + Growth_seg
+      ) %>%
+      left_join(PR_wide, by = c("State", "Year")) %>%
+      mutate(
+        add_BEV  = Demand_total * coalesce(BEV,  0),
+        add_PHEV = Demand_total * coalesce(PHEV, 0),
+        add_ICE  = Demand_total * coalesce(ICE,  1)
+      )
     
-    # --- 4.5 Feed additions back to ICE (age 0) ---
+    # 4.5 Add ICE age-0 entries
     for (i in seq_len(nrow(ice_keys))) {
-      k <- ice_keys[i,]; key <- paste(k$State, k$Segment, sep = " | ")
-      N   <- ice_env[[key]]
+      k <- ice_keys[i, ]; key <- paste(k$State, k$Segment, sep = " | ")
+      N <- ice_env[[key]]
       add0 <- add_need %>%
         filter(State == k$State, Segment == k$Segment, Year == yr) %>%
         summarise(val = sum(add_ICE, na.rm = TRUE)) %>% pull(val)
-      add0 <- as_scalar_num(add0, 0)
-      N[1] <- N[1] + add0
+      N[1] <- N[1] + as_scalar_num(add0, 0)
       ice_env[[key]] <- N
     }
     
-    # --- 4.6 Feed additions back to EV engines (second step with real sales) ---
+    # 4.6 Step EV engines with actual sales and collect flows
     for (st in unique(add_need$State)) {
-      for (seg in c("Car","SUV")) {
-        row_seg <- add_need %>% filter(State==st, Segment==seg, Year==yr)
+      for (seg in c("Car", "SUV")) {
+        row_seg <- add_need %>% filter(State == st, Segment == seg, Year == yr)
         if (nrow(row_seg) == 0) next
+        
         add_bev_seg  <- as_scalar_num(sum(row_seg$add_BEV,  na.rm = TRUE), 0)
         add_phev_seg <- as_scalar_num(sum(row_seg$add_PHEV, na.rm = TRUE), 0)
         
-        # BEV engine
+        # BEV
         eng_bev <- get_or_create_engine(st, seg, "BEV")
         step2b  <- EV_engine_step(eng_bev, sales_y = add_bev_seg)
         assign(paste(st, seg, "BEV", sep = " | "), step2b$engine, envir = ev_engines)
         
-        # NEW: stash BEV vectors for this year
         evlib_rows[[length(evlib_rows) + 1]] <- tibble(
           State = st, Segment = seg, Propulsion = "BEV", Year = yr,
-          LIB_recycling      = as_scalar_num(step2b$LIB_recycling, 0),
-          LIB_available      = as_scalar_num(step2b$LIB_available, 0),
-          LIB_reuse_EV       = as_scalar_num(step2b$LIB_reuse_EV, 0),
-          EV_stock           = as_scalar_num(step2b$EV_stock, 0),
-          LIB_recycling_vector = list(step2b$LIB_recycling_vector),
-          LIB_available_vector = list(step2b$LIB_available_vector),
-          LIB_reuse_vector     = list(step2b$LIB_reuse_vector),
-          EV_stock_vector      = list(step2b$EV_stock_vector)
+          LIB_recycling         = as_scalar_num(step2b$LIB_recycling, 0),
+          LIB_available         = as_scalar_num(step2b$LIB_available, 0),
+          LIB_reuse_EV          = as_scalar_num(step2b$LIB_reuse_EV, 0),
+          EV_stock              = as_scalar_num(step2b$EV_stock, 0),
+          LIB_recycling_vector  = list(step2b$LIB_recycling_vector),
+          LIB_available_vector  = list(step2b$LIB_available_vector),
+          LIB_reuse_vector      = list(step2b$LIB_reuse_vector),
+          EV_stock_vector       = list(step2b$EV_stock_vector)
         )
         
-        # PHEV engine
+        # PHEV
         eng_ph  <- get_or_create_engine(st, seg, "PHEV")
         step2p  <- EV_engine_step(eng_ph, sales_y = add_phev_seg)
         assign(paste(st, seg, "PHEV", sep = " | "), step2p$engine, envir = ev_engines)
         
-        # NEW: stash PHEV vectors
         evlib_rows[[length(evlib_rows) + 1]] <- tibble(
           State = st, Segment = seg, Propulsion = "PHEV", Year = yr,
-          LIB_recycling      = as_scalar_num(step2p$LIB_recycling, 0),
-          LIB_available      = as_scalar_num(step2p$LIB_available, 0),
-          LIB_reuse_EV       = as_scalar_num(step2p$LIB_reuse_EV, 0),
-          EV_stock           = as_scalar_num(step2p$EV_stock, 0),
-          LIB_recycling_vector = list(step2p$LIB_recycling_vector),
-          LIB_available_vector = list(step2p$LIB_available_vector),
-          LIB_reuse_vector     = list(step2p$LIB_reuse_vector),
-          EV_stock_vector      = list(step2p$EV_stock_vector)
+          LIB_recycling         = as_scalar_num(step2p$LIB_recycling, 0),
+          LIB_available         = as_scalar_num(step2p$LIB_available, 0),
+          LIB_reuse_EV          = as_scalar_num(step2p$LIB_reuse_EV, 0),
+          EV_stock              = as_scalar_num(step2p$EV_stock, 0),
+          LIB_recycling_vector  = list(step2p$LIB_recycling_vector),
+          LIB_available_vector  = list(step2p$LIB_available_vector),
+          LIB_reuse_vector      = list(step2p$LIB_reuse_vector),
+          EV_stock_vector       = list(step2p$EV_stock_vector)
         )
       }
     }
     
-    # --- 4.7 Save row-level results for this year ---
+    # 4.7 Save year rows for add/ret summary
     results_rows[[as.character(yr)]] <- add_need %>%
       mutate(ret_EV = ret_BEV + ret_PHEV,
              Demand_total_check = add_BEV + add_PHEV + add_ICE) %>%
-      select(State, Segment, Year,
-             ret_ICE, ret_BEV, ret_PHEV, ret_EV,
-             Growth_seg,
-             add_BEV, add_PHEV, add_ICE,
-             Demand_total = Demand_total_check)
+      select(
+        State, Segment, Year,
+        ret_ICE, ret_BEV, ret_PHEV, ret_EV,
+        Growth_seg,
+        add_BEV, add_PHEV, add_ICE,
+        Demand_total = Demand_total_check
+      )
   }
   
   # -----------------------------
@@ -308,24 +341,36 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
       Growth_from_pop = sum(Growth_seg, na.rm = TRUE),
       .groups = "drop"
     ) %>%
-    mutate(ret_EV = ret_BEV + ret_PHEV,
-           Demand_total = add_BEV + add_PHEV + add_ICE)
+    mutate(
+      ret_EV = ret_BEV + ret_PHEV,
+      Demand_total = add_BEV + add_PHEV + add_ICE
+    )
   
-  write.csv(result_add_and_retire, paste0("Outputs/ClosedLoop_AddRetire_byStateSegment_", scenario_tag, ".csv"), row.names = FALSE)
-  write.csv(result_state_total,   paste0("Outputs/ClosedLoop_StateTotals_", scenario_tag, ".csv"), row.names = FALSE)
+  write.csv(
+    result_add_and_retire,
+    paste0("Outputs/ClosedLoop_AddRetire_byStateSegment_", scenario_tag, ".csv"),
+    row.names = FALSE
+  )
+  write.csv(
+    result_state_total,
+    paste0("Outputs/ClosedLoop_StateTotals_", scenario_tag, ".csv"),
+    row.names = FALSE
+  )
   
-  # NEW: bind EV/LIB per-PT rows and also provide per-State×Segment totals
+  # EV/LIB detail by PT and totals across PTs
   evlib_detail <- if (length(evlib_rows)) bind_rows(evlib_rows) else
-    tibble(State=character(), Segment=character(), Propulsion=character(),
-           Year=integer(), LIB_recycling=double(), LIB_available=double(),
-           LIB_reuse_EV=double(), EV_stock=double(),
-           LIB_recycling_vector=list(), LIB_available_vector=list(),
-           LIB_reuse_vector=list(), EV_stock_vector=list())
+    tibble(
+      State=character(), Segment=character(), Propulsion=character(),
+      Year=integer(), LIB_recycling=double(), LIB_available=double(),
+      LIB_reuse_EV=double(), EV_stock=double(),
+      LIB_recycling_vector=list(), LIB_available_vector=list(),
+      LIB_reuse_vector=list(), EV_stock_vector=list()
+    )
   
-  # optional: totals across BEV+PHEV (sum vectors elementwise)
+  # Element-wise sum helper for list-column vectors
   sum_vec <- function(a, b) {
-    if (length(a)==0) return(b)
-    if (length(b)==0) return(a)
+    if (length(a) == 0) return(b)
+    if (length(b) == 0) return(a)
     len <- max(length(a), length(b))
     a <- c(a, rep(0, len - length(a)))
     b <- c(b, rep(0, len - length(b)))
@@ -346,76 +391,78 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
       .groups = "drop"
     )
   
-  # flat versions for CSV (vectors collapsed with "|")
+  # Flatten list-columns for CSV (vectors collapsed with "|")
   flatify <- function(df) {
     df %>%
       mutate(
-        LIB_recycling_vector = sapply(LIB_recycling_vector, function(v) paste(v, collapse="|")),
-        LIB_available_vector = sapply(LIB_available_vector, function(v) paste(v, collapse="|")),
-        LIB_reuse_vector     = sapply(LIB_reuse_vector,     function(v) paste(v, collapse="|")),
-        EV_stock_vector      = sapply(EV_stock_vector,      function(v) paste(v, collapse="|"))
+        LIB_recycling_vector = sapply(LIB_recycling_vector, function(v) paste(v, collapse = "|")),
+        LIB_available_vector = sapply(LIB_available_vector, function(v) paste(v, collapse = "|")),
+        LIB_reuse_vector     = sapply(LIB_reuse_vector,     function(v) paste(v, collapse = "|")),
+        EV_stock_vector      = sapply(EV_stock_vector,      function(v) paste(v, collapse = "|"))
       )
   }
   
-  write.csv(flatify(evlib_detail),
-            paste0("Outputs/EVLIB_Flows_detail_", scenario_tag, ".csv"),
-            row.names = FALSE)
+  write.csv(
+    flatify(evlib_detail),
+    paste0("Outputs/EVLIB_Flows_detail_", scenario_tag, ".csv"),
+    row.names = FALSE
+  )
+  write.csv(
+    flatify(evlib_totals),
+    paste0("Outputs/EVLIB_Flows_totals_", scenario_tag, ".csv"),
+    row.names = FALSE
+  )
   
-  write.csv(flatify(evlib_totals),
-            paste0("Outputs/EVLIB_Flows_totals_", scenario_tag, ".csv"),
-            row.names = FALSE)
-  
-  return(invisible(list(addret = result_add_and_retire,
-                        totals = result_state_total)))
+  invisible(list(addret = result_add_and_retire, totals = result_state_total))
 }
 
 # -----------------------------
-# run both scenarios (CSV only)
+# Run both scenarios (CSV only)
 # -----------------------------
 run_one_scenario(P_R_ACCII,  "ACCII")
+
 run_one_scenario(P_R_Repeal, "Repeal")
 
 # -----------------------------
-# Optional: plot results (do not save)
+# Optional: plot results (not saved). Change scenario_tag if needed.
 # -----------------------------
-# Usage: set scenario_tag <- "ACCII" or "Repeal", then run this block.
-scenario_tag <- "ACCII"  # change to "Repeal" when needed
+scenario_tag <- "ACCII"  # or "Repeal"
 
 df <- read_csv(paste0("Outputs/ClosedLoop_StateTotals_", scenario_tag, ".csv")) %>%
   filter(Year >= 2021, Year <= 2050)
 
 df_long <- df %>%
-  select(State, Year, add_BEV, add_PHEV, add_ICE,
-         ret_BEV, ret_PHEV, ret_ICE) %>%
-  pivot_longer(cols = starts_with(c("add","ret")),
+  select(State, Year, add_BEV, add_PHEV, add_ICE, ret_BEV, ret_PHEV, ret_ICE) %>%
+  pivot_longer(cols = starts_with(c("add", "ret")),
                names_to = "Variable", values_to = "Value") %>%
-  mutate(Type = case_when(
-    str_detect(Variable, "add") ~ "Additions",
-    str_detect(Variable, "ret") ~ "Retirements"
-  ),
-  Powertrain = case_when(
-    str_detect(Variable, "BEV")  ~ "BEV",
-    str_detect(Variable, "PHEV") ~ "PHEV",
-    str_detect(Variable, "ICE")  ~ "ICE"
-  ))
+  mutate(
+    Type = case_when(
+      str_detect(Variable, "add") ~ "Additions",
+      str_detect(Variable, "ret") ~ "Retirements"
+    ),
+    Powertrain = case_when(
+      str_detect(Variable, "BEV")  ~ "BEV",
+      str_detect(Variable, "PHEV") ~ "PHEV",
+      str_detect(Variable, "ICE")  ~ "ICE"
+    )
+  )
 
-p <- ggplot(df_long, aes(x = Year, y = Value,
-                         color = Powertrain, linetype = Type)) +
+p <- ggplot(df_long, aes(x = Year, y = Value, color = Powertrain, linetype = Type)) +
   geom_line(size = 0.9, alpha = 0.9) +
   facet_wrap(~ State, scales = "free_y") +
   scale_y_continuous(labels = scales::comma) +
-  scale_color_manual(values = c("ICE"  = "#d95f02",
-                                "PHEV" = "#1b9e77",
-                                "BEV"  = "#317CB7")) +
-  labs(title = paste0("Vehicle Additions and Retirements by State (2021–2050, ", scenario_tag, ")"),
-       y = "Number of Vehicles",
-       x = "Year",
-       color = "Powertrain",
-       linetype = "Flow Type") +
+  scale_color_manual(values = c("ICE"  = "#d95f02", "PHEV" = "#1b9e77", "BEV"  = "#317CB7")) +
+  labs(
+    title = paste0("Vehicle Additions and Retirements by State (2021–2050, ", scenario_tag, ")"),
+    y = "Number of Vehicles", x = "Year",
+    color = "Powertrain", linetype = "Flow Type"
+  ) +
   theme_bw() +
-  theme(legend.position = "bottom",
-        legend.box = "vertical",
-        strip.text = element_text(size = 8),
-        plot.title = element_text(size = 14, face = "bold"))
+  theme(
+    legend.position = "bottom",
+    legend.box = "vertical",
+    strip.text = element_text(size = 8),
+    plot.title = element_text(size = 14, face = "bold")
+  )
 
 print(p)

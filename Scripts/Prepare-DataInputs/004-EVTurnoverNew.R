@@ -9,6 +9,9 @@ library(dplyr)
 library(readr)
 library(stringr)
 
+# Historical EV sales (state × segment × propulsion × year)
+EV_historical <- read_csv("~/Downloads/historical_state_pt_veh_df.csv")
+
 # -----------------------------
 # 0) Parameters
 # -----------------------------
@@ -50,42 +53,51 @@ f.getOutflows <- function(n_veh=1, EV_age, LIB_age,
   if (EV_age>=maxEV_age)  y1 <- 0
   if (LIB_age>=maxLIB_age) y2 <- 0
   
-  ret <- tibble(
+  tibble(
     both_fail=(1-y1)*(1-y2)*n_veh,
     ev_fail  =(1-y1)*y2*n_veh,
     lib_fail =y1*(1-y2)*n_veh,
     none     =y1*y2*n_veh
   )
-  return(ret)
 }
 
 # -----------------------------
-# 2) EV Engine Initialization
+# 2) EV Engine Initialization (with warmup simulation 2014–2019)
 # -----------------------------
 EV_engine_init <- function(ev_hist_slice, segment, propulsion,
                            lifetime_scen="Baseline",
                            start_year=2014, warmup_last_year=2019) {
   
+  # --- lifetime params ---
   mean_ev  <- life_param %>% filter(scen_lifetime==lifetime_scen, Vehicle==segment) %>% pull(mean_ev)
   sd_ev    <- life_param %>% filter(scen_lifetime==lifetime_scen, Vehicle==segment) %>% pull(sd_ev)
   mean_lib <- life_param %>% filter(scen_lifetime==lifetime_scen, Vehicle==segment) %>% pull(mean_lib)
   sd_lib   <- life_param %>% filter(scen_lifetime==lifetime_scen, Vehicle==segment) %>% pull(sd_lib)
   
+  # --- initialize empty stock matrix ---
   mat <- matrix(0, nrow=31, ncol=31,
                 dimnames=list(paste0("EV_",0:30), paste0("LIB_",0:30)))
   
+  engine <- list(matrix=mat,
+                 mean_ev=mean_ev, sd_ev=sd_ev,
+                 mean_lib=mean_lib, sd_lib=sd_lib,
+                 scen=lifetime_scen,
+                 segment=segment,
+                 propulsion=propulsion)
+  
+  # --- warmup loop: step through 2014–2019 ---
   for (y in start_year:warmup_last_year) {
     sales_y <- ev_hist_slice %>% filter(`Sale Year`==y) %>% pull(Sales)
     if (length(sales_y)==0) sales_y <- 0
-    mat[1,1] <- mat[1,1] + sales_y
+    step <- EV_engine_step(engine, sales_y=sales_y,
+                           ev_age_newLib=ev_age_newLib,
+                           max_reuse_lib=max_reuse_lib,
+                           max_ev_age=max_ev_age,
+                           max_lib_age_ev=max_lib_age_ev)
+    engine <- step$engine
   }
   
-  list(matrix=mat,
-       mean_ev=mean_ev, sd_ev=sd_ev,
-       mean_lib=mean_lib, sd_lib=sd_lib,
-       scen=lifetime_scen,
-       segment=segment,
-       propulsion=propulsion)
+  return(engine)
 }
 
 # -----------------------------
@@ -196,3 +208,4 @@ EV_engine_step <- function(engine, sales_y=0,
               EV_stock_vector=round(rowSums(new_matrix)[-1],0),
               EV_stock=round(sum(new_matrix),0)))
 }
+
