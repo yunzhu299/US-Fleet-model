@@ -148,7 +148,6 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     if (exists(key, envir = ev_engines, inherits = FALSE)) {
       return(get(key, envir = ev_engines, inherits = FALSE))
     }
-    # slice 2014–2019 historical sales
     slice <- EV_historical %>%
       filter(State == state,
              `Global Segment` == segment,
@@ -158,7 +157,6 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     if (nrow(slice) == 0)
       slice <- tibble(`Sale Year` = 2014:2019, Sales = 0)
     
-    # IMPORTANT: EV_engine_init() from 04 already performs the warm-up inside.
     eng <- EV_engine_init(
       slice, segment = segment, propulsion = propulsion,
       lifetime_scen = "Baseline",
@@ -175,7 +173,6 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
   for (st in states_ev) {
     for (seg in segments_ev) {
       for (pp in props_ev) {
-        # Ensure an engine exists; do NOT add extra warm-up here
         get_or_create_engine(st, seg, pp)
       }
     }
@@ -183,10 +180,6 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
   
   # -----------------------------
   # 5) Yearly loop (2020 → 2050). No 2020+ real sales are read.
-  #    - Compute retirements (ICE & EV) and population-driven growth
-  #    - Total demand = retirements + growth
-  #    - Split demand by PR into add_ICE / add_BEV / add_PHEV
-  #    - Feed ICE to age-0; feed EV/PHEV into engines (write-back)
   # -----------------------------
   results_rows <- list()
   evlib_rows <- list()   # Detailed EV/LIB flows per PT
@@ -194,7 +187,7 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
   for (yr in years) {
     
     # --- 5.1 ICE retirements & advance ages (no additions here)
-    ice_retire_df <- map_dfr(seq_len(nrow(ice_keys)), function(i) {
+    ice_retire_df <- purrr::map_dfr(seq_len(nrow(ice_keys)), function(i) {
       k <- ice_keys[i, ]; key <- paste(k$State, k$Segment, sep = " | ")
       N <- ice_env[[key]]
       
@@ -213,12 +206,12 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
              ret_ICE = sum(retire_by_age, na.rm = TRUE))
     })
     
-    # --- 5.2 EV retirements (READ-ONLY): use a temp copy to avoid double-aging
+    # --- 5.2 EV retirements (READ-ONLY)
     ev_retire_rows <- list()
     for (nm in ls(envir = ev_engines)) {
       eng <- get(nm, envir = ev_engines, inherits = FALSE)
-      eng_tmp <- eng  # shallow copy is enough (we only read one step)
-      step1 <- EV_engine_step(eng_tmp, sales_y = 0)  # simulate retirements only
+      eng_tmp <- eng
+      step1 <- EV_engine_step(eng_tmp, sales_y = 0)
       parts <- str_split(nm, " \\| ", simplify = TRUE)
       ev_retire_rows[[nm]] <- tibble(
         State = parts[1], Segment = parts[2], Propulsion = parts[3],
@@ -240,7 +233,7 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     # --- 5.3 Population growth for this year (Car/SUV)
     grow_now <- growth_seg_base %>% filter(Year == yr)
     
-    # --- 5.4 Total demand per State×Segment and split to PT via PR
+    # --- 5.4 Demand split via PR
     add_need <- ice_retire_df %>%
       left_join(ev_retire_seg, by = c("State","Segment","Year")) %>%
       left_join(grow_now,     by = c("State","Segment","Year")) %>%
@@ -284,14 +277,16 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
         
         evlib_rows[[length(evlib_rows) + 1]] <- tibble(
           State = st, Segment = seg, Propulsion = "BEV", Year = yr,
-          LIB_recycling         = as_scalar_num(step2b$LIB_recycling, 0),
-          LIB_available         = as_scalar_num(step2b$LIB_available, 0),
-          LIB_reuse_EV          = as_scalar_num(step2b$LIB_reuse_EV, 0),
-          EV_stock              = as_scalar_num(step2b$EV_stock, 0),
-          LIB_recycling_vector  = list(step2b$LIB_recycling_vector),
-          LIB_available_vector  = list(step2b$LIB_available_vector),
-          LIB_reuse_vector      = list(step2b$LIB_reuse_vector),
-          EV_stock_vector       = list(step2b$EV_stock_vector)
+          LIB_recycling         = as.integer(step2b$LIB_recycling),
+          LIB_available         = as.integer(step2b$LIB_available),   # PRE-REUSE
+          LIB_reuse_EV          = as.integer(step2b$LIB_reuse_EV),
+          LIB_new_add           = as.integer(step2b$LIB_new_add),
+          EV_stock              = as.integer(step2b$EV_stock),
+          LIB_recycling_vector  = list(as.integer(step2b$LIB_recycling_vector)),
+          LIB_available_vector  = list(as.integer(step2b$LIB_available_vector)),
+          LIB_reuse_vector      = list(as.integer(step2b$LIB_reuse_vector)),
+          LIB_newadd_vector     = list(as.integer(step2b$LIB_newadd_vector)),
+          EV_stock_vector       = list(as.integer(step2b$EV_stock_vector))
         )
         
         # PHEV
@@ -301,14 +296,16 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
         
         evlib_rows[[length(evlib_rows) + 1]] <- tibble(
           State = st, Segment = seg, Propulsion = "PHEV", Year = yr,
-          LIB_recycling         = as_scalar_num(step2p$LIB_recycling, 0),
-          LIB_available         = as_scalar_num(step2p$LIB_available, 0),
-          LIB_reuse_EV          = as_scalar_num(step2p$LIB_reuse_EV, 0),
-          EV_stock              = as_scalar_num(step2p$EV_stock, 0),
-          LIB_recycling_vector  = list(step2p$LIB_recycling_vector),
-          LIB_available_vector  = list(step2p$LIB_available_vector),
-          LIB_reuse_vector      = list(step2p$LIB_reuse_vector),
-          EV_stock_vector       = list(step2p$EV_stock_vector)
+          LIB_recycling         = as.integer(step2p$LIB_recycling),
+          LIB_available         = as.integer(step2p$LIB_available),   # PRE-REUSE
+          LIB_reuse_EV          = as.integer(step2p$LIB_reuse_EV),
+          LIB_new_add           = as.integer(step2p$LIB_new_add),
+          EV_stock              = as.integer(step2p$EV_stock),
+          LIB_recycling_vector  = list(as.integer(step2p$LIB_recycling_vector)),
+          LIB_available_vector  = list(as.integer(step2p$LIB_available_vector)),
+          LIB_reuse_vector      = list(as.integer(step2p$LIB_reuse_vector)),
+          LIB_newadd_vector     = list(as.integer(step2p$LIB_newadd_vector)),
+          EV_stock_vector       = list(as.integer(step2p$EV_stock_vector))
         )
       }
     }
@@ -365,31 +362,33 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     tibble(
       State=character(), Segment=character(), Propulsion=character(),
       Year=integer(), LIB_recycling=double(), LIB_available=double(),
-      LIB_reuse_EV=double(), EV_stock=double(),
+      LIB_reuse_EV=double(), LIB_new_add=double(), EV_stock=double(),
       LIB_recycling_vector=list(), LIB_available_vector=list(),
-      LIB_reuse_vector=list(), EV_stock_vector=list()
+      LIB_reuse_vector=list(), LIB_newadd_vector=list(), EV_stock_vector=list()
     )
   
-  # Helper to element-wise sum list-column vectors
+  # Helper to element-wise sum list-column vectors (integer-safe)
   sum_vec <- function(a, b) {
-    if (length(a) == 0) return(b)
-    if (length(b) == 0) return(a)
+    a <- as.integer(a); b <- as.integer(b)
     len <- max(length(a), length(b))
-    a <- c(a, rep(0, len - length(a)))
-    b <- c(b, rep(0, len - length(b)))
+    if (len == 0) return(integer())
+    a <- c(a, rep(0L, len - length(a)))
+    b <- c(b, rep(0L, len - length(b)))
     a + b
   }
   
   evlib_totals <- evlib_detail %>%
     group_by(State, Segment, Year) %>%
     summarise(
-      LIB_recycling = sum(LIB_recycling, na.rm = TRUE),
-      LIB_available = sum(LIB_available, na.rm = TRUE),
-      LIB_reuse_EV  = sum(LIB_reuse_EV,  na.rm = TRUE),
-      EV_stock      = sum(EV_stock,      na.rm = TRUE),
+      LIB_recycling = sum(as.integer(LIB_recycling), na.rm = TRUE),
+      LIB_available = sum(as.integer(LIB_available), na.rm = TRUE),  # PRE-REUSE
+      LIB_reuse_EV  = sum(as.integer(LIB_reuse_EV),  na.rm = TRUE),
+      LIB_new_add   = sum(as.integer(LIB_new_add),   na.rm = TRUE),
+      EV_stock      = sum(as.integer(EV_stock),      na.rm = TRUE),
       LIB_recycling_vector = list(reduce(LIB_recycling_vector, sum_vec)),
       LIB_available_vector = list(reduce(LIB_available_vector, sum_vec)),
       LIB_reuse_vector     = list(reduce(LIB_reuse_vector,     sum_vec)),
+      LIB_newadd_vector    = list(reduce(LIB_newadd_vector,    sum_vec)),
       EV_stock_vector      = list(reduce(EV_stock_vector,      sum_vec)),
       .groups = "drop"
     )
@@ -401,6 +400,7 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
         LIB_recycling_vector = sapply(LIB_recycling_vector, function(v) paste(v, collapse = "|")),
         LIB_available_vector = sapply(LIB_available_vector, function(v) paste(v, collapse = "|")),
         LIB_reuse_vector     = sapply(LIB_reuse_vector,     function(v) paste(v, collapse = "|")),
+        LIB_newadd_vector    = sapply(LIB_newadd_vector,    function(v) paste(v, collapse = "|")),
         EV_stock_vector      = sapply(EV_stock_vector,      function(v) paste(v, collapse = "|"))
       )
   }

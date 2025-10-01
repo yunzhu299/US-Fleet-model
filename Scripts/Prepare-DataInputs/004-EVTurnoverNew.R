@@ -13,8 +13,8 @@ EV_historical <- read_csv("~/Downloads/historical_state_pt_veh_df.csv")
 # -----------------------------
 # 0) Parameters
 # -----------------------------
-ev_age_newLib  <- 8    # new LIB needed if no reuse after this EV age
-max_reuse_lib  <- 0.5  # fraction of LIBs that can be reused
+ev_age_newLib  <- 8    # reuse is allowed starting at EV age >= 8
+max_reuse_lib  <- 0.5  # fraction of good LIBs allowed to be reused
 max_ev_age     <- 20
 max_lib_age_ev <- 12
 
@@ -29,7 +29,7 @@ life_param <- tibble(
 
 # -----------------------------
 # 1) Outflow probability helper
-#    Returns fractions that: both fail / EV fails / LIB fails / none
+#    Returns fractions: both fail / EV fails / LIB fails / none
 # -----------------------------
 f.getOutflows <- function(n_veh=1, EV_age, LIB_age,
                           maxEV_age=30, maxLIB_age=30,
@@ -52,15 +52,15 @@ f.getOutflows <- function(n_veh=1, EV_age, LIB_age,
   
   tibble(
     both_fail = (1-y1)*(1-y2)*n_veh,
-    ev_fail   = (1-y1)*y2*n_veh,
-    lib_fail  = y1*(1-y2)*n_veh,
+    ev_fail   = (1-y1)*y2*n_veh,  # EV fails, LIB ok (good LIB becomes available)
+    lib_fail  = y1*(1-y2)*n_veh,  # LIB fails, EV ok (EV needs a replacement LIB)
     none      = y1*y2*n_veh
   )
 }
 
 # -----------------------------
 # 2) One simulation step (advance stock 1y, handle LIB reuse/recycling)
-#    - Writes a NEW stock matrix based on last year's matrix + new sales
+#    - Updates the cohort matrix
 #    - Returns flows + updated engine
 # -----------------------------
 EV_engine_step <- function(engine, sales_y = 0,
@@ -76,110 +76,117 @@ EV_engine_step <- function(engine, sales_y = 0,
   matrix_lib  <- new_matrix
   matrix_both <- new_matrix
   
-  # propagate all cohorts through survival
+  # propagate survival of all cohorts
   for (i in 1:31) {       # EV age index (1 ≡ age 0)
     for (j in 1:31) {     # LIB age index (1 ≡ age 0)
-      if (mat[i,j] != 0) {
-        res <- f.getOutflows(mat[i,j], i-1, j-1,
-                             maxEV_age=30, maxLIB_age=30,
-                             dist.Age="Logistic",
-                             mean_ev=engine$mean_ev,  sd_ev=engine$sd_ev,
-                             mean_lib=engine$mean_lib, sd_lib=engine$sd_lib)
-        if (i!=31 & j!=31) {
-          new_matrix[i+1,j+1] <- new_matrix[i+1,j+1] + res$none
-          matrix_ev[i+1,j+1]  <- matrix_ev[i+1,j+1]  + res$lib_fail
-          matrix_lib[i+1,j+1] <- matrix_lib[i+1,j+1] + res$ev_fail
-          matrix_both[i+1,j+1]<- matrix_both[i+1,j+1]+ res$both_fail
-        } else if (j==31 & i!=31) {
-          matrix_ev[i+1,j] <- matrix_ev[i+1,j] + res$lib_fail
-        } else if (i==31 & j!=31) {
-          matrix_lib[i,j+1] <- matrix_lib[i,j+1] + res$ev_fail
+      n <- mat[i,j]; if (n==0) next
+      res <- f.getOutflows(n, i-1, j-1,
+                           maxEV_age=30, maxLIB_age=30,
+                           dist.Age="Logistic",
+                           mean_ev=engine$mean_ev,  sd_ev=engine$sd_ev,
+                           mean_lib=engine$mean_lib, sd_lib=engine$sd_lib)
+      if (i!=31 & j!=31) {
+        new_matrix[i+1,j+1] <- new_matrix[i+1,j+1] + res$none
+        matrix_ev[i+1,j+1]  <- matrix_ev[i+1,j+1]  + res$lib_fail
+        matrix_lib[i+1,j+1] <- matrix_lib[i+1,j+1] + res$ev_fail
+        matrix_both[i+1,j+1]<- matrix_both[i+1,j+1]+ res$both_fail
+      } else if (j==31 & i!=31) {
+        matrix_ev[i+1,j] <- matrix_ev[i+1,j] + res$lib_fail
+      } else if (i==31 & j!=31) {
+        matrix_lib[i,j+1] <- matrix_lib[i,j+1] + res$ev_fail
+      }
+    }
+  }
+  
+  # integer vectors
+  ev_need_vec_raw   <- as.integer(round(rowSums(matrix_ev)))
+  ev_retired_vec    <- as.integer(round(rowSums(matrix_lib) + rowSums(matrix_both)))
+  ev_need_vec_raw[(max_ev_age+1):31] <- 0L
+  
+  lib_failed_vec      <- as.integer(round(colSums(matrix_ev)[-1]))   # ages 1..30
+  lib_failed_both_vec <- as.integer(round(colSums(matrix_both)[-1])) # ages 1..30
+  lib_recycling_vec   <- lib_failed_vec + lib_failed_both_vec        # ages 1..30
+  
+  # good LIBs by LIB age (before reuse split) — ages 0..30
+  good_libs <- as.integer(round(colSums(matrix_lib)))
+  
+  # split into allowed-to-reuse and base reserved (PRE-REUSE; available should include reused)
+  allowed_for_reuse <- good_libs
+  if (max_lib_age_ev < 30) allowed_for_reuse[(max_lib_age_ev+1):31] <- 0L
+  allowed_for_reuse <- as.integer(round(allowed_for_reuse * max_reuse_lib))  # ages 0..30
+  base_reserved     <- as.integer(round(good_libs - allowed_for_reuse))      # ages 0..30
+  
+  # PRE-REUSE available (requested): include the portion that may be reused this year
+  LIB_available_vector <- base_reserved + allowed_for_reuse                # ages 0..30
+  LIB_available        <- sum(LIB_available_vector)
+  
+  # offset: LIB age a → EV age a + ev_age_newLib
+  ev_need_ext   <- c(ev_need_vec_raw, rep(0L, ev_age_newLib))
+  reuse_cap_ext <- c(rep(0L, ev_age_newLib), allowed_for_reuse)
+  allocation    <- pmin(ev_need_ext, reuse_cap_ext)
+  
+  reuse_offset_vec <- allocation[-(1:ev_age_newLib)]
+  if (length(reuse_offset_vec) < 30)
+    reuse_offset_vec <- c(reuse_offset_vec, rep(0L, 30-length(reuse_offset_vec)))
+  
+  ev_need_ext    <- ev_need_ext   - allocation
+  reuse_cap_ext  <- reuse_cap_ext - allocation
+  ev_need_vec    <- ev_need_ext[1:31]
+  allowed_for_reuse <- reuse_cap_ext[-(1:ev_age_newLib)]  # remaining allowed after offset
+  
+  # cross-age reuse (youngest LIB first), allow when EV age >= ev_age_newLib
+  reuse_loop_by_LIBage <- integer(31)
+  for (i in 31:1) {
+    if (i >= (ev_age_newLib+1)) {  # i index is age+1, so >= maps to EV age >= ev_age_newLib
+      for (j in 1:31) {
+        if (ev_need_vec[i] <= 0L) break
+        take <- min(ev_need_vec[i], allowed_for_reuse[j])
+        if (take > 0L) {
+          ev_need_vec[i]           <- ev_need_vec[i] - take
+          allowed_for_reuse[j]     <- allowed_for_reuse[j] - take
+          new_matrix[i, j]         <- new_matrix[i, j] + take
+          reuse_loop_by_LIBage[j]  <- reuse_loop_by_LIBage[j] + take
         }
       }
     }
   }
   
-  # outflows & reuse
-  ev_need         <- rowSums(matrix_ev)
-  ev_retired      <- rowSums(matrix_lib) + rowSums(matrix_both)
-  ev_retired_total<- sum(ev_retired)
+  # reuse vectors (LIB ages 1..30)
+  LIB_reuse_vector <- as.integer(reuse_offset_vec + reuse_loop_by_LIBage[-1])  # 1..30
+  LIB_reuse_EV     <- sum(LIB_reuse_vector)
   
-  ev_need[(max_ev_age+1):31] <- 0
+  # new LIBs for replacement only (NO new-car batteries)
+  LIB_newadd_vector <- as.integer(ev_need_vec)   # EV ages 0..30
+  LIB_new_add       <- sum(LIB_newadd_vector)
   
-  lib_failed        <- colSums(matrix_ev)[-1]   # LIB fails (EV survives)
-  lib_available     <- colSums(matrix_lib)      # EV fails (LIB ok)
-  lib_failed_both   <- colSums(matrix_both)[-1] # EV+LIB fail together
-  lib_recycling_vec <- lib_failed + lib_failed_both
+  # update stock: add replacement LIBs to LIB_0; add new-car sales to (0,0)
+  new_matrix[,1] <- new_matrix[,1] + LIB_newadd_vector
+  new_matrix[1,1] <- new_matrix[1,1] + as.integer(round(sales_y))
   
-  # reuse: limit LIB age eligible for EV
-  lib_to_EV <- lib_available * max_reuse_lib
-  lib_to_EV[(max_lib_age_ev+1):31] <- 0
-  lib_available <- lib_available - lib_to_EV
-  
-  # align reuse with EV need with offset (new LIB needed at ev_age_newLib)
-  ev_need    <- c(ev_need, rep(0, ev_age_newLib))
-  lib_to_EV  <- c(rep(0, ev_age_newLib), lib_to_EV)
-  allocation <- pmin(ev_need, lib_to_EV)
-  
-  reuse_offset_vec <- allocation[-(1:ev_age_newLib)]
-  if (length(reuse_offset_vec) < 30)
-    reuse_offset_vec <- c(reuse_offset_vec, rep(0, 30-length(reuse_offset_vec)))
-  
-  ev_need   <- ev_need - allocation
-  lib_to_EV <- lib_to_EV - allocation
-  ev_need   <- ev_need[1:31]
-  lib_to_EV <- lib_to_EV[-(1:ev_age_newLib)]
-  
-  lib_to_EV_before <- lib_to_EV
-  start_bat <- 1
-  for (i in 31:1) {
-    if (i > ev_age_newLib) {
-      for (j in start_bat:31) {
-        allocated   <- min(ev_need[i], lib_to_EV[j])
-        ev_need[i]  <- ev_need[i] - allocated
-        lib_to_EV[j]<- lib_to_EV[j] - allocated
-        new_matrix[i,j] <- new_matrix[i,j] + allocated
-        start_bat <- j
-        if (ev_need[i] == 0) break
-      }
-    }
-  }
-  
-  lib_to_EV_after <- lib_to_EV
-  reuse_loop_vec  <- (lib_to_EV_before - lib_to_EV_after)[-1]
-  if (length(reuse_loop_vec) < 30)
-    reuse_loop_vec <- c(reuse_loop_vec, rep(0, 30-length(reuse_loop_vec)))
-  
-  reuse_vec   <- reuse_offset_vec + reuse_loop_vec
-  reuse_total <- sum(reuse_vec)
-  
-  # add remaining: new LIBs for unmet EV need + new sales at (0,0)
-  lib_available  <- lib_available + lib_to_EV
-  new_matrix[,1] <- new_matrix[,1] + ev_need
-  new_matrix[1,1]<- new_matrix[1,1] + sales_y
+  EV_stock_vector <- as.integer(round(rowSums(new_matrix)))
+  EV_stock        <- sum(EV_stock_vector)
   
   engine$matrix <- new_matrix
   
-  return(list(
-    engine                  = engine,
-    EV_retired              = ev_retired_total,
-    LIB_recycling_vector    = round(lib_recycling_vec,0),
-    LIB_recycling           = sum(lib_recycling_vec),
-    LIB_failed_only_vector  = round(lib_failed,0),
-    LIB_bothfail_vector     = round(lib_failed_both,0),
-    LIB_available_vector    = round(lib_available,0),
-    LIB_available           = sum(lib_available),
-    LIB_reuse_vector        = round(reuse_vec,0),
-    LIB_reuse_EV            = round(reuse_total,0),
-    EV_stock_vector         = round(rowSums(new_matrix),0),  # include age 0
-    EV_stock_age0           = round(sum(new_matrix[1,]),0),  # explicit age 0
-    EV_stock                = round(sum(new_matrix),0)
-  ))
+  list(
+    engine = engine,
+    EV_retired = sum(ev_retired_vec),
+    LIB_recycling = sum(lib_recycling_vec),
+    LIB_available = LIB_available,                     # PRE-REUSE
+    LIB_reuse_EV  = LIB_reuse_EV,
+    LIB_new_add   = LIB_new_add,
+    EV_stock      = EV_stock,
+    LIB_recycling_vector = lib_recycling_vec,          # ages 1..30
+    LIB_available_vector = LIB_available_vector,       # ages 0..30 (PRE-REUSE, includes reused)
+    LIB_reuse_vector     = LIB_reuse_vector,           # ages 1..30
+    LIB_newadd_vector    = LIB_newadd_vector,          # EV ages 0..30
+    EV_stock_vector      = EV_stock_vector             # EV ages 0..30
+  )
 }
 
 # -----------------------------
 # 3) Engine initialization with REAL warm-up (2014–2019)
-#    - Feeds each year's actual sales through EV_engine_step once
+#    - Feeds each year's actual sales through EV_engine_step
 # -----------------------------
 EV_engine_init <- function(ev_hist_slice, segment, propulsion,
                            lifetime_scen="Baseline",
@@ -200,7 +207,6 @@ EV_engine_init <- function(ev_hist_slice, segment, propulsion,
                  segment=segment,
                  propulsion=propulsion)
   
-  # REAL warm-up, year by year (no aggregation)
   for (y in start_year:warmup_last_year) {
     sales_y <- ev_hist_slice %>% filter(`Sale Year`==y) %>% pull(Sales)
     if (length(sales_y)==0) sales_y <- 0
@@ -214,6 +220,3 @@ EV_engine_init <- function(ev_hist_slice, segment, propulsion,
   
   engine
 }
-
-
-
