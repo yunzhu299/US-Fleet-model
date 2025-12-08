@@ -45,10 +45,9 @@ veh_cat <- usa_sales_filtered %>%
 
 # 4. State-level EV registration shares -----
 regs_zev <- regs %>%
-  select(State, `Electric (EV)`, `Plug-In Hybrid Electric (PHEV)`, Hydrogen, Year) %>%
+  select(State, `Electric (EV)`, `Plug-In Hybrid Electric (PHEV)`, Year) %>%
   rename(BEV = `Electric (EV)`,
          PHEV = `Plug-In Hybrid Electric (PHEV)`,
-         FCEV = Hydrogen,
          `Reg Year` = Year) %>%
   filter(State != "United States")
 

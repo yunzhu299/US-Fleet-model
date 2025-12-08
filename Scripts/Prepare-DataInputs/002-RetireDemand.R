@@ -160,7 +160,7 @@ simulate_retire_turnover_by_type <- function(stock_0_49_Type,
 retire_state_year_Type <- simulate_retire_turnover_by_type(
   stock_turnover_0_49_Type,
   surv_tbl_by_type,
-  years = 2020:2035,
+  years = 2020:2050,
   vintage_init_Type = vintage_init_by_state_Type
 )
 

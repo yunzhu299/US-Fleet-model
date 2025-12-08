@@ -5,7 +5,7 @@
 # Library -----
 list_libraries <- c("tidyverse", "tidyverse","readr","readxl",
                     "ggplot2","data.table","dplyr","gridExtra",
-                    "glmnet","openxlsx","reshape2",
+                    "glmnet","openxlsx","reshape2","purrr","tidyr"
                     "scales",
                     # "plotly", # sankey
                     "RColorBrewer",

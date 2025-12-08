@@ -21,7 +21,7 @@ library(readxl)
 # -----------------------------
 # 0) Global settings
 # -----------------------------
-years <- 2020:2030  # change to 2030 for quick tests if needed
+years <- 2020:2050  # change to 2030 for quick tests if needed
 
 as_scalar_num <- function(x, default = 0) {
   if (is.null(x) || length(x) == 0) return(default)

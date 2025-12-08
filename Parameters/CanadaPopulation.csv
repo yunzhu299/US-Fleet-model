@@ -1,0 +1,365 @@
+"Year","Province","Population"
+2025,"Alberta",4951200
+2026,"Alberta",4996200
+2027,"Alberta",5056200
+2028,"Alberta",5132700
+2029,"Alberta",5207700
+2030,"Alberta",5286200
+2031,"Alberta",5363600
+2032,"Alberta",5440000
+2033,"Alberta",5515400
+2034,"Alberta",5589500
+2035,"Alberta",5663800
+2036,"Alberta",5738600
+2037,"Alberta",5814000
+2038,"Alberta",5890000
+2039,"Alberta",5966700
+2040,"Alberta",6044100
+2041,"Alberta",6122300
+2042,"Alberta",6201300
+2043,"Alberta",6281000
+2044,"Alberta",6361400
+2045,"Alberta",6442500
+2046,"Alberta",6524100
+2047,"Alberta",6606100
+2048,"Alberta",6688500
+2049,"Alberta",6771200
+2050,"Alberta",6853900
+2025,"British Columbia",5711000
+2026,"British Columbia",5686200
+2027,"British Columbia",5696700
+2028,"British Columbia",5748800
+2029,"British Columbia",5801400
+2030,"British Columbia",5851800
+2031,"British Columbia",5902900
+2032,"British Columbia",5954800
+2033,"British Columbia",6007600
+2034,"British Columbia",6061200
+2035,"British Columbia",6114400
+2036,"British Columbia",6167500
+2037,"British Columbia",6220500
+2038,"British Columbia",6273600
+2039,"British Columbia",6326900
+2040,"British Columbia",6380600
+2041,"British Columbia",6434700
+2042,"British Columbia",6489500
+2043,"British Columbia",6544800
+2044,"British Columbia",6600900
+2045,"British Columbia",6657600
+2046,"British Columbia",6715100
+2047,"British Columbia",6773200
+2048,"British Columbia",6831900
+2049,"British Columbia",6891300
+2050,"British Columbia",6950700
+2025,"Geography 2",2025000
+2026,"Geography 2",2026000
+2027,"Geography 2",2027000
+2028,"Geography 2",2028000
+2029,"Geography 2",2029000
+2030,"Geography 2",2030000
+2031,"Geography 2",2031000
+2032,"Geography 2",2032000
+2033,"Geography 2",2033000
+2034,"Geography 2",2034000
+2035,"Geography 2",2035000
+2036,"Geography 2",2036000
+2037,"Geography 2",2037000
+2038,"Geography 2",2038000
+2039,"Geography 2",2039000
+2040,"Geography 2",2040000
+2041,"Geography 2",2041000
+2042,"Geography 2",2042000
+2043,"Geography 2",2043000
+2044,"Geography 2",2044000
+2045,"Geography 2",2045000
+2046,"Geography 2",2046000
+2047,"Geography 2",2047000
+2048,"Geography 2",2048000
+2049,"Geography 2",2049000
+2050,"Geography 2",2050000
+2025,"Manitoba",1498400
+2026,"Manitoba",1496100
+2027,"Manitoba",1499300
+2028,"Manitoba",1509000
+2029,"Manitoba",1518700
+2030,"Manitoba",1528800
+2031,"Manitoba",1539100
+2032,"Manitoba",1549600
+2033,"Manitoba",1560500
+2034,"Manitoba",1571500
+2035,"Manitoba",1582700
+2036,"Manitoba",1594000
+2037,"Manitoba",1605400
+2038,"Manitoba",1617000
+2039,"Manitoba",1628600
+2040,"Manitoba",1640500
+2041,"Manitoba",1652500
+2042,"Manitoba",1664700
+2043,"Manitoba",1677100
+2044,"Manitoba",1689700
+2045,"Manitoba",1702400
+2046,"Manitoba",1715300
+2047,"Manitoba",1728300
+2048,"Manitoba",1741500
+2049,"Manitoba",1754800
+2050,"Manitoba",1768100
+2025,"New Brunswick",861700
+2026,"New Brunswick",865800
+2027,"New Brunswick",871700
+2028,"New Brunswick",879700
+2029,"New Brunswick",887000
+2030,"New Brunswick",893800
+2031,"New Brunswick",899900
+2032,"New Brunswick",905400
+2033,"New Brunswick",910300
+2034,"New Brunswick",914500
+2035,"New Brunswick",918600
+2036,"New Brunswick",922700
+2037,"New Brunswick",926700
+2038,"New Brunswick",930700
+2039,"New Brunswick",934800
+2040,"New Brunswick",938900
+2041,"New Brunswick",943000
+2042,"New Brunswick",947200
+2043,"New Brunswick",951500
+2044,"New Brunswick",955800
+2045,"New Brunswick",960200
+2046,"New Brunswick",964700
+2047,"New Brunswick",969300
+2048,"New Brunswick",973900
+2049,"New Brunswick",978500
+2050,"New Brunswick",983100
+2025,"Newfoundland and Labrador",544500
+2026,"Newfoundland and Labrador",542100
+2027,"Newfoundland and Labrador",540600
+2028,"Newfoundland and Labrador",540200
+2029,"Newfoundland and Labrador",539500
+2030,"Newfoundland and Labrador",538500
+2031,"Newfoundland and Labrador",537300
+2032,"Newfoundland and Labrador",535800
+2033,"Newfoundland and Labrador",534100
+2034,"Newfoundland and Labrador",532200
+2035,"Newfoundland and Labrador",530200
+2036,"Newfoundland and Labrador",528100
+2037,"Newfoundland and Labrador",526000
+2038,"Newfoundland and Labrador",523800
+2039,"Newfoundland and Labrador",521700
+2040,"Newfoundland and Labrador",519500
+2041,"Newfoundland and Labrador",517200
+2042,"Newfoundland and Labrador",515000
+2043,"Newfoundland and Labrador",512800
+2044,"Newfoundland and Labrador",510600
+2045,"Newfoundland and Labrador",508400
+2046,"Newfoundland and Labrador",506200
+2047,"Newfoundland and Labrador",504000
+2048,"Newfoundland and Labrador",501800
+2049,"Newfoundland and Labrador",499700
+2050,"Newfoundland and Labrador",497600
+2025,"Northwest Territories",44600
+2026,"Northwest Territories",44400
+2027,"Northwest Territories",44300
+2028,"Northwest Territories",44200
+2029,"Northwest Territories",44200
+2030,"Northwest Territories",44200
+2031,"Northwest Territories",44200
+2032,"Northwest Territories",44300
+2033,"Northwest Territories",44300
+2034,"Northwest Territories",44400
+2035,"Northwest Territories",44500
+2036,"Northwest Territories",44500
+2037,"Northwest Territories",44600
+2038,"Northwest Territories",44700
+2039,"Northwest Territories",44700
+2040,"Northwest Territories",44800
+2041,"Northwest Territories",44900
+2042,"Northwest Territories",45000
+2043,"Northwest Territories",45000
+2044,"Northwest Territories",45100
+2045,"Northwest Territories",45200
+2046,"Northwest Territories",45300
+2047,"Northwest Territories",45300
+2048,"Northwest Territories",45400
+2049,"Northwest Territories",45400
+2050,"Northwest Territories",45400
+2025,"Nova Scotia",1085100
+2026,"Nova Scotia",1089000
+2027,"Nova Scotia",1095900
+2028,"Nova Scotia",1106400
+2029,"Nova Scotia",1116300
+2030,"Nova Scotia",1124700
+2031,"Nova Scotia",1132400
+2032,"Nova Scotia",1139400
+2033,"Nova Scotia",1145500
+2034,"Nova Scotia",1150800
+2035,"Nova Scotia",1156000
+2036,"Nova Scotia",1161100
+2037,"Nova Scotia",1166100
+2038,"Nova Scotia",1171100
+2039,"Nova Scotia",1176100
+2040,"Nova Scotia",1181100
+2041,"Nova Scotia",1186200
+2042,"Nova Scotia",1191300
+2043,"Nova Scotia",1196500
+2044,"Nova Scotia",1201900
+2045,"Nova Scotia",1207300
+2046,"Nova Scotia",1212800
+2047,"Nova Scotia",1218400
+2048,"Nova Scotia",1224100
+2049,"Nova Scotia",1229900
+2050,"Nova Scotia",1235700
+2025,"Nunavut",41500
+2026,"Nunavut",41700
+2027,"Nunavut",42000
+2028,"Nunavut",42300
+2029,"Nunavut",42700
+2030,"Nunavut",43000
+2031,"Nunavut",43300
+2032,"Nunavut",43700
+2033,"Nunavut",44000
+2034,"Nunavut",44400
+2035,"Nunavut",44700
+2036,"Nunavut",45100
+2037,"Nunavut",45500
+2038,"Nunavut",45900
+2039,"Nunavut",46300
+2040,"Nunavut",46700
+2041,"Nunavut",47100
+2042,"Nunavut",47500
+2043,"Nunavut",47900
+2044,"Nunavut",48200
+2045,"Nunavut",48600
+2046,"Nunavut",49000
+2047,"Nunavut",49400
+2048,"Nunavut",49700
+2049,"Nunavut",50100
+2050,"Nunavut",50500
+2025,"Ontario",16156300
+2026,"Ontario",16089800
+2027,"Ontario",16113700
+2028,"Ontario",16243900
+2029,"Ontario",16375200
+2030,"Ontario",16506900
+2031,"Ontario",16640800
+2032,"Ontario",16777300
+2033,"Ontario",16916600
+2034,"Ontario",17058800
+2035,"Ontario",17200900
+2036,"Ontario",17343200
+2037,"Ontario",17486100
+2038,"Ontario",17629900
+2039,"Ontario",17774900
+2040,"Ontario",17921300
+2041,"Ontario",18069400
+2042,"Ontario",18219200
+2043,"Ontario",18370900
+2044,"Ontario",18524300
+2045,"Ontario",18679500
+2046,"Ontario",18836400
+2047,"Ontario",18994900
+2048,"Ontario",19154500
+2049,"Ontario",19315100
+2050,"Ontario",19475700
+2025,"Prince Edward Island",180900
+2026,"Prince Edward Island",182200
+2027,"Prince Edward Island",184100
+2028,"Prince Edward Island",186900
+2029,"Prince Edward Island",189600
+2030,"Prince Edward Island",191800
+2031,"Prince Edward Island",193900
+2032,"Prince Edward Island",195900
+2033,"Prince Edward Island",197700
+2034,"Prince Edward Island",199400
+2035,"Prince Edward Island",201100
+2036,"Prince Edward Island",202800
+2037,"Prince Edward Island",204600
+2038,"Prince Edward Island",206300
+2039,"Prince Edward Island",208000
+2040,"Prince Edward Island",209700
+2041,"Prince Edward Island",211400
+2042,"Prince Edward Island",213100
+2043,"Prince Edward Island",214900
+2044,"Prince Edward Island",216700
+2045,"Prince Edward Island",218400
+2046,"Prince Edward Island",220200
+2047,"Prince Edward Island",222000
+2048,"Prince Edward Island",223900
+2049,"Prince Edward Island",225700
+2050,"Prince Edward Island",227500
+2025,"Quebec",9055900
+2026,"Quebec",9011500
+2027,"Quebec",9004900
+2028,"Quebec",9041100
+2029,"Quebec",9075500
+2030,"Quebec",9108300
+2031,"Quebec",9139700
+2032,"Quebec",9170200
+2033,"Quebec",9199900
+2034,"Quebec",9228800
+2035,"Quebec",9257100
+2036,"Quebec",9285200
+2037,"Quebec",9313300
+2038,"Quebec",9341600
+2039,"Quebec",9370400
+2040,"Quebec",9399500
+2041,"Quebec",9429300
+2042,"Quebec",9459700
+2043,"Quebec",9490800
+2044,"Quebec",9522500
+2045,"Quebec",9554800
+2046,"Quebec",9587600
+2047,"Quebec",9620800
+2048,"Quebec",9654300
+2049,"Quebec",9688000
+2050,"Quebec",9721700
+2025,"Saskatchewan",1245500
+2026,"Saskatchewan",1247600
+2027,"Saskatchewan",1252700
+2028,"Saskatchewan",1261300
+2029,"Saskatchewan",1270100
+2030,"Saskatchewan",1279200
+2031,"Saskatchewan",1288700
+2032,"Saskatchewan",1298700
+2033,"Saskatchewan",1309000
+2034,"Saskatchewan",1319800
+2035,"Saskatchewan",1330600
+2036,"Saskatchewan",1341500
+2037,"Saskatchewan",1352600
+2038,"Saskatchewan",1363900
+2039,"Saskatchewan",1375300
+2040,"Saskatchewan",1386800
+2041,"Saskatchewan",1398500
+2042,"Saskatchewan",1410400
+2043,"Saskatchewan",1422300
+2044,"Saskatchewan",1434500
+2045,"Saskatchewan",1446700
+2046,"Saskatchewan",1459100
+2047,"Saskatchewan",1471500
+2048,"Saskatchewan",1483900
+2049,"Saskatchewan",1496400
+2050,"Saskatchewan",1508900
+2025,"Yukon",47100
+2026,"Yukon",47300
+2027,"Yukon",47700
+2028,"Yukon",48100
+2029,"Yukon",48600
+2030,"Yukon",49000
+2031,"Yukon",49400
+2032,"Yukon",49800
+2033,"Yukon",50200
+2034,"Yukon",50500
+2035,"Yukon",50800
+2036,"Yukon",51200
+2037,"Yukon",51500
+2038,"Yukon",51800
+2039,"Yukon",52100
+2040,"Yukon",52400
+2041,"Yukon",52800
+2042,"Yukon",53100
+2043,"Yukon",53400
+2044,"Yukon",53700
+2045,"Yukon",54000
+2046,"Yukon",54300
+2047,"Yukon",54700
+2048,"Yukon",55000
+2049,"Yukon",55300
+2050,"Yukon",55600

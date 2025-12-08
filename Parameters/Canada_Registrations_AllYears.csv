@@ -1,0 +1,417 @@
+"Province","FuelType","Year","TotalLDV","Car","Truck"
+"Newfoundland and Labrador","Gasoline","2017",355814,137553,218261
+"Newfoundland and Labrador","Gasoline","2018",346865,129358,217507
+"Newfoundland and Labrador","Gasoline","2019",343582,123302,220280
+"Newfoundland and Labrador","Gasoline","2020",340404,116765,223639
+"Newfoundland and Labrador","Gasoline","2021",347563,112929,234634
+"Newfoundland and Labrador","Gasoline","2022",350212,109408,240804
+"Newfoundland and Labrador","Gasoline","2023",349414,104200,245214
+"Newfoundland and Labrador","Gasoline","2024",343105,96491,246614
+"Newfoundland and Labrador","Battery electric","2017",31,25,6
+"Newfoundland and Labrador","Battery electric","2018",36,30,6
+"Newfoundland and Labrador","Battery electric","2019",50,43,7
+"Newfoundland and Labrador","Battery electric","2020",85,71,14
+"Newfoundland and Labrador","Battery electric","2021",154,109,45
+"Newfoundland and Labrador","Battery electric","2022",367,195,172
+"Newfoundland and Labrador","Battery electric","2023",782,306,476
+"Newfoundland and Labrador","Battery electric","2024",1229,360,869
+"Newfoundland and Labrador","Hybrid electric","2017",657,462,195
+"Newfoundland and Labrador","Hybrid electric","2018",736,510,226
+"Newfoundland and Labrador","Hybrid electric","2019",1087,797,290
+"Newfoundland and Labrador","Hybrid electric","2020",1097,626,471
+"Newfoundland and Labrador","Hybrid electric","2021",1519,575,944
+"Newfoundland and Labrador","Hybrid electric","2022",2232,617,1615
+"Newfoundland and Labrador","Hybrid electric","2023",3539,727,2812
+"Newfoundland and Labrador","Hybrid electric","2024",5545,941,4604
+"Newfoundland and Labrador","Plug-in hybrid electric","2017",83,81,2
+"Newfoundland and Labrador","Plug-in hybrid electric","2018",82,77,5
+"Newfoundland and Labrador","Plug-in hybrid electric","2019",94,79,15
+"Newfoundland and Labrador","Plug-in hybrid electric","2020",118,91,27
+"Newfoundland and Labrador","Plug-in hybrid electric","2021",179,110,69
+"Newfoundland and Labrador","Plug-in hybrid electric","2022",315,140,175
+"Newfoundland and Labrador","Plug-in hybrid electric","2023",523,155,368
+"Newfoundland and Labrador","Plug-in hybrid electric","2024",881,165,716
+"Prince Edward Island","Gasoline","2017",100531,47617,52914
+"Prince Edward Island","Gasoline","2018",101188,46578,54610
+"Prince Edward Island","Gasoline","2019",98208,44141,54067
+"Prince Edward Island","Gasoline","2020",96204,41619,54585
+"Prince Edward Island","Gasoline","2021",104383,43290,61093
+"Prince Edward Island","Gasoline","2022",101009,40628,60381
+"Prince Edward Island","Gasoline","2023",102093,39631,62462
+"Prince Edward Island","Gasoline","2024",103627,38657,64970
+"Prince Edward Island","Battery electric","2017",14,13,1
+"Prince Edward Island","Battery electric","2018",21,20,1
+"Prince Edward Island","Battery electric","2019",40,38,2
+"Prince Edward Island","Battery electric","2020",72,63,9
+"Prince Edward Island","Battery electric","2021",225,159,66
+"Prince Edward Island","Battery electric","2022",495,312,183
+"Prince Edward Island","Battery electric","2023",730,397,333
+"Prince Edward Island","Battery electric","2024",1038,456,582
+"Prince Edward Island","Hybrid electric","2017",679,571,108
+"Prince Edward Island","Hybrid electric","2018",698,564,134
+"Prince Edward Island","Hybrid electric","2019",733,592,141
+"Prince Edward Island","Hybrid electric","2020",755,575,180
+"Prince Edward Island","Hybrid electric","2021",1016,645,371
+"Prince Edward Island","Hybrid electric","2022",1186,639,547
+"Prince Edward Island","Hybrid electric","2023",1572,695,877
+"Prince Edward Island","Hybrid electric","2024",2109,754,1355
+"Prince Edward Island","Plug-in hybrid electric","2017",30,30,0
+"Prince Edward Island","Plug-in hybrid electric","2018",37,34,3
+"Prince Edward Island","Plug-in hybrid electric","2019",53,43,10
+"Prince Edward Island","Plug-in hybrid electric","2020",75,56,19
+"Prince Edward Island","Plug-in hybrid electric","2021",131,87,44
+"Prince Edward Island","Plug-in hybrid electric","2022",184,99,85
+"Prince Edward Island","Plug-in hybrid electric","2023",311,113,198
+"Prince Edward Island","Plug-in hybrid electric","2024",567,137,430
+"Nova Scotia","Gasoline","2017",584004,288569,295435
+"Nova Scotia","Gasoline","2018",594848,284337,310511
+"Nova Scotia","Gasoline","2019",599727,278994,320733
+"Nova Scotia","Gasoline","2020",584607,258833,325774
+"Nova Scotia","Gasoline","2021",606415,259238,347177
+"Nova Scotia","Gasoline","2022",620254,255988,364266
+"Nova Scotia","Gasoline","2023",621507,246789,374718
+"Nova Scotia","Gasoline","2024",629955,239982,389973
+"Nova Scotia","Battery electric","2017",52,42,10
+"Nova Scotia","Battery electric","2018",75,62,13
+"Nova Scotia","Battery electric","2019",130,108,22
+"Nova Scotia","Battery electric","2020",304,246,58
+"Nova Scotia","Battery electric","2021",629,424,205
+"Nova Scotia","Battery electric","2022",1277,760,517
+"Nova Scotia","Battery electric","2023",2363,1194,1169
+"Nova Scotia","Battery electric","2024",3777,1570,2207
+"Nova Scotia","Hybrid electric","2017",3397,2744,653
+"Nova Scotia","Hybrid electric","2018",3721,2899,822
+"Nova Scotia","Hybrid electric","2019",4150,3143,1007
+"Nova Scotia","Hybrid electric","2020",4886,3367,1519
+"Nova Scotia","Hybrid electric","2021",6149,3622,2527
+"Nova Scotia","Hybrid electric","2022",7829,3886,3943
+"Nova Scotia","Hybrid electric","2023",9914,4088,5826
+"Nova Scotia","Hybrid electric","2024",13814,4674,9140
+"Nova Scotia","Plug-in hybrid electric","2017",183,175,8
+"Nova Scotia","Plug-in hybrid electric","2018",221,204,17
+"Nova Scotia","Plug-in hybrid electric","2019",275,233,42
+"Nova Scotia","Plug-in hybrid electric","2020",397,301,96
+"Nova Scotia","Plug-in hybrid electric","2021",596,378,218
+"Nova Scotia","Plug-in hybrid electric","2022",943,482,461
+"Nova Scotia","Plug-in hybrid electric","2023",1411,535,876
+"Nova Scotia","Plug-in hybrid electric","2024",2441,625,1816
+"New Brunswick","Gasoline","2017",531230,241340,289890
+"New Brunswick","Gasoline","2018",535800,235113,300687
+"New Brunswick","Gasoline","2019",538870,228124,310746
+"New Brunswick","Gasoline","2020",528701,214863,313838
+"New Brunswick","Gasoline","2021",537783,210003,327780
+"New Brunswick","Gasoline","2022",535898,201619,334279
+"New Brunswick","Gasoline","2023",536349,193539,342810
+"New Brunswick","Gasoline","2024",541993,186918,355075
+"New Brunswick","Battery electric","2017",39,35,4
+"New Brunswick","Battery electric","2018",59,55,4
+"New Brunswick","Battery electric","2019",121,105,16
+"New Brunswick","Battery electric","2020",237,180,57
+"New Brunswick","Battery electric","2021",465,289,176
+"New Brunswick","Battery electric","2022",933,486,447
+"New Brunswick","Battery electric","2023",1762,744,1018
+"New Brunswick","Battery electric","2024",2890,939,1951
+"New Brunswick","Hybrid electric","2017",2211,1772,439
+"New Brunswick","Hybrid electric","2018",2376,1802,574
+"New Brunswick","Hybrid electric","2019",2707,1909,798
+"New Brunswick","Hybrid electric","2020",3177,1984,1193
+"New Brunswick","Hybrid electric","2021",4205,2158,2047
+"New Brunswick","Hybrid electric","2022",5484,2317,3167
+"New Brunswick","Hybrid electric","2023",7350,2536,4814
+"New Brunswick","Hybrid electric","2024",10406,2936,7470
+"New Brunswick","Plug-in hybrid electric","2017",184,170,14
+"New Brunswick","Plug-in hybrid electric","2018",212,186,26
+"New Brunswick","Plug-in hybrid electric","2019",267,211,56
+"New Brunswick","Plug-in hybrid electric","2020",345,246,99
+"New Brunswick","Plug-in hybrid electric","2021",466,281,185
+"New Brunswick","Plug-in hybrid electric","2022",731,358,373
+"New Brunswick","Plug-in hybrid electric","2023",1219,405,814
+"New Brunswick","Plug-in hybrid electric","2024",2332,494,1838
+"Quebec","Gasoline","2017",5027418,2795961,2231457
+"Quebec","Gasoline","2018",5121454,2753498,2367956
+"Quebec","Gasoline","2019",5178889,2683936,2494953
+"Quebec","Gasoline","2020",5255973,2624805,2631168
+"Quebec","Gasoline","2021",5261842,2516656,2745186
+"Quebec","Gasoline","2022",5205502,2402583,2802919
+"Quebec","Gasoline","2023",5205138,2318132,2887006
+"Quebec","Gasoline","2024",5102818,2188203,2914615
+"Quebec","Battery electric","2017",7452,6379,1073
+"Quebec","Battery electric","2018",13444,11758,1686
+"Quebec","Battery electric","2019",26343,22593,3750
+"Quebec","Battery electric","2020",42524,34928,7596
+"Quebec","Battery electric","2021",61765,45349,16416
+"Quebec","Battery electric","2022",85651,55216,30435
+"Quebec","Battery electric","2023",126032,67734,58298
+"Quebec","Battery electric","2024",199554,78599,120955
+"Quebec","Hybrid electric","2017",36746,30030,6716
+"Quebec","Hybrid electric","2018",42693,33150,9543
+"Quebec","Hybrid electric","2019",49216,35930,13286
+"Quebec","Hybrid electric","2020",55917,37543,18374
+"Quebec","Hybrid electric","2021",66502,39245,27257
+"Quebec","Hybrid electric","2022",79549,41232,38317
+"Quebec","Hybrid electric","2023",94530,42979,51551
+"Quebec","Hybrid electric","2024",112116,44623,67493
+"Quebec","Plug-in hybrid electric","2017",11278,10844,434
+"Quebec","Plug-in hybrid electric","2018",18133,16037,2096
+"Quebec","Plug-in hybrid electric","2019",28311,23089,5222
+"Quebec","Plug-in hybrid electric","2020",38729,30292,8437
+"Quebec","Plug-in hybrid electric","2021",48847,34604,14243
+"Quebec","Plug-in hybrid electric","2022",61240,37268,23972
+"Quebec","Plug-in hybrid electric","2023",72576,37255,35321
+"Quebec","Plug-in hybrid electric","2024",93557,37201,56356
+"Ontario","Gasoline","2017",7906955,3653371,4253584
+"Ontario","Gasoline","2018",8056355,3601635,4454720
+"Ontario","Gasoline","2019",8188611,3536644,4651967
+"Ontario","Gasoline","2020",8446490,3532080,4914410
+"Ontario","Gasoline","2021",8511018,3435320,5075698
+"Ontario","Gasoline","2022",7923796,3070659,4853137
+"Ontario","Gasoline","2023",7590948,2850298,4740650
+"Ontario","Gasoline","2024",8213211,3002153,5211058
+"Ontario","Battery electric","2017",5810,4745,1065
+"Ontario","Battery electric","2018",11563,9519,2044
+"Ontario","Battery electric","2019",18055,15027,3028
+"Ontario","Battery electric","2020",24574,19855,4719
+"Ontario","Battery electric","2021",35945,25366,10579
+"Ontario","Battery electric","2022",54811,33124,21687
+"Ontario","Battery electric","2023",83722,40841,42881
+"Ontario","Battery electric","2024",124561,52101,72460
+"Ontario","Hybrid electric","2017",65222,49844,15378
+"Ontario","Hybrid electric","2018",71922,53072,18850
+"Ontario","Hybrid electric","2019",81282,57518,23764
+"Ontario","Hybrid electric","2020",93802,62479,31323
+"Ontario","Hybrid electric","2021",115533,65277,50256
+"Ontario","Hybrid electric","2022",137897,66128,71769
+"Ontario","Hybrid electric","2023",168552,67249,101303
+"Ontario","Hybrid electric","2024",239844,80411,159433
+"Ontario","Plug-in hybrid electric","2017",7717,6825,892
+"Ontario","Plug-in hybrid electric","2018",14666,11690,2976
+"Ontario","Plug-in hybrid electric","2019",19215,14510,4705
+"Ontario","Plug-in hybrid electric","2020",21632,15875,5757
+"Ontario","Plug-in hybrid electric","2021",24391,16356,8035
+"Ontario","Plug-in hybrid electric","2022",27861,16209,11652
+"Ontario","Plug-in hybrid electric","2023",32741,15606,17135
+"Ontario","Plug-in hybrid electric","2024",47569,17995,29574
+"Manitoba","Gasoline","2017",762003,285311,476692
+"Manitoba","Gasoline","2018",771097,277305,493792
+"Manitoba","Gasoline","2019",776405,268758,507647
+"Manitoba","Gasoline","2020",763443,250600,512843
+"Manitoba","Gasoline","2021",797362,255018,542344
+"Manitoba","Gasoline","2022",801912,248662,553250
+"Manitoba","Gasoline","2023",809675,242292,567383
+"Manitoba","Gasoline","2024",821521,235089,586432
+"Manitoba","Battery electric","2017",117,110,7
+"Manitoba","Battery electric","2018",173,160,13
+"Manitoba","Battery electric","2019",302,269,33
+"Manitoba","Battery electric","2020",505,423,82
+"Manitoba","Battery electric","2021",871,643,228
+"Manitoba","Battery electric","2022",1487,929,558
+"Manitoba","Battery electric","2023",2463,1199,1264
+"Manitoba","Battery electric","2024",3813,1475,2338
+"Manitoba","Hybrid electric","2017",4424,3393,1031
+"Manitoba","Hybrid electric","2018",4745,3572,1173
+"Manitoba","Hybrid electric","2019",5213,3820,1393
+"Manitoba","Hybrid electric","2020",5600,3839,1761
+"Manitoba","Hybrid electric","2021",7352,4372,2980
+"Manitoba","Hybrid electric","2022",9261,4755,4506
+"Manitoba","Hybrid electric","2023",11829,5153,6676
+"Manitoba","Hybrid electric","2024",16136,5762,10374
+"Manitoba","Plug-in hybrid electric","2017",212,197,15
+"Manitoba","Plug-in hybrid electric","2018",282,238,44
+"Manitoba","Plug-in hybrid electric","2019",407,298,109
+"Manitoba","Plug-in hybrid electric","2020",523,356,167
+"Manitoba","Plug-in hybrid electric","2021",724,421,303
+"Manitoba","Plug-in hybrid electric","2022",1066,486,580
+"Manitoba","Plug-in hybrid electric","2023",1528,529,999
+"Manitoba","Plug-in hybrid electric","2024",2453,607,1846
+"Saskatchewan","Gasoline","2017",755389,236174,519215
+"Saskatchewan","Gasoline","2018",756784,226761,530023
+"Saskatchewan","Gasoline","2019",759475,220593,538882
+"Saskatchewan","Gasoline","2020",759663,208535,551128
+"Saskatchewan","Gasoline","2021",772407,205466,566941
+"Saskatchewan","Gasoline","2022",757708,193094,564614
+"Saskatchewan","Gasoline","2023",776614,190237,586377
+"Saskatchewan","Gasoline","2024",789870,184890,604980
+"Saskatchewan","Battery electric","2017",48,41,7
+"Saskatchewan","Battery electric","2018",82,69,13
+"Saskatchewan","Battery electric","2019",153,129,24
+"Saskatchewan","Battery electric","2020",314,244,70
+"Saskatchewan","Battery electric","2021",541,368,173
+"Saskatchewan","Battery electric","2022",934,537,397
+"Saskatchewan","Battery electric","2023",1476,680,796
+"Saskatchewan","Battery electric","2024",2126,814,1312
+"Saskatchewan","Hybrid electric","2017",2413,1644,769
+"Saskatchewan","Hybrid electric","2018",2562,1694,868
+"Saskatchewan","Hybrid electric","2019",2776,1775,1001
+"Saskatchewan","Hybrid electric","2020",3307,1917,1390
+"Saskatchewan","Hybrid electric","2021",4329,2091,2238
+"Saskatchewan","Hybrid electric","2022",5710,2166,3544
+"Saskatchewan","Hybrid electric","2023",7615,2317,5298
+"Saskatchewan","Hybrid electric","2024",10521,2535,7986
+"Saskatchewan","Plug-in hybrid electric","2017",128,119,9
+"Saskatchewan","Plug-in hybrid electric","2018",153,128,25
+"Saskatchewan","Plug-in hybrid electric","2019",202,153,49
+"Saskatchewan","Plug-in hybrid electric","2020",303,199,104
+"Saskatchewan","Plug-in hybrid electric","2021",427,243,184
+"Saskatchewan","Plug-in hybrid electric","2022",626,278,348
+"Saskatchewan","Plug-in hybrid electric","2023",946,305,641
+"Saskatchewan","Plug-in hybrid electric","2024",1521,343,1178
+"Alberta","Gasoline","2017",2892778,967349,1925429
+"Alberta","Gasoline","2018",2937773,950236,1987537
+"Alberta","Gasoline","2019",2979151,932817,2046334
+"Alberta","Gasoline","2020",2948448,888023,2060425
+"Alberta","Gasoline","2021",2934651,855057,2079594
+"Alberta","Gasoline","2022",2890627,819182,2071445
+"Alberta","Gasoline","2023",2925927,803894,2122033
+"Alberta","Gasoline","2024",3003345,798719,2204626
+"Alberta","Battery electric","2017",507,392,115
+"Alberta","Battery electric","2018",870,653,217
+"Alberta","Battery electric","2019",1638,1276,362
+"Alberta","Battery electric","2020",2572,1937,635
+"Alberta","Battery electric","2021",4014,2561,1453
+"Alberta","Battery electric","2022",6586,3560,3026
+"Alberta","Battery electric","2023",10566,4528,6038
+"Alberta","Battery electric","2024",15579,5691,9888
+"Alberta","Hybrid electric","2017",16327,10549,5778
+"Alberta","Hybrid electric","2018",17832,11292,6540
+"Alberta","Hybrid electric","2019",20063,12310,7753
+"Alberta","Hybrid electric","2020",22368,12858,9510
+"Alberta","Hybrid electric","2021",27557,13172,14385
+"Alberta","Hybrid electric","2022",34242,13729,20513
+"Alberta","Hybrid electric","2023",43299,14635,28664
+"Alberta","Hybrid electric","2024",58493,16188,42305
+"Alberta","Plug-in hybrid electric","2017",837,662,175
+"Alberta","Plug-in hybrid electric","2018",1118,787,331
+"Alberta","Plug-in hybrid electric","2019",1572,986,586
+"Alberta","Plug-in hybrid electric","2020",1986,1162,824
+"Alberta","Plug-in hybrid electric","2021",2688,1360,1328
+"Alberta","Plug-in hybrid electric","2022",3796,1519,2277
+"Alberta","Plug-in hybrid electric","2023",5319,1650,3669
+"Alberta","Plug-in hybrid electric","2024",8413,1949,6464
+"British Columbia","Gasoline","2017",2838030,1212343,1625687
+"British Columbia","Gasoline","2018",2881191,1195657,1685534
+"British Columbia","Gasoline","2019",2905626,1166525,1739101
+"British Columbia","Gasoline","2020",2870758,1104136,1766622
+"British Columbia","Gasoline","2021",2949479,1094968,1854511
+"British Columbia","Gasoline","2022",3001109,1087189,1913920
+"British Columbia","Gasoline","2023",3004864,1058234,1946630
+"British Columbia","Gasoline","2024",3008654,1026966,1981688
+"British Columbia","Battery electric","2017",5567,4510,1057
+"British Columbia","Battery electric","2018",9495,7674,1821
+"British Columbia","Battery electric","2019",19594,16164,3430
+"British Columbia","Battery electric","2020",31918,25690,6228
+"British Columbia","Battery electric","2021",48086,34774,13312
+"British Columbia","Battery electric","2022",68823,44924,23899
+"British Columbia","Battery electric","2023",97637,54007,43630
+"British Columbia","Battery electric","2024",132719,60599,72120
+"British Columbia","Hybrid electric","2017",39918,29197,10721
+"British Columbia","Hybrid electric","2018",44288,30980,13308
+"British Columbia","Hybrid electric","2019",50818,33728,17090
+"British Columbia","Hybrid electric","2020",56311,34748,21563
+"British Columbia","Hybrid electric","2021",68698,38376,30322
+"British Columbia","Hybrid electric","2022",81769,42227,39542
+"British Columbia","Hybrid electric","2023",95692,44840,50852
+"British Columbia","Hybrid electric","2024",116168,47796,68372
+"British Columbia","Plug-in hybrid electric","2017",3168,2769,399
+"British Columbia","Plug-in hybrid electric","2018",5276,4102,1174
+"British Columbia","Plug-in hybrid electric","2019",9248,6405,2843
+"British Columbia","Plug-in hybrid electric","2020",12916,8414,4502
+"British Columbia","Plug-in hybrid electric","2021",17380,9942,7438
+"British Columbia","Plug-in hybrid electric","2022",22794,11312,11482
+"British Columbia","Plug-in hybrid electric","2023",28275,11702,16573
+"British Columbia","Plug-in hybrid electric","2024",37622,12467,25155
+"Yukon","Gasoline","2017",31455,9231,22224
+"Yukon","Gasoline","2018",32470,9126,23344
+"Yukon","Gasoline","2019",33345,9022,24323
+"Yukon","Gasoline","2020",32598,8567,24031
+"Yukon","Gasoline","2021",33187,8293,24894
+"Yukon","Gasoline","2022",33123,7874,25249
+"Yukon","Gasoline","2023",32514,7485,25029
+"Yukon","Gasoline","2024",32746,7343,25403
+"Yukon","Battery electric","2017",7,7,0
+"Yukon","Battery electric","2018",8,8,0
+"Yukon","Battery electric","2019",14,14,0
+"Yukon","Battery electric","2020",21,21,0
+"Yukon","Battery electric","2021",47,42,5
+"Yukon","Battery electric","2022",80,62,18
+"Yukon","Battery electric","2023",147,80,67
+"Yukon","Battery electric","2024",280,89,191
+"Yukon","Hybrid electric","2017",151,116,35
+"Yukon","Hybrid electric","2018",184,131,53
+"Yukon","Hybrid electric","2019",213,140,73
+"Yukon","Hybrid electric","2020",245,148,97
+"Yukon","Hybrid electric","2021",303,155,148
+"Yukon","Hybrid electric","2022",371,166,205
+"Yukon","Hybrid electric","2023",436,172,264
+"Yukon","Hybrid electric","2024",554,186,368
+"Yukon","Plug-in hybrid electric","2017",4,4,0
+"Yukon","Plug-in hybrid electric","2018",5,5,0
+"Yukon","Plug-in hybrid electric","2019",10,9,1
+"Yukon","Plug-in hybrid electric","2020",20,15,5
+"Yukon","Plug-in hybrid electric","2021",53,24,29
+"Yukon","Plug-in hybrid electric","2022",85,30,55
+"Yukon","Plug-in hybrid electric","2023",121,32,89
+"Yukon","Plug-in hybrid electric","2024",171,38,133
+"Northwest Territories","Gasoline","2017",22236,4409,17827
+"Northwest Territories","Gasoline","2018",22352,4184,18168
+"Northwest Territories","Gasoline","2019",21966,3922,18044
+"Northwest Territories","Gasoline","2020",21566,3654,17912
+"Northwest Territories","Gasoline","2021",22391,3565,18826
+"Northwest Territories","Gasoline","2022",22424,3417,19007
+"Northwest Territories","Gasoline","2023",22324,3277,19047
+"Northwest Territories","Gasoline","2024",22527,3240,19287
+"Northwest Territories","Battery electric","2017",5,4,1
+"Northwest Territories","Battery electric","2018",1,1,0
+"Northwest Territories","Battery electric","2019",3,3,0
+"Northwest Territories","Battery electric","2020",6,5,1
+"Northwest Territories","Battery electric","2021",11,8,3
+"Northwest Territories","Battery electric","2022",25,13,12
+"Northwest Territories","Battery electric","2023",38,17,21
+"Northwest Territories","Battery electric","2024",52,17,35
+"Northwest Territories","Hybrid electric","2017",45,19,26
+"Northwest Territories","Hybrid electric","2018",46,18,28
+"Northwest Territories","Hybrid electric","2019",45,18,27
+"Northwest Territories","Hybrid electric","2020",56,16,40
+"Northwest Territories","Hybrid electric","2021",106,22,84
+"Northwest Territories","Hybrid electric","2022",157,21,136
+"Northwest Territories","Hybrid electric","2023",205,27,178
+"Northwest Territories","Hybrid electric","2024",252,31,221
+"Northwest Territories","Plug-in hybrid electric","2017",3,3,0
+"Northwest Territories","Plug-in hybrid electric","2018",4,4,0
+"Northwest Territories","Plug-in hybrid electric","2019",9,7,2
+"Northwest Territories","Plug-in hybrid electric","2020",11,10,1
+"Northwest Territories","Plug-in hybrid electric","2021",17,11,6
+"Northwest Territories","Plug-in hybrid electric","2022",28,11,17
+"Northwest Territories","Plug-in hybrid electric","2023",36,10,26
+"Northwest Territories","Plug-in hybrid electric","2024",51,10,41
+"Nunavut","Gasoline","2017",0,0,0
+"Nunavut","Gasoline","2018",0,0,0
+"Nunavut","Gasoline","2019",0,0,0
+"Nunavut","Gasoline","2020",0,0,0
+"Nunavut","Gasoline","2021",4311,217,4094
+"Nunavut","Gasoline","2022",4311,215,4096
+"Nunavut","Gasoline","2023",4348,188,4160
+"Nunavut","Gasoline","2024",4403,173,4230
+"Nunavut","Battery electric","2017",0,0,0
+"Nunavut","Battery electric","2018",0,0,0
+"Nunavut","Battery electric","2019",0,0,0
+"Nunavut","Battery electric","2020",0,0,0
+"Nunavut","Battery electric","2021",0,0,0
+"Nunavut","Battery electric","2022",1,0,1
+"Nunavut","Battery electric","2023",0,0,0
+"Nunavut","Battery electric","2024",0,0,0
+"Nunavut","Hybrid electric","2017",0,0,0
+"Nunavut","Hybrid electric","2018",0,0,0
+"Nunavut","Hybrid electric","2019",0,0,0
+"Nunavut","Hybrid electric","2020",0,0,0
+"Nunavut","Hybrid electric","2021",5,1,4
+"Nunavut","Hybrid electric","2022",11,2,9
+"Nunavut","Hybrid electric","2023",15,3,12
+"Nunavut","Hybrid electric","2024",20,3,17
+"Nunavut","Plug-in hybrid electric","2017",0,0,0
+"Nunavut","Plug-in hybrid electric","2018",0,0,0
+"Nunavut","Plug-in hybrid electric","2019",0,0,0
+"Nunavut","Plug-in hybrid electric","2020",0,0,0
+"Nunavut","Plug-in hybrid electric","2021",1,0,1
+"Nunavut","Plug-in hybrid electric","2022",2,0,2
+"Nunavut","Plug-in hybrid electric","2023",2,0,2
+"Nunavut","Plug-in hybrid electric","2024",3,0,3
