@@ -78,7 +78,7 @@ make_tail_weights <- function(mu, b, Type) {
 
 tail_w_tbl <- bind_rows(
   make_tail_weights(mu = 16, b = 4, Type = "Car"),
-  make_tail_weights(mu = 20, b = 5, Type = "Truck")
+  make_tail_weights(mu = 19, b = 4.5, Type = "Truck")
 )
 
 # Expand 30+ per Type and build turnover/vintage sets
