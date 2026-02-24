@@ -671,11 +671,14 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
       )
   }
   
-  write.csv(flatify(evlib_detail),
-            paste0("Outputs/24EVLIB_Flows_detail_", scenario_tag, ".csv"),
+  evlib_detail_flat <- flatify(evlib_detail)
+  evlib_totals_flat <- flatify(evlib_totals)
+  
+  write.csv(evlib_detail_flat,
+            paste0("Outputs/EVLIB_Flows_detail_", scenario_tag, ".csv"),
             row.names = FALSE)
-  write.csv(flatify(evlib_totals),
-            paste0("Outputs/24EVLIB_Flows_totals_", scenario_tag, ".csv"),
+  write.csv(evlib_totals_flat,
+            paste0("Outputs/EVLIB_Flows_totals_", scenario_tag, ".csv"),
             row.names = FALSE)
   
   # ---- Export summary by year (national)
@@ -683,7 +686,7 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     tibble(Year=integer(), Export_ICE=double(), Export_BEV=double(),
            Export_PHEV=double(), Export_All=double())
   write.csv(exports_yearly,
-            paste0("Outputs/24Exports_byYear_", scenario_tag, ".csv"),
+            paste0("Outputs/Exports_byYear_", scenario_tag, ".csv"),
             row.names = FALSE)
   
   invisible(list(

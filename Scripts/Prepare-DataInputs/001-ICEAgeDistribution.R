@@ -43,7 +43,7 @@ state_age_long_by_type <- age_state_typed %>%
 # Result: one row per state × type × age with fraction
 
 # --- 3) State-level Car/Truck shares (within LDV = Car + Truck) ---
-state_type_share <- state_age_long_by_type %>%
+state_type_share_base <- state_age_long_by_type %>%
   distinct(stateID, state, Type, yearID, state_type_total) %>%
   group_by(stateID, state, yearID) %>%
   mutate(state_total_ldv = sum(state_type_total, na.rm = TRUE),
@@ -54,6 +54,41 @@ state_type_share <- state_age_long_by_type %>%
               names_sep = "_") %>%
   ungroup()
 # Columns include: state_type_total_Car, state_type_total_Truck, type_share_Car, type_share_Truck
+
+# --- 3b) Calculate US average type shares for filling AK/HI ---
+us_avg_type_share <- state_type_share_base %>%
+  group_by(yearID) %>%
+  summarise(
+    us_total_Car = sum(state_type_total_Car, na.rm = TRUE),
+    us_total_Truck = sum(state_type_total_Truck, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    us_total = us_total_Car + us_total_Truck,
+    type_share_Car = us_total_Car / us_total,
+    type_share_Truck = us_total_Truck / us_total
+  )
+
+# --- 3c) Add Alaska and Hawaii using US average type shares ---
+states_in_type_share <- unique(state_type_share_base$state)
+need_ak_type <- !"Alaska" %in% states_in_type_share
+need_hi_type <- !"Hawaii" %in% states_in_type_share
+
+add_type_share_rows <- bind_rows(
+  if (need_ak_type) us_avg_type_share %>%
+    mutate(stateID = 2L, state = "Alaska",
+           state_type_total_Car = NA_real_, state_type_total_Truck = NA_real_) %>%
+    select(stateID, state, yearID, state_type_total_Car, state_type_total_Truck, 
+           type_share_Car, type_share_Truck) else NULL,
+  if (need_hi_type) us_avg_type_share %>%
+    mutate(stateID = 15L, state = "Hawaii",
+           state_type_total_Car = NA_real_, state_type_total_Truck = NA_real_) %>%
+    select(stateID, state, yearID, state_type_total_Car, state_type_total_Truck, 
+           type_share_Car, type_share_Truck) else NULL
+)
+
+state_type_share <- bind_rows(state_type_share_base, add_type_share_rows) %>%
+  arrange(stateID, yearID)
 
 # --- 4) U.S. weighted-average age fractions by Type (to fill AK/HI if missing) ---
 us_avg_by_year_age_by_type <- state_age_long_by_type %>%
