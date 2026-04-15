@@ -20,7 +20,6 @@ state_map <- StateID %>%
   mutate(state = dplyr::recode(state, "D.C." = "District of Columbia"))
 
 # --- 1) Keep only Car / Truck rows and join to states ---
-# sourceTypeID: 21 = passenger car; 31 = passenger truck; 32 = commercial truck
 age_state_typed <- AgeTypeDistribution %>%
   mutate(Type = case_when(
     sourceTypeID == 21 ~ "Car",
@@ -43,7 +42,7 @@ state_age_long_by_type <- age_state_typed %>%
 # Result: one row per state × type × age with fraction
 
 # --- 3) State-level Car/Truck shares (within LDV = Car + Truck) ---
-state_type_share_base <- state_age_long_by_type %>%
+state_type_share <- state_age_long_by_type %>%
   distinct(stateID, state, Type, yearID, state_type_total) %>%
   group_by(stateID, state, yearID) %>%
   mutate(state_total_ldv = sum(state_type_total, na.rm = TRUE),
@@ -55,40 +54,38 @@ state_type_share_base <- state_age_long_by_type %>%
   ungroup()
 # Columns include: state_type_total_Car, state_type_total_Truck, type_share_Car, type_share_Truck
 
-# --- 3b) Calculate US average type shares for filling AK/HI ---
-us_avg_type_share <- state_type_share_base %>%
-  group_by(yearID) %>%
-  summarise(
-    us_total_Car = sum(state_type_total_Car, na.rm = TRUE),
-    us_total_Truck = sum(state_type_total_Truck, na.rm = TRUE),
-    .groups = "drop"
+# --- 3b) Fill Alaska/Hawaii in state_type_share with US average shares ---
+states_in_share <- unique(state_type_share$state)
+need_ak_share <- !"Alaska" %in% states_in_share
+need_hi_share <- !"Hawaii" %in% states_in_share
+
+if (need_ak_share || need_hi_share) {
+  # Calculate US average Car/Truck shares by year
+  us_avg_type_share <- state_type_share %>%
+    group_by(yearID) %>%
+    summarise(
+      us_total_Car   = sum(state_type_total_Car, na.rm = TRUE),
+      us_total_Truck = sum(state_type_total_Truck, na.rm = TRUE),
+      .groups = "drop"
+    ) %>%
+    mutate(
+      us_total_ldv = us_total_Car + us_total_Truck,
+      type_share_Car   = us_total_Car / us_total_ldv,
+      type_share_Truck = us_total_Truck / us_total_ldv
+    ) %>%
+    select(yearID, type_share_Car, type_share_Truck)
+  
+  # Add rows for Alaska and Hawaii
+  add_share_rows <- bind_rows(
+    if (need_ak_share) us_avg_type_share %>% mutate(stateID = 2L, state = "Alaska") else NULL,
+    if (need_hi_share) us_avg_type_share %>% mutate(stateID = 15L, state = "Hawaii") else NULL
   ) %>%
-  mutate(
-    us_total = us_total_Car + us_total_Truck,
-    type_share_Car = us_total_Car / us_total,
-    type_share_Truck = us_total_Truck / us_total
-  )
-
-# --- 3c) Add Alaska and Hawaii using US average type shares ---
-states_in_type_share <- unique(state_type_share_base$state)
-need_ak_type <- !"Alaska" %in% states_in_type_share
-need_hi_type <- !"Hawaii" %in% states_in_type_share
-
-add_type_share_rows <- bind_rows(
-  if (need_ak_type) us_avg_type_share %>%
-    mutate(stateID = 2L, state = "Alaska",
-           state_type_total_Car = NA_real_, state_type_total_Truck = NA_real_) %>%
-    select(stateID, state, yearID, state_type_total_Car, state_type_total_Truck, 
-           type_share_Car, type_share_Truck) else NULL,
-  if (need_hi_type) us_avg_type_share %>%
-    mutate(stateID = 15L, state = "Hawaii",
-           state_type_total_Car = NA_real_, state_type_total_Truck = NA_real_) %>%
-    select(stateID, state, yearID, state_type_total_Car, state_type_total_Truck, 
-           type_share_Car, type_share_Truck) else NULL
-)
-
-state_type_share <- bind_rows(state_type_share_base, add_type_share_rows) %>%
-  arrange(stateID, yearID)
+    mutate(state_type_total_Car = NA_real_, state_type_total_Truck = NA_real_) %>%
+    select(stateID, state, yearID, state_type_total_Car, state_type_total_Truck, type_share_Car, type_share_Truck)
+  
+  state_type_share <- bind_rows(state_type_share, add_share_rows) %>%
+    arrange(stateID, yearID)
+}
 
 # --- 4) U.S. weighted-average age fractions by Type (to fill AK/HI if missing) ---
 us_avg_by_year_age_by_type <- state_age_long_by_type %>%
@@ -132,3 +129,5 @@ state_age_wide_by_type <- state_age_long_filled_by_type %>%
 check_sum_by_type <- state_age_long_filled_by_type %>%
   group_by(stateID, state, Type, yearID) %>%
   summarise(sum_frac = sum(ageFraction_state_type, na.rm = TRUE), .groups = "drop")
+
+check_sum_by_type

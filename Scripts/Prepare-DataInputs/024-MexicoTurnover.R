@@ -48,14 +48,13 @@ if (!file.exists(mx_sales_path)) {
 mx_sales_raw <- read_excel(mx_sales_path, sheet = "Annual_National_Total")
 cat("MX Sales columns:", paste(names(mx_sales_raw), collapse = ", "), "\n")
 
-# Extract sales by powertrain
+# Extract sales by powertrain (ICE includes HEV)
 mx_sales <- mx_sales_raw %>%
   transmute(
     Year = as.integer(Year),
     BEV = as.numeric(BEV_units),
     PHEV = as.numeric(PHEV_units),
-    HEV = as.numeric(HEV_units),
-    ICE = as.numeric(ICE_units)
+    ICE = as.numeric(ICE_units) + coalesce(as.numeric(HEV_units), 0)
   ) %>%
   filter(!is.na(Year))
 
@@ -117,22 +116,49 @@ us_export_file <- "Outputs/US_Export_Projection_2020_2050.csv"
 if (file.exists(us_export_file)) {
   us_export_proj <- read_csv(us_export_file, show_col_types = FALSE)
   cat("Using US_Export_Projection_2020_2050.csv\n")
-  
-  # Mexico receives ~70% of US used vehicle exports (largest destination)
-  # Adjust this ratio based on actual data if available
-  mexico_share_of_exports <- 0.70
-  
+
+  # Compute Mexico's actual share from historical export data (2020-2024)
+  export_raw <- read_excel("Inputs/Used PV Countries Export Volume.xlsx")
+  export_long_raw <- export_raw %>%
+    pivot_longer(cols = -Partner, names_to = "Year", values_to = "Export") %>%
+    mutate(Year = as.integer(Year), Export = as.numeric(Export))
+
+  total_by_yr <- export_long_raw %>%
+    group_by(Year) %>%
+    summarise(Total = sum(Export, na.rm = TRUE), .groups = "drop")
+
+  mexico_share_by_year <- export_long_raw %>%
+    filter(Partner == "Mexico", Year >= 2020, Year <= 2024) %>%
+    left_join(total_by_yr, by = "Year") %>%
+    mutate(share = Export / Total) %>%
+    select(Year, share)
+
+  # Weighted average share (weight by total exports)
+  mexico_share_avg <- mexico_share_by_year %>%
+    left_join(total_by_yr, by = "Year") %>%
+    summarise(share_avg = sum(share * Total) / sum(Total)) %>%
+    pull(share_avg)
+
+  cat("Mexico actual share of US used vehicle exports (2020-2024):\n")
+  print(mexico_share_by_year)
+  cat("Weighted average share:", round(mexico_share_avg * 100, 1), "%\n")
+
+  # Apply year-specific share for 2020-2024; use weighted average for 2025+
+  share_tbl <- tibble(Year = 2020:2050) %>%
+    left_join(mexico_share_by_year, by = "Year") %>%
+    mutate(share = coalesce(share, mexico_share_avg))
+
   us_to_mex_extended <- us_export_proj %>%
+    left_join(share_tbl, by = "Year") %>%
     transmute(
       Year = Year,
-      Import_from_US_Total = round(Export_Total * mexico_share_of_exports),
-      Import_ICE = round(Export_ICE * mexico_share_of_exports),
-      Import_BEV = round(Export_BEV * mexico_share_of_exports),
-      Import_PHEV = round(Export_PHEV * mexico_share_of_exports),
-      Import_EV = Import_BEV + Import_PHEV
+      Import_from_US_Total = round(Export_Total * share),
+      Import_ICE  = round(Export_ICE  * share),
+      Import_BEV  = round(Export_BEV  * share),
+      Import_PHEV = round(Export_PHEV * share),
+      Import_EV   = Import_BEV + Import_PHEV
     )
-  
-  cat("Mexico share of US exports:", mexico_share_of_exports * 100, "%\n")
+
   cat("Sample import projection:\n")
   print(us_to_mex_extended %>% filter(Year %in% c(2025, 2030, 2040, 2050)))
   
@@ -188,28 +214,59 @@ cat("Target fleet 2025:", round(target_2025), "\n")
 cat("Target fleet 2050:", round(pop_2050 * regs_per_cap_2050), "\n")
 
 # -----------------------------
-# 5) Penetration Rate Scenario
+# 5) Penetration Rate Scenarios
 # -----------------------------
-cat("\n=== Penetration Rate Scenario ===\n")
+cat("\n=== Penetration Rate Scenarios ===\n")
 
+# --- ACCII: ENME-based milestones ---
 pr_milestones <- tibble(
   Year = c(2025, 2030, 2035, 2040, 2045, 2050),
   EV_PR = c(0.10, 0.30, 0.65, 1.00, 1.00, 1.00)
 )
 
-# Interpolate for all years
-pr_all <- tibble(Year = 2020:2050) %>%
+pr_accii <- tibble(Year = 2020:2050) %>%
   left_join(pr_milestones, by = "Year") %>%
   arrange(Year) %>%
   mutate(EV_PR = approx(Year[!is.na(EV_PR)], EV_PR[!is.na(EV_PR)], Year, rule = 2)$y) %>%
+  mutate(ICE_PR = 1 - EV_PR)
+
+cat("ACCII (ENME) PR:\n")
+print(pr_accii %>% filter(Year %in% c(2025, 2030, 2035, 2040, 2045, 2050)))
+
+# --- Repeal: California's Repeal PR ---
+PR_Repeal_raw <- read_csv("~/Downloads/PR_Repeal.csv", show_col_types = FALSE) %>%
+  mutate(State = trimws(State))
+
+ca_repeal <- PR_Repeal_raw %>%
+  filter(State == "California", Propulsion %in% c("BEV", "PHEV")) %>%
+  select(Year, Propulsion, Fraction) %>%
+  pivot_wider(names_from = Propulsion, values_from = Fraction) %>%
+  mutate(BEV = coalesce(BEV, 0), PHEV = coalesce(PHEV, 0))
+
+pr_repeal <- tibble(Year = 2020:2050) %>%
+  left_join(ca_repeal, by = "Year") %>%
+  arrange(Year) %>%
   mutate(
-    # Split EV into BEV/PHEV: 75% BEV, 25% PHEV
-    BEV_PR = EV_PR * 0.75,
-    PHEV_PR = EV_PR * 0.25,
-    ICE_PR = 1 - EV_PR
+    BEV_PR = coalesce(BEV, 0),
+    PHEV_PR = coalesce(PHEV, 0),
+    EV_PR = BEV_PR + PHEV_PR,
+    ICE_PR = pmax(0, 1 - EV_PR)
+  ) %>%
+  select(Year, EV_PR, BEV_PR, PHEV_PR, ICE_PR)
+
+# Fill early years (before PR data starts) with earliest available value
+first_pr_yr <- min(ca_repeal$Year, na.rm = TRUE)
+fill_vals <- pr_repeal %>% filter(Year == first_pr_yr)
+pr_repeal <- pr_repeal %>%
+  mutate(
+    BEV_PR = if_else(Year < first_pr_yr, fill_vals$BEV_PR, BEV_PR),
+    PHEV_PR = if_else(Year < first_pr_yr, fill_vals$PHEV_PR, PHEV_PR),
+    EV_PR = BEV_PR + PHEV_PR,
+    ICE_PR = pmax(0, 1 - EV_PR)
   )
 
-print(pr_all %>% filter(Year %in% c(2025, 2030, 2035, 2040, 2045, 2050)))
+cat("\nRepeal (California) PR:\n")
+print(pr_repeal %>% filter(Year %in% c(2025, 2030, 2035, 2040, 2045, 2050)))
 
 # -----------------------------
 # 6) Car/SUV Split (use US ratio)
@@ -240,7 +297,7 @@ surv_tbl_ice <- list(
 # -----------------------------
 # 8) Outflow probability helper
 # -----------------------------
-f.getOutflows <- function(n_veh = 1, EV_age, LIB_age,
+f.getOutflows_mx <- function(n_veh = 1, EV_age, LIB_age,
                           maxEV_age = 30, maxLIB_age = 30,
                           mean_ev = 17, sd_ev = 4,
                           mean_lib = 15, sd_lib = 4) {
@@ -304,7 +361,7 @@ EV_engine_step_mx <- function(engine, sales_y = 0, import_y = 0, import_age = 7)
         next
       }
       
-      out <- f.getOutflows(N, ev_a, lib_a,
+      out <- f.getOutflows_mx(N, ev_a, lib_a,
                            mean_ev = mean_ev, sd_ev = sd_ev,
                            mean_lib = mean_lib, sd_lib = sd_lib)
       
@@ -404,31 +461,16 @@ EV_engine_step_mx <- function(engine, sales_y = 0, import_y = 0, import_age = 7)
 }
 
 # -----------------------------
-# 10) Run Mexico Simulation
+# 10) Simulation Function
 # -----------------------------
-cat("\n=== Running Mexico Turnover Simulation ===\n")
-
-# Initialize ICE stock (2022 age distribution, split by Car/SUV)
-ice_stock_car <- ice_age_dist_raw * car_share
-ice_stock_suv <- ice_age_dist_raw * suv_share
-
-# Pad to 50 ages
-ice_stock_car <- c(ice_stock_car, rep(0, 50 - length(ice_stock_car)))
-ice_stock_suv <- c(ice_stock_suv, rep(0, 50 - length(ice_stock_suv)))
-
-# Initialize EV engines with 2022 age distribution
-# Assume: 75% BEV, 25% PHEV; battery age = EV age
-cat("Initializing EV engines with 2022 age distribution...\n")
 
 bev_share_of_ev <- 0.75
 phev_share_of_ev <- 0.25
+vec_to_string <- function(v) paste(as.integer(v), collapse = "|")
 
-# Create initial matrices from 2022 EV age distribution
 init_ev_matrix <- function(segment, propulsion_share) {
   eng <- EV_engine_init_mx(segment)
   seg_share <- ifelse(segment == "Car", car_share, suv_share)
-  
-  # Fill diagonal with EV stock by age (battery age = EV age)
   for (age in 0:30) {
     stock_at_age <- ev_age_dist_raw[age + 1] * seg_share * propulsion_share
     if (!is.na(stock_at_age) && stock_at_age > 0) {
@@ -438,147 +480,164 @@ init_ev_matrix <- function(segment, propulsion_share) {
   eng
 }
 
-ev_engines <- list(
-  BEV_Car = init_ev_matrix("Car", bev_share_of_ev),
-  BEV_SUV = init_ev_matrix("SUV", bev_share_of_ev),
-  PHEV_Car = init_ev_matrix("Car", phev_share_of_ev),
-  PHEV_SUV = init_ev_matrix("SUV", phev_share_of_ev)
-)
-
-cat("  BEV_Car stock:", sum(ev_engines$BEV_Car$matrix), "\n")
-cat("  BEV_SUV stock:", sum(ev_engines$BEV_SUV$matrix), "\n")
-cat("  PHEV_Car stock:", sum(ev_engines$PHEV_Car$matrix), "\n")
-cat("  PHEV_SUV stock:", sum(ev_engines$PHEV_SUV$matrix), "\n")
-cat("  Total EV stock:", sum(ev_engines$BEV_Car$matrix) + sum(ev_engines$BEV_SUV$matrix) + 
-      sum(ev_engines$PHEV_Car$matrix) + sum(ev_engines$PHEV_SUV$matrix), "\n")
-cat("EV initialization complete.\n")
-
-# Results storage
-results_list <- list()
-evlib_list <- list()
-evlib_detail_list <- list()
-
-# Helper: vec to string with "|" separator
-vec_to_string <- function(v) paste(as.integer(v), collapse = "|")
-
-# Track previous year's total stock for demand calculation
-prev_total_stock <- sum(ice_stock_car) + sum(ice_stock_suv) + 
-  sum(ev_engines$BEV_Car$matrix) + sum(ev_engines$BEV_SUV$matrix) +
-  sum(ev_engines$PHEV_Car$matrix) + sum(ev_engines$PHEV_SUV$matrix)
-
-# Main simulation loop (2022-2050)
-for (yr in 2022:2050) {
+run_mexico_simulation <- function(pr_table, scenario_tag) {
   
-  # Get imports from US first (needed for demand calculation)
-  import_data <- us_to_mex_extended %>% filter(Year == yr)
-  if (nrow(import_data) == 0) {
-    import_yr <- avg_import
-    import_ice <- import_yr * 0.95
-    import_ev_bev <- import_yr * 0.05 * 0.75
-    import_ev_phev <- import_yr * 0.05 * 0.25
-  } else {
-    import_yr <- coalesce(import_data$Import_from_US_Total[1], avg_import)
-    import_ice <- coalesce(import_data$Import_ICE[1], import_yr * 0.95)
-    import_ev_bev <- coalesce(import_data$Import_BEV[1], import_yr * 0.05 * 0.75)
-    import_ev_phev <- coalesce(import_data$Import_PHEV[1], import_yr * 0.05 * 0.25)
-  }
-  import_ev <- import_ev_bev + import_ev_phev
+  cat("\n========================================\n")
+  cat("Running Mexico simulation:", scenario_tag, "\n")
+  cat("========================================\n")
   
-  # Get sales data
-  if (yr <= 2025) {
-    # Use actual sales (imports are additional)
-    sales_yr <- mx_sales %>% filter(Year == yr)
-    bev_sales <- coalesce(sales_yr$BEV[1], 0)
-    phev_sales <- coalesce(sales_yr$PHEV[1], 0)
-    ice_sales <- coalesce(sales_yr$ICE[1], 0)
-  } else {
-    # Simulate based on PR and demand
-    pr_yr <- pr_all %>% filter(Year == yr)
-    
-    # Calculate target fleet for this year (VPP linear growth)
-    target_fleet_yr <- pop_by_year %>% filter(Year == yr) %>% pull(Target_Fleet)
-    target_fleet_prev <- pop_by_year %>% filter(Year == yr - 1) %>% pull(Target_Fleet)
-    
-    # Growth demand = target fleet growth
-    growth_demand <- max(0, target_fleet_yr - target_fleet_prev)
-    
-    # Retirement will be calculated below, use estimate for now
-    # Total demand = growth + estimated retirement - imports (imports fulfill part of demand)
-    # Estimated retirement based on previous year's stock and average retirement rate (~6%)
-    est_retirement <- prev_total_stock * 0.06
-    
-    # Total demand = retirement + growth
-    total_raw_demand <- est_retirement + growth_demand
-    
-    # Imports fulfill part of demand (reduce new domestic sales needed)
-    total_domestic_demand <- max(0, total_raw_demand - import_yr)
-    
-    # Split by powertrain based on PR
-    bev_sales <- total_domestic_demand * pr_yr$BEV_PR
-    phev_sales <- total_domestic_demand * pr_yr$PHEV_PR
-    ice_sales <- total_domestic_demand * pr_yr$ICE_PR
-  }
+  # Initialize ICE stock (2022 age distribution, split by Car/SUV)
+  ice_stock_car <- c(ice_age_dist_raw * car_share, rep(0, 50 - length(ice_age_dist_raw)))
+  ice_stock_suv <- c(ice_age_dist_raw * suv_share, rep(0, 50 - length(ice_age_dist_raw)))
   
-  # ICE retirement and aging
+  # Initialize EV engines with 2022 age distribution
+  ev_engines <- list(
+    BEV_Car  = init_ev_matrix("Car",  bev_share_of_ev),
+    BEV_SUV  = init_ev_matrix("SUV",  bev_share_of_ev),
+    PHEV_Car = init_ev_matrix("Car",  phev_share_of_ev),
+    PHEV_SUV = init_ev_matrix("SUV",  phev_share_of_ev)
+  )
+  
+  cat("  Total EV stock:", sum(ev_engines$BEV_Car$matrix) + sum(ev_engines$BEV_SUV$matrix) + 
+        sum(ev_engines$PHEV_Car$matrix) + sum(ev_engines$PHEV_SUV$matrix), "\n")
+  
+  results_list <- list()
+  evlib_list <- list()
+  evlib_detail_list <- list()
+  
+  # BEV/PHEV split for future years: will be set from 2024 year-end stock
+  future_bev_share <- bev_share_of_ev
+  future_phev_share <- phev_share_of_ev
+  
   surv_car <- surv_tbl_ice$Car
   surv_suv <- surv_tbl_ice$SUV
-  
   y_car <- surv_car$y
   y_suv <- surv_suv$y
   
-  ret_ice_car <- sum(ice_stock_car * (1 - y_car[1:50]), na.rm = TRUE)
-  ret_ice_suv <- sum(ice_stock_suv * (1 - y_suv[1:50]), na.rm = TRUE)
-  ret_ice <- ret_ice_car + ret_ice_suv
+  for (yr in 2022:2050) {
+    
+    # --- 1. Imports from US ---
+    import_data <- us_to_mex_extended %>% filter(Year == yr)
+    if (nrow(import_data) == 0) {
+      import_yr <- avg_import
+      import_ice <- import_yr * 0.95
+      import_ev_bev <- import_yr * 0.05 * future_bev_share
+      import_ev_phev <- import_yr * 0.05 * future_phev_share
+    } else {
+      import_yr <- coalesce(import_data$Import_from_US_Total[1], avg_import)
+      import_ice <- coalesce(import_data$Import_ICE[1], import_yr * 0.95)
+      import_ev_bev <- coalesce(import_data$Import_BEV[1], import_yr * 0.05 * future_bev_share)
+      import_ev_phev <- coalesce(import_data$Import_PHEV[1], import_yr * 0.05 * future_phev_share)
+    }
+    import_ev <- import_ev_bev + import_ev_phev
+    
+    # --- 2. ICE retirement (from survival function) ---
+    ret_ice_car <- sum(ice_stock_car * (1 - y_car[1:50]), na.rm = TRUE)
+    ret_ice_suv <- sum(ice_stock_suv * (1 - y_suv[1:50]), na.rm = TRUE)
+    ret_ice <- ret_ice_car + ret_ice_suv
+    
+    # --- 3. EV retirement (read-only on copies to avoid double-aging) ---
+    tmp_bev_car  <- ev_engines$BEV_Car
+    tmp_bev_suv  <- ev_engines$BEV_SUV
+    tmp_phev_car <- ev_engines$PHEV_Car
+    tmp_phev_suv <- ev_engines$PHEV_SUV
+    
+    step0_bev_car  <- EV_engine_step_mx(tmp_bev_car,  sales_y = 0, import_y = 0)
+    step0_bev_suv  <- EV_engine_step_mx(tmp_bev_suv,  sales_y = 0, import_y = 0)
+    step0_phev_car <- EV_engine_step_mx(tmp_phev_car, sales_y = 0, import_y = 0)
+    step0_phev_suv <- EV_engine_step_mx(tmp_phev_suv, sales_y = 0, import_y = 0)
+    
+    ret_bev  <- step0_bev_car$EV_retired  + step0_bev_suv$EV_retired
+    ret_phev <- step0_phev_car$EV_retired + step0_phev_suv$EV_retired
+    # Note: ev_engines NOT updated here; step2 below does the actual aging + sales addition
+    
+    # --- 4. Determine new vehicle sales ---
+    if (yr <= 2024) {
+      # 2022-2024: actual sales from ICCT
+      sales_yr <- mx_sales %>% filter(Year == yr)
+      bev_sales <- coalesce(sales_yr$BEV[1], 0)
+      phev_sales <- coalesce(sales_yr$PHEV[1], 0)
+      ice_sales <- coalesce(sales_yr$ICE[1], 0)
+      
+      # After 2024: capture BEV/PHEV stock ratio for future splits
+      if (yr == 2024) {
+        stock_bev_2024 <- sum(ev_engines$BEV_Car$matrix) + sum(ev_engines$BEV_SUV$matrix)
+        stock_phev_2024 <- sum(ev_engines$PHEV_Car$matrix) + sum(ev_engines$PHEV_SUV$matrix)
+        stock_ev_2024 <- stock_bev_2024 + stock_phev_2024
+        if (stock_ev_2024 > 0) {
+          future_bev_share  <- stock_bev_2024 / stock_ev_2024
+          future_phev_share <- stock_phev_2024 / stock_ev_2024
+        }
+        cat("  2024 EV stock ratio — BEV:", round(future_bev_share * 100, 1),
+            "% PHEV:", round(future_phev_share * 100, 1), "%\n")
+      }
+    } else {
+      # 2025+: demand = actual retirements + population growth
+      pr_yr <- pr_table %>% filter(Year == yr)
+      
+      target_fleet_yr <- pop_by_year %>% filter(Year == yr) %>% pull(Target_Fleet)
+      target_fleet_prev <- pop_by_year %>% filter(Year == yr - 1) %>% pull(Target_Fleet)
+      growth_demand <- max(0, target_fleet_yr - target_fleet_prev)
+      
+      total_ret <- ret_ice + ret_bev + ret_phev
+      total_raw_demand <- total_ret + growth_demand
+      total_domestic_demand <- max(0, total_raw_demand - import_yr)
+      
+      ev_pr <- pr_yr$EV_PR
+      ice_pr <- pr_yr$ICE_PR
+      
+      bev_sales  <- total_domestic_demand * ev_pr * future_bev_share
+      phev_sales <- total_domestic_demand * ev_pr * future_phev_share
+      ice_sales  <- total_domestic_demand * ice_pr
+    }
+    
+    # --- 5. Age ICE stock and add new ---
+    ice_stock_car_new <- numeric(50)
+    ice_stock_suv_new <- numeric(50)
+    ice_stock_car_new[2:50] <- ice_stock_car[1:49] * y_car[1:49]
+    ice_stock_suv_new[2:50] <- ice_stock_suv[1:49] * y_suv[1:49]
+    
+    ice_stock_car_new[1] <- ice_sales * car_share
+    ice_stock_suv_new[1] <- ice_sales * suv_share
+    
+    ice_stock_car_new[8] <- ice_stock_car_new[8] + import_ice * car_share
+    ice_stock_suv_new[8] <- ice_stock_suv_new[8] + import_ice * suv_share
+    
+    ice_stock_car <- ice_stock_car_new
+    ice_stock_suv <- ice_stock_suv_new
+    
+    # --- 6. Add new EVs (second step with actual sales) ---
+    step_bev_car <- EV_engine_step_mx(ev_engines$BEV_Car, 
+                                       sales_y = bev_sales * car_share,
+                                       import_y = import_ev_bev * car_share,
+                                       import_age = 7)
+    ev_engines$BEV_Car <- step_bev_car$engine
+    
+    step_bev_suv <- EV_engine_step_mx(ev_engines$BEV_SUV, 
+                                       sales_y = bev_sales * suv_share,
+                                       import_y = import_ev_bev * suv_share,
+                                       import_age = 7)
+    ev_engines$BEV_SUV <- step_bev_suv$engine
+    
+    step_phev_car <- EV_engine_step_mx(ev_engines$PHEV_Car, 
+                                        sales_y = phev_sales * car_share,
+                                        import_y = import_ev_phev * car_share,
+                                        import_age = 7)
+    ev_engines$PHEV_Car <- step_phev_car$engine
+    
+    step_phev_suv <- EV_engine_step_mx(ev_engines$PHEV_SUV, 
+                                        sales_y = phev_sales * suv_share,
+                                        import_y = import_ev_phev * suv_share,
+                                        import_age = 7)
+    ev_engines$PHEV_SUV <- step_phev_suv$engine
   
-  # Age ICE stock
-  ice_stock_car_new <- numeric(50)
-  ice_stock_suv_new <- numeric(50)
-  ice_stock_car_new[2:50] <- ice_stock_car[1:49] * y_car[1:49]
-  ice_stock_suv_new[2:50] <- ice_stock_suv[1:49] * y_suv[1:49]
-  
-  # Add new ICE (domestic sales + imports)
-  ice_stock_car_new[1] <- ice_sales * car_share
-  ice_stock_suv_new[1] <- ice_sales * suv_share
-  
-  # Add ICE imports at age 7
-  ice_stock_car_new[8] <- ice_stock_car_new[8] + import_ice * car_share
-  ice_stock_suv_new[8] <- ice_stock_suv_new[8] + import_ice * suv_share
-  
-  ice_stock_car <- ice_stock_car_new
-  ice_stock_suv <- ice_stock_suv_new
-  
-  # EV simulation (import_ev_bev and import_ev_phev already from export projection)
-  step_bev_car <- EV_engine_step_mx(ev_engines$BEV_Car, 
-                                     sales_y = bev_sales * car_share,
-                                     import_y = import_ev_bev * car_share,
-                                     import_age = 7)
-  ev_engines$BEV_Car <- step_bev_car$engine
-  
-  step_bev_suv <- EV_engine_step_mx(ev_engines$BEV_SUV, 
-                                     sales_y = bev_sales * suv_share,
-                                     import_y = import_ev_bev * suv_share,
-                                     import_age = 7)
-  ev_engines$BEV_SUV <- step_bev_suv$engine
-  
-  step_phev_car <- EV_engine_step_mx(ev_engines$PHEV_Car, 
-                                      sales_y = phev_sales * car_share,
-                                      import_y = import_ev_phev * car_share,
-                                      import_age = 7)
-  ev_engines$PHEV_Car <- step_phev_car$engine
-  
-  step_phev_suv <- EV_engine_step_mx(ev_engines$PHEV_SUV, 
-                                      sales_y = phev_sales * suv_share,
-                                      import_y = import_ev_phev * suv_share,
-                                      import_age = 7)
-  ev_engines$PHEV_SUV <- step_phev_suv$engine
-  
-  # Aggregate results
-  ret_bev <- step_bev_car$EV_retired + step_bev_suv$EV_retired
-  ret_phev <- step_phev_car$EV_retired + step_phev_suv$EV_retired
-  
-  stock_bev <- step_bev_car$EV_stock + step_bev_suv$EV_stock
-  stock_phev <- step_phev_car$EV_stock + step_phev_suv$EV_stock
-  stock_ice <- sum(ice_stock_car) + sum(ice_stock_suv)
+    # Aggregate results (retirement from step0 + additional from step2)
+    ret_bev  <- ret_bev  + step_bev_car$EV_retired  + step_bev_suv$EV_retired
+    ret_phev <- ret_phev + step_phev_car$EV_retired + step_phev_suv$EV_retired
+    
+    stock_bev <- step_bev_car$EV_stock + step_bev_suv$EV_stock
+    stock_phev <- step_phev_car$EV_stock + step_phev_suv$EV_stock
+    stock_ice <- sum(ice_stock_car) + sum(ice_stock_suv)
   
   # Store main results
   results_list[[as.character(yr)]] <- tibble(
@@ -707,62 +766,52 @@ for (yr in 2022:2050) {
     EV_stock = stock_bev + stock_phev
   )
   
-  # Update prev_total_stock for next iteration
   prev_total_stock <- stock_bev + stock_phev + stock_ice
   
-  if (yr %% 5 == 0) cat("Year", yr, "- Stock:", format(round(prev_total_stock), big.mark = ","), 
+  if (yr %% 5 == 0) cat("  Year", yr, "- Stock:", format(round(prev_total_stock), big.mark = ","), 
                         "- Imports:", format(round(import_yr), big.mark = ","), "\n")
+  }
+  
+  # --- Save results ---
+  results_df <- bind_rows(results_list)
+  evlib_df <- bind_rows(evlib_list)
+  evlib_detail_df <- bind_rows(evlib_detail_list)
+  
+  dir.create("Outputs/Mexico", showWarnings = FALSE, recursive = TRUE)
+  
+  write_csv(results_df, paste0("Outputs/Mexico/Mexico_FleetTurnover_", scenario_tag, ".csv"))
+  cat("Saved: Outputs/Mexico/Mexico_FleetTurnover_", scenario_tag, ".csv\n")
+  
+  write_csv(evlib_df, paste0("Outputs/Mexico/Mexico_EVLIB_Flows_", scenario_tag, ".csv"))
+  cat("Saved: Outputs/Mexico/Mexico_EVLIB_Flows_", scenario_tag, ".csv\n")
+  
+  write_csv(evlib_detail_df, paste0("Outputs/Mexico/EVLIB_Flows_detail_", scenario_tag, ".csv"))
+  cat("Saved: Outputs/Mexico/EVLIB_Flows_detail_", scenario_tag, ".csv\n")
+  
+  state_totals <- results_df %>%
+    mutate(State = "Mexico", Scenario = scenario_tag) %>%
+    select(State, Year, add_BEV, add_PHEV, add_ICE, ret_BEV, ret_PHEV, ret_ICE,
+           stock_BEV, stock_PHEV, stock_ICE, stock_Total, import_from_US, Scenario)
+  
+  write_csv(state_totals, paste0("Outputs/Mexico/ClosedLoop_StateTotals_", scenario_tag, ".csv"))
+  cat("Saved: Outputs/Mexico/ClosedLoop_StateTotals_", scenario_tag, ".csv\n")
+  
+  # Summary
+  summary_years <- results_df %>%
+    filter(Year %in% c(2025, 2030, 2035, 2040, 2045, 2050)) %>%
+    mutate(EV_Share = (add_BEV + add_PHEV) / add_Total * 100)
+  
+  cat("\n--- Summary (", scenario_tag, ") ---\n")
+  print(summary_years %>% select(Year, add_BEV, add_PHEV, add_ICE, EV_Share, stock_Total))
+  
+  invisible(list(results = results_df, evlib = evlib_df, evlib_detail = evlib_detail_df))
 }
 
 # -----------------------------
-# 11) Combine and Save Results
+# 11) Run both scenarios
 # -----------------------------
-cat("\n=== Saving Results ===\n")
+run_mexico_simulation(pr_accii,  "ACCII")
+run_mexico_simulation(pr_repeal, "Repeal")
 
-results_df <- bind_rows(results_list)
-evlib_df <- bind_rows(evlib_list)
-evlib_detail_df <- bind_rows(evlib_detail_list)
-
-dir.create("Outputs/Mexico", showWarnings = FALSE, recursive = TRUE)
-
-# Main fleet turnover
-write_csv(results_df, "Outputs/Mexico/Mexico_FleetTurnover_2022_2050.csv")
-cat("Saved: Outputs/Mexico/Mexico_FleetTurnover_2022_2050.csv\n")
-
-# Aggregated EVLIB
-write_csv(evlib_df, "Outputs/Mexico/Mexico_EVLIB_Flows_2022_2050.csv")
-cat("Saved: Outputs/Mexico/Mexico_EVLIB_Flows_2022_2050.csv\n")
-
-# Detailed EVLIB by Segment × Propulsion (like US)
-write_csv(evlib_detail_df, "Outputs/Mexico/EVLIB_Flows_detail_ACCII.csv")
-cat("Saved: Outputs/Mexico/EVLIB_Flows_detail_ACCII.csv\n")
-
-# State totals (aggregated by year, like US ClosedLoop_StateTotals)
-state_totals <- results_df %>%
-  mutate(State = "Mexico") %>%
-  select(State, Year, add_BEV, add_PHEV, add_ICE, ret_BEV, ret_PHEV, ret_ICE,
-         stock_BEV, stock_PHEV, stock_ICE, stock_Total, import_from_US) %>%
-  mutate(Scenario = "ACCII")
-
-write_csv(state_totals, "Outputs/Mexico/ClosedLoop_StateTotals_ACCII.csv")
-cat("Saved: Outputs/Mexico/ClosedLoop_StateTotals_ACCII.csv\n")
-
-# -----------------------------
-# 12) Summary
-# -----------------------------
-cat("\n=== Mexico Fleet Turnover Summary ===\n")
-
-summary_years <- results_df %>%
-  filter(Year %in% c(2025, 2030, 2035, 2040, 2045, 2050)) %>%
-  mutate(EV_Share = (add_BEV + add_PHEV) / add_Total * 100)
-
-print(summary_years %>% select(Year, add_BEV, add_PHEV, add_ICE, EV_Share, stock_Total))
-
-cat("\n=== EVLIB Summary ===\n")
-evlib_summary <- evlib_df %>%
-  filter(Year %in% c(2030, 2040, 2050)) %>%
-  select(Year, LIB_recycling, LIB_repurpose, LIB_reuse_EV, EV_retired, EV_stock)
-print(evlib_summary)
-
-cat("\n=== Mexico Turnover Model Complete! ===\n")
+cat("\n=== Mexico Turnover Model Complete (ACCII + Repeal) ===\n")
 

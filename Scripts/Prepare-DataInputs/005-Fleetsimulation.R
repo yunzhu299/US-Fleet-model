@@ -69,6 +69,94 @@ if (!exists("EV_engine_init") || !exists("EV_engine_step")) {
   stop("EV engine functions not found. Source 04 before running 05.")
 }
 
+# -------------------------------------------------------------------------
+# Patch: California actual sales (CARB/DMV data); redistribute remainder
+#        to other states proportionally (excl. CA) from the original shares.
+# -------------------------------------------------------------------------
+ca_totals_actual <- tribble(
+  ~`Sale Year`, ~Propulsion, ~total,
+  2014, "BEV",   27482,
+  2015, "BEV",   31432,
+  2016, "BEV",   35977,
+  2017, "BEV",   46608,
+  2018, "BEV",   89759,
+  2019, "BEV",   91935,
+  2020, "BEV",   89400,
+  2021, "BEV",  160313,
+  2022, "BEV",  262668,
+  2023, "BEV",  374385,
+  2024, "BEV",  378910,
+  2025, "BEV",  351043,
+  2014, "PHEV",  27873,
+  2015, "PHEV",  22742,
+  2016, "PHEV",  31969,
+  2017, "PHEV",  41605,
+  2018, "PHEV",  57793,
+  2019, "PHEV",  43972,
+  2020, "PHEV",  26644,
+  2021, "PHEV",  52605,
+  2022, "PHEV",  43200,
+  2023, "PHEV",  62775,
+  2024, "PHEV",  63864,
+  2025, "PHEV",  57325
+)
+
+# Car/SUV ratio from existing EV_historical for CA; use 2024 ratio for 2025
+ca_seg_ratio <- EV_historical %>%
+  filter(State == "California") %>%
+  group_by(`Sale Year`, Propulsion) %>%
+  mutate(seg_share = Sales / sum(Sales, na.rm = TRUE)) %>%
+  ungroup() %>%
+  select(`Sale Year`, Propulsion, `Global Segment`, seg_share)
+
+ca_seg_ratio_2025 <- ca_seg_ratio %>%
+  filter(`Sale Year` == 2024) %>%
+  mutate(`Sale Year` = 2025)
+ca_seg_ratio <- bind_rows(ca_seg_ratio, ca_seg_ratio_2025)
+
+# Build CA actual rows with Car/SUV split
+ca_actual_rows <- ca_totals_actual %>%
+  left_join(ca_seg_ratio, by = c("Sale Year", "Propulsion")) %>%
+  mutate(Sales = total * coalesce(seg_share, 0.5),
+         State = "California") %>%
+  filter(!is.na(`Global Segment`)) %>%
+  select(State, `Sale Year`, Propulsion, `Global Segment`, Sales)
+
+# National totals from original data (sum all states)
+nat_totals <- EV_historical %>%
+  group_by(`Sale Year`, Propulsion, `Global Segment`) %>%
+  summarise(nat_total = sum(Sales, na.rm = TRUE), .groups = "drop")
+
+# CA actual totals by segment (for remainder calc)
+ca_actual_by_seg <- ca_actual_rows %>%
+  group_by(`Sale Year`, Propulsion, `Global Segment`) %>%
+  summarise(ca_actual = sum(Sales, na.rm = TRUE), .groups = "drop")
+
+# Remainder = national total - CA actual (floor at 0)
+remainder_tbl <- nat_totals %>%
+  left_join(ca_actual_by_seg, by = c("Sale Year", "Propulsion", "Global Segment")) %>%
+  mutate(remainder = pmax(0, nat_total - coalesce(ca_actual, 0)))
+
+# Non-CA states: re-normalize shares among themselves, then scale to remainder
+non_ca_patched <- EV_historical %>%
+  filter(State != "California") %>%
+  left_join(
+    EV_historical %>%
+      filter(State != "California") %>%
+      group_by(`Sale Year`, Propulsion, `Global Segment`) %>%
+      summarise(non_ca_orig_total = sum(Sales, na.rm = TRUE), .groups = "drop"),
+    by = c("Sale Year", "Propulsion", "Global Segment")
+  ) %>%
+  mutate(non_ca_share = ifelse(non_ca_orig_total > 0, Sales / non_ca_orig_total, 0)) %>%
+  left_join(remainder_tbl %>% select(`Sale Year`, Propulsion, `Global Segment`, remainder),
+            by = c("Sale Year", "Propulsion", "Global Segment")) %>%
+  mutate(Sales = non_ca_share * coalesce(remainder, non_ca_orig_total)) %>%
+  select(State, `Sale Year`, Propulsion, `Global Segment`, Sales)
+
+EV_historical <- bind_rows(ca_actual_rows, non_ca_patched)
+cat("EV_historical patched: CA actual sales (2014-2025); remainder redistributed to other states.\n")
+# ---- End CA patch ----
+
 # -----------------------------
 # 3) PR_wide with 2020 backfilled from 2021
 # -----------------------------
@@ -184,6 +272,76 @@ ice_real_2020_24 <- ice_state_totals %>%
             ICE_sales_seg = as.integer(round(ICE_state * seg_share))) %>%
   arrange(State, Segment, Year)
 
+# ---- Patch: California actual ICE (derived from ZEV share data) ----
+# Total = ZEV / ZEV_share; ICE = Total - ZEV
+ca_ice_actual_vals <- tribble(
+  ~State,        ~Year,  ~ICE_total,
+  "California",  2020,   1371700L,
+  "California",  2021,   1463602L,
+  "California",  2022,   1262686L,
+  "California",  2023,   1311480L,
+  "California",  2024,   1307122L,
+  "California",  2025,   1374899L
+)
+
+ca_ice_actual_seg <- ca_ice_actual_vals %>%
+  left_join(seg_share_2020, by = "State") %>%
+  pivot_longer(c(Car, SUV), names_to = "Segment", values_to = "seg_share") %>%
+  mutate(
+    seg_share     = coalesce(seg_share, 0.5),
+    ICE_sales_seg = as.integer(round(ICE_total * seg_share))
+  ) %>%
+  select(State, Segment, Year, ICE_sales_seg)
+
+# Override CA 2020-2024 in ice_real_2020_24
+ice_real_2020_24 <- ice_real_2020_24 %>%
+  filter(!(State == "California" & Year %in% 2020:2024)) %>%
+  bind_rows(ca_ice_actual_seg %>% filter(Year %in% 2020:2024)) %>%
+  arrange(State, Segment, Year)
+
+# Build 2025 extension: CA actual + non-CA scaled from 2024 proxy
+nat_ice_2024 <- ice_real_2020_24 %>%
+  filter(Year == 2024) %>%
+  summarise(total = sum(ICE_sales_seg, na.rm = TRUE)) %>%
+  pull(total)
+
+non_ca_2025_ice <- ice_real_2020_24 %>%
+  filter(Year == 2024, State != "California") %>%
+  group_by(State, Segment) %>%
+  summarise(sales_2024 = sum(ICE_sales_seg, na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    non_ca_total  = sum(sales_2024),
+    remainder     = pmax(0L, nat_ice_2024 - 1374899L),
+    ICE_sales_seg = as.integer(round(sales_2024 / non_ca_total * remainder)),
+    Year          = 2025L
+  ) %>%
+  select(State, Segment, Year, ICE_sales_seg)
+
+ice_real_2020_25 <- bind_rows(
+  ice_real_2020_24,
+  ca_ice_actual_seg %>% filter(Year == 2025L),
+  non_ca_2025_ice
+) %>%
+  arrange(State, Segment, Year)
+
+# Extend real EV to 2025: CA from EV patch, non-CA carry forward 2024
+ev_ca_2025_real <- EV_historical %>%
+  filter(State == "California", `Sale Year` == "2025") %>%
+  transmute(State,
+            Segment    = `Global Segment`,
+            Propulsion,
+            Year       = 2025L,
+            Sales)
+
+ev_non_ca_2025 <- real_ev_2020_24 %>%
+  filter(Year == 2024, State != "California") %>%
+  mutate(Year = 2025L)
+
+real_ev_2020_25 <- bind_rows(real_ev_2020_24, ev_ca_2025_real, ev_non_ca_2025)
+
+cat("CA ICE patched 2020-2025 with actual data; ice_real/ev_real extended to 2025.\n")
+# ---- End CA ICE patch ----
+
 # -----------------------------
 # 3c) Export factor helpers
 # -----------------------------
@@ -233,33 +391,11 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
   PR_wide <- make_PR_wide(PR_table)
   
   # ---- Initialize ICE stock at start of 2020 (Car/SUV split, age 0..49)
-  regs_2020_pt <- regs %>%
-    filter(Year == 2020) %>%
-    transmute(State,
-              ICE = coalesce(Gasoline, 0) + coalesce(`Hybrid Electric (HEV)`, 0))
-  
-  regs_2020_ICE_seg <- regs_2020_pt %>%
-    inner_join(seg_share_2020, by = "State") %>%
-    pivot_longer(c(Car, SUV), names_to = "Segment", values_to = "seg_share") %>%
-    mutate(TotalPT_Seg = ICE * seg_share) %>%
-    select(State, Segment, TotalPT_Seg)
-  
-  frac_age_2020 <- state_age_long_filled_by_type %>%
-    filter(yearID == 2020) %>%
-    transmute(
-      State   = state,
-      Segment = if_else(Type == "Truck", "SUV", Type),
-      ageID,
-      age_frac = ageFraction_state_type
-    ) %>%
-    filter(Segment %in% c("Car", "SUV"))
-  
-  ice_init_0_49 <- regs_2020_ICE_seg %>%
-    inner_join(frac_age_2020, by = c("State", "Segment")) %>%
-    mutate(N = pmax(TotalPT_Seg * age_frac, 0)) %>%
-    filter(ageID <= 49) %>%
-    group_by(State, Segment, ageID) %>%
-    summarise(N = sum(N, na.rm = TRUE), .groups = "drop")
+  #      Use 002's stock_turnover_0_49_Type which properly distributes
+  #      the "30+" bin across ages 30-49 using logistic tail weights.
+  ice_init_0_49 <- stock_turnover_0_49_Type %>%
+    mutate(Segment = if_else(Type == "Truck", "SUV", Type)) %>%
+    select(State, Segment, ageID, N)
   
   surv_tbl_ice <- list(
     Car = surv_tbl_by_type$Car,
@@ -364,12 +500,12 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
     
     # -----------------
     # Branch by year:
-    # 2020–2024 → REAL adds (EV real; ICE from regs allocation)
-    # 2025+     → simulate from demand & PR
+    # 2020–2024 → REAL adds for all states (EV real; ICE regs-based, CA actual)
+    # 2025+     → simulate via PR for all states; CA 2025 overridden with actual
     # -----------------
     if (yr <= 2024) {
-      add_ice_real <- ice_real_2020_24 %>% filter(Year == yr)
-      ev_real      <- real_ev_2020_24 %>% filter(Year == yr)
+      add_ice_real <- ice_real_2020_25 %>% filter(Year == yr)
+      ev_real      <- real_ev_2020_25 %>% filter(Year == yr)
       
       # feed ICE
       for (i in seq_len(nrow(ice_keys))) {
@@ -495,7 +631,37 @@ run_one_scenario <- function(PR_table, scenario_tag = "ACCII") {
         add_PHEV = Demand_total * coalesce(PHEV, 0),
         add_ICE  = Demand_total * coalesce(ICE,  1)
       )
-    
+
+    # For yr == 2025: override California with actual sales data
+    if (yr == 2025) {
+      ca_ice_ovr <- ice_real_2020_25 %>%
+        filter(State == "California", Year == 2025) %>%
+        group_by(State, Segment) %>%
+        summarise(add_ICE_act = sum(ICE_sales_seg, na.rm = TRUE), .groups = "drop")
+
+      ca_bev_ovr <- real_ev_2020_25 %>%
+        filter(State == "California", Year == 2025, Propulsion == "BEV") %>%
+        group_by(State, Segment) %>%
+        summarise(add_BEV_act = sum(Sales, na.rm = TRUE), .groups = "drop")
+
+      ca_phev_ovr <- real_ev_2020_25 %>%
+        filter(State == "California", Year == 2025, Propulsion == "PHEV") %>%
+        group_by(State, Segment) %>%
+        summarise(add_PHEV_act = sum(Sales, na.rm = TRUE), .groups = "drop")
+
+      add_need <- add_need %>%
+        left_join(ca_ice_ovr,  by = c("State", "Segment")) %>%
+        left_join(ca_bev_ovr,  by = c("State", "Segment")) %>%
+        left_join(ca_phev_ovr, by = c("State", "Segment")) %>%
+        mutate(
+          add_ICE  = ifelse(State == "California", coalesce(add_ICE_act,  add_ICE),  add_ICE),
+          add_BEV  = ifelse(State == "California", coalesce(add_BEV_act,  add_BEV),  add_BEV),
+          add_PHEV = ifelse(State == "California", coalesce(add_PHEV_act, add_PHEV), add_PHEV),
+          Demand_total = add_BEV + add_PHEV + add_ICE
+        ) %>%
+        select(-add_ICE_act, -add_BEV_act, -add_PHEV_act)
+    }
+
     # feed ICE
     for (i in seq_len(nrow(ice_keys))) {
       k <- ice_keys[i, ]; key <- paste(k$State, k$Segment, sep = " | ")

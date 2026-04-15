@@ -63,28 +63,38 @@ cat("SUV/Truck: mu=19, b=4.5 (median ~19 years)\n")
 # -----------------------------
 # 3) EV Engine & Lifetime Params
 # -----------------------------
-# Check if EV engine functions exist from 004
-if (!exists("EV_engine_init") || !exists("EV_engine_step")) {
-  stop("EV engine functions not found. Please run 004-EVTurnover.R first.")
+# Always re-source 004 to guarantee f.getOutflows has the correct signature
+# (dist.Age parameter). Without this, a prior run of 024-MexicoTurnover could
+# leave an incompatible f.getOutflows in the environment.
+local_004 <- file.path("Scripts/Prepare-DataInputs/004-EVTurnover.R")
+if (!file.exists(local_004)) local_004 <- "004-EVTurnover.R"
+if (file.exists(local_004)) {
+  source(local_004, local = FALSE)
+  cat("004-EVTurnover.R re-sourced to ensure correct f.getOutflows definition.\n")
+} else {
+  stop("Cannot find 004-EVTurnover.R. Please run it first.")
 }
 if (!exists("life_param")) {
-  # Define locally if not available
   life_param <- tibble(
-    Vehicle  = c("Car", "SUV"),
-    mean_ev  = c(17, 17),
-    sd_ev    = c(4, 4),
-    mean_lib = c(15, 15),  # Both Car and SUV use mean_lib = 15
-    sd_lib   = c(4, 4)
+    Vehicle       = c("Car", "SUV"),
+    mean_ev       = c(17, 17),
+    sd_ev         = c(4, 4),
+    mean_lib      = c(15, 15),
+    sd_lib        = c(4, 4),
+    scen_lifetime = "Baseline"
   )
+}
+# 确保 scen_lifetime 列存在（旧版 life_param 可能缺少此列）
+if (!"scen_lifetime" %in% names(life_param)) {
+  life_param <- life_param %>% mutate(scen_lifetime = "Baseline")
 }
 
 # -----------------------------
 # 4) Export factor for Canada
 # -----------------------------
-# Canada is generally a net exporter to the US
-canada_export_factor <- 0.05
+canada_export_factor <- 0.00
 domestic_factor <- 1 - canada_export_factor
-cat("Canada export factor:", canada_export_factor, "\n")
+cat("Canada export factor:", canada_export_factor, "(disabled)\n")
 
 # -----------------------------
 # 5) Prepare data structures
@@ -136,6 +146,57 @@ growth_seg_base <- growth_from_pop %>%
   pivot_longer(c(Car, SUV), names_to = "Segment", values_to = "seg_share") %>%
   mutate(Growth_seg = Growth_from_pop * coalesce(seg_share, 0.5)) %>%
   select(State, Segment, Year, Growth_seg)
+
+# -----------------------------
+# 5b) Prepare ACTUAL 2020-2024 sales (like US 005)
+#     National total sales - national EV = national ICE
+#     ICE allocated to provinces by ICE registration weights
+# -----------------------------
+cat("\nPreparing 2020-2024 actual sales data...\n")
+
+# Actual EV sales by province (already province-level from 010)
+real_ev_ca <- canada_ev_historical %>%
+  mutate(Segment = case_when(
+    Vehicle %in% c("Car", "Passenger Car") ~ "Car",
+    Vehicle %in% c("SUV", "Truck", "Light Truck") ~ "SUV",
+    TRUE ~ "Car"
+  )) %>%
+  rename(Year = `Sale Year`) %>%
+  filter(Year >= 2020, Year <= 2024, Propulsion %in% c("BEV", "PHEV")) %>%
+  select(State, Segment, Propulsion, Year, Sales)
+
+# National EV totals by year × segment
+ev_national_ca <- real_ev_ca %>%
+  group_by(Year, Segment) %>%
+  summarise(EV_total = sum(Sales, na.rm = TRUE), .groups = "drop")
+
+# National ICE = total sales - EV (by year × segment)
+ice_national_ca <- canada_total_sales %>%
+  filter(Year >= 2020, Year <= 2024) %>%
+  left_join(ev_national_ca, by = c("Year", "Segment")) %>%
+  mutate(EV_total = coalesce(EV_total, 0),
+         ICE_national = pmax(0, Total_Sales - EV_total)) %>%
+  select(Year, Segment, ICE_national)
+
+# Province ICE weights from 2020 registrations (ICE_Car, ICE_Truck)
+ice_weights_ca <- canada_ice_pool %>%
+  select(Province, ICE_Car, ICE_Truck) %>%
+  pivot_longer(c(ICE_Car, ICE_Truck), names_to = "seg_raw", values_to = "ICE_reg") %>%
+  mutate(Segment = if_else(seg_raw == "ICE_Car", "Car", "SUV")) %>%
+  select(State = Province, Segment, ICE_reg) %>%
+  group_by(Segment) %>%
+  mutate(w_share = ICE_reg / sum(ICE_reg, na.rm = TRUE)) %>%
+  ungroup() %>%
+  select(State, Segment, w_share)
+
+# Allocate national ICE to provinces
+ice_province_2020_24 <- ice_national_ca %>%
+  left_join(ice_weights_ca, by = "Segment") %>%
+  mutate(ICE_sales = round(ICE_national * w_share)) %>%
+  select(State, Segment, Year, ICE_sales)
+
+cat("  Actual EV rows (2020-2024):", nrow(real_ev_ca), "\n")
+cat("  ICE province allocations:", nrow(ice_province_2020_24), "\n")
 
 # -----------------------------
 # 6) PR tables
@@ -325,23 +386,42 @@ run_canada_simulation <- function(PR_table, scenario_tag) {
       key_bev <- paste(st, seg, "BEV", sep = " | ")
       key_phev <- paste(st, seg, "PHEV", sep = " | ")
       
-      step_bev <- EV_engine_step(ev_engines[[key_bev]], 0)
-      step_phev <- EV_engine_step(ev_engines[[key_phev]], 0)
+      # Read-only retirement estimate: use copies to avoid double-aging
+      tmp_bev  <- ev_engines[[key_bev]]
+      tmp_phev <- ev_engines[[key_phev]]
+      step_bev  <- EV_engine_step(tmp_bev,  0)
+      step_phev <- EV_engine_step(tmp_phev, 0)
       
-      ret_bev <- step_bev$EV_retired
+      ret_bev  <- step_bev$EV_retired
       ret_phev <- step_phev$EV_retired
-      
-      ev_engines[[key_bev]] <- step_bev$engine
-      ev_engines[[key_phev]] <- step_phev$engine
+      # Note: ev_engines NOT updated here; step2 below does the actual aging
       
       # Total demand
       total_ret <- ret_ice_now + ret_bev + ret_phev
       total_demand <- total_ret + growth_now
       
-      # Allocate by PR
-      add_bev <- total_demand * bev_pr
-      add_phev <- total_demand * phev_pr
-      add_ice <- total_demand * (1 - bev_pr - phev_pr)
+      if (yr <= 2024) {
+        # 2020-2024: use actual sales
+        add_bev_actual <- real_ev_ca %>%
+          filter(State == st, Segment == seg, Propulsion == "BEV", Year == yr) %>%
+          pull(Sales) %>% {if(length(.) == 0) 0 else sum(., na.rm = TRUE)}
+        add_phev_actual <- real_ev_ca %>%
+          filter(State == st, Segment == seg, Propulsion == "PHEV", Year == yr) %>%
+          pull(Sales) %>% {if(length(.) == 0) 0 else sum(., na.rm = TRUE)}
+        add_ice_actual <- ice_province_2020_24 %>%
+          filter(State == st, Segment == seg, Year == yr) %>%
+          pull(ICE_sales) %>% {if(length(.) == 0) 0 else sum(., na.rm = TRUE)}
+        
+        add_bev  <- add_bev_actual
+        add_phev <- add_phev_actual
+        add_ice  <- add_ice_actual
+        total_demand <- add_bev + add_phev + add_ice
+      } else {
+        # 2025+: simulation driven by demand × PR
+        add_bev <- total_demand * bev_pr
+        add_phev <- total_demand * phev_pr
+        add_ice <- total_demand * (1 - bev_pr - phev_pr)
+      }
       
       # Add new ICE
       ice_key <- paste(st, seg, sep = " | ")
@@ -360,9 +440,9 @@ run_canada_simulation <- function(PR_table, scenario_tag) {
       results_rows[[length(results_rows) + 1]] <- tibble(
         State = st, Segment = seg, Year = yr,
         ret_ICE = ret_ice_now,
-        ret_BEV = ret_bev + step2_bev$EV_retired,
-        ret_PHEV = ret_phev + step2_phev$EV_retired,
-        ret_EV = ret_bev + ret_phev + step2_bev$EV_retired + step2_phev$EV_retired,
+        ret_BEV = ret_bev,
+        ret_PHEV = ret_phev,
+        ret_EV = ret_bev + ret_phev,
         Growth_seg = growth_now,
         add_BEV = add_bev,
         add_PHEV = add_phev,

@@ -142,9 +142,13 @@ EV_engine_step <- function(engine,
   # EVs that retire (either EV fails alone or with LIB)
   ev_retired_vec  <- as.integer(round(rowSums(matrix_lib) + rowSums(matrix_both)))
   
-  # EVs above param_max_ev_age do not receive a new LIB
-  if (param_max_ev_age < 30)
+  # EVs above param_max_ev_age do not receive a new LIB → effectively retired
+  if (param_max_ev_age < 30) {
+    orphaned_ev_vec <- ev_need_vec_raw
+    orphaned_ev_vec[1:(param_max_ev_age)] <- 0L
+    ev_retired_vec <- ev_retired_vec + orphaned_ev_vec
     ev_need_vec_raw[(param_max_ev_age+1):31] <- 0L
+  }
   
   # LIB flows by LIB age (1..30) from only LIB fail and both fail
   lib_failed_only_vec <- as.integer(round(colSums(matrix_ev)[-1]))   # only LIB fail
