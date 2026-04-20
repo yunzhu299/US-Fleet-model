@@ -42,7 +42,7 @@ COUNTRIES <- tibble(
   Country   = c("US", "Canada", "Mexico"),
   InDir     = c("Outputs", "Outputs/Canada", "Outputs/Mexico"),
   OutDir    = c("Outputs", "Outputs/Canada", "Outputs/Mexico"),
-  Scenarios = list(c("ACCII", "Repeal"), c("ACCII", "Repeal"), c("ACCII"))
+  Scenarios = list(c("ACCII", "Repeal"), c("ACCII", "Repeal"), c("ACCII", "Repeal"))
 )
 
 # Output rounding: keep decimals internally, round only at output
@@ -353,12 +353,10 @@ combine_bess_files <- function(scenario, file_type) {
     files_to_combine$Canada <- read_csv(ca_file, show_col_types = FALSE)
   }
   
-  # Mexico (only ACCII)
-  if (scenario == "ACCII") {
-    mx_file <- file.path("Outputs/Mexico", paste0("BESS_", file_type, "_Vector_byStateSegProp_", scenario, ".csv"))
-    if (file.exists(mx_file)) {
-      files_to_combine$Mexico <- read_csv(mx_file, show_col_types = FALSE)
-    }
+  # Mexico
+  mx_file <- file.path("Outputs/Mexico", paste0("BESS_", file_type, "_Vector_byStateSegProp_", scenario, ".csv"))
+  if (file.exists(mx_file)) {
+    files_to_combine$Mexico <- read_csv(mx_file, show_col_types = FALSE)
   }
   
   if (length(files_to_combine) == 0) return(NULL)
