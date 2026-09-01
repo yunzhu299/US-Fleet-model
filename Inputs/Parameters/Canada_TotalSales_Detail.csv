@@ -1,0 +1,241 @@
+"VehicleType","FuelType","Year","Annual_Sales"
+"Multi-purpose vehicles","Battery electric",2017,2426
+"Multi-purpose vehicles","Battery electric",2018,2668
+"Multi-purpose vehicles","Battery electric",2019,7517
+"Multi-purpose vehicles","Battery electric",2020,13552
+"Multi-purpose vehicles","Battery electric",2021,30903
+"Multi-purpose vehicles","Battery electric",2022,54710
+"Multi-purpose vehicles","Battery electric",2023,100125
+"Multi-purpose vehicles","Battery electric",2024,155347
+"Multi-purpose vehicles","Diesel",2017,4349
+"Multi-purpose vehicles","Diesel",2018,6052
+"Multi-purpose vehicles","Diesel",2019,2618
+"Multi-purpose vehicles","Diesel",2020,1437
+"Multi-purpose vehicles","Diesel",2021,3103
+"Multi-purpose vehicles","Diesel",2022,3168
+"Multi-purpose vehicles","Diesel",2023,5142
+"Multi-purpose vehicles","Diesel",2024,4986
+"Multi-purpose vehicles","Gasoline",2017,839766
+"Multi-purpose vehicles","Gasoline",2018,866705
+"Multi-purpose vehicles","Gasoline",2019,893040
+"Multi-purpose vehicles","Gasoline",2020,733058
+"Multi-purpose vehicles","Gasoline",2021,817988
+"Multi-purpose vehicles","Gasoline",2022,723476
+"Multi-purpose vehicles","Gasoline",2023,781913
+"Multi-purpose vehicles","Gasoline",2024,833914
+"Multi-purpose vehicles","Hybrid electric",2017,10601
+"Multi-purpose vehicles","Hybrid electric",2018,13076
+"Multi-purpose vehicles","Hybrid electric",2019,19475
+"Multi-purpose vehicles","Hybrid electric",2020,29047
+"Multi-purpose vehicles","Hybrid electric",2021,45006
+"Multi-purpose vehicles","Hybrid electric",2022,47596
+"Multi-purpose vehicles","Hybrid electric",2023,96420
+"Multi-purpose vehicles","Hybrid electric",2024,110602
+"Multi-purpose vehicles","Other fuel types",2017,0
+"Multi-purpose vehicles","Other fuel types",2018,1
+"Multi-purpose vehicles","Other fuel types",2019,9
+"Multi-purpose vehicles","Other fuel types",2020,6
+"Multi-purpose vehicles","Other fuel types",2021,0
+"Multi-purpose vehicles","Other fuel types",2022,1
+"Multi-purpose vehicles","Other fuel types",2023,0
+"Multi-purpose vehicles","Other fuel types",2024,0
+"Multi-purpose vehicles","Plug-in hybrid electric",2017,1050
+"Multi-purpose vehicles","Plug-in hybrid electric",2018,6483
+"Multi-purpose vehicles","Plug-in hybrid electric",2019,6316
+"Multi-purpose vehicles","Plug-in hybrid electric",2020,6030
+"Multi-purpose vehicles","Plug-in hybrid electric",2021,17926
+"Multi-purpose vehicles","Plug-in hybrid electric",2022,18873
+"Multi-purpose vehicles","Plug-in hybrid electric",2023,39961
+"Multi-purpose vehicles","Plug-in hybrid electric",2024,61626
+"Passenger cars","Battery electric",2017,6660
+"Passenger cars","Battery electric",2018,19914
+"Passenger cars","Battery electric",2019,28033
+"Passenger cars","Battery electric",2020,25494
+"Passenger cars","Battery electric",2021,28230
+"Passenger cars","Battery electric",2022,40552
+"Passenger cars","Battery electric",2023,34878
+"Passenger cars","Battery electric",2024,31467
+"Passenger cars","Diesel",2017,1598
+"Passenger cars","Diesel",2018,1556
+"Passenger cars","Diesel",2019,406
+"Passenger cars","Diesel",2020,47
+"Passenger cars","Diesel",2021,1
+"Passenger cars","Diesel",2022,0
+"Passenger cars","Diesel",2023,0
+"Passenger cars","Diesel",2024,0
+"Passenger cars","Gasoline",2017,599872
+"Passenger cars","Gasoline",2018,526150
+"Passenger cars","Gasoline",2019,437435
+"Passenger cars","Gasoline",2020,274338
+"Passenger cars","Gasoline",2021,270347
+"Passenger cars","Gasoline",2022,208698
+"Passenger cars","Gasoline",2023,197723
+"Passenger cars","Gasoline",2024,186183
+"Passenger cars","Hybrid electric",2017,13210
+"Passenger cars","Hybrid electric",2018,12735
+"Passenger cars","Hybrid electric",2019,19141
+"Passenger cars","Hybrid electric",2020,11716
+"Passenger cars","Hybrid electric",2021,17348
+"Passenger cars","Hybrid electric",2022,15632
+"Passenger cars","Hybrid electric",2023,22752
+"Passenger cars","Hybrid electric",2024,28660
+"Passenger cars","Other fuel types",2017,0
+"Passenger cars","Other fuel types",2018,0
+"Passenger cars","Other fuel types",2019,75
+"Passenger cars","Other fuel types",2020,19
+"Passenger cars","Other fuel types",2021,1
+"Passenger cars","Other fuel types",2022,17
+"Passenger cars","Other fuel types",2023,16
+"Passenger cars","Other fuel types",2024,20
+"Passenger cars","Plug-in hybrid electric",2017,8718
+"Passenger cars","Plug-in hybrid electric",2018,13815
+"Passenger cars","Plug-in hybrid electric",2019,13517
+"Passenger cars","Plug-in hybrid electric",2020,8561
+"Passenger cars","Plug-in hybrid electric",2021,8191
+"Passenger cars","Plug-in hybrid electric",2022,3907
+"Passenger cars","Plug-in hybrid electric",2023,3306
+"Passenger cars","Plug-in hybrid electric",2024,6172
+"Pickup trucks","Battery electric",2017,0
+"Pickup trucks","Battery electric",2018,0
+"Pickup trucks","Battery electric",2019,0
+"Pickup trucks","Battery electric",2020,0
+"Pickup trucks","Battery electric",2021,0
+"Pickup trucks","Battery electric",2022,2446
+"Pickup trucks","Battery electric",2023,6749
+"Pickup trucks","Battery electric",2024,14188
+"Pickup trucks","Diesel",2017,53638
+"Pickup trucks","Diesel",2018,56688
+"Pickup trucks","Diesel",2019,50457
+"Pickup trucks","Diesel",2020,58510
+"Pickup trucks","Diesel",2021,57902
+"Pickup trucks","Diesel",2022,67539
+"Pickup trucks","Diesel",2023,63848
+"Pickup trucks","Diesel",2024,70090
+"Pickup trucks","Gasoline",2017,366063
+"Pickup trucks","Gasoline",2018,332321
+"Pickup trucks","Gasoline",2019,347479
+"Pickup trucks","Gasoline",2020,304040
+"Pickup trucks","Gasoline",2021,274777
+"Pickup trucks","Gasoline",2022,266126
+"Pickup trucks","Gasoline",2023,288165
+"Pickup trucks","Gasoline",2024,263479
+"Pickup trucks","Hybrid electric",2017,0
+"Pickup trucks","Hybrid electric",2018,0
+"Pickup trucks","Hybrid electric",2019,0
+"Pickup trucks","Hybrid electric",2020,12
+"Pickup trucks","Hybrid electric",2021,6457
+"Pickup trucks","Hybrid electric",2022,12081
+"Pickup trucks","Hybrid electric",2023,12059
+"Pickup trucks","Hybrid electric",2024,18110
+"Pickup trucks","Other fuel types",2017,1
+"Pickup trucks","Other fuel types",2018,0
+"Pickup trucks","Other fuel types",2019,0
+"Pickup trucks","Other fuel types",2020,0
+"Pickup trucks","Other fuel types",2021,0
+"Pickup trucks","Other fuel types",2022,0
+"Pickup trucks","Other fuel types",2023,0
+"Pickup trucks","Other fuel types",2024,0
+"Pickup trucks","Plug-in hybrid electric",2017,0
+"Pickup trucks","Plug-in hybrid electric",2018,0
+"Pickup trucks","Plug-in hybrid electric",2019,0
+"Pickup trucks","Plug-in hybrid electric",2020,0
+"Pickup trucks","Plug-in hybrid electric",2021,1
+"Pickup trucks","Plug-in hybrid electric",2022,0
+"Pickup trucks","Plug-in hybrid electric",2023,2
+"Pickup trucks","Plug-in hybrid electric",2024,0
+"Total, vehicle type","Battery electric",2017,9086
+"Total, vehicle type","Battery electric",2018,22582
+"Total, vehicle type","Battery electric",2019,35550
+"Total, vehicle type","Battery electric",2020,39046
+"Total, vehicle type","Battery electric",2021,59133
+"Total, vehicle type","Battery electric",2022,98620
+"Total, vehicle type","Battery electric",2023,143666
+"Total, vehicle type","Battery electric",2024,202333
+"Total, vehicle type","Diesel",2017,65784
+"Total, vehicle type","Diesel",2018,70597
+"Total, vehicle type","Diesel",2019,59131
+"Total, vehicle type","Diesel",2020,64739
+"Total, vehicle type","Diesel",2021,65843
+"Total, vehicle type","Diesel",2022,75247
+"Total, vehicle type","Diesel",2023,74028
+"Total, vehicle type","Diesel",2024,79748
+"Total, vehicle type","Gasoline",2017,1928450
+"Total, vehicle type","Gasoline",2018,1834637
+"Total, vehicle type","Gasoline",2019,1778052
+"Total, vehicle type","Gasoline",2020,1384875
+"Total, vehicle type","Gasoline",2021,1415193
+"Total, vehicle type","Gasoline",2022,1233181
+"Total, vehicle type","Gasoline",2023,1316512
+"Total, vehicle type","Gasoline",2024,1333390
+"Total, vehicle type","Hybrid electric",2017,23811
+"Total, vehicle type","Hybrid electric",2018,25811
+"Total, vehicle type","Hybrid electric",2019,38616
+"Total, vehicle type","Hybrid electric",2020,41543
+"Total, vehicle type","Hybrid electric",2021,79314
+"Total, vehicle type","Hybrid electric",2022,81049
+"Total, vehicle type","Hybrid electric",2023,135687
+"Total, vehicle type","Hybrid electric",2024,169055
+"Total, vehicle type","Other fuel types",2017,5
+"Total, vehicle type","Other fuel types",2018,253
+"Total, vehicle type","Other fuel types",2019,210
+"Total, vehicle type","Other fuel types",2020,58
+"Total, vehicle type","Other fuel types",2021,5
+"Total, vehicle type","Other fuel types",2022,18
+"Total, vehicle type","Other fuel types",2023,16
+"Total, vehicle type","Other fuel types",2024,20
+"Total, vehicle type","Plug-in hybrid electric",2017,10608
+"Total, vehicle type","Plug-in hybrid electric",2018,21712
+"Total, vehicle type","Plug-in hybrid electric",2019,20422
+"Total, vehicle type","Plug-in hybrid electric",2020,15364
+"Total, vehicle type","Plug-in hybrid electric",2021,27324
+"Total, vehicle type","Plug-in hybrid electric",2022,24990
+"Total, vehicle type","Plug-in hybrid electric",2023,45090
+"Total, vehicle type","Plug-in hybrid electric",2024,68895
+"Vans","Battery electric",2017,0
+"Vans","Battery electric",2018,0
+"Vans","Battery electric",2019,0
+"Vans","Battery electric",2020,0
+"Vans","Battery electric",2021,0
+"Vans","Battery electric",2022,912
+"Vans","Battery electric",2023,1914
+"Vans","Battery electric",2024,1331
+"Vans","Diesel",2017,6199
+"Vans","Diesel",2018,6301
+"Vans","Diesel",2019,5650
+"Vans","Diesel",2020,4745
+"Vans","Diesel",2021,4837
+"Vans","Diesel",2022,4540
+"Vans","Diesel",2023,5038
+"Vans","Diesel",2024,4672
+"Vans","Gasoline",2017,122749
+"Vans","Gasoline",2018,109461
+"Vans","Gasoline",2019,100098
+"Vans","Gasoline",2020,73439
+"Vans","Gasoline",2021,52081
+"Vans","Gasoline",2022,34881
+"Vans","Gasoline",2023,48711
+"Vans","Gasoline",2024,49814
+"Vans","Hybrid electric",2017,0
+"Vans","Hybrid electric",2018,0
+"Vans","Hybrid electric",2019,0
+"Vans","Hybrid electric",2020,768
+"Vans","Hybrid electric",2021,10503
+"Vans","Hybrid electric",2022,5740
+"Vans","Hybrid electric",2023,4456
+"Vans","Hybrid electric",2024,11683
+"Vans","Other fuel types",2017,4
+"Vans","Other fuel types",2018,252
+"Vans","Other fuel types",2019,126
+"Vans","Other fuel types",2020,33
+"Vans","Other fuel types",2021,4
+"Vans","Other fuel types",2022,0
+"Vans","Other fuel types",2023,0
+"Vans","Other fuel types",2024,0
+"Vans","Plug-in hybrid electric",2017,840
+"Vans","Plug-in hybrid electric",2018,1414
+"Vans","Plug-in hybrid electric",2019,589
+"Vans","Plug-in hybrid electric",2020,773
+"Vans","Plug-in hybrid electric",2021,1206
+"Vans","Plug-in hybrid electric",2022,2210
+"Vans","Plug-in hybrid electric",2023,1821
+"Vans","Plug-in hybrid electric",2024,1097

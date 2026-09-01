@@ -1,0 +1,3163 @@
+State,Year,EV_share,Group,Scenario
+Alabama,2020,0.006224850714949685,Non-177,PolicyBaseline
+Alabama,2021,0.013841333306538466,Non-177,PolicyBaseline
+Alabama,2022,0.022117120323943286,Non-177,PolicyBaseline
+Alabama,2023,0.030468616055608008,Non-177,PolicyBaseline
+Alabama,2024,0.035023478747885195,Non-177,PolicyBaseline
+Alabama,2025,0.09705585496372178,Non-177,PolicyBaseline
+Alabama,2026,0.129289968800227,Non-177,PolicyBaseline
+Alabama,2027,0.1745972274260027,Non-177,PolicyBaseline
+Alabama,2028,0.21222336760185337,Non-177,PolicyBaseline
+Alabama,2029,0.2586281655057889,Non-177,PolicyBaseline
+Alabama,2030,0.3018119733436143,Non-177,PolicyBaseline
+Alabama,2031,0.3557730978757633,Non-177,PolicyBaseline
+Alabama,2032,0.40615152011949734,Non-177,PolicyBaseline
+Alabama,2033,0.47530288065097864,Non-177,PolicyBaseline
+Alabama,2034,0.5113211793832994,Non-177,PolicyBaseline
+Alabama,2035,0.5413358870859474,Non-177,PolicyBaseline
+Alabama,2036,0.5665713547651495,Non-177,PolicyBaseline
+Alabama,2037,0.5871566134847586,Non-177,PolicyBaseline
+Alabama,2038,0.6043915409131729,Non-177,PolicyBaseline
+Alabama,2039,0.6190697023257433,Non-177,PolicyBaseline
+Alabama,2040,0.6308280476149096,Non-177,PolicyBaseline
+Alabama,2041,0.6408488978993228,Non-177,PolicyBaseline
+Alabama,2042,0.6498535632931989,Non-177,PolicyBaseline
+Alabama,2043,0.6573192299843543,Non-177,PolicyBaseline
+Alabama,2044,0.664564921965342,Non-177,PolicyBaseline
+Alabama,2045,0.6708378353477231,Non-177,PolicyBaseline
+Alabama,2046,0.6764652166694335,Non-177,PolicyBaseline
+Alabama,2047,0.6816522211075109,Non-177,PolicyBaseline
+Alabama,2048,0.6871981561565962,Non-177,PolicyBaseline
+Alabama,2049,0.6929063999677385,Non-177,PolicyBaseline
+Alabama,2050,0.6981659137708109,Non-177,PolicyBaseline
+Alaska,2020,0.014384287828611814,Non-177,PolicyBaseline
+Alaska,2021,0.02772640684822171,Non-177,PolicyBaseline
+Alaska,2022,0.04079117139065611,Non-177,PolicyBaseline
+Alaska,2023,0.05197568653932963,Non-177,PolicyBaseline
+Alaska,2024,0.059492104957326215,Non-177,PolicyBaseline
+Alaska,2025,0.11270826594371973,Non-177,PolicyBaseline
+Alaska,2026,0.14964450527688872,Non-177,PolicyBaseline
+Alaska,2027,0.19759683227523367,Non-177,PolicyBaseline
+Alaska,2028,0.2401269986712617,Non-177,PolicyBaseline
+Alaska,2029,0.29111401345575283,Non-177,PolicyBaseline
+Alaska,2030,0.3386324217812677,Non-177,PolicyBaseline
+Alaska,2031,0.3979040463049847,Non-177,PolicyBaseline
+Alaska,2032,0.45287486847826697,Non-177,PolicyBaseline
+Alaska,2033,0.5281345195651947,Non-177,PolicyBaseline
+Alaska,2034,0.566819730073452,Non-177,PolicyBaseline
+Alaska,2035,0.5992999303661934,Non-177,PolicyBaseline
+Alaska,2036,0.6267372024366734,Non-177,PolicyBaseline
+Alaska,2037,0.6492584632702658,Non-177,PolicyBaseline
+Alaska,2038,0.6680348312077652,Non-177,PolicyBaseline
+Alaska,2039,0.6838769682536878,Non-177,PolicyBaseline
+Alaska,2040,0.6967065057186895,Non-177,PolicyBaseline
+Alaska,2041,0.7071312675181665,Non-177,PolicyBaseline
+Alaska,2042,0.7170042055611148,Non-177,PolicyBaseline
+Alaska,2043,0.7252569137563091,Non-177,PolicyBaseline
+Alaska,2044,0.733406683783149,Non-177,PolicyBaseline
+Alaska,2045,0.7401175908225216,Non-177,PolicyBaseline
+Alaska,2046,0.7462364320248905,Non-177,PolicyBaseline
+Alaska,2047,0.7520934431365157,Non-177,PolicyBaseline
+Alaska,2048,0.7579977946493706,Non-177,PolicyBaseline
+Alaska,2049,0.7638800947956462,Non-177,PolicyBaseline
+Alaska,2050,0.7691931117605539,Non-177,PolicyBaseline
+Arizona,2020,0.03856228082092482,Non-177,PolicyBaseline
+Arizona,2021,0.07062457334927631,Non-177,PolicyBaseline
+Arizona,2022,0.10187423737975326,Non-177,PolicyBaseline
+Arizona,2023,0.1273194467308787,Non-177,PolicyBaseline
+Arizona,2024,0.14401655831170898,Non-177,PolicyBaseline
+Arizona,2025,0.10728358256671773,Non-177,PolicyBaseline
+Arizona,2026,0.14269842151626497,Non-177,PolicyBaseline
+Arizona,2027,0.19189552555645512,Non-177,PolicyBaseline
+Arizona,2028,0.23189354785903035,Non-177,PolicyBaseline
+Arizona,2029,0.2804894103070433,Non-177,PolicyBaseline
+Arizona,2030,0.32521997750142595,Non-177,PolicyBaseline
+Arizona,2031,0.38053368933081666,Non-177,PolicyBaseline
+Arizona,2032,0.43125922188328975,Non-177,PolicyBaseline
+Arizona,2033,0.500155925551254,Non-177,PolicyBaseline
+Arizona,2034,0.5351928541200652,Non-177,PolicyBaseline
+Arizona,2035,0.5641424385846296,Non-177,PolicyBaseline
+Arizona,2036,0.5887771505476829,Non-177,PolicyBaseline
+Arizona,2037,0.6089765992727714,Non-177,PolicyBaseline
+Arizona,2038,0.6258729630861334,Non-177,PolicyBaseline
+Arizona,2039,0.6401595275868144,Non-177,PolicyBaseline
+Arizona,2040,0.65162057296225,Non-177,PolicyBaseline
+Arizona,2041,0.6613418298997071,Non-177,PolicyBaseline
+Arizona,2042,0.6700978313218374,Non-177,PolicyBaseline
+Arizona,2043,0.6774366221308662,Non-177,PolicyBaseline
+Arizona,2044,0.6838812526569359,Non-177,PolicyBaseline
+Arizona,2045,0.6894197712268958,Non-177,PolicyBaseline
+Arizona,2046,0.6949926136522002,Non-177,PolicyBaseline
+Arizona,2047,0.7006343487054184,Non-177,PolicyBaseline
+Arizona,2048,0.7055365285098063,Non-177,PolicyBaseline
+Arizona,2049,0.7102140018549982,Non-177,PolicyBaseline
+Arizona,2050,0.7146962865698835,Non-177,PolicyBaseline
+Arkansas,2020,0.00537330545695674,Non-177,PolicyBaseline
+Arkansas,2021,0.013064829967402384,Non-177,PolicyBaseline
+Arkansas,2022,0.02346667809797571,Non-177,PolicyBaseline
+Arkansas,2023,0.030438164594393344,Non-177,PolicyBaseline
+Arkansas,2024,0.034989636339367296,Non-177,PolicyBaseline
+Arkansas,2025,0.09567763275523004,Non-177,PolicyBaseline
+Arkansas,2026,0.12753256551938377,Non-177,PolicyBaseline
+Arkansas,2027,0.17221440506551763,Non-177,PolicyBaseline
+Arkansas,2028,0.20950865413959954,Non-177,PolicyBaseline
+Arkansas,2029,0.25527814469153975,Non-177,PolicyBaseline
+Arkansas,2030,0.2980501992890232,Non-177,PolicyBaseline
+Arkansas,2031,0.3515125509547308,Non-177,PolicyBaseline
+Arkansas,2032,0.40080383102445677,Non-177,PolicyBaseline
+Arkansas,2033,0.46757555777697446,Non-177,PolicyBaseline
+Arkansas,2034,0.5013101728582899,Non-177,PolicyBaseline
+Arkansas,2035,0.5303460011344298,Non-177,PolicyBaseline
+Arkansas,2036,0.556264113071841,Non-177,PolicyBaseline
+Arkansas,2037,0.5776964504792997,Non-177,PolicyBaseline
+Arkansas,2038,0.5956976359728884,Non-177,PolicyBaseline
+Arkansas,2039,0.6108521081924793,Non-177,PolicyBaseline
+Arkansas,2040,0.6225068319941266,Non-177,PolicyBaseline
+Arkansas,2041,0.6325051130956,Non-177,PolicyBaseline
+Arkansas,2042,0.6416884422110551,Non-177,PolicyBaseline
+Arkansas,2043,0.6497754715098295,Non-177,PolicyBaseline
+Arkansas,2044,0.6572028609355494,Non-177,PolicyBaseline
+Arkansas,2045,0.6636324315822585,Non-177,PolicyBaseline
+Arkansas,2046,0.6696999220576771,Non-177,PolicyBaseline
+Arkansas,2047,0.6751790298608298,Non-177,PolicyBaseline
+Arkansas,2048,0.6809718611408467,Non-177,PolicyBaseline
+Arkansas,2049,0.6866516479563828,Non-177,PolicyBaseline
+Arkansas,2050,0.6922442862495318,Non-177,PolicyBaseline
+California,2020,0.07799997849092317,Section 177,PolicyBaseline
+California,2021,0.1269999761410541,Section 177,PolicyBaseline
+California,2022,0.19499998087410442,Section 177,PolicyBaseline
+California,2023,0.25,Section 177,PolicyBaseline
+California,2024,0.25302875142294173,Section 177,PolicyBaseline
+California,2025,0.3726605935751163,Section 177,PolicyBaseline
+California,2026,0.34999026223287155,Section 177,PolicyBaseline
+California,2027,0.4299890768115031,Section 177,PolicyBaseline
+California,2028,0.5099878960149171,Section 177,PolicyBaseline
+California,2029,0.5899870016031943,Section 177,PolicyBaseline
+California,2030,0.6799845749693342,Section 177,PolicyBaseline
+California,2031,0.7599817570303802,Section 177,PolicyBaseline
+California,2032,0.8199814038200524,Section 177,PolicyBaseline
+California,2033,0.8799784323151482,Section 177,PolicyBaseline
+California,2034,0.9399738214037993,Section 177,PolicyBaseline
+California,2035,0.9999679181579376,Section 177,PolicyBaseline
+California,2036,0.9999642388994777,Section 177,PolicyBaseline
+California,2037,0.9999618947779333,Section 177,PolicyBaseline
+California,2038,0.9999583419770223,Section 177,PolicyBaseline
+California,2039,0.9999560895255117,Section 177,PolicyBaseline
+California,2040,0.9999526589475835,Section 177,PolicyBaseline
+California,2041,0.9999505214829536,Section 177,PolicyBaseline
+California,2042,0.9999484300215857,Section 177,PolicyBaseline
+California,2043,0.9999463576215457,Section 177,PolicyBaseline
+California,2044,0.9999443286417439,Section 177,PolicyBaseline
+California,2045,0.9999423550830807,Section 177,PolicyBaseline
+California,2046,0.9999416756699067,Section 177,PolicyBaseline
+California,2047,0.9999398674017254,Section 177,PolicyBaseline
+California,2048,0.9999392786773963,Section 177,PolicyBaseline
+California,2049,0.9999387088144435,Section 177,PolicyBaseline
+California,2050,0.9999382042616171,Section 177,PolicyBaseline
+Colorado,2020,0.04103202287825312,Section 177,PolicyBaseline
+Colorado,2021,0.07932433390180726,Section 177,PolicyBaseline
+Colorado,2022,0.11617159484949381,Section 177,PolicyBaseline
+Colorado,2023,0.16065214855414434,Section 177,PolicyBaseline
+Colorado,2024,0.18099674272911373,Section 177,PolicyBaseline
+Colorado,2025,0.21999328873136056,Section 177,PolicyBaseline
+Colorado,2026,0.34999635572307625,Section 177,PolicyBaseline
+Colorado,2027,0.42999793686816534,Section 177,PolicyBaseline
+Colorado,2028,0.5100026591936507,Section 177,PolicyBaseline
+Colorado,2029,0.5899983743802325,Section 177,PolicyBaseline
+Colorado,2030,0.6800004043589902,Section 177,PolicyBaseline
+Colorado,2031,0.7600084557232157,Section 177,PolicyBaseline
+Colorado,2032,0.8200010030593309,Section 177,PolicyBaseline
+Colorado,2033,0.82000079835538775,Section 177,PolicyBaseline
+Colorado,2034,0.819986317532397,Section 177,PolicyBaseline
+Colorado,2035,0.8199891577546694,Section 177,PolicyBaseline
+Colorado,2036,0.81999843041849,Section 177,PolicyBaseline
+Colorado,2037,0.8199902439024397,Section 177,PolicyBaseline
+Colorado,2038,0.8199835167498912,Section 177,PolicyBaseline
+Colorado,2039,0.8199759094194171,Section 177,PolicyBaseline
+Colorado,2040,0.8199799052676906,Section 177,PolicyBaseline
+Colorado,2041,0.8199844183483451,Section 177,PolicyBaseline
+Colorado,2042,0.8199805720860486,Section 177,PolicyBaseline
+Colorado,2043,0.8199754660973303,Section 177,PolicyBaseline
+Colorado,2044,0.8199784338514166,Section 177,PolicyBaseline
+Colorado,2045,0.8199797066691269,Section 177,PolicyBaseline
+Colorado,2046,0.8199837263094378,Section 177,PolicyBaseline
+Colorado,2047,0.8199782648071002,Section 177,PolicyBaseline
+Colorado,2048,0.8199797296691274,Section 177,PolicyBaseline
+Colorado,2049,0.8199712209767105,Section 177,PolicyBaseline
+Colorado,2050,0.8199685327285989,Section 177,PolicyBaseline
+Connecticut,2020,0.02770033672493432,Section 177,PolicyBaseline
+Connecticut,2021,0.05786471345936385,Section 177,PolicyBaseline
+Connecticut,2022,0.08363187447983615,Section 177,PolicyBaseline
+Connecticut,2023,0.11293576087937213,Section 177,PolicyBaseline
+Connecticut,2024,0.12830644564886054,Section 177,PolicyBaseline
+Connecticut,2025,0.11024826450170616,Section 177,PolicyBaseline
+Connecticut,2026,0.14620967624165748,Section 177,PolicyBaseline
+Connecticut,2027,0.17690037327468963,Section 177,PolicyBaseline
+Connecticut,2028,0.2161607757631394,Section 177,PolicyBaseline
+Connecticut,2029,0.26228340173278664,Section 177,PolicyBaseline
+Connecticut,2030,0.30498645985453215,Section 177,PolicyBaseline
+Connecticut,2031,0.35846392771424523,Section 177,PolicyBaseline
+Connecticut,2032,0.40810613094735687,Section 177,PolicyBaseline
+Connecticut,2033,0.4768143327034778,Section 177,PolicyBaseline
+Connecticut,2034,0.5123555506111724,Section 177,PolicyBaseline
+Connecticut,2035,0.5419016810440173,Section 177,PolicyBaseline
+Connecticut,2036,0.5666483214089159,Section 177,PolicyBaseline
+Connecticut,2037,0.5871840834142935,Section 177,PolicyBaseline
+Connecticut,2038,0.6042836744407425,Section 177,PolicyBaseline
+Connecticut,2039,0.6188268684957426,Section 177,PolicyBaseline
+Connecticut,2040,0.6305914562950433,Section 177,PolicyBaseline
+Connecticut,2041,0.6410372581418899,Section 177,PolicyBaseline
+Connecticut,2042,0.6502473479537578,Section 177,PolicyBaseline
+Connecticut,2043,0.6580160491719308,Section 177,PolicyBaseline
+Connecticut,2044,0.6646719077978124,Section 177,PolicyBaseline
+Connecticut,2045,0.6702503396079953,Section 177,PolicyBaseline
+Connecticut,2046,0.6749884597630403,Section 177,PolicyBaseline
+Connecticut,2047,0.6795208881098455,Section 177,PolicyBaseline
+Connecticut,2048,0.6841184980187432,Section 177,PolicyBaseline
+Connecticut,2049,0.689547776255139,Section 177,PolicyBaseline
+Connecticut,2050,0.6948197642881797,Section 177,PolicyBaseline
+Delaware,2020,0.020179512008360257,Section 177,PolicyBaseline
+Delaware,2021,0.042445676778201435,Section 177,PolicyBaseline
+Delaware,2022,0.06677944498452135,Section 177,PolicyBaseline
+Delaware,2023,0.09440488097446413,Section 177,PolicyBaseline
+Delaware,2024,0.10746385524717936,Section 177,PolicyBaseline
+Delaware,2025,0.12418945587820693,Section 177,PolicyBaseline
+Delaware,2026,0.16395278309149453,Section 177,PolicyBaseline
+Delaware,2027,0.1886295354749251,Section 177,PolicyBaseline
+Delaware,2028,0.22951420714940432,Section 177,PolicyBaseline
+Delaware,2029,0.2780205772557582,Section 177,PolicyBaseline
+Delaware,2030,0.32270338829498085,Section 177,PolicyBaseline
+Delaware,2031,0.37828695142303004,Section 177,PolicyBaseline
+Delaware,2032,0.4295730337078648,Section 177,PolicyBaseline
+Delaware,2033,0.49948580371115614,Section 177,PolicyBaseline
+Delaware,2034,0.5354509107063528,Section 177,PolicyBaseline
+Delaware,2035,0.5652577182986621,Section 177,PolicyBaseline
+Delaware,2036,0.5900659340659341,Section 177,PolicyBaseline
+Delaware,2037,0.6104480874316941,Section 177,PolicyBaseline
+Delaware,2038,0.6271724018074382,Section 177,PolicyBaseline
+Delaware,2039,0.6411053540587215,Section 177,PolicyBaseline
+Delaware,2040,0.652373397367179,Section 177,PolicyBaseline
+Delaware,2041,0.6621822980969816,Section 177,PolicyBaseline
+Delaware,2042,0.6711744073025402,Section 177,PolicyBaseline
+Delaware,2043,0.6784290689380271,Section 177,PolicyBaseline
+Delaware,2044,0.6834388537154289,Section 177,PolicyBaseline
+Delaware,2045,0.6876498305364963,Section 177,PolicyBaseline
+Delaware,2046,0.6913276801441975,Section 177,PolicyBaseline
+Delaware,2047,0.6961691421150876,Section 177,PolicyBaseline
+Delaware,2048,0.7010408712775789,Section 177,PolicyBaseline
+Delaware,2049,0.7070646766169153,Section 177,PolicyBaseline
+Delaware,2050,0.7125359379307623,Section 177,PolicyBaseline
+District of Columbia,2020,0.06417432036583672,Section 177,PolicyBaseline
+District of Columbia,2021,0.1314631584294069,Section 177,PolicyBaseline
+District of Columbia,2022,0.18214265203018512,Section 177,PolicyBaseline
+District of Columbia,2023,0.2262377333222325,Section 177,PolicyBaseline
+District of Columbia,2024,0.2524539857979942,Section 177,PolicyBaseline
+District of Columbia,2025,0.21998211873401108,Section 177,PolicyBaseline
+District of Columbia,2026,0.3499972172862176,Section 177,PolicyBaseline
+District of Columbia,2027,0.42999530710327527,Section 177,PolicyBaseline
+District of Columbia,2028,0.5099935246010419,Section 177,PolicyBaseline
+District of Columbia,2029,0.590006118831776,Section 177,PolicyBaseline
+District of Columbia,2030,0.6800080663580896,Section 177,PolicyBaseline
+District of Columbia,2031,0.7600168173829696,Section 177,PolicyBaseline
+District of Columbia,2032,0.820027493652113,Section 177,PolicyBaseline
+District of Columbia,2033,0.8800272222935903,Section 177,PolicyBaseline
+District of Columbia,2034,0.9400251377110302,Section 177,PolicyBaseline
+District of Columbia,2035,0.9999780748196407,Section 177,PolicyBaseline
+District of Columbia,2036,0.9999777531256835,Section 177,PolicyBaseline
+District of Columbia,2037,0.9999752227505904,Section 177,PolicyBaseline
+District of Columbia,2038,0.9999662620485736,Section 177,PolicyBaseline
+District of Columbia,2039,0.9999654946174147,Section 177,PolicyBaseline
+District of Columbia,2040,0.999964083450795,Section 177,PolicyBaseline
+District of Columbia,2041,0.9999607912335976,Section 177,PolicyBaseline
+District of Columbia,2042,0.999959443537267,Section 177,PolicyBaseline
+District of Columbia,2043,0.9999589993983902,Section 177,PolicyBaseline
+District of Columbia,2044,0.9999576135642471,Section 177,PolicyBaseline
+District of Columbia,2045,0.9999562824733794,Section 177,PolicyBaseline
+District of Columbia,2046,0.9999565377529674,Section 177,PolicyBaseline
+District of Columbia,2047,0.9999537601385574,Section 177,PolicyBaseline
+District of Columbia,2048,0.9999527786732578,Section 177,PolicyBaseline
+District of Columbia,2049,0.9999531064406771,Section 177,PolicyBaseline
+District of Columbia,2050,0.9999530361009195,Section 177,PolicyBaseline
+Florida,2020,0.027575851960201705,Non-177,PolicyBaseline
+Florida,2021,0.05709243052515205,Non-177,PolicyBaseline
+Florida,2022,0.08978228290461032,Non-177,PolicyBaseline
+Florida,2023,0.11976173194617686,Non-177,PolicyBaseline
+Florida,2024,0.1355476469266596,Non-177,PolicyBaseline
+Florida,2025,0.10199428874324286,Non-177,PolicyBaseline
+Florida,2026,0.1361704736644721,Non-177,PolicyBaseline
+Florida,2027,0.18351795200282697,Non-177,PolicyBaseline
+Florida,2028,0.2234228019418886,Non-177,PolicyBaseline
+Florida,2029,0.27155843550417225,Non-177,PolicyBaseline
+Florida,2030,0.3158999406285949,Non-177,PolicyBaseline
+Florida,2031,0.37095857889777767,Non-177,PolicyBaseline
+Florida,2032,0.4216169072943083,Non-177,PolicyBaseline
+Florida,2033,0.4896573355647997,Non-177,PolicyBaseline
+Florida,2034,0.5237110634948794,Non-177,PolicyBaseline
+Florida,2035,0.5514560560080684,Non-177,PolicyBaseline
+Florida,2036,0.5760660408569285,Non-177,PolicyBaseline
+Florida,2037,0.5970137561495313,Non-177,PolicyBaseline
+Florida,2038,0.6143459652806821,Non-177,PolicyBaseline
+Florida,2039,0.629859793869132,Non-177,PolicyBaseline
+Florida,2040,0.6425621875802658,Non-177,PolicyBaseline
+Florida,2041,0.6537308813175843,Non-177,PolicyBaseline
+Florida,2042,0.6614255515720097,Non-177,PolicyBaseline
+Florida,2043,0.667821020701034,Non-177,PolicyBaseline
+Florida,2044,0.6738422494961664,Non-177,PolicyBaseline
+Florida,2045,0.6803769408368799,Non-177,PolicyBaseline
+Florida,2046,0.6858220350359081,Non-177,PolicyBaseline
+Florida,2047,0.6909832455163476,Non-177,PolicyBaseline
+Florida,2048,0.6960043952064265,Non-177,PolicyBaseline
+Florida,2049,0.7012609888206454,Non-177,PolicyBaseline
+Florida,2050,0.7058384637256229,Non-177,PolicyBaseline
+Georgia,2020,0.021993667070038303,Non-177,PolicyBaseline
+Georgia,2021,0.04122173814879752,Non-177,PolicyBaseline
+Georgia,2022,0.06495415782195953,Non-177,PolicyBaseline
+Georgia,2023,0.08932679848557051,Non-177,PolicyBaseline
+Georgia,2024,0.10158430393474872,Non-177,PolicyBaseline
+Georgia,2025,0.1030221791680278,Non-177,PolicyBaseline
+Georgia,2026,0.13810767432626658,Non-177,PolicyBaseline
+Georgia,2027,0.1859951023302714,Non-177,PolicyBaseline
+Georgia,2028,0.22573663509920677,Non-177,PolicyBaseline
+Georgia,2029,0.2742636065001253,Non-177,PolicyBaseline
+Georgia,2030,0.31736000260611746,Non-177,PolicyBaseline
+Georgia,2031,0.3711208667632624,Non-177,PolicyBaseline
+Georgia,2032,0.4217010914654521,Non-177,PolicyBaseline
+Georgia,2033,0.49326001082686227,Non-177,PolicyBaseline
+Georgia,2034,0.5296930581293796,Non-177,PolicyBaseline
+Georgia,2035,0.558384287567167,Non-177,PolicyBaseline
+Georgia,2036,0.5818901247121927,Non-177,PolicyBaseline
+Georgia,2037,0.6026178449414183,Non-177,PolicyBaseline
+Georgia,2038,0.6201223798984505,Non-177,PolicyBaseline
+Georgia,2039,0.634715910855321,Non-177,PolicyBaseline
+Georgia,2040,0.6465512367854364,Non-177,PolicyBaseline
+Georgia,2041,0.6568181702207996,Non-177,PolicyBaseline
+Georgia,2042,0.666239489413434,Non-177,PolicyBaseline
+Georgia,2043,0.674038011798846,Non-177,PolicyBaseline
+Georgia,2044,0.6809290343195499,Non-177,PolicyBaseline
+Georgia,2045,0.6870649551392879,Non-177,PolicyBaseline
+Georgia,2046,0.6926555725235819,Non-177,PolicyBaseline
+Georgia,2047,0.6979099279637727,Non-177,PolicyBaseline
+Georgia,2048,0.7030203767040802,Non-177,PolicyBaseline
+Georgia,2049,0.7081254114706079,Non-177,PolicyBaseline
+Georgia,2050,0.7128431488256819,Non-177,PolicyBaseline
+Hawaii,2020,0.07261786064876893,Non-177,PolicyBaseline
+Hawaii,2021,0.12403374748393008,Non-177,PolicyBaseline
+Hawaii,2022,0.16011077861761097,Non-177,PolicyBaseline
+Hawaii,2023,0.19210021822550502,Non-177,PolicyBaseline
+Hawaii,2024,0.21519978610840643,Non-177,PolicyBaseline
+Hawaii,2025,0.11270826594371969,Non-177,PolicyBaseline
+Hawaii,2026,0.14964450527688913,Non-177,PolicyBaseline
+Hawaii,2027,0.19759683227523395,Non-177,PolicyBaseline
+Hawaii,2028,0.24012699867126144,Non-177,PolicyBaseline
+Hawaii,2029,0.291114013455753,Non-177,PolicyBaseline
+Hawaii,2030,0.3386324217812681,Non-177,PolicyBaseline
+Hawaii,2031,0.3979040463049849,Non-177,PolicyBaseline
+Hawaii,2032,0.4528748684782664,Non-177,PolicyBaseline
+Hawaii,2033,0.5281345195651955,Non-177,PolicyBaseline
+Hawaii,2034,0.5668197300734522,Non-177,PolicyBaseline
+Hawaii,2035,0.5992999303661931,Non-177,PolicyBaseline
+Hawaii,2036,0.6267372024366727,Non-177,PolicyBaseline
+Hawaii,2037,0.6492584632702648,Non-177,PolicyBaseline
+Hawaii,2038,0.6680348312077656,Non-177,PolicyBaseline
+Hawaii,2039,0.6838769682536874,Non-177,PolicyBaseline
+Hawaii,2040,0.6967065057186896,Non-177,PolicyBaseline
+Hawaii,2041,0.707131267518166,Non-177,PolicyBaseline
+Hawaii,2042,0.7170042055611147,Non-177,PolicyBaseline
+Hawaii,2043,0.7252569137563102,Non-177,PolicyBaseline
+Hawaii,2044,0.7334066837831494,Non-177,PolicyBaseline
+Hawaii,2045,0.7401175908225215,Non-177,PolicyBaseline
+Hawaii,2046,0.7462364320248912,Non-177,PolicyBaseline
+Hawaii,2047,0.7520934431365155,Non-177,PolicyBaseline
+Hawaii,2048,0.7579977946493711,Non-177,PolicyBaseline
+Hawaii,2049,0.763880094795646,Non-177,PolicyBaseline
+Hawaii,2050,0.7691931117605546,Non-177,PolicyBaseline
+Idaho,2020,0.012772077253821911,Non-177,PolicyBaseline
+Idaho,2021,0.026583724522771548,Non-177,PolicyBaseline
+Idaho,2022,0.04006821116916499,Non-177,PolicyBaseline
+Idaho,2023,0.05292473613377953,Non-177,PolicyBaseline
+Idaho,2024,0.06067007238610437,Non-177,PolicyBaseline
+Idaho,2025,0.10389824909150978,Non-177,PolicyBaseline
+Idaho,2026,0.13917863937545127,Non-177,PolicyBaseline
+Idaho,2027,0.18874301312881867,Non-177,PolicyBaseline
+Idaho,2028,0.2286128564523925,Non-177,PolicyBaseline
+Idaho,2029,0.2775430510210611,Non-177,PolicyBaseline
+Idaho,2030,0.3228025477707004,Non-177,PolicyBaseline
+Idaho,2031,0.37910258442999845,Non-177,PolicyBaseline
+Idaho,2032,0.43117613600455057,Non-177,PolicyBaseline
+Idaho,2033,0.5008645351944414,Non-177,PolicyBaseline
+Idaho,2034,0.5364360456036235,Non-177,PolicyBaseline
+Idaho,2035,0.5661408520680656,Non-177,PolicyBaseline
+Idaho,2036,0.5914583268951452,Non-177,PolicyBaseline
+Idaho,2037,0.61261372018687,Non-177,PolicyBaseline
+Idaho,2038,0.6306014601215751,Non-177,PolicyBaseline
+Idaho,2039,0.6455373406193079,Non-177,PolicyBaseline
+Idaho,2040,0.6573917761967923,Non-177,PolicyBaseline
+Idaho,2041,0.6674548774282382,Non-177,PolicyBaseline
+Idaho,2042,0.67647146210298,Non-177,PolicyBaseline
+Idaho,2043,0.6839434791586774,Non-177,PolicyBaseline
+Idaho,2044,0.6911092889773925,Non-177,PolicyBaseline
+Idaho,2045,0.6971783918867869,Non-177,PolicyBaseline
+Idaho,2046,0.7028887416837075,Non-177,PolicyBaseline
+Idaho,2047,0.7082536874839522,Non-177,PolicyBaseline
+Idaho,2048,0.713833634719711,Non-177,PolicyBaseline
+Idaho,2049,0.7197224087754646,Non-177,PolicyBaseline
+Idaho,2050,0.7248913133774544,Non-177,PolicyBaseline
+Illinois,2020,0.022555230119779557,Non-177,PolicyBaseline
+Illinois,2021,0.0434256782086726,Non-177,PolicyBaseline
+Illinois,2022,0.0708682397018826,Non-177,PolicyBaseline
+Illinois,2023,0.09618259231817387,Non-177,PolicyBaseline
+Illinois,2024,0.10935581827195728,Non-177,PolicyBaseline
+Illinois,2025,0.10039051159828832,Non-177,PolicyBaseline
+Illinois,2026,0.1331275251409894,Non-177,PolicyBaseline
+Illinois,2027,0.1802223818999192,Non-177,PolicyBaseline
+Illinois,2028,0.2197434340020732,Non-177,PolicyBaseline
+Illinois,2029,0.26820338798508286,Non-177,PolicyBaseline
+Illinois,2030,0.3119766722789215,Non-177,PolicyBaseline
+Illinois,2031,0.36678802588996823,Non-177,PolicyBaseline
+Illinois,2032,0.41774158873481665,Non-177,PolicyBaseline
+Illinois,2033,0.488224940400597,Non-177,PolicyBaseline
+Illinois,2034,0.5231433314886547,Non-177,PolicyBaseline
+Illinois,2035,0.5518135285133946,Non-177,PolicyBaseline
+Illinois,2036,0.5750680047132409,Non-177,PolicyBaseline
+Illinois,2037,0.595917264933435,Non-177,PolicyBaseline
+Illinois,2038,0.6132534971620055,Non-177,PolicyBaseline
+Illinois,2039,0.6280044405049775,Non-177,PolicyBaseline
+Illinois,2040,0.6398878828923138,Non-177,PolicyBaseline
+Illinois,2041,0.6498498192740423,Non-177,PolicyBaseline
+Illinois,2042,0.6586162896956581,Non-177,PolicyBaseline
+Illinois,2043,0.6661300708306507,Non-177,PolicyBaseline
+Illinois,2044,0.6740481240582928,Non-177,PolicyBaseline
+Illinois,2045,0.6813364691151574,Non-177,PolicyBaseline
+Illinois,2046,0.686079359895493,Non-177,PolicyBaseline
+Illinois,2047,0.6913032577399623,Non-177,PolicyBaseline
+Illinois,2048,0.6960892288592082,Non-177,PolicyBaseline
+Illinois,2049,0.701853401604721,Non-177,PolicyBaseline
+Illinois,2050,0.7065426429608697,Non-177,PolicyBaseline
+Indiana,2020,0.011810922122385738,Non-177,PolicyBaseline
+Indiana,2021,0.023913214297152645,Non-177,PolicyBaseline
+Indiana,2022,0.0362033862401844,Non-177,PolicyBaseline
+Indiana,2023,0.04857211391002077,Non-177,PolicyBaseline
+Indiana,2024,0.05569847472592371,Non-177,PolicyBaseline
+Indiana,2025,0.0987566705683923,Non-177,PolicyBaseline
+Indiana,2026,0.1310228697458614,Non-177,PolicyBaseline
+Indiana,2027,0.17695271771159168,Non-177,PolicyBaseline
+Indiana,2028,0.21535031732618973,Non-177,PolicyBaseline
+Indiana,2029,0.2605508028075938,Non-177,PolicyBaseline
+Indiana,2030,0.30176458044567633,Non-177,PolicyBaseline
+Indiana,2031,0.35441974041600693,Non-177,PolicyBaseline
+Indiana,2032,0.40564939873752415,Non-177,PolicyBaseline
+Indiana,2033,0.4760810455223223,Non-177,PolicyBaseline
+Indiana,2034,0.5123570831009473,Non-177,PolicyBaseline
+Indiana,2035,0.5424893224406341,Non-177,PolicyBaseline
+Indiana,2036,0.5673946594700846,Non-177,PolicyBaseline
+Indiana,2037,0.5885268393071514,Non-177,PolicyBaseline
+Indiana,2038,0.6061308494047277,Non-177,PolicyBaseline
+Indiana,2039,0.6213570031083513,Non-177,PolicyBaseline
+Indiana,2040,0.6333809924306134,Non-177,PolicyBaseline
+Indiana,2041,0.6437106997018811,Non-177,PolicyBaseline
+Indiana,2042,0.6528983164648251,Non-177,PolicyBaseline
+Indiana,2043,0.6606804826258009,Non-177,PolicyBaseline
+Indiana,2044,0.6680256546427544,Non-177,PolicyBaseline
+Indiana,2045,0.6745011877447441,Non-177,PolicyBaseline
+Indiana,2046,0.680369956688389,Non-177,PolicyBaseline
+Indiana,2047,0.6859055487897091,Non-177,PolicyBaseline
+Indiana,2048,0.6914908712515371,Non-177,PolicyBaseline
+Indiana,2049,0.6971144837923929,Non-177,PolicyBaseline
+Indiana,2050,0.7022790482076636,Non-177,PolicyBaseline
+Iowa,2020,0.009025696096615542,Non-177,PolicyBaseline
+Iowa,2021,0.019537035829399706,Non-177,PolicyBaseline
+Iowa,2022,0.02866161752175736,Non-177,PolicyBaseline
+Iowa,2023,0.03780618148366482,Non-177,PolicyBaseline
+Iowa,2024,0.043479981520225745,Non-177,PolicyBaseline
+Iowa,2025,0.09831213103849656,Non-177,PolicyBaseline
+Iowa,2026,0.13084112149532756,Non-177,PolicyBaseline
+Iowa,2027,0.17653890824622545,Non-177,PolicyBaseline
+Iowa,2028,0.21466223339550697,Non-177,PolicyBaseline
+Iowa,2029,0.2611413656430255,Non-177,PolicyBaseline
+Iowa,2030,0.3042258488569685,Non-177,PolicyBaseline
+Iowa,2031,0.35830473301939497,Non-177,PolicyBaseline
+Iowa,2032,0.40837654694111264,Non-177,PolicyBaseline
+Iowa,2033,0.47655446359334735,Non-177,PolicyBaseline
+Iowa,2034,0.5115723270440257,Non-177,PolicyBaseline
+Iowa,2035,0.5409684881830689,Non-177,PolicyBaseline
+Iowa,2036,0.5663503422526447,Non-177,PolicyBaseline
+Iowa,2037,0.5873288466001393,Non-177,PolicyBaseline
+Iowa,2038,0.6046282770815713,Non-177,PolicyBaseline
+Iowa,2039,0.6191051071243007,Non-177,PolicyBaseline
+Iowa,2040,0.6310262674699163,Non-177,PolicyBaseline
+Iowa,2041,0.6414397854484641,Non-177,PolicyBaseline
+Iowa,2042,0.6507238573821487,Non-177,PolicyBaseline
+Iowa,2043,0.65827653287002,Non-177,PolicyBaseline
+Iowa,2044,0.6651974586140308,Non-177,PolicyBaseline
+Iowa,2045,0.6714841578654811,Non-177,PolicyBaseline
+Iowa,2046,0.6773131904775714,Non-177,PolicyBaseline
+Iowa,2047,0.6828665804969125,Non-177,PolicyBaseline
+Iowa,2048,0.6884662978081844,Non-177,PolicyBaseline
+Iowa,2049,0.6940457241058726,Non-177,PolicyBaseline
+Iowa,2050,0.6989350729001145,Non-177,PolicyBaseline
+Kansas,2020,0.01237947518440424,Non-177,PolicyBaseline
+Kansas,2021,0.024793955832791596,Non-177,PolicyBaseline
+Kansas,2022,0.03671809816274437,Non-177,PolicyBaseline
+Kansas,2023,0.05004651373561799,Non-177,PolicyBaseline
+Kansas,2024,0.05737635903128357,Non-177,PolicyBaseline
+Kansas,2025,0.10330494499288378,Non-177,PolicyBaseline
+Kansas,2026,0.13736177466747487,Non-177,PolicyBaseline
+Kansas,2027,0.18457777777777806,Non-177,PolicyBaseline
+Kansas,2028,0.22391380981757297,Non-177,PolicyBaseline
+Kansas,2029,0.27157521504081983,Non-177,PolicyBaseline
+Kansas,2030,0.3157161211646088,Non-177,PolicyBaseline
+Kansas,2031,0.37008283818363197,Non-177,PolicyBaseline
+Kansas,2032,0.4202121912746601,Non-177,PolicyBaseline
+Kansas,2033,0.48730571618978,Non-177,PolicyBaseline
+Kansas,2034,0.522939894912213,Non-177,PolicyBaseline
+Kansas,2035,0.5527975368935126,Non-177,PolicyBaseline
+Kansas,2036,0.5796280642434491,Non-177,PolicyBaseline
+Kansas,2037,0.6005800878538852,Non-177,PolicyBaseline
+Kansas,2038,0.6177336814621414,Non-177,PolicyBaseline
+Kansas,2039,0.631993025138563,Non-177,PolicyBaseline
+Kansas,2040,0.6400816309702952,Non-177,PolicyBaseline
+Kansas,2041,0.6490646362929305,Non-177,PolicyBaseline
+Kansas,2042,0.6600499806985105,Non-177,PolicyBaseline
+Kansas,2043,0.6731285175397892,Non-177,PolicyBaseline
+Kansas,2044,0.681658890201654,Non-177,PolicyBaseline
+Kansas,2045,0.6864319211509418,Non-177,PolicyBaseline
+Kansas,2046,0.6906881474770549,Non-177,PolicyBaseline
+Kansas,2047,0.6958074019158358,Non-177,PolicyBaseline
+Kansas,2048,0.7010723601584385,Non-177,PolicyBaseline
+Kansas,2049,0.706052314345305,Non-177,PolicyBaseline
+Kansas,2050,0.7103444358182951,Non-177,PolicyBaseline
+Kentucky,2020,0.006744156752838452,Non-177,PolicyBaseline
+Kentucky,2021,0.014825754451991982,Non-177,PolicyBaseline
+Kentucky,2022,0.024077277375770145,Non-177,PolicyBaseline
+Kentucky,2023,0.03309319981643403,Non-177,PolicyBaseline
+Kentucky,2024,0.03803590168994915,Non-177,PolicyBaseline
+Kentucky,2025,0.09642523364486005,Non-177,PolicyBaseline
+Kentucky,2026,0.1283594900882719,Non-177,PolicyBaseline
+Kentucky,2027,0.17362124642311252,Non-177,PolicyBaseline
+Kentucky,2028,0.2115877627755941,Non-177,PolicyBaseline
+Kentucky,2029,0.257640240865668,Non-177,PolicyBaseline
+Kentucky,2030,0.2993749648065764,Non-177,PolicyBaseline
+Kentucky,2031,0.3520572370560598,Non-177,PolicyBaseline
+Kentucky,2032,0.4012515364845228,Non-177,PolicyBaseline
+Kentucky,2033,0.47060000667044627,Non-177,PolicyBaseline
+Kentucky,2034,0.5059977467028959,Non-177,PolicyBaseline
+Kentucky,2035,0.535105635349409,Non-177,PolicyBaseline
+Kentucky,2036,0.5606919991694262,Non-177,PolicyBaseline
+Kentucky,2037,0.5824819580906004,Non-177,PolicyBaseline
+Kentucky,2038,0.6002052389954093,Non-177,PolicyBaseline
+Kentucky,2039,0.614765273588045,Non-177,PolicyBaseline
+Kentucky,2040,0.6271134042598553,Non-177,PolicyBaseline
+Kentucky,2041,0.638822147189263,Non-177,PolicyBaseline
+Kentucky,2042,0.6487040208449342,Non-177,PolicyBaseline
+Kentucky,2043,0.6567807218860833,Non-177,PolicyBaseline
+Kentucky,2044,0.6641433231502103,Non-177,PolicyBaseline
+Kentucky,2045,0.6704517428477479,Non-177,PolicyBaseline
+Kentucky,2046,0.6761524515695347,Non-177,PolicyBaseline
+Kentucky,2047,0.6814540538359091,Non-177,PolicyBaseline
+Kentucky,2048,0.6868205435651477,Non-177,PolicyBaseline
+Kentucky,2049,0.6921935145511936,Non-177,PolicyBaseline
+Kentucky,2050,0.6970839371744156,Non-177,PolicyBaseline
+Louisiana,2020,0.005230451800951869,Non-177,PolicyBaseline
+Louisiana,2021,0.011590352752176352,Non-177,PolicyBaseline
+Louisiana,2022,0.01932593046653501,Non-177,PolicyBaseline
+Louisiana,2023,0.0258539024406673,Non-177,PolicyBaseline
+Louisiana,2024,0.029749814335396488,Non-177,PolicyBaseline
+Louisiana,2025,0.0964909652093134,Non-177,PolicyBaseline
+Louisiana,2026,0.12907641037848142,Non-177,PolicyBaseline
+Louisiana,2027,0.1743186876354152,Non-177,PolicyBaseline
+Louisiana,2028,0.21196843489697495,Non-177,PolicyBaseline
+Louisiana,2029,0.25835813312041733,Non-177,PolicyBaseline
+Louisiana,2030,0.3013779755026586,Non-177,PolicyBaseline
+Louisiana,2031,0.35522890387906736,Non-177,PolicyBaseline
+Louisiana,2032,0.40542903415361237,Non-177,PolicyBaseline
+Louisiana,2033,0.4743198539896198,Non-177,PolicyBaseline
+Louisiana,2034,0.5088897389037642,Non-177,PolicyBaseline
+Louisiana,2035,0.53796211534399,Non-177,PolicyBaseline
+Louisiana,2036,0.563292824804115,Non-177,PolicyBaseline
+Louisiana,2037,0.5847470621854831,Non-177,PolicyBaseline
+Louisiana,2038,0.6022470664837982,Non-177,PolicyBaseline
+Louisiana,2039,0.6164702318664977,Non-177,PolicyBaseline
+Louisiana,2040,0.6283839212469238,Non-177,PolicyBaseline
+Louisiana,2041,0.6388010262954267,Non-177,PolicyBaseline
+Louisiana,2042,0.6490008219805693,Non-177,PolicyBaseline
+Louisiana,2043,0.6565472765951753,Non-177,PolicyBaseline
+Louisiana,2044,0.6638154312050899,Non-177,PolicyBaseline
+Louisiana,2045,0.6695794287823073,Non-177,PolicyBaseline
+Louisiana,2046,0.6756975650538205,Non-177,PolicyBaseline
+Louisiana,2047,0.6811764858115181,Non-177,PolicyBaseline
+Louisiana,2048,0.6868552242057636,Non-177,PolicyBaseline
+Louisiana,2049,0.6922823093422004,Non-177,PolicyBaseline
+Louisiana,2050,0.697427911182558,Non-177,PolicyBaseline
+Maine,2020,0.019462854667801194,Section 177,PolicyBaseline
+Maine,2021,0.043864679210722804,Section 177,PolicyBaseline
+Maine,2022,0.06241765035334578,Section 177,PolicyBaseline
+Maine,2023,0.08432102771650986,Section 177,PolicyBaseline
+Maine,2024,0.09644674915575145,Section 177,PolicyBaseline
+Maine,2025,0.10172905825079738,Section 177,PolicyBaseline
+Maine,2026,0.1354670222814916,Section 177,PolicyBaseline
+Maine,2027,0.18275900033028725,Section 177,PolicyBaseline
+Maine,2028,0.22273769239166052,Section 177,PolicyBaseline
+Maine,2029,0.270331815224463,Section 177,PolicyBaseline
+Maine,2030,0.3147588736649044,Section 177,PolicyBaseline
+Maine,2031,0.3691448216587885,Section 177,PolicyBaseline
+Maine,2032,0.42009205737529476,Section 177,PolicyBaseline
+Maine,2033,0.49033494861281274,Section 177,PolicyBaseline
+Maine,2034,0.5265608465608466,Section 177,PolicyBaseline
+Maine,2035,0.5565139641298067,Section 177,PolicyBaseline
+Maine,2036,0.5809862841587263,Section 177,PolicyBaseline
+Maine,2037,0.5974803477536573,Section 177,PolicyBaseline
+Maine,2038,0.614942826098205,Section 177,PolicyBaseline
+Maine,2039,0.629454414562658,Section 177,PolicyBaseline
+Maine,2040,0.6421385895930138,Section 177,PolicyBaseline
+Maine,2041,0.6532981797900932,Section 177,PolicyBaseline
+Maine,2042,0.6623553095118271,Section 177,PolicyBaseline
+Maine,2043,0.6701479112532479,Section 177,PolicyBaseline
+Maine,2044,0.6774145542933682,Section 177,PolicyBaseline
+Maine,2045,0.6841250307654444,Section 177,PolicyBaseline
+Maine,2046,0.6901346604215463,Section 177,PolicyBaseline
+Maine,2047,0.6955975450635487,Section 177,PolicyBaseline
+Maine,2048,0.7012060878721169,Section 177,PolicyBaseline
+Maine,2049,0.7065933545053795,Section 177,PolicyBaseline
+Maine,2050,0.7117125568741497,Section 177,PolicyBaseline
+Maryland,2020,0.033723464778345015,Section 177,PolicyBaseline
+Maryland,2021,0.063975973190376,Section 177,PolicyBaseline
+Maryland,2022,0.09825723573232012,Section 177,PolicyBaseline
+Maryland,2023,0.13821808643662895,Section 177,PolicyBaseline
+Maryland,2024,0.1562708683164915,Section 177,PolicyBaseline
+Maryland,2025,0.2199956436506211,Section 177,PolicyBaseline
+Maryland,2026,0.349994877457397,Section 177,PolicyBaseline
+Maryland,2027,0.42999560181791474,Section 177,PolicyBaseline
+Maryland,2028,0.5099904958908701,Section 177,PolicyBaseline
+Maryland,2029,0.5899856716020039,Section 177,PolicyBaseline
+Maryland,2030,0.6800061890078801,Section 177,PolicyBaseline
+Maryland,2031,0.7600035215917593,Section 177,PolicyBaseline
+Maryland,2032,0.8200061408895516,Section 177,PolicyBaseline
+Maryland,2033,0.8800104737175152,Section 177,PolicyBaseline
+Maryland,2034,0.9399937132141735,Section 177,PolicyBaseline
+Maryland,2035,0.9999784487403287,Section 177,PolicyBaseline
+Maryland,2036,0.9999785511287468,Section 177,PolicyBaseline
+Maryland,2037,0.9999680034129693,Section 177,PolicyBaseline
+Maryland,2038,0.9999681997901185,Section 177,PolicyBaseline
+Maryland,2039,0.9999683957692469,Section 177,PolicyBaseline
+Maryland,2040,0.9999686166206377,Section 177,PolicyBaseline
+Maryland,2041,0.9999584532131245,Section 177,PolicyBaseline
+Maryland,2042,0.9999587590601189,Section 177,PolicyBaseline
+Maryland,2043,0.9999590516358872,Section 177,PolicyBaseline
+Maryland,2044,0.999959350419707,Section 177,PolicyBaseline
+Maryland,2045,0.999959662780848,Section 177,PolicyBaseline
+Maryland,2046,0.9999600203896013,Section 177,PolicyBaseline
+Maryland,2047,0.9999504970100194,Section 177,PolicyBaseline
+Maryland,2048,0.9999509736630517,Section 177,PolicyBaseline
+Maryland,2049,0.9999514473543664,Section 177,PolicyBaseline
+Maryland,2050,0.9999519540296156,Section 177,PolicyBaseline
+Massachusetts,2020,0.035633371283286225,Section 177,PolicyBaseline
+Massachusetts,2021,0.0707890537803164,Section 177,PolicyBaseline
+Massachusetts,2022,0.10175656972137329,Section 177,PolicyBaseline
+Massachusetts,2023,0.13901141997248365,Section 177,PolicyBaseline
+Massachusetts,2024,0.1573134296509316,Section 177,PolicyBaseline
+Massachusetts,2025,0.21999501753444595,Section 177,PolicyBaseline
+Massachusetts,2026,0.349989058976872,Section 177,PolicyBaseline
+Massachusetts,2027,0.42999198831236213,Section 177,PolicyBaseline
+Massachusetts,2028,0.5099946732456748,Section 177,PolicyBaseline
+Massachusetts,2029,0.5899980504832025,Section 177,PolicyBaseline
+Massachusetts,2030,0.6799985221037851,Section 177,PolicyBaseline
+Massachusetts,2031,0.7599955851107866,Section 177,PolicyBaseline
+Massachusetts,2032,0.819990651721641,Section 177,PolicyBaseline
+Massachusetts,2033,0.8799934347901409,Section 177,PolicyBaseline
+Massachusetts,2034,0.939998731665776,Section 177,PolicyBaseline
+Massachusetts,2035,0.9999729817356533,Section 177,PolicyBaseline
+Massachusetts,2036,0.999973109846278,Section 177,PolicyBaseline
+Massachusetts,2037,0.9999732572651097,Section 177,PolicyBaseline
+Massachusetts,2038,0.9999645625692138,Section 177,PolicyBaseline
+Massachusetts,2039,0.9999647809817301,Section 177,PolicyBaseline
+Massachusetts,2040,0.9999650267108495,Section 177,PolicyBaseline
+Massachusetts,2041,0.9999565945847404,Section 177,PolicyBaseline
+Massachusetts,2042,0.9999569140089792,Section 177,PolicyBaseline
+Massachusetts,2043,0.9999572199834015,Section 177,PolicyBaseline
+Massachusetts,2044,0.9999575321057281,Section 177,PolicyBaseline
+Massachusetts,2045,0.9999494306736678,Section 177,PolicyBaseline
+Massachusetts,2046,0.9999498784552541,Section 177,PolicyBaseline
+Massachusetts,2047,0.9999503512648015,Section 177,PolicyBaseline
+Massachusetts,2048,0.9999508293450469,Section 177,PolicyBaseline
+Massachusetts,2049,0.9999513042349083,Section 177,PolicyBaseline
+Massachusetts,2050,0.999951812260567,Section 177,PolicyBaseline
+Michigan,2020,0.01500618991527276,Non-177,PolicyBaseline
+Michigan,2021,0.03276862658080191,Non-177,PolicyBaseline
+Michigan,2022,0.05204992442695208,Non-177,PolicyBaseline
+Michigan,2023,0.06950995439493908,Non-177,PolicyBaseline
+Michigan,2024,0.07949841242749625,Non-177,PolicyBaseline
+Michigan,2025,0.09815110208816703,Non-177,PolicyBaseline
+Michigan,2026,0.13064606701127404,Non-177,PolicyBaseline
+Michigan,2027,0.17642150009985483,Non-177,PolicyBaseline
+Michigan,2028,0.21507421839088578,Non-177,PolicyBaseline
+Michigan,2029,0.26028985100000673,Non-177,PolicyBaseline
+Michigan,2030,0.3017348636293742,Non-177,PolicyBaseline
+Michigan,2031,0.35517414181909307,Non-177,PolicyBaseline
+Michigan,2032,0.40613231428630936,Non-177,PolicyBaseline
+Michigan,2033,0.4756322235639123,Non-177,PolicyBaseline
+Michigan,2034,0.5096662736172426,Non-177,PolicyBaseline
+Michigan,2035,0.5417402149540994,Non-177,PolicyBaseline
+Michigan,2036,0.568947975310318,Non-177,PolicyBaseline
+Michigan,2037,0.5924624268098534,Non-177,PolicyBaseline
+Michigan,2038,0.6105483336797152,Non-177,PolicyBaseline
+Michigan,2039,0.6254855581836958,Non-177,PolicyBaseline
+Michigan,2040,0.6378613347801062,Non-177,PolicyBaseline
+Michigan,2041,0.643308545301661,Non-177,PolicyBaseline
+Michigan,2042,0.6533292469009401,Non-177,PolicyBaseline
+Michigan,2043,0.661536568942298,Non-177,PolicyBaseline
+Michigan,2044,0.6695204488922312,Non-177,PolicyBaseline
+Michigan,2045,0.6761548813388527,Non-177,PolicyBaseline
+Michigan,2046,0.6821540776140538,Non-177,PolicyBaseline
+Michigan,2047,0.6889817029643448,Non-177,PolicyBaseline
+Michigan,2048,0.6952725288218831,Non-177,PolicyBaseline
+Michigan,2049,0.6995344666633916,Non-177,PolicyBaseline
+Michigan,2050,0.7031985948790879,Non-177,PolicyBaseline
+Minnesota,2020,0.019643180670892983,Section 177,PolicyBaseline
+Minnesota,2021,0.0376641480625665,Section 177,PolicyBaseline
+Minnesota,2022,0.056929531841186744,Section 177,PolicyBaseline
+Minnesota,2023,0.07870170631996098,Section 177,PolicyBaseline
+Minnesota,2024,0.08979092106309461,Section 177,PolicyBaseline
+Minnesota,2025,0.09903035413153452,Section 177,PolicyBaseline
+Minnesota,2026,0.1307819498513962,Section 177,PolicyBaseline
+Minnesota,2027,0.17686334276798063,Section 177,PolicyBaseline
+Minnesota,2028,0.21528577302631566,Section 177,PolicyBaseline
+Minnesota,2029,0.26297892329058076,Section 177,PolicyBaseline
+Minnesota,2030,0.30747815484657554,Section 177,PolicyBaseline
+Minnesota,2031,0.3618271954674214,Section 177,PolicyBaseline
+Minnesota,2032,0.41074291014305697,Section 177,PolicyBaseline
+Minnesota,2033,0.4801853579273613,Section 177,PolicyBaseline
+Minnesota,2034,0.515231840875344,Section 177,PolicyBaseline
+Minnesota,2035,0.5459525861641941,Section 177,PolicyBaseline
+Minnesota,2036,0.5696495829307261,Section 177,PolicyBaseline
+Minnesota,2037,0.5922947942304111,Section 177,PolicyBaseline
+Minnesota,2038,0.6125382501413058,Section 177,PolicyBaseline
+Minnesota,2039,0.6282482154790838,Section 177,PolicyBaseline
+Minnesota,2040,0.6403112256674621,Section 177,PolicyBaseline
+Minnesota,2041,0.646562261268144,Section 177,PolicyBaseline
+Minnesota,2042,0.6564452069727108,Section 177,PolicyBaseline
+Minnesota,2043,0.6650541176470588,Section 177,PolicyBaseline
+Minnesota,2044,0.6726182134148055,Section 177,PolicyBaseline
+Minnesota,2045,0.6790591594737668,Section 177,PolicyBaseline
+Minnesota,2046,0.6849127514311706,Section 177,PolicyBaseline
+Minnesota,2047,0.6905117329012761,Section 177,PolicyBaseline
+Minnesota,2048,0.6961264209283249,Section 177,PolicyBaseline
+Minnesota,2049,0.701713194004267,Section 177,PolicyBaseline
+Minnesota,2050,0.7068484195275369,Section 177,PolicyBaseline
+Mississippi,2020,0.0031994765767977816,Non-177,PolicyBaseline
+Mississippi,2021,0.007310492086087112,Non-177,PolicyBaseline
+Mississippi,2022,0.011950270045256103,Non-177,PolicyBaseline
+Mississippi,2023,0.01641528497010981,Non-177,PolicyBaseline
+Mississippi,2024,0.01892613307062119,Non-177,PolicyBaseline
+Mississippi,2025,0.1021096209623441,Non-177,PolicyBaseline
+Mississippi,2026,0.13675971053020228,Non-177,PolicyBaseline
+Mississippi,2027,0.18370034384373385,Non-177,PolicyBaseline
+Mississippi,2028,0.2221953578336558,Non-177,PolicyBaseline
+Mississippi,2029,0.2705656298787077,Non-177,PolicyBaseline
+Mississippi,2030,0.31535428366590984,Non-177,PolicyBaseline
+Mississippi,2031,0.3706867831136075,Non-177,PolicyBaseline
+Mississippi,2032,0.4218101629004341,Non-177,PolicyBaseline
+Mississippi,2033,0.4913182976314054,Non-177,PolicyBaseline
+Mississippi,2034,0.5271534044298604,Non-177,PolicyBaseline
+Mississippi,2035,0.556938133519748,Non-177,PolicyBaseline
+Mississippi,2036,0.5821892393320964,Non-177,PolicyBaseline
+Mississippi,2037,0.6025830258302581,Non-177,PolicyBaseline
+Mississippi,2038,0.6197767437595982,Non-177,PolicyBaseline
+Mississippi,2039,0.6345080529421149,Non-177,PolicyBaseline
+Mississippi,2040,0.6461792516852919,Non-177,PolicyBaseline
+Mississippi,2041,0.6560576793495352,Non-177,PolicyBaseline
+Mississippi,2042,0.664979711954341,Non-177,PolicyBaseline
+Mississippi,2043,0.6721786868552709,Non-177,PolicyBaseline
+Mississippi,2044,0.6796026897551969,Non-177,PolicyBaseline
+Mississippi,2045,0.6859504132231404,Non-177,PolicyBaseline
+Mississippi,2046,0.6922993797142795,Non-177,PolicyBaseline
+Mississippi,2047,0.6976963261111591,Non-177,PolicyBaseline
+Mississippi,2048,0.7034963848779765,Non-177,PolicyBaseline
+Mississippi,2049,0.708808398950131,Non-177,PolicyBaseline
+Mississippi,2050,0.7140838631924531,Non-177,PolicyBaseline
+Missouri,2020,0.012625849281071343,Non-177,PolicyBaseline
+Missouri,2021,0.025736387355576592,Non-177,PolicyBaseline
+Missouri,2022,0.04203268517009724,Non-177,PolicyBaseline
+Missouri,2023,0.0562489397128767,Non-177,PolicyBaseline
+Missouri,2024,0.06443610677492188,Non-177,PolicyBaseline
+Missouri,2025,0.10242066139330966,Non-177,PolicyBaseline
+Missouri,2026,0.1368428025284836,Non-177,PolicyBaseline
+Missouri,2027,0.18457442320492756,Non-177,PolicyBaseline
+Missouri,2028,0.22471022373423272,Non-177,PolicyBaseline
+Missouri,2029,0.2697187390348853,Non-177,PolicyBaseline
+Missouri,2030,0.31089163489365634,Non-177,PolicyBaseline
+Missouri,2031,0.3620595015918324,Non-177,PolicyBaseline
+Missouri,2032,0.41251276254375796,Non-177,PolicyBaseline
+Missouri,2033,0.4836205332849619,Non-177,PolicyBaseline
+Missouri,2034,0.5217026951530487,Non-177,PolicyBaseline
+Missouri,2035,0.5532284649562842,Non-177,PolicyBaseline
+Missouri,2036,0.5787864198851673,Non-177,PolicyBaseline
+Missouri,2037,0.5991807348560078,Non-177,PolicyBaseline
+Missouri,2038,0.6152958178389517,Non-177,PolicyBaseline
+Missouri,2039,0.6288917108201604,Non-177,PolicyBaseline
+Missouri,2040,0.64141163783732,Non-177,PolicyBaseline
+Missouri,2041,0.6544054156736776,Non-177,PolicyBaseline
+Missouri,2042,0.6655981349264175,Non-177,PolicyBaseline
+Missouri,2043,0.6734068627450979,Non-177,PolicyBaseline
+Missouri,2044,0.6808765882670987,Non-177,PolicyBaseline
+Missouri,2045,0.6855487743536428,Non-177,PolicyBaseline
+Missouri,2046,0.6905576974208991,Non-177,PolicyBaseline
+Missouri,2047,0.6930953027646767,Non-177,PolicyBaseline
+Missouri,2048,0.6987911541502617,Non-177,PolicyBaseline
+Missouri,2049,0.7041823744520777,Non-177,PolicyBaseline
+Missouri,2050,0.7091298339231362,Non-177,PolicyBaseline
+Montana,2020,0.010133333044264755,Non-177,PolicyBaseline
+Montana,2021,0.024424129575538873,Non-177,PolicyBaseline
+Montana,2022,0.04348835776992178,Non-177,PolicyBaseline
+Montana,2023,0.05739214117779728,Non-177,PolicyBaseline
+Montana,2024,0.06574701599677317,Non-177,PolicyBaseline
+Montana,2025,0.10096235016039164,Non-177,PolicyBaseline
+Montana,2026,0.13469114072584024,Non-177,PolicyBaseline
+Montana,2027,0.18227112310566723,Non-177,PolicyBaseline
+Montana,2028,0.22241890334266445,Non-177,PolicyBaseline
+Montana,2029,0.2702735860630595,Non-177,PolicyBaseline
+Montana,2030,0.3144682236146135,Non-177,PolicyBaseline
+Montana,2031,0.36967707953486495,Non-177,PolicyBaseline
+Montana,2032,0.4207105369398471,Non-177,PolicyBaseline
+Montana,2033,0.49088206940873974,Non-177,PolicyBaseline
+Montana,2034,0.5273953469811249,Non-177,PolicyBaseline
+Montana,2035,0.5577068042055146,Non-177,PolicyBaseline
+Montana,2036,0.5828002842928215,Non-177,PolicyBaseline
+Montana,2037,0.603353490929082,Non-177,PolicyBaseline
+Montana,2038,0.6204972095383049,Non-177,PolicyBaseline
+Montana,2039,0.6349391048018006,Non-177,PolicyBaseline
+Montana,2040,0.6464856537646829,Non-177,PolicyBaseline
+Montana,2041,0.6563922138513892,Non-177,PolicyBaseline
+Montana,2042,0.6651989067719404,Non-177,PolicyBaseline
+Montana,2043,0.672621739785919,Non-177,PolicyBaseline
+Montana,2044,0.6795749616492691,Non-177,PolicyBaseline
+Montana,2045,0.686072847436231,Non-177,PolicyBaseline
+Montana,2046,0.692511499540019,Non-177,PolicyBaseline
+Montana,2047,0.6989611809732096,Non-177,PolicyBaseline
+Montana,2048,0.704714461049744,Non-177,PolicyBaseline
+Montana,2049,0.7101387101387096,Non-177,PolicyBaseline
+Montana,2050,0.7145333616358883,Non-177,PolicyBaseline
+Nebraska,2020,0.00998228250263118,Non-177,PolicyBaseline
+Nebraska,2021,0.02059999200153295,Non-177,PolicyBaseline
+Nebraska,2022,0.031622849533109815,Non-177,PolicyBaseline
+Nebraska,2023,0.043074864274093676,Non-177,PolicyBaseline
+Nebraska,2024,0.04945681735691913,Non-177,PolicyBaseline
+Nebraska,2025,0.10011418695799772,Non-177,PolicyBaseline
+Nebraska,2026,0.13299013299013301,Non-177,PolicyBaseline
+Nebraska,2027,0.1794474802671523,Non-177,PolicyBaseline
+Nebraska,2028,0.21839633999518399,Non-177,PolicyBaseline
+Nebraska,2029,0.26536897500298967,Non-177,PolicyBaseline
+Nebraska,2030,0.3089670355825298,Non-177,PolicyBaseline
+Nebraska,2031,0.3629576964095271,Non-177,PolicyBaseline
+Nebraska,2032,0.4123690036900366,Non-177,PolicyBaseline
+Nebraska,2033,0.48124761373314917,Non-177,PolicyBaseline
+Nebraska,2034,0.5171427737737445,Non-177,PolicyBaseline
+Nebraska,2035,0.5474719345574797,Non-177,PolicyBaseline
+Nebraska,2036,0.5724348980888041,Non-177,PolicyBaseline
+Nebraska,2037,0.593057310210176,Non-177,PolicyBaseline
+Nebraska,2038,0.610278800331022,Non-177,PolicyBaseline
+Nebraska,2039,0.6246667801032273,Non-177,PolicyBaseline
+Nebraska,2040,0.6370881441847374,Non-177,PolicyBaseline
+Nebraska,2041,0.6472150766133543,Non-177,PolicyBaseline
+Nebraska,2042,0.6562491326431485,Non-177,PolicyBaseline
+Nebraska,2043,0.6631758805048781,Non-177,PolicyBaseline
+Nebraska,2044,0.6704054275865846,Non-177,PolicyBaseline
+Nebraska,2045,0.6769009419876756,Non-177,PolicyBaseline
+Nebraska,2046,0.6828638308176609,Non-177,PolicyBaseline
+Nebraska,2047,0.688326226012793,Non-177,PolicyBaseline
+Nebraska,2048,0.6938366107958295,Non-177,PolicyBaseline
+Nebraska,2049,0.699281139720298,Non-177,PolicyBaseline
+Nebraska,2050,0.70400165550066,Non-177,PolicyBaseline
+Nevada,2020,0.03759577967165866,Section 177,PolicyBaseline
+Nevada,2021,0.07499979076276259,Section 177,PolicyBaseline
+Nevada,2022,0.12329253816689671,Section 177,PolicyBaseline
+Nevada,2023,0.15746492843098142,Section 177,PolicyBaseline
+Nevada,2024,0.1772183855922833,Section 177,PolicyBaseline
+Nevada,2025,0.10883934877487866,Section 177,PolicyBaseline
+Nevada,2026,0.14417751564410616,Section 177,PolicyBaseline
+Nevada,2027,0.1945914168136394,Section 177,PolicyBaseline
+Nevada,2028,0.235145541896284,Section 177,PolicyBaseline
+Nevada,2029,0.2831224887266858,Section 177,PolicyBaseline
+Nevada,2030,0.3267169442407738,Section 177,PolicyBaseline
+Nevada,2031,0.3822752242542246,Section 177,PolicyBaseline
+Nevada,2032,0.4347976718403544,Section 177,PolicyBaseline
+Nevada,2033,0.5044205084015512,Section 177,PolicyBaseline
+Nevada,2034,0.5396996626770091,Section 177,PolicyBaseline
+Nevada,2035,0.5696898512239128,Section 177,PolicyBaseline
+Nevada,2036,0.5958798515933388,Section 177,PolicyBaseline
+Nevada,2037,0.6162684907504129,Section 177,PolicyBaseline
+Nevada,2038,0.6328700602813127,Section 177,PolicyBaseline
+Nevada,2039,0.6470460975203862,Section 177,PolicyBaseline
+Nevada,2040,0.658403979310231,Section 177,PolicyBaseline
+Nevada,2041,0.6678425517252696,Section 177,PolicyBaseline
+Nevada,2042,0.6761295156194015,Section 177,PolicyBaseline
+Nevada,2043,0.6831023497258922,Section 177,PolicyBaseline
+Nevada,2044,0.6898267807548445,Section 177,PolicyBaseline
+Nevada,2045,0.6956750298685778,Section 177,PolicyBaseline
+Nevada,2046,0.7012283693318173,Section 177,PolicyBaseline
+Nevada,2047,0.7061887111152811,Section 177,PolicyBaseline
+Nevada,2048,0.711052941358694,Section 177,PolicyBaseline
+Nevada,2049,0.7161527841693502,Section 177,PolicyBaseline
+Nevada,2050,0.7206915919061275,Section 177,PolicyBaseline
+New Hampshire,2020,0.0202077982830361,Non-177,PolicyBaseline
+New Hampshire,2021,0.04181412441815823,Non-177,PolicyBaseline
+New Hampshire,2022,0.0632030255013842,Non-177,PolicyBaseline
+New Hampshire,2023,0.08386384372138579,Non-177,PolicyBaseline
+New Hampshire,2024,0.0957568892028633,Non-177,PolicyBaseline
+New Hampshire,2025,0.09711859516055892,Non-177,PolicyBaseline
+New Hampshire,2026,0.12926200319266506,Non-177,PolicyBaseline
+New Hampshire,2027,0.1748438893844782,Non-177,PolicyBaseline
+New Hampshire,2028,0.213622291021672,Non-177,PolicyBaseline
+New Hampshire,2029,0.25985541398729894,Non-177,PolicyBaseline
+New Hampshire,2030,0.30297250039739343,Non-177,PolicyBaseline
+New Hampshire,2031,0.3567980373535931,Non-177,PolicyBaseline
+New Hampshire,2032,0.40722340509423544,Non-177,PolicyBaseline
+New Hampshire,2033,0.4763642069750104,Non-177,PolicyBaseline
+New Hampshire,2034,0.5123747905055152,Non-177,PolicyBaseline
+New Hampshire,2035,0.5423479271600156,Non-177,PolicyBaseline
+New Hampshire,2036,0.5675832015734065,Non-177,PolicyBaseline
+New Hampshire,2037,0.5884405921607734,Non-177,PolicyBaseline
+New Hampshire,2038,0.6058319039451112,Non-177,PolicyBaseline
+New Hampshire,2039,0.6206151981210696,Non-177,PolicyBaseline
+New Hampshire,2040,0.6325233222991274,Non-177,PolicyBaseline
+New Hampshire,2041,0.6428624785239412,Non-177,PolicyBaseline
+New Hampshire,2042,0.65245439715260245,Non-177,PolicyBaseline
+New Hampshire,2043,0.6606169930790751,Non-177,PolicyBaseline
+New Hampshire,2044,0.6680431207747127,Non-177,PolicyBaseline
+New Hampshire,2045,0.6739429980419168,Non-177,PolicyBaseline
+New Hampshire,2046,0.6790181138585388,Non-177,PolicyBaseline
+New Hampshire,2047,0.6837196055395349,Non-177,PolicyBaseline
+New Hampshire,2048,0.6883748809985539,Non-177,PolicyBaseline
+New Hampshire,2049,0.6932504626558191,Non-177,PolicyBaseline
+New Hampshire,2050,0.6980408417124494,Non-177,PolicyBaseline
+New Jersey,2020,0.03477142653253623,Section 177,PolicyBaseline
+New Jersey,2021,0.07110373946056242,Section 177,PolicyBaseline
+New Jersey,2022,0.11508253426193837,Section 177,PolicyBaseline
+New Jersey,2023,0.15909058497999767,Section 177,PolicyBaseline
+New Jersey,2024,0.17912595272625273,Section 177,PolicyBaseline
+New Jersey,2025,0.21999697702539314,Section 177,PolicyBaseline
+New Jersey,2026,0.34999212084374526,Section 177,PolicyBaseline
+New Jersey,2027,0.4299956138068442,Section 177,PolicyBaseline
+New Jersey,2028,0.5099949877642492,Section 177,PolicyBaseline
+New Jersey,2029,0.5899934832431472,Section 177,PolicyBaseline
+New Jersey,2030,0.6799892176219032,Section 177,PolicyBaseline
+New Jersey,2031,0.759996807985839,Section 177,PolicyBaseline
+New Jersey,2032,0.8199936385848743,Section 177,PolicyBaseline
+New Jersey,2033,0.8799939587034227,Section 177,PolicyBaseline
+New Jersey,2034,0.9399852803521285,Section 177,PolicyBaseline
+New Jersey,2035,0.999971586267643,Section 177,PolicyBaseline
+New Jersey,2036,0.9999717210565012,Section 177,PolicyBaseline
+New Jersey,2037,0.9999718759447925,Section 177,PolicyBaseline
+New Jersey,2038,0.9999650613522655,Section 177,PolicyBaseline
+New Jersey,2039,0.9999652765721033,Section 177,PolicyBaseline
+New Jersey,2040,0.9999586232578668,Section 177,PolicyBaseline
+New Jersey,2041,0.9999589173348306,Section 177,PolicyBaseline
+New Jersey,2042,0.9999592194604735,Section 177,PolicyBaseline
+New Jersey,2043,0.9999595089788837,Section 177,PolicyBaseline
+New Jersey,2044,0.9999531054257024,Section 177,PolicyBaseline
+New Jersey,2045,0.9999534661100328,Section 177,PolicyBaseline
+New Jersey,2046,0.9999538787934691,Section 177,PolicyBaseline
+New Jersey,2047,0.9999477868135597,Section 177,PolicyBaseline
+New Jersey,2048,0.9999482896812059,Section 177,PolicyBaseline
+New Jersey,2049,0.999948788856455,Section 177,PolicyBaseline
+New Jersey,2050,0.9999493234683017,Section 177,PolicyBaseline
+New Mexico,2020,0.014244522659113383,Section 177,PolicyBaseline
+New Mexico,2021,0.030540024839495396,Section 177,PolicyBaseline
+New Mexico,2022,0.045779156274172034,Section 177,PolicyBaseline
+New Mexico,2023,0.06033090049440681,Section 177,PolicyBaseline
+New Mexico,2024,0.06904808502849177,Section 177,PolicyBaseline
+New Mexico,2025,0.2199869366427174,Section 177,PolicyBaseline
+New Mexico,2026,0.34999027174265507,Section 177,PolicyBaseline
+New Mexico,2027,0.4300125293153851,Section 177,PolicyBaseline
+New Mexico,2028,0.5100019111932218,Section 177,PolicyBaseline
+New Mexico,2029,0.5900202506011898,Section 177,PolicyBaseline
+New Mexico,2030,0.6800050373075593,Section 177,PolicyBaseline
+New Mexico,2031,0.7600476518904005,Section 177,PolicyBaseline
+New Mexico,2032,0.8200362364113455,Section 177,PolicyBaseline
+New Mexico,2033,0.8200466200466198,Section 177,PolicyBaseline
+New Mexico,2034,0.8200654644268779,Section 177,PolicyBaseline
+New Mexico,2035,0.8200767459708364,Section 177,PolicyBaseline
+New Mexico,2036,0.8200036659131178,Section 177,PolicyBaseline
+New Mexico,2037,0.8200103302646367,Section 177,PolicyBaseline
+New Mexico,2038,0.8200265732576394,Section 177,PolicyBaseline
+New Mexico,2039,0.8200480192076833,Section 177,PolicyBaseline
+New Mexico,2040,0.820007748010847,Section 177,PolicyBaseline
+New Mexico,2041,0.8200082850041428,Section 177,PolicyBaseline
+New Mexico,2042,0.8200187969924808,Section 177,PolicyBaseline
+New Mexico,2043,0.8200058326042581,Section 177,PolicyBaseline
+New Mexico,2044,0.8200162121475308,Section 177,PolicyBaseline
+New Mexico,2045,0.8200229819017527,Section 177,PolicyBaseline
+New Mexico,2046,0.8199988611126928,Section 177,PolicyBaseline
+New Mexico,2047,0.8200022563176893,Section 177,PolicyBaseline
+New Mexico,2048,0.8200000000000001,Section 177,PolicyBaseline
+New Mexico,2049,0.8200226838916712,Section 177,PolicyBaseline
+New Mexico,2050,0.8199934304171685,Section 177,PolicyBaseline
+New York,2020,0.02906979616575007,Section 177,PolicyBaseline
+New York,2021,0.061955570838874284,Section 177,PolicyBaseline
+New York,2022,0.08877683620189343,Section 177,PolicyBaseline
+New York,2023,0.12875935196614163,Section 177,PolicyBaseline
+New York,2024,0.14603263544398276,Section 177,PolicyBaseline
+New York,2025,0.2199918275615486,Section 177,PolicyBaseline
+New York,2026,0.34999147036990924,Section 177,PolicyBaseline
+New York,2027,0.4299913668276061,Section 177,PolicyBaseline
+New York,2028,0.5099929802314256,Section 177,PolicyBaseline
+New York,2029,0.5899898774041168,Section 177,PolicyBaseline
+New York,2030,0.6799928377985187,Section 177,PolicyBaseline
+New York,2031,0.7599891238455229,Section 177,PolicyBaseline
+New York,2032,0.8199891623952885,Section 177,PolicyBaseline
+New York,2033,0.8799851522556641,Section 177,PolicyBaseline
+New York,2034,0.9399830530054576,Section 177,PolicyBaseline
+New York,2035,0.9999694479239863,Section 177,PolicyBaseline
+New York,2036,0.9999695928482378,Section 177,PolicyBaseline
+New York,2037,0.9999654396295128,Section 177,PolicyBaseline
+New York,2038,0.9999613589623594,Section 177,PolicyBaseline
+New York,2039,0.9999615968867877,Section 177,PolicyBaseline
+New York,2040,0.9999576278368162,Section 177,PolicyBaseline
+New York,2041,0.99995372220703,Section 177,PolicyBaseline
+New York,2042,0.9999540627336014,Section 177,PolicyBaseline
+New York,2043,0.9999502423611658,Section 177,PolicyBaseline
+New York,2044,0.9999506052909964,Section 177,PolicyBaseline
+New York,2045,0.9999469008475442,Section 177,PolicyBaseline
+New York,2046,0.9999473714040501,Section 177,PolicyBaseline
+New York,2047,0.9999438571726472,Section 177,PolicyBaseline
+New York,2048,0.9999443978887084,Section 177,PolicyBaseline
+New York,2049,0.9999449352202198,Section 177,PolicyBaseline
+New York,2050,0.9999416178851664,Section 177,PolicyBaseline
+North Carolina,2020,0.016897163269172698,Non-177,PolicyBaseline
+North Carolina,2021,0.03487472461514499,Non-177,PolicyBaseline
+North Carolina,2022,0.05596515327181886,Non-177,PolicyBaseline
+North Carolina,2023,0.07690319801966067,Non-177,PolicyBaseline
+North Carolina,2024,0.08769383250790946,Non-177,PolicyBaseline
+North Carolina,2025,0.10123740877353268,Non-177,PolicyBaseline
+North Carolina,2026,0.13526423959365863,Non-177,PolicyBaseline
+North Carolina,2027,0.18339889370343038,Non-177,PolicyBaseline
+North Carolina,2028,0.22330711260245345,Non-177,PolicyBaseline
+North Carolina,2029,0.27059961420975837,Non-177,PolicyBaseline
+North Carolina,2030,0.3144994671712234,Non-177,PolicyBaseline
+North Carolina,2031,0.36943775209117224,Non-177,PolicyBaseline
+North Carolina,2032,0.4203796915208703,Non-177,PolicyBaseline
+North Carolina,2033,0.49014556228262246,Non-177,PolicyBaseline
+North Carolina,2034,0.5262310292972715,Non-177,PolicyBaseline
+North Carolina,2035,0.5562076222890198,Non-177,PolicyBaseline
+North Carolina,2036,0.5812008652983695,Non-177,PolicyBaseline
+North Carolina,2037,0.6020663563808853,Non-177,PolicyBaseline
+North Carolina,2038,0.6194610887738127,Non-177,PolicyBaseline
+North Carolina,2039,0.6341411586661557,Non-177,PolicyBaseline
+North Carolina,2040,0.6460340497364958,Non-177,PolicyBaseline
+North Carolina,2041,0.6562234917779808,Non-177,PolicyBaseline
+North Carolina,2042,0.6654780262143405,Non-177,PolicyBaseline
+North Carolina,2043,0.6732777984830332,Non-177,PolicyBaseline
+North Carolina,2044,0.6805957612755167,Non-177,PolicyBaseline
+North Carolina,2045,0.6871232604866919,Non-177,PolicyBaseline
+North Carolina,2046,0.6929885379633857,Non-177,PolicyBaseline
+North Carolina,2047,0.6985041621408353,Non-177,PolicyBaseline
+North Carolina,2048,0.7039156001717324,Non-177,PolicyBaseline
+North Carolina,2049,0.7092947707359955,Non-177,PolicyBaseline
+North Carolina,2050,0.7142202051718439,Non-177,PolicyBaseline
+North Dakota,2020,0.003757148302798483,Non-177,PolicyBaseline
+North Dakota,2021,0.00905474945511936,Non-177,PolicyBaseline
+North Dakota,2022,0.012722993551285358,Non-177,PolicyBaseline
+North Dakota,2023,0.01865756388646164,Non-177,PolicyBaseline
+North Dakota,2024,0.021537967008742446,Non-177,PolicyBaseline
+North Dakota,2025,0.10389492753623181,Non-177,PolicyBaseline
+North Dakota,2026,0.13744715300890514,Non-177,PolicyBaseline
+North Dakota,2027,0.18509936725782003,Non-177,PolicyBaseline
+North Dakota,2028,0.22488291950163478,Non-177,PolicyBaseline
+North Dakota,2029,0.26946370578425327,Non-177,PolicyBaseline
+North Dakota,2030,0.3140936081033883,Non-177,PolicyBaseline
+North Dakota,2031,0.3674782608695659,Non-177,PolicyBaseline
+North Dakota,2032,0.41828422876949756,Non-177,PolicyBaseline
+North Dakota,2033,0.4886187273667865,Non-177,PolicyBaseline
+North Dakota,2034,0.5250535331905779,Non-177,PolicyBaseline
+North Dakota,2035,0.5554798603423319,Non-177,PolicyBaseline
+North Dakota,2036,0.5809814391050095,Non-177,PolicyBaseline
+North Dakota,2037,0.6017699115044247,Non-177,PolicyBaseline
+North Dakota,2038,0.6192310913811876,Non-177,PolicyBaseline
+North Dakota,2039,0.6338966120036625,Non-177,PolicyBaseline
+North Dakota,2040,0.6457265663746068,Non-177,PolicyBaseline
+North Dakota,2041,0.6559139784946233,Non-177,PolicyBaseline
+North Dakota,2042,0.665743380855397,Non-177,PolicyBaseline
+North Dakota,2043,0.6731111470635827,Non-177,PolicyBaseline
+North Dakota,2044,0.6797301638291039,Non-177,PolicyBaseline
+North Dakota,2045,0.6850996015936259,Non-177,PolicyBaseline
+North Dakota,2046,0.6904667877734779,Non-177,PolicyBaseline
+North Dakota,2047,0.695900485057112,Non-177,PolicyBaseline
+North Dakota,2048,0.7016660209221229,Non-177,PolicyBaseline
+North Dakota,2049,0.7071055862492319,Non-177,PolicyBaseline
+North Dakota,2050,0.7121269648416735,Non-177,PolicyBaseline
+Ohio,2020,0.013331298318649988,Non-177,PolicyBaseline
+Ohio,2021,0.026412328083013033,Non-177,PolicyBaseline
+Ohio,2022,0.03922809222886709,Non-177,PolicyBaseline
+Ohio,2023,0.053761572282851805,Non-177,PolicyBaseline
+Ohio,2024,0.06159159303776134,Non-177,PolicyBaseline
+Ohio,2025,0.09988779739415185,Non-177,PolicyBaseline
+Ohio,2026,0.13364164267947193,Non-177,PolicyBaseline
+Ohio,2027,0.18070378562965425,Non-177,PolicyBaseline
+Ohio,2028,0.21850837736792955,Non-177,PolicyBaseline
+Ohio,2029,0.26437204927052643,Non-177,PolicyBaseline
+Ohio,2030,0.30738088510578154,Non-177,PolicyBaseline
+Ohio,2031,0.3625345103487086,Non-177,PolicyBaseline
+Ohio,2032,0.4135406855766074,Non-177,PolicyBaseline
+Ohio,2033,0.4831027779956933,Non-177,PolicyBaseline
+Ohio,2034,0.5191457484443943,Non-177,PolicyBaseline
+Ohio,2035,0.5493620428404159,Non-177,PolicyBaseline
+Ohio,2036,0.5745555031918079,Non-177,PolicyBaseline
+Ohio,2037,0.5955543057277627,Non-177,PolicyBaseline
+Ohio,2038,0.6130510268896889,Non-177,PolicyBaseline
+Ohio,2039,0.6278265261031503,Non-177,PolicyBaseline
+Ohio,2040,0.6398216367792644,Non-177,PolicyBaseline
+Ohio,2041,0.6500898343976527,Non-177,PolicyBaseline
+Ohio,2042,0.6592307628940718,Non-177,PolicyBaseline
+Ohio,2043,0.6670061016505534,Non-177,PolicyBaseline
+Ohio,2044,0.6741677492692428,Non-177,PolicyBaseline
+Ohio,2045,0.6805435259899041,Non-177,PolicyBaseline
+Ohio,2046,0.6862075712021216,Non-177,PolicyBaseline
+Ohio,2047,0.691704372864195,Non-177,PolicyBaseline
+Ohio,2048,0.6969156887015645,Non-177,PolicyBaseline
+Ohio,2049,0.7021968259879513,Non-177,PolicyBaseline
+Ohio,2050,0.7067831094049898,Non-177,PolicyBaseline
+Oklahoma,2020,0.008366656298509462,Non-177,PolicyBaseline
+Oklahoma,2021,0.027517039367315914,Non-177,PolicyBaseline
+Oklahoma,2022,0.05085242309435973,Non-177,PolicyBaseline
+Oklahoma,2023,0.08967402066512917,Non-177,PolicyBaseline
+Oklahoma,2024,0.10264135756893092,Non-177,PolicyBaseline
+Oklahoma,2025,0.1028662167526795,Non-177,PolicyBaseline
+Oklahoma,2026,0.13716276942968408,Non-177,PolicyBaseline
+Oklahoma,2027,0.18440414264960853,Non-177,PolicyBaseline
+Oklahoma,2028,0.2237555369699225,Non-177,PolicyBaseline
+Oklahoma,2029,0.27175518493445805,Non-177,PolicyBaseline
+Oklahoma,2030,0.31606019319382206,Non-177,PolicyBaseline
+Oklahoma,2031,0.37096036585365827,Non-177,PolicyBaseline
+Oklahoma,2032,0.42169059011164295,Non-177,PolicyBaseline
+Oklahoma,2033,0.4912349634286405,Non-177,PolicyBaseline
+Oklahoma,2034,0.5274687326396711,Non-177,PolicyBaseline
+Oklahoma,2035,0.5576684827225915,Non-177,PolicyBaseline
+Oklahoma,2036,0.5830028076117476,Non-177,PolicyBaseline
+Oklahoma,2037,0.6035427777859854,Non-177,PolicyBaseline
+Oklahoma,2038,0.6205767480104537,Non-177,PolicyBaseline
+Oklahoma,2039,0.635156432407191,Non-177,PolicyBaseline
+Oklahoma,2040,0.6471960585422398,Non-177,PolicyBaseline
+Oklahoma,2041,0.6577175414364632,Non-177,PolicyBaseline
+Oklahoma,2042,0.6672760250789065,Non-177,PolicyBaseline
+Oklahoma,2043,0.6750000000000002,Non-177,PolicyBaseline
+Oklahoma,2044,0.6822072072072077,Non-177,PolicyBaseline
+Oklahoma,2045,0.6884481072775528,Non-177,PolicyBaseline
+Oklahoma,2046,0.6943279201450896,Non-177,PolicyBaseline
+Oklahoma,2047,0.6999876571992812,Non-177,PolicyBaseline
+Oklahoma,2048,0.7059638447852016,Non-177,PolicyBaseline
+Oklahoma,2049,0.7117223754119306,Non-177,PolicyBaseline
+Oklahoma,2050,0.7165408830145483,Non-177,PolicyBaseline
+Oregon,2020,0.05429170355011798,Section 177,PolicyBaseline
+Oregon,2021,0.09669853145581579,Section 177,PolicyBaseline
+Oregon,2022,0.13443549462812793,Section 177,PolicyBaseline
+Oregon,2023,0.16723033525387826,Section 177,PolicyBaseline
+Oregon,2024,0.1882610301897663,Section 177,PolicyBaseline
+Oregon,2025,0.2199828063807434,Section 177,PolicyBaseline
+Oregon,2026,0.3499898380868507,Section 177,PolicyBaseline
+Oregon,2027,0.43000389277420487,Section 177,PolicyBaseline
+Oregon,2028,0.510001730172884,Section 177,PolicyBaseline
+Oregon,2029,0.5899866471000409,Section 177,PolicyBaseline
+Oregon,2030,0.6800010523684863,Section 177,PolicyBaseline
+Oregon,2031,0.7599979041406322,Section 177,PolicyBaseline
+Oregon,2032,0.8200044378891306,Section 177,PolicyBaseline
+Oregon,2033,0.8800077917018373,Section 177,PolicyBaseline
+Oregon,2034,0.9399932910151209,Section 177,PolicyBaseline
+Oregon,2035,0.9999743477926275,Section 177,PolicyBaseline
+Oregon,2036,0.9999744696060661,Section 177,PolicyBaseline
+Oregon,2037,0.9999746096229529,Section 177,PolicyBaseline
+Oregon,2038,0.9999621489313381,Section 177,PolicyBaseline
+Oregon,2039,0.999962382445141,Section 177,PolicyBaseline
+Oregon,2040,0.99996264521672,Section 177,PolicyBaseline
+Oregon,2041,0.9999629103047536,Section 177,PolicyBaseline
+Oregon,2042,0.999950911813072,Section 177,PolicyBaseline
+Oregon,2043,0.9999512599307891,Section 177,PolicyBaseline
+Oregon,2044,0.9999516154395132,Section 177,PolicyBaseline
+Oregon,2045,0.9999519877088534,Section 177,PolicyBaseline
+Oregon,2046,0.9999524132433942,Section 177,PolicyBaseline
+Oregon,2047,0.9999528618735049,Section 177,PolicyBaseline
+Oregon,2048,0.9999416446861651,Section 177,PolicyBaseline
+Oregon,2049,0.9999422092257193,Section 177,PolicyBaseline
+Oregon,2050,0.9999428113919708,Section 177,PolicyBaseline
+Pennsylvania,2020,0.01629487964863675,Section 177,PolicyBaseline
+Pennsylvania,2021,0.033761439661431504,Section 177,PolicyBaseline
+Pennsylvania,2022,0.05374305240635319,Section 177,PolicyBaseline
+Pennsylvania,2023,0.07582148897129587,Section 177,PolicyBaseline
+Pennsylvania,2024,0.08661828600263614,Section 177,PolicyBaseline
+Pennsylvania,2025,0.12889187283248138,Section 177,PolicyBaseline
+Pennsylvania,2026,0.16840439307467275,Section 177,PolicyBaseline
+Pennsylvania,2027,0.18509578835335247,Section 177,PolicyBaseline
+Pennsylvania,2028,0.22588942488882166,Section 177,PolicyBaseline
+Pennsylvania,2029,0.27450347241721396,Section 177,PolicyBaseline
+Pennsylvania,2030,0.3188971978282937,Section 177,PolicyBaseline
+Pennsylvania,2031,0.3742424874694559,Section 177,PolicyBaseline
+Pennsylvania,2032,0.4252151856626061,Section 177,PolicyBaseline
+Pennsylvania,2033,0.49517584382512614,Section 177,PolicyBaseline
+Pennsylvania,2034,0.5312444340928091,Section 177,PolicyBaseline
+Pennsylvania,2035,0.5610641968582595,Section 177,PolicyBaseline
+Pennsylvania,2036,0.5858588140670821,Section 177,PolicyBaseline
+Pennsylvania,2037,0.6062948250139301,Section 177,PolicyBaseline
+Pennsylvania,2038,0.6231862051101119,Section 177,PolicyBaseline
+Pennsylvania,2039,0.6373776604008078,Section 177,PolicyBaseline
+Pennsylvania,2040,0.6488262621098188,Section 177,PolicyBaseline
+Pennsylvania,2041,0.6586989343778035,Section 177,PolicyBaseline
+Pennsylvania,2042,0.6673790844562596,Section 177,PolicyBaseline
+Pennsylvania,2043,0.6745339578858371,Section 177,PolicyBaseline
+Pennsylvania,2044,0.6810190537358165,Section 177,PolicyBaseline
+Pennsylvania,2045,0.6868326797330079,Section 177,PolicyBaseline
+Pennsylvania,2046,0.6920106457345471,Section 177,PolicyBaseline
+Pennsylvania,2047,0.6986463656272804,Section 177,PolicyBaseline
+Pennsylvania,2048,0.7042432154409917,Section 177,PolicyBaseline
+Pennsylvania,2049,0.7093474729869609,Section 177,PolicyBaseline
+Pennsylvania,2050,0.7137900460329472,Section 177,PolicyBaseline
+Rhode Island,2020,0.018196045603182116,Section 177,PolicyBaseline
+Rhode Island,2021,0.040602508061998284,Section 177,PolicyBaseline
+Rhode Island,2022,0.061614854358004824,Section 177,PolicyBaseline
+Rhode Island,2023,0.08736100510149743,Section 177,PolicyBaseline
+Rhode Island,2024,0.09976882204755017,Section 177,PolicyBaseline
+Rhode Island,2025,0.21994884910485912,Section 177,PolicyBaseline
+Rhode Island,2026,0.34998778998778945,Section 177,PolicyBaseline
+Rhode Island,2027,0.4299883878459456,Section 177,PolicyBaseline
+Rhode Island,2028,0.5100014390559792,Section 177,PolicyBaseline
+Rhode Island,2029,0.5900405051227059,Section 177,PolicyBaseline
+Rhode Island,2030,0.6800531032193822,Section 177,PolicyBaseline
+Rhode Island,2031,0.7600566572237955,Section 177,PolicyBaseline
+Rhode Island,2032,0.8200508091832892,Section 177,PolicyBaseline
+Rhode Island,2033,0.8800786369593712,Section 177,PolicyBaseline
+Rhode Island,2034,0.9401013812026229,Section 177,PolicyBaseline
+Rhode Island,2035,1,Section 177,PolicyBaseline
+Rhode Island,2036,1,Section 177,PolicyBaseline
+Rhode Island,2037,1,Section 177,PolicyBaseline
+Rhode Island,2038,0.9999545268518938,Section 177,PolicyBaseline
+Rhode Island,2039,0.9999548063451892,Section 177,PolicyBaseline
+Rhode Island,2040,0.9999551227393079,Section 177,PolicyBaseline
+Rhode Island,2041,0.9999554426770039,Section 177,PolicyBaseline
+Rhode Island,2042,0.9999557717823973,Section 177,PolicyBaseline
+Rhode Island,2043,0.9999560825647782,Section 177,PolicyBaseline
+Rhode Island,2044,0.9999564042200715,Section 177,PolicyBaseline
+Rhode Island,2045,0.9999567399204015,Section 177,PolicyBaseline
+Rhode Island,2046,0.999957123869142,Section 177,PolicyBaseline
+Rhode Island,2047,0.9999575281376087,Section 177,PolicyBaseline
+Rhode Island,2048,0.9999579354730156,Section 177,PolicyBaseline
+Rhode Island,2049,0.9999583420120809,Section 177,PolicyBaseline
+Rhode Island,2050,0.9999587764861075,Section 177,PolicyBaseline
+South Carolina,2020,0.008922949946231338,Non-177,PolicyBaseline
+South Carolina,2021,0.020140912812483616,Non-177,PolicyBaseline
+South Carolina,2022,0.03229054470529047,Non-177,PolicyBaseline
+South Carolina,2023,0.045192811047607806,Non-177,PolicyBaseline
+South Carolina,2024,0.05182467401610051,Non-177,PolicyBaseline
+South Carolina,2025,0.10175270482578798,Non-177,PolicyBaseline
+South Carolina,2026,0.1353085654858051,Non-177,PolicyBaseline
+South Carolina,2027,0.18256151696169237,Non-177,PolicyBaseline
+South Carolina,2028,0.22180442956812807,Non-177,PolicyBaseline
+South Carolina,2029,0.26863866997732905,Non-177,PolicyBaseline
+South Carolina,2030,0.3118790079164735,Non-177,PolicyBaseline
+South Carolina,2031,0.3657493074347814,Non-177,PolicyBaseline
+South Carolina,2032,0.41679278664762365,Non-177,PolicyBaseline
+South Carolina,2033,0.4865071202112209,Non-177,PolicyBaseline
+South Carolina,2034,0.5228558485477403,Non-177,PolicyBaseline
+South Carolina,2035,0.5529011311269386,Non-177,PolicyBaseline
+South Carolina,2036,0.5778583862326324,Non-177,PolicyBaseline
+South Carolina,2037,0.5985486964183894,Non-177,PolicyBaseline
+South Carolina,2038,0.6159607677487816,Non-177,PolicyBaseline
+South Carolina,2039,0.630696769569447,Non-177,PolicyBaseline
+South Carolina,2040,0.6426102163657069,Non-177,PolicyBaseline
+South Carolina,2041,0.6528898086921407,Non-177,PolicyBaseline
+South Carolina,2042,0.6621204529511973,Non-177,PolicyBaseline
+South Carolina,2043,0.6697710516103996,Non-177,PolicyBaseline
+South Carolina,2044,0.6769455666070746,Non-177,PolicyBaseline
+South Carolina,2045,0.6834331415577929,Non-177,PolicyBaseline
+South Carolina,2046,0.6893500034000712,Non-177,PolicyBaseline
+South Carolina,2047,0.6948844281067768,Non-177,PolicyBaseline
+South Carolina,2048,0.7003716763556654,Non-177,PolicyBaseline
+South Carolina,2049,0.7057807559813131,Non-177,PolicyBaseline
+South Carolina,2050,0.7107339989352858,Non-177,PolicyBaseline
+South Dakota,2020,0.005728729994450791,Non-177,PolicyBaseline
+South Dakota,2021,0.01314979723707962,Non-177,PolicyBaseline
+South Dakota,2022,0.019549993088925577,Non-177,PolicyBaseline
+South Dakota,2023,0.0268421309125909,Non-177,PolicyBaseline
+South Dakota,2024,0.030939403601027603,Non-177,PolicyBaseline
+South Dakota,2025,0.09963255225588812,Non-177,PolicyBaseline
+South Dakota,2026,0.1328349282296651,Non-177,PolicyBaseline
+South Dakota,2027,0.17937777777777772,Non-177,PolicyBaseline
+South Dakota,2028,0.21808354385758766,Non-177,PolicyBaseline
+South Dakota,2029,0.26526205206023096,Non-177,PolicyBaseline
+South Dakota,2030,0.3090412868009986,Non-177,PolicyBaseline
+South Dakota,2031,0.3639412513010297,Non-177,PolicyBaseline
+South Dakota,2032,0.4149236531258994,Non-177,PolicyBaseline
+South Dakota,2033,0.4846938775510204,Non-177,PolicyBaseline
+South Dakota,2034,0.5210160610547898,Non-177,PolicyBaseline
+South Dakota,2035,0.5512145405129939,Non-177,PolicyBaseline
+South Dakota,2036,0.5765004226542682,Non-177,PolicyBaseline
+South Dakota,2037,0.597433167068318,Non-177,PolicyBaseline
+South Dakota,2038,0.6149947084052806,Non-177,PolicyBaseline
+South Dakota,2039,0.6297813451425416,Non-177,PolicyBaseline
+South Dakota,2040,0.6416556728232187,Non-177,PolicyBaseline
+South Dakota,2041,0.6520196506550211,Non-177,PolicyBaseline
+South Dakota,2042,0.66142926802839,Non-177,PolicyBaseline
+South Dakota,2043,0.6691591801603095,Non-177,PolicyBaseline
+South Dakota,2044,0.6764391754779459,Non-177,PolicyBaseline
+South Dakota,2045,0.6827937046261462,Non-177,PolicyBaseline
+South Dakota,2046,0.6886029411764705,Non-177,PolicyBaseline
+South Dakota,2047,0.6940166493236217,Non-177,PolicyBaseline
+South Dakota,2048,0.6994693183574631,Non-177,PolicyBaseline
+South Dakota,2049,0.7048318791775086,Non-177,PolicyBaseline
+South Dakota,2050,0.7097702600353443,Non-177,PolicyBaseline
+Tennessee,2020,0.011518539853436992,Non-177,PolicyBaseline
+Tennessee,2021,0.024183771588931834,Non-177,PolicyBaseline
+Tennessee,2022,0.03832231279977902,Non-177,PolicyBaseline
+Tennessee,2023,0.05176878292933612,Non-177,PolicyBaseline
+Tennessee,2024,0.05925563016406927,Non-177,PolicyBaseline
+Tennessee,2025,0.09880234128770807,Non-177,PolicyBaseline
+Tennessee,2026,0.13177400463149247,Non-177,PolicyBaseline
+Tennessee,2027,0.177294912791985,Non-177,PolicyBaseline
+Tennessee,2028,0.21507803374289736,Non-177,PolicyBaseline
+Tennessee,2029,0.2614249070826574,Non-177,PolicyBaseline
+Tennessee,2030,0.30552878981223514,Non-177,PolicyBaseline
+Tennessee,2031,0.35992012724317984,Non-177,PolicyBaseline
+Tennessee,2032,0.4104721872900482,Non-177,PolicyBaseline
+Tennessee,2033,0.47956604080793175,Non-177,PolicyBaseline
+Tennessee,2034,0.5156277937182316,Non-177,PolicyBaseline
+Tennessee,2035,0.5459900969148077,Non-177,PolicyBaseline
+Tennessee,2036,0.5714309782746058,Non-177,PolicyBaseline
+Tennessee,2037,0.5923142656077215,Non-177,PolicyBaseline
+Tennessee,2038,0.6099847630783577,Non-177,PolicyBaseline
+Tennessee,2039,0.6250320658695026,Non-177,PolicyBaseline
+Tennessee,2040,0.6371509802954867,Non-177,PolicyBaseline
+Tennessee,2041,0.6473957313491276,Non-177,PolicyBaseline
+Tennessee,2042,0.6567619880625538,Non-177,PolicyBaseline
+Tennessee,2043,0.6644339015760699,Non-177,PolicyBaseline
+Tennessee,2044,0.6717888132319029,Non-177,PolicyBaseline
+Tennessee,2045,0.6781759422080699,Non-177,PolicyBaseline
+Tennessee,2046,0.6842394504416088,Non-177,PolicyBaseline
+Tennessee,2047,0.6896964700941786,Non-177,PolicyBaseline
+Tennessee,2048,0.6953641874042062,Non-177,PolicyBaseline
+Tennessee,2049,0.7008580908432175,Non-177,PolicyBaseline
+Tennessee,2050,0.705984028501124,Non-177,PolicyBaseline
+Texas,2020,0.01909680942093751,Non-177,PolicyBaseline
+Texas,2021,0.03835230515465357,Non-177,PolicyBaseline
+Texas,2022,0.06245506906551114,Non-177,PolicyBaseline
+Texas,2023,0.08592175077835303,Non-177,PolicyBaseline
+Texas,2024,0.09775723795182029,Non-177,PolicyBaseline
+Texas,2025,0.10937903936629768,Non-177,PolicyBaseline
+Texas,2026,0.14613062004225977,Non-177,PolicyBaseline
+Texas,2027,0.19602207126374013,Non-177,PolicyBaseline
+Texas,2028,0.23689697974550744,Non-177,PolicyBaseline
+Texas,2029,0.2869279034610087,Non-177,PolicyBaseline
+Texas,2030,0.33265519375786184,Non-177,PolicyBaseline
+Texas,2031,0.38902131626677044,Non-177,PolicyBaseline
+Texas,2032,0.44031743236401255,Non-177,PolicyBaseline
+Texas,2033,0.5072963685700957,Non-177,PolicyBaseline
+Texas,2034,0.5413388225463913,Non-177,PolicyBaseline
+Texas,2035,0.5709100269748183,Non-177,PolicyBaseline
+Texas,2036,0.5981945634529351,Non-177,PolicyBaseline
+Texas,2037,0.6170693376269677,Non-177,PolicyBaseline
+Texas,2038,0.6321075714082042,Non-177,PolicyBaseline
+Texas,2039,0.6457397965118122,Non-177,PolicyBaseline
+Texas,2040,0.6587361921962284,Non-177,PolicyBaseline
+Texas,2041,0.6681533563113414,Non-177,PolicyBaseline
+Texas,2042,0.6760130478157739,Non-177,PolicyBaseline
+Texas,2043,0.6834019046523002,Non-177,PolicyBaseline
+Texas,2044,0.6912320930934728,Non-177,PolicyBaseline
+Texas,2045,0.697684305139714,Non-177,PolicyBaseline
+Texas,2046,0.7029117525491874,Non-177,PolicyBaseline
+Texas,2047,0.7081479125880724,Non-177,PolicyBaseline
+Texas,2048,0.71387066486362,Non-177,PolicyBaseline
+Texas,2049,0.7193953039562564,Non-177,PolicyBaseline
+Texas,2050,0.7244777493711384,Non-177,PolicyBaseline
+Utah,2020,0.03446046413330228,Non-177,PolicyBaseline
+Utah,2021,0.06660500200739608,Non-177,PolicyBaseline
+Utah,2022,0.09973042121066399,Non-177,PolicyBaseline
+Utah,2023,0.1270019732162728,Non-177,PolicyBaseline
+Utah,2024,0.14371243826306637,Non-177,PolicyBaseline
+Utah,2025,0.1065675076713261,Non-177,PolicyBaseline
+Utah,2026,0.13854975561244987,Non-177,PolicyBaseline
+Utah,2027,0.18484823075633097,Non-177,PolicyBaseline
+Utah,2028,0.22413434759113798,Non-177,PolicyBaseline
+Utah,2029,0.27247388198372985,Non-177,PolicyBaseline
+Utah,2030,0.31765890135173913,Non-177,PolicyBaseline
+Utah,2031,0.37325614695413717,Non-177,PolicyBaseline
+Utah,2032,0.4228581911575859,Non-177,PolicyBaseline
+Utah,2033,0.48830889659508014,Non-177,PolicyBaseline
+Utah,2034,0.522999738066934,Non-177,PolicyBaseline
+Utah,2035,0.5534412306706193,Non-177,PolicyBaseline
+Utah,2036,0.5810258557103841,Non-177,PolicyBaseline
+Utah,2037,0.6012490087232356,Non-177,PolicyBaseline
+Utah,2038,0.6180249054224465,Non-177,PolicyBaseline
+Utah,2039,0.6322014647710802,Non-177,PolicyBaseline
+Utah,2040,0.6440710924435112,Non-177,PolicyBaseline
+Utah,2041,0.653924123950189,Non-177,PolicyBaseline
+Utah,2042,0.6628464103645221,Non-177,PolicyBaseline
+Utah,2043,0.670022073374943,Non-177,PolicyBaseline
+Utah,2044,0.677062868369351,Non-177,PolicyBaseline
+Utah,2045,0.683174626977581,Non-177,PolicyBaseline
+Utah,2046,0.6891407338597308,Non-177,PolicyBaseline
+Utah,2047,0.6944863631344541,Non-177,PolicyBaseline
+Utah,2048,0.6997776400685309,Non-177,PolicyBaseline
+Utah,2049,0.705124271248849,Non-177,PolicyBaseline
+Utah,2050,0.7098738970456897,Non-177,PolicyBaseline
+Vermont,2020,0.03860762780993361,Section 177,PolicyBaseline
+Vermont,2021,0.08078982166220712,Section 177,PolicyBaseline
+Vermont,2022,0.11106422304690908,Section 177,PolicyBaseline
+Vermont,2023,0.1497470579764848,Section 177,PolicyBaseline
+Vermont,2024,0.16931543672959906,Section 177,PolicyBaseline
+Vermont,2025,0.2199463060554832,Section 177,PolicyBaseline
+Vermont,2026,0.3500493583415598,Section 177,PolicyBaseline
+Vermont,2027,0.4300107600508664,Section 177,PolicyBaseline
+Vermont,2028,0.5099883630721483,Section 177,PolicyBaseline
+Vermont,2029,0.590077071290943,Section 177,PolicyBaseline
+Vermont,2030,0.6800536758362886,Section 177,PolicyBaseline
+Vermont,2031,0.7601412618115877,Section 177,PolicyBaseline
+Vermont,2032,0.8202396804260988,Section 177,PolicyBaseline
+Vermont,2033,0.880204390613172,Section 177,PolicyBaseline
+Vermont,2034,0.9402087054620661,Section 177,PolicyBaseline
+Vermont,2035,1,Section 177,PolicyBaseline
+Vermont,2036,1,Section 177,PolicyBaseline
+Vermont,2037,1,Section 177,PolicyBaseline
+Vermont,2038,1,Section 177,PolicyBaseline
+Vermont,2039,1,Section 177,PolicyBaseline
+Vermont,2040,1,Section 177,PolicyBaseline
+Vermont,2041,1,Section 177,PolicyBaseline
+Vermont,2042,1,Section 177,PolicyBaseline
+Vermont,2043,1,Section 177,PolicyBaseline
+Vermont,2044,1,Section 177,PolicyBaseline
+Vermont,2045,1,Section 177,PolicyBaseline
+Vermont,2046,1,Section 177,PolicyBaseline
+Vermont,2047,1,Section 177,PolicyBaseline
+Vermont,2048,1,Section 177,PolicyBaseline
+Vermont,2049,1,Section 177,PolicyBaseline
+Vermont,2050,1,Section 177,PolicyBaseline
+Virginia,2020,0.023200795028770243,Section 177,PolicyBaseline
+Virginia,2021,0.04752732195992513,Section 177,PolicyBaseline
+Virginia,2022,0.0770174070336551,Section 177,PolicyBaseline
+Virginia,2023,0.10309898068822514,Section 177,PolicyBaseline
+Virginia,2024,0.11707717933352059,Section 177,PolicyBaseline
+Virginia,2025,0.11270826594371965,Section 177,PolicyBaseline
+Virginia,2026,0.14964450527688905,Section 177,PolicyBaseline
+Virginia,2027,0.19759683227523384,Section 177,PolicyBaseline
+Virginia,2028,0.2401269986712615,Section 177,PolicyBaseline
+Virginia,2029,0.2911140134557532,Section 177,PolicyBaseline
+Virginia,2030,0.338632421781267,Section 177,PolicyBaseline
+Virginia,2031,0.3979040463049863,Section 177,PolicyBaseline
+Virginia,2032,0.4528748684782658,Section 177,PolicyBaseline
+Virginia,2033,0.5281345195651953,Section 177,PolicyBaseline
+Virginia,2034,0.5668197300734523,Section 177,PolicyBaseline
+Virginia,2035,0.5992999303661926,Section 177,PolicyBaseline
+Virginia,2036,0.6267372024366731,Section 177,PolicyBaseline
+Virginia,2037,0.649258463270265,Section 177,PolicyBaseline
+Virginia,2038,0.6680348312077649,Section 177,PolicyBaseline
+Virginia,2039,0.6838769682536873,Section 177,PolicyBaseline
+Virginia,2040,0.696706505718689,Section 177,PolicyBaseline
+Virginia,2041,0.707131267518166,Section 177,PolicyBaseline
+Virginia,2042,0.7170042055611139,Section 177,PolicyBaseline
+Virginia,2043,0.7252569137563092,Section 177,PolicyBaseline
+Virginia,2044,0.7334066837831497,Section 177,PolicyBaseline
+Virginia,2045,0.7401175908225214,Section 177,PolicyBaseline
+Virginia,2046,0.7462364320248901,Section 177,PolicyBaseline
+Virginia,2047,0.7520934431365163,Section 177,PolicyBaseline
+Virginia,2048,0.7579977946493709,Section 177,PolicyBaseline
+Virginia,2049,0.7638800947956462,Section 177,PolicyBaseline
+Virginia,2050,0.7691931117605542,Section 177,PolicyBaseline
+Washington,2020,0.059055488273709086,Section 177,PolicyBaseline
+Washington,2021,0.10166612341891905,Section 177,PolicyBaseline
+Washington,2022,0.14512759038323927,Section 177,PolicyBaseline
+Washington,2023,0.19012917813738175,Section 177,PolicyBaseline
+Washington,2024,0.21302842683589968,Section 177,PolicyBaseline
+Washington,2025,0.21998867690292853,Section 177,PolicyBaseline
+Washington,2026,0.3499901792789562,Section 177,PolicyBaseline
+Washington,2027,0.4299910756822395,Section 177,PolicyBaseline
+Washington,2028,0.5099891559612274,Section 177,PolicyBaseline
+Washington,2029,0.5899967616366292,Section 177,PolicyBaseline
+Washington,2030,0.6799934242972214,Section 177,PolicyBaseline
+Washington,2031,0.7599887377064211,Section 177,PolicyBaseline
+Washington,2032,0.8199915179590904,Section 177,PolicyBaseline
+Washington,2033,0.8799927295860408,Section 177,PolicyBaseline
+Washington,2034,0.9399882620781278,Section 177,PolicyBaseline
+Washington,2035,0.9999679427585898,Section 177,PolicyBaseline
+Washington,2036,0.9999680947458429,Section 177,PolicyBaseline
+Washington,2037,0.9999619241020433,Section 177,PolicyBaseline
+Washington,2038,0.9999621580029516,Section 177,PolicyBaseline
+Washington,2039,0.999956123031021,Section 177,PolicyBaseline
+Washington,2040,0.9999564297273745,Section 177,PolicyBaseline
+Washington,2041,0.999950559297942,Section 177,PolicyBaseline
+Washington,2042,0.9999509229551742,Section 177,PolicyBaseline
+Washington,2043,0.9999512715090605,Section 177,PolicyBaseline
+Washington,2044,0.999945580534762,Section 177,PolicyBaseline
+Washington,2045,0.9999459991359861,Section 177,PolicyBaseline
+Washington,2046,0.9999464779518897,Section 177,PolicyBaseline
+Washington,2047,0.9999410915731496,Section 177,PolicyBaseline
+Washington,2048,0.9999416586447304,Section 177,PolicyBaseline
+Washington,2049,0.9999422222479013,Section 177,PolicyBaseline
+Washington,2050,0.9999428251249272,Section 177,PolicyBaseline
+West Virginia,2020,0.004747786344098391,Non-177,PolicyBaseline
+West Virginia,2021,0.010787807542843982,Non-177,PolicyBaseline
+West Virginia,2022,0.01735032018534396,Non-177,PolicyBaseline
+West Virginia,2023,0.02341909797709283,Non-177,PolicyBaseline
+West Virginia,2024,0.026988365590470936,Non-177,PolicyBaseline
+West Virginia,2025,0.10405643738977059,Non-177,PolicyBaseline
+West Virginia,2026,0.13803167684943762,Non-177,PolicyBaseline
+West Virginia,2027,0.18624465091175438,Non-177,PolicyBaseline
+West Virginia,2028,0.22665596453006093,Non-177,PolicyBaseline
+West Virginia,2029,0.26268226002430145,Non-177,PolicyBaseline
+West Virginia,2030,0.3093169109868516,Non-177,PolicyBaseline
+West Virginia,2031,0.36723100075244575,Non-177,PolicyBaseline
+West Virginia,2032,0.41842855000749696,Non-177,PolicyBaseline
+West Virginia,2033,0.4884007160972701,Non-177,PolicyBaseline
+West Virginia,2034,0.5250129696879864,Non-177,PolicyBaseline
+West Virginia,2035,0.5554982501381467,Non-177,PolicyBaseline
+West Virginia,2036,0.5809502859656839,Non-177,PolicyBaseline
+West Virginia,2037,0.601567912488606,Non-177,PolicyBaseline
+West Virginia,2038,0.6187715165790901,Non-177,PolicyBaseline
+West Virginia,2039,0.6332565007563202,Non-177,PolicyBaseline
+West Virginia,2040,0.6441829691355814,Non-177,PolicyBaseline
+West Virginia,2041,0.6370996378098146,Non-177,PolicyBaseline
+West Virginia,2042,0.6409714144725247,Non-177,PolicyBaseline
+West Virginia,2043,0.6470670586588272,Non-177,PolicyBaseline
+West Virginia,2044,0.6712062256809344,Non-177,PolicyBaseline
+West Virginia,2045,0.6829966213886782,Non-177,PolicyBaseline
+West Virginia,2046,0.691792523747693,Non-177,PolicyBaseline
+West Virginia,2047,0.6977932715088341,Non-177,PolicyBaseline
+West Virginia,2048,0.7034827204773239,Non-177,PolicyBaseline
+West Virginia,2049,0.7088464730290454,Non-177,PolicyBaseline
+West Virginia,2050,0.7137178897575713,Non-177,PolicyBaseline
+Wisconsin,2020,0.012327540607635017,Non-177,PolicyBaseline
+Wisconsin,2021,0.024853859758805594,Non-177,PolicyBaseline
+Wisconsin,2022,0.036885561215007225,Non-177,PolicyBaseline
+Wisconsin,2023,0.05183597841388663,Non-177,PolicyBaseline
+Wisconsin,2024,0.05941465536960355,Non-177,PolicyBaseline
+Wisconsin,2025,0.09250627465041218,Non-177,PolicyBaseline
+Wisconsin,2026,0.1229430379746835,Non-177,PolicyBaseline
+Wisconsin,2027,0.16513662594178363,Non-177,PolicyBaseline
+Wisconsin,2028,0.20145708873670412,Non-177,PolicyBaseline
+Wisconsin,2029,0.24703509635333715,Non-177,PolicyBaseline
+Wisconsin,2030,0.289742777313708,Non-177,PolicyBaseline
+Wisconsin,2031,0.34258179245463327,Non-177,PolicyBaseline
+Wisconsin,2032,0.3916336407286021,Non-177,PolicyBaseline
+Wisconsin,2033,0.4603004596938539,Non-177,PolicyBaseline
+Wisconsin,2034,0.4966381648335098,Non-177,PolicyBaseline
+Wisconsin,2035,0.5269997004194126,Non-177,PolicyBaseline
+Wisconsin,2036,0.5524974610776222,Non-177,PolicyBaseline
+Wisconsin,2037,0.5736749444032634,Non-177,PolicyBaseline
+Wisconsin,2038,0.5914796430511945,Non-177,PolicyBaseline
+Wisconsin,2039,0.6065329208691033,Non-177,PolicyBaseline
+Wisconsin,2040,0.6188221394165223,Non-177,PolicyBaseline
+Wisconsin,2041,0.6293201465465901,Non-177,PolicyBaseline
+Wisconsin,2042,0.6387943389466144,Non-177,PolicyBaseline
+Wisconsin,2043,0.6466910358689749,Non-177,PolicyBaseline
+Wisconsin,2044,0.654112038140643,Non-177,PolicyBaseline
+Wisconsin,2045,0.6606975460606432,Non-177,PolicyBaseline
+Wisconsin,2046,0.6666898222519383,Non-177,PolicyBaseline
+Wisconsin,2047,0.6723552130194316,Non-177,PolicyBaseline
+Wisconsin,2048,0.6779964221824689,Non-177,PolicyBaseline
+Wisconsin,2049,0.6835955624920913,Non-177,PolicyBaseline
+Wisconsin,2050,0.688811714223699,Non-177,PolicyBaseline
+Wyoming,2020,0.005991852889221185,Non-177,PolicyBaseline
+Wyoming,2021,0.012946846366010385,Non-177,PolicyBaseline
+Wyoming,2022,0.01924818342900696,Non-177,PolicyBaseline
+Wyoming,2023,0.025087169164669947,Non-177,PolicyBaseline
+Wyoming,2024,0.028919295060752356,Non-177,PolicyBaseline
+Wyoming,2025,0.10552980489382348,Non-177,PolicyBaseline
+Wyoming,2026,0.136893931285454,Non-177,PolicyBaseline
+Wyoming,2027,0.1846039656452129,Non-177,PolicyBaseline
+Wyoming,2028,0.2246635828427251,Non-177,PolicyBaseline
+Wyoming,2029,0.27279373368146154,Non-177,PolicyBaseline
+Wyoming,2030,0.31767640029097005,Non-177,PolicyBaseline
+Wyoming,2031,0.37375827814569573,Non-177,PolicyBaseline
+Wyoming,2032,0.4250953706567682,Non-177,PolicyBaseline
+Wyoming,2033,0.4952820512820512,Non-177,PolicyBaseline
+Wyoming,2034,0.5316894232728754,Non-177,PolicyBaseline
+Wyoming,2035,0.5619491439570459,Non-177,PolicyBaseline
+Wyoming,2036,0.5874168179068366,Non-177,PolicyBaseline
+Wyoming,2037,0.6082422540860319,Non-177,PolicyBaseline
+Wyoming,2038,0.6250747458640614,Non-177,PolicyBaseline
+Wyoming,2039,0.6397226349678059,Non-177,PolicyBaseline
+Wyoming,2040,0.6513571990558609,Non-177,PolicyBaseline
+Wyoming,2041,0.6625976562499994,Non-177,PolicyBaseline
+Wyoming,2042,0.6715781310585501,Non-177,PolicyBaseline
+Wyoming,2043,0.6771896053897973,Non-177,PolicyBaseline
+Wyoming,2044,0.6822742474916392,Non-177,PolicyBaseline
+Wyoming,2045,0.6862614961600453,Non-177,PolicyBaseline
+Wyoming,2046,0.6893441082503288,Non-177,PolicyBaseline
+Wyoming,2047,0.6954295820534302,Non-177,PolicyBaseline
+Wyoming,2048,0.7013920899787962,Non-177,PolicyBaseline
+Wyoming,2049,0.7072035058887981,Non-177,PolicyBaseline
+Wyoming,2050,0.7120787785707826,Non-177,PolicyBaseline
+Alabama,2020,0.006224850714949685,Non-177,PolicyRollback
+Alabama,2021,0.013841333306538466,Non-177,PolicyRollback
+Alabama,2022,0.022117120323943286,Non-177,PolicyRollback
+Alabama,2023,0.030468616055608008,Non-177,PolicyRollback
+Alabama,2024,0.035023478747885195,Non-177,PolicyRollback
+Alabama,2025,0.09705585496372178,Non-177,PolicyRollback
+Alabama,2026,0.129289968800227,Non-177,PolicyRollback
+Alabama,2027,0.1745972274260027,Non-177,PolicyRollback
+Alabama,2028,0.21222336760185337,Non-177,PolicyRollback
+Alabama,2029,0.2586281655057889,Non-177,PolicyRollback
+Alabama,2030,0.3018119733436143,Non-177,PolicyRollback
+Alabama,2031,0.3557730978757633,Non-177,PolicyRollback
+Alabama,2032,0.40615152011949734,Non-177,PolicyRollback
+Alabama,2033,0.47530288065097864,Non-177,PolicyRollback
+Alabama,2034,0.5113211793832994,Non-177,PolicyRollback
+Alabama,2035,0.5413358870859474,Non-177,PolicyRollback
+Alabama,2036,0.5665713547651495,Non-177,PolicyRollback
+Alabama,2037,0.5871566134847586,Non-177,PolicyRollback
+Alabama,2038,0.6043915409131729,Non-177,PolicyRollback
+Alabama,2039,0.6190697023257433,Non-177,PolicyRollback
+Alabama,2040,0.6308280476149096,Non-177,PolicyRollback
+Alabama,2041,0.6408488978993228,Non-177,PolicyRollback
+Alabama,2042,0.6498535632931989,Non-177,PolicyRollback
+Alabama,2043,0.6573192299843543,Non-177,PolicyRollback
+Alabama,2044,0.664564921965342,Non-177,PolicyRollback
+Alabama,2045,0.6708378353477231,Non-177,PolicyRollback
+Alabama,2046,0.6764652166694335,Non-177,PolicyRollback
+Alabama,2047,0.6816522211075109,Non-177,PolicyRollback
+Alabama,2048,0.6871981561565962,Non-177,PolicyRollback
+Alabama,2049,0.6929063999677385,Non-177,PolicyRollback
+Alabama,2050,0.6981659137708109,Non-177,PolicyRollback
+Alaska,2020,0.014384287828611814,Non-177,PolicyRollback
+Alaska,2021,0.02772640684822171,Non-177,PolicyRollback
+Alaska,2022,0.04079117139065611,Non-177,PolicyRollback
+Alaska,2023,0.05197568653932963,Non-177,PolicyRollback
+Alaska,2024,0.059492104957326215,Non-177,PolicyRollback
+Alaska,2025,0.11270826594371973,Non-177,PolicyRollback
+Alaska,2026,0.14964450527688872,Non-177,PolicyRollback
+Alaska,2027,0.19759683227523367,Non-177,PolicyRollback
+Alaska,2028,0.2401269986712617,Non-177,PolicyRollback
+Alaska,2029,0.29111401345575283,Non-177,PolicyRollback
+Alaska,2030,0.3386324217812677,Non-177,PolicyRollback
+Alaska,2031,0.3979040463049847,Non-177,PolicyRollback
+Alaska,2032,0.45287486847826697,Non-177,PolicyRollback
+Alaska,2033,0.5281345195651947,Non-177,PolicyRollback
+Alaska,2034,0.566819730073452,Non-177,PolicyRollback
+Alaska,2035,0.5992999303661934,Non-177,PolicyRollback
+Alaska,2036,0.6267372024366734,Non-177,PolicyRollback
+Alaska,2037,0.6492584632702658,Non-177,PolicyRollback
+Alaska,2038,0.6680348312077652,Non-177,PolicyRollback
+Alaska,2039,0.6838769682536878,Non-177,PolicyRollback
+Alaska,2040,0.6967065057186895,Non-177,PolicyRollback
+Alaska,2041,0.7071312675181665,Non-177,PolicyRollback
+Alaska,2042,0.7170042055611148,Non-177,PolicyRollback
+Alaska,2043,0.7252569137563091,Non-177,PolicyRollback
+Alaska,2044,0.733406683783149,Non-177,PolicyRollback
+Alaska,2045,0.7401175908225216,Non-177,PolicyRollback
+Alaska,2046,0.7462364320248905,Non-177,PolicyRollback
+Alaska,2047,0.7520934431365157,Non-177,PolicyRollback
+Alaska,2048,0.7579977946493706,Non-177,PolicyRollback
+Alaska,2049,0.7638800947956462,Non-177,PolicyRollback
+Alaska,2050,0.7691931117605539,Non-177,PolicyRollback
+Arizona,2020,0.03856228082092482,Non-177,PolicyRollback
+Arizona,2021,0.07062457334927631,Non-177,PolicyRollback
+Arizona,2022,0.10187423737975326,Non-177,PolicyRollback
+Arizona,2023,0.1273194467308787,Non-177,PolicyRollback
+Arizona,2024,0.14401655831170898,Non-177,PolicyRollback
+Arizona,2025,0.10728358256671773,Non-177,PolicyRollback
+Arizona,2026,0.14269842151626497,Non-177,PolicyRollback
+Arizona,2027,0.19189552555645512,Non-177,PolicyRollback
+Arizona,2028,0.23189354785903035,Non-177,PolicyRollback
+Arizona,2029,0.2804894103070433,Non-177,PolicyRollback
+Arizona,2030,0.32521997750142595,Non-177,PolicyRollback
+Arizona,2031,0.38053368933081666,Non-177,PolicyRollback
+Arizona,2032,0.43125922188328975,Non-177,PolicyRollback
+Arizona,2033,0.500155925551254,Non-177,PolicyRollback
+Arizona,2034,0.5351928541200652,Non-177,PolicyRollback
+Arizona,2035,0.5641424385846296,Non-177,PolicyRollback
+Arizona,2036,0.5887771505476829,Non-177,PolicyRollback
+Arizona,2037,0.6089765992727714,Non-177,PolicyRollback
+Arizona,2038,0.6258729630861334,Non-177,PolicyRollback
+Arizona,2039,0.6401595275868144,Non-177,PolicyRollback
+Arizona,2040,0.65162057296225,Non-177,PolicyRollback
+Arizona,2041,0.6613418298997071,Non-177,PolicyRollback
+Arizona,2042,0.6700978313218374,Non-177,PolicyRollback
+Arizona,2043,0.6774366221308662,Non-177,PolicyRollback
+Arizona,2044,0.6838812526569359,Non-177,PolicyRollback
+Arizona,2045,0.6894197712268958,Non-177,PolicyRollback
+Arizona,2046,0.6949926136522002,Non-177,PolicyRollback
+Arizona,2047,0.7006343487054184,Non-177,PolicyRollback
+Arizona,2048,0.7055365285098063,Non-177,PolicyRollback
+Arizona,2049,0.7102140018549982,Non-177,PolicyRollback
+Arizona,2050,0.7146962865698835,Non-177,PolicyRollback
+Arkansas,2020,0.00537330545695674,Non-177,PolicyRollback
+Arkansas,2021,0.013064829967402384,Non-177,PolicyRollback
+Arkansas,2022,0.02346667809797571,Non-177,PolicyRollback
+Arkansas,2023,0.030438164594393344,Non-177,PolicyRollback
+Arkansas,2024,0.034989636339367296,Non-177,PolicyRollback
+Arkansas,2025,0.09567763275523004,Non-177,PolicyRollback
+Arkansas,2026,0.12753256551938377,Non-177,PolicyRollback
+Arkansas,2027,0.17221440506551763,Non-177,PolicyRollback
+Arkansas,2028,0.20950865413959954,Non-177,PolicyRollback
+Arkansas,2029,0.25527814469153975,Non-177,PolicyRollback
+Arkansas,2030,0.2980501992890232,Non-177,PolicyRollback
+Arkansas,2031,0.3515125509547308,Non-177,PolicyRollback
+Arkansas,2032,0.40080383102445677,Non-177,PolicyRollback
+Arkansas,2033,0.46757555777697446,Non-177,PolicyRollback
+Arkansas,2034,0.5013101728582899,Non-177,PolicyRollback
+Arkansas,2035,0.5303460011344298,Non-177,PolicyRollback
+Arkansas,2036,0.556264113071841,Non-177,PolicyRollback
+Arkansas,2037,0.5776964504792997,Non-177,PolicyRollback
+Arkansas,2038,0.5956976359728884,Non-177,PolicyRollback
+Arkansas,2039,0.6108521081924793,Non-177,PolicyRollback
+Arkansas,2040,0.6225068319941266,Non-177,PolicyRollback
+Arkansas,2041,0.6325051130956,Non-177,PolicyRollback
+Arkansas,2042,0.6416884422110551,Non-177,PolicyRollback
+Arkansas,2043,0.6497754715098295,Non-177,PolicyRollback
+Arkansas,2044,0.6572028609355494,Non-177,PolicyRollback
+Arkansas,2045,0.6636324315822585,Non-177,PolicyRollback
+Arkansas,2046,0.6696999220576771,Non-177,PolicyRollback
+Arkansas,2047,0.6751790298608298,Non-177,PolicyRollback
+Arkansas,2048,0.6809718611408467,Non-177,PolicyRollback
+Arkansas,2049,0.6866516479563828,Non-177,PolicyRollback
+Arkansas,2050,0.6922442862495318,Non-177,PolicyRollback
+California,2020,0.07799997849092317,Section 177,PolicyRollback
+California,2021,0.1269999761410541,Section 177,PolicyRollback
+California,2022,0.19499998087410442,Section 177,PolicyRollback
+California,2023,0.25,Section 177,PolicyRollback
+California,2024,0.25302875142294173,Section 177,PolicyRollback
+California,2025,0.3726605935751163,Section 177,PolicyRollback
+California,2026,0.14443829401703973,Section 177,PolicyRollback
+California,2027,0.19396316118158205,Section 177,PolicyRollback
+California,2028,0.23489135732109723,Section 177,PolicyRollback
+California,2029,0.2837659800932817,Section 177,PolicyRollback
+California,2030,0.3285717231337396,Section 177,PolicyRollback
+California,2031,0.38337515486489804,Section 177,PolicyRollback
+California,2032,0.43397511796764926,Section 177,PolicyRollback
+California,2033,0.5028310834513495,Section 177,PolicyRollback
+California,2034,0.5383793208200555,Section 177,PolicyRollback
+California,2035,0.5671185940417449,Section 177,PolicyRollback
+California,2036,0.591490964977447,Section 177,PolicyRollback
+California,2037,0.6122487949141884,Section 177,PolicyRollback
+California,2038,0.6296164605368578,Section 177,PolicyRollback
+California,2039,0.6439701725603777,Section 177,PolicyRollback
+California,2040,0.6556681226189206,Section 177,PolicyRollback
+California,2041,0.6655606830022941,Section 177,PolicyRollback
+California,2042,0.6743309697025518,Section 177,PolicyRollback
+California,2043,0.6820325488380905,Section 177,PolicyRollback
+California,2044,0.6884661606999138,Section 177,PolicyRollback
+California,2045,0.6945056924628915,Section 177,PolicyRollback
+California,2046,0.7057253271332106,Section 177,PolicyRollback
+California,2047,0.7113929363935847,Section 177,PolicyRollback
+California,2048,0.7168385816044531,Section 177,PolicyRollback
+California,2049,0.7220842208977172,Section 177,PolicyRollback
+California,2050,0.7265041283065073,Section 177,PolicyRollback
+Colorado,2020,0.04103202287825312,Section 177,PolicyRollback
+Colorado,2021,0.07932433390180726,Section 177,PolicyRollback
+Colorado,2022,0.11617159484949381,Section 177,PolicyRollback
+Colorado,2023,0.16065214855414434,Section 177,PolicyRollback
+Colorado,2024,0.18099674272911373,Section 177,PolicyRollback
+Colorado,2025,0.1375271331648541,Section 177,PolicyRollback
+Colorado,2026,0.17886966118989572,Section 177,PolicyRollback
+Colorado,2027,0.18896029543743134,Section 177,PolicyRollback
+Colorado,2028,0.22712582077034782,Section 177,PolicyRollback
+Colorado,2029,0.274066548133096,Section 177,PolicyRollback
+Colorado,2030,0.31657265320151196,Section 177,PolicyRollback
+Colorado,2031,0.37286344144470596,Section 177,PolicyRollback
+Colorado,2032,0.423666419242883,Section 177,PolicyRollback
+Colorado,2033,0.4938775510204085,Section 177,PolicyRollback
+Colorado,2034,0.5288028713636989,Section 177,PolicyRollback
+Colorado,2035,0.5601640119854921,Section 177,PolicyRollback
+Colorado,2036,0.5864267775859362,Section 177,PolicyRollback
+Colorado,2037,0.6072292682926831,Section 177,PolicyRollback
+Colorado,2038,0.6239455465704817,Section 177,PolicyRollback
+Colorado,2039,0.6380981748800285,Section 177,PolicyRollback
+Colorado,2040,0.6497105401655421,Section 177,PolicyRollback
+Colorado,2041,0.6598196725984048,Section 177,PolicyRollback
+Colorado,2042,0.6681787745324571,Section 177,PolicyRollback
+Colorado,2043,0.6743358522721958,Section 177,PolicyRollback
+Colorado,2044,0.6802290452420124,Section 177,PolicyRollback
+Colorado,2045,0.6854902684254225,Section 177,PolicyRollback
+Colorado,2046,0.6916986652038768,Section 177,PolicyRollback
+Colorado,2047,0.6970566926281477,Section 177,PolicyRollback
+Colorado,2048,0.7024055106104358,Section 177,PolicyRollback
+Colorado,2049,0.709085741186502,Section 177,PolicyRollback
+Colorado,2050,0.714632281201381,Section 177,PolicyRollback
+Connecticut,2020,0.02770033672493432,Section 177,PolicyRollback
+Connecticut,2021,0.05786471345936385,Section 177,PolicyRollback
+Connecticut,2022,0.08363187447983615,Section 177,PolicyRollback
+Connecticut,2023,0.11293576087937213,Section 177,PolicyRollback
+Connecticut,2024,0.12830644564886054,Section 177,PolicyRollback
+Connecticut,2025,0.11024826450170616,Section 177,PolicyRollback
+Connecticut,2026,0.14620967624165748,Section 177,PolicyRollback
+Connecticut,2027,0.17690037327468963,Section 177,PolicyRollback
+Connecticut,2028,0.2161607757631394,Section 177,PolicyRollback
+Connecticut,2029,0.26228340173278664,Section 177,PolicyRollback
+Connecticut,2030,0.30498645985453215,Section 177,PolicyRollback
+Connecticut,2031,0.35846392771424523,Section 177,PolicyRollback
+Connecticut,2032,0.40810613094735687,Section 177,PolicyRollback
+Connecticut,2033,0.4768143327034778,Section 177,PolicyRollback
+Connecticut,2034,0.5123555506111724,Section 177,PolicyRollback
+Connecticut,2035,0.5419016810440173,Section 177,PolicyRollback
+Connecticut,2036,0.5666483214089159,Section 177,PolicyRollback
+Connecticut,2037,0.5871840834142935,Section 177,PolicyRollback
+Connecticut,2038,0.6042836744407425,Section 177,PolicyRollback
+Connecticut,2039,0.6188268684957426,Section 177,PolicyRollback
+Connecticut,2040,0.6305914562950433,Section 177,PolicyRollback
+Connecticut,2041,0.6410372581418899,Section 177,PolicyRollback
+Connecticut,2042,0.6502473479537578,Section 177,PolicyRollback
+Connecticut,2043,0.6580160491719308,Section 177,PolicyRollback
+Connecticut,2044,0.6646719077978124,Section 177,PolicyRollback
+Connecticut,2045,0.6702503396079953,Section 177,PolicyRollback
+Connecticut,2046,0.6749884597630403,Section 177,PolicyRollback
+Connecticut,2047,0.6795208881098455,Section 177,PolicyRollback
+Connecticut,2048,0.6841184980187432,Section 177,PolicyRollback
+Connecticut,2049,0.689547776255139,Section 177,PolicyRollback
+Connecticut,2050,0.6948197642881797,Section 177,PolicyRollback
+Delaware,2020,0.020179512008360257,Section 177,PolicyRollback
+Delaware,2021,0.042445676778201435,Section 177,PolicyRollback
+Delaware,2022,0.06677944498452135,Section 177,PolicyRollback
+Delaware,2023,0.09440488097446413,Section 177,PolicyRollback
+Delaware,2024,0.10746385524717936,Section 177,PolicyRollback
+Delaware,2025,0.12418945587820693,Section 177,PolicyRollback
+Delaware,2026,0.16395278309149453,Section 177,PolicyRollback
+Delaware,2027,0.1886295354749251,Section 177,PolicyRollback
+Delaware,2028,0.22951420714940432,Section 177,PolicyRollback
+Delaware,2029,0.2780205772557582,Section 177,PolicyRollback
+Delaware,2030,0.32270338829498085,Section 177,PolicyRollback
+Delaware,2031,0.37828695142303004,Section 177,PolicyRollback
+Delaware,2032,0.4295730337078648,Section 177,PolicyRollback
+Delaware,2033,0.49948580371115614,Section 177,PolicyRollback
+Delaware,2034,0.5354509107063528,Section 177,PolicyRollback
+Delaware,2035,0.5652577182986621,Section 177,PolicyRollback
+Delaware,2036,0.5900659340659341,Section 177,PolicyRollback
+Delaware,2037,0.6104480874316941,Section 177,PolicyRollback
+Delaware,2038,0.6271724018074382,Section 177,PolicyRollback
+Delaware,2039,0.6411053540587215,Section 177,PolicyRollback
+Delaware,2040,0.652373397367179,Section 177,PolicyRollback
+Delaware,2041,0.6621822980969816,Section 177,PolicyRollback
+Delaware,2042,0.6711744073025402,Section 177,PolicyRollback
+Delaware,2043,0.6784290689380271,Section 177,PolicyRollback
+Delaware,2044,0.6834388537154289,Section 177,PolicyRollback
+Delaware,2045,0.6876498305364963,Section 177,PolicyRollback
+Delaware,2046,0.6913276801441975,Section 177,PolicyRollback
+Delaware,2047,0.6961691421150876,Section 177,PolicyRollback
+Delaware,2048,0.7010408712775789,Section 177,PolicyRollback
+Delaware,2049,0.7070646766169153,Section 177,PolicyRollback
+Delaware,2050,0.7125359379307623,Section 177,PolicyRollback
+District of Columbia,2020,0.06417432036583672,Section 177,PolicyRollback
+District of Columbia,2021,0.1314631584294069,Section 177,PolicyRollback
+District of Columbia,2022,0.18214265203018512,Section 177,PolicyRollback
+District of Columbia,2023,0.2262377333222325,Section 177,PolicyRollback
+District of Columbia,2024,0.2524539857979942,Section 177,PolicyRollback
+District of Columbia,2025,0.1184179095574112,Section 177,PolicyRollback
+District of Columbia,2026,0.15572143637298627,Section 177,PolicyRollback
+District of Columbia,2027,0.18603102631948748,Section 177,PolicyRollback
+District of Columbia,2028,0.22581370637360335,Section 177,PolicyRollback
+District of Columbia,2029,0.2730676703073302,Section 177,PolicyRollback
+District of Columbia,2030,0.3167641363879898,Section 177,PolicyRollback
+District of Columbia,2031,0.37135668960326,Section 177,PolicyRollback
+District of Columbia,2032,0.42225267336190075,Section 177,PolicyRollback
+District of Columbia,2033,0.4921563624182918,Section 177,PolicyRollback
+District of Columbia,2034,0.5284334719451388,Section 177,PolicyRollback
+District of Columbia,2035,0.5578860278540569,Section 177,PolicyRollback
+District of Columbia,2036,0.5817900266659349,Section 177,PolicyRollback
+District of Columbia,2037,0.6017381089774448,Section 177,PolicyRollback
+District of Columbia,2038,0.6186218792766927,Section 177,PolicyRollback
+District of Columbia,2039,0.6333414797828976,Section 177,PolicyRollback
+District of Columbia,2040,0.6447688478469941,Section 177,PolicyRollback
+District of Columbia,2041,0.6541246260438759,Section 177,PolicyRollback
+District of Columbia,2042,0.6623118951856005,Section 177,PolicyRollback
+District of Columbia,2043,0.6700718139150547,Section 177,PolicyRollback
+District of Columbia,2044,0.6768955537086746,Section 177,PolicyRollback
+District of Columbia,2045,0.6830449557817696,Section 177,PolicyRollback
+District of Columbia,2046,0.6902282492878375,Section 177,PolicyRollback
+District of Columbia,2047,0.6953624689332208,Section 177,PolicyRollback
+District of Columbia,2048,0.7004710368384489,Section 177,PolicyRollback
+District of Columbia,2049,0.7057770863808784,Section 177,PolicyRollback
+District of Columbia,2050,0.7105231121279916,Section 177,PolicyRollback
+Florida,2020,0.027575851960201705,Non-177,PolicyRollback
+Florida,2021,0.05709243052515205,Non-177,PolicyRollback
+Florida,2022,0.08978228290461032,Non-177,PolicyRollback
+Florida,2023,0.11976173194617686,Non-177,PolicyRollback
+Florida,2024,0.1355476469266596,Non-177,PolicyRollback
+Florida,2025,0.10199428874324286,Non-177,PolicyRollback
+Florida,2026,0.1361704736644721,Non-177,PolicyRollback
+Florida,2027,0.18351795200282697,Non-177,PolicyRollback
+Florida,2028,0.2234228019418886,Non-177,PolicyRollback
+Florida,2029,0.27155843550417225,Non-177,PolicyRollback
+Florida,2030,0.3158999406285949,Non-177,PolicyRollback
+Florida,2031,0.37095857889777767,Non-177,PolicyRollback
+Florida,2032,0.4216169072943083,Non-177,PolicyRollback
+Florida,2033,0.4896573355647997,Non-177,PolicyRollback
+Florida,2034,0.5237110634948794,Non-177,PolicyRollback
+Florida,2035,0.5514560560080684,Non-177,PolicyRollback
+Florida,2036,0.5760660408569285,Non-177,PolicyRollback
+Florida,2037,0.5970137561495313,Non-177,PolicyRollback
+Florida,2038,0.6143459652806821,Non-177,PolicyRollback
+Florida,2039,0.629859793869132,Non-177,PolicyRollback
+Florida,2040,0.6425621875802658,Non-177,PolicyRollback
+Florida,2041,0.6537308813175843,Non-177,PolicyRollback
+Florida,2042,0.6614255515720097,Non-177,PolicyRollback
+Florida,2043,0.667821020701034,Non-177,PolicyRollback
+Florida,2044,0.6738422494961664,Non-177,PolicyRollback
+Florida,2045,0.6803769408368799,Non-177,PolicyRollback
+Florida,2046,0.6858220350359081,Non-177,PolicyRollback
+Florida,2047,0.6909832455163476,Non-177,PolicyRollback
+Florida,2048,0.6960043952064265,Non-177,PolicyRollback
+Florida,2049,0.7012609888206454,Non-177,PolicyRollback
+Florida,2050,0.7058384637256229,Non-177,PolicyRollback
+Georgia,2020,0.021993667070038303,Non-177,PolicyRollback
+Georgia,2021,0.04122173814879752,Non-177,PolicyRollback
+Georgia,2022,0.06495415782195953,Non-177,PolicyRollback
+Georgia,2023,0.08932679848557051,Non-177,PolicyRollback
+Georgia,2024,0.10158430393474872,Non-177,PolicyRollback
+Georgia,2025,0.1030221791680278,Non-177,PolicyRollback
+Georgia,2026,0.13810767432626658,Non-177,PolicyRollback
+Georgia,2027,0.1859951023302714,Non-177,PolicyRollback
+Georgia,2028,0.22573663509920677,Non-177,PolicyRollback
+Georgia,2029,0.2742636065001253,Non-177,PolicyRollback
+Georgia,2030,0.31736000260611746,Non-177,PolicyRollback
+Georgia,2031,0.3711208667632624,Non-177,PolicyRollback
+Georgia,2032,0.4217010914654521,Non-177,PolicyRollback
+Georgia,2033,0.49326001082686227,Non-177,PolicyRollback
+Georgia,2034,0.5296930581293796,Non-177,PolicyRollback
+Georgia,2035,0.558384287567167,Non-177,PolicyRollback
+Georgia,2036,0.5818901247121927,Non-177,PolicyRollback
+Georgia,2037,0.6026178449414183,Non-177,PolicyRollback
+Georgia,2038,0.6201223798984505,Non-177,PolicyRollback
+Georgia,2039,0.634715910855321,Non-177,PolicyRollback
+Georgia,2040,0.6465512367854364,Non-177,PolicyRollback
+Georgia,2041,0.6568181702207996,Non-177,PolicyRollback
+Georgia,2042,0.666239489413434,Non-177,PolicyRollback
+Georgia,2043,0.674038011798846,Non-177,PolicyRollback
+Georgia,2044,0.6809290343195499,Non-177,PolicyRollback
+Georgia,2045,0.6870649551392879,Non-177,PolicyRollback
+Georgia,2046,0.6926555725235819,Non-177,PolicyRollback
+Georgia,2047,0.6979099279637727,Non-177,PolicyRollback
+Georgia,2048,0.7030203767040802,Non-177,PolicyRollback
+Georgia,2049,0.7081254114706079,Non-177,PolicyRollback
+Georgia,2050,0.7128431488256819,Non-177,PolicyRollback
+Hawaii,2020,0.07261786064876893,Non-177,PolicyRollback
+Hawaii,2021,0.12403374748393008,Non-177,PolicyRollback
+Hawaii,2022,0.16011077861761097,Non-177,PolicyRollback
+Hawaii,2023,0.19210021822550502,Non-177,PolicyRollback
+Hawaii,2024,0.21519978610840643,Non-177,PolicyRollback
+Hawaii,2025,0.11270826594371969,Non-177,PolicyRollback
+Hawaii,2026,0.14964450527688913,Non-177,PolicyRollback
+Hawaii,2027,0.19759683227523395,Non-177,PolicyRollback
+Hawaii,2028,0.24012699867126144,Non-177,PolicyRollback
+Hawaii,2029,0.291114013455753,Non-177,PolicyRollback
+Hawaii,2030,0.3386324217812681,Non-177,PolicyRollback
+Hawaii,2031,0.3979040463049849,Non-177,PolicyRollback
+Hawaii,2032,0.4528748684782664,Non-177,PolicyRollback
+Hawaii,2033,0.5281345195651955,Non-177,PolicyRollback
+Hawaii,2034,0.5668197300734522,Non-177,PolicyRollback
+Hawaii,2035,0.5992999303661931,Non-177,PolicyRollback
+Hawaii,2036,0.6267372024366727,Non-177,PolicyRollback
+Hawaii,2037,0.6492584632702648,Non-177,PolicyRollback
+Hawaii,2038,0.6680348312077656,Non-177,PolicyRollback
+Hawaii,2039,0.6838769682536874,Non-177,PolicyRollback
+Hawaii,2040,0.6967065057186896,Non-177,PolicyRollback
+Hawaii,2041,0.707131267518166,Non-177,PolicyRollback
+Hawaii,2042,0.7170042055611147,Non-177,PolicyRollback
+Hawaii,2043,0.7252569137563102,Non-177,PolicyRollback
+Hawaii,2044,0.7334066837831494,Non-177,PolicyRollback
+Hawaii,2045,0.7401175908225215,Non-177,PolicyRollback
+Hawaii,2046,0.7462364320248912,Non-177,PolicyRollback
+Hawaii,2047,0.7520934431365155,Non-177,PolicyRollback
+Hawaii,2048,0.7579977946493711,Non-177,PolicyRollback
+Hawaii,2049,0.763880094795646,Non-177,PolicyRollback
+Hawaii,2050,0.7691931117605546,Non-177,PolicyRollback
+Idaho,2020,0.012772077253821911,Non-177,PolicyRollback
+Idaho,2021,0.026583724522771548,Non-177,PolicyRollback
+Idaho,2022,0.04006821116916499,Non-177,PolicyRollback
+Idaho,2023,0.05292473613377953,Non-177,PolicyRollback
+Idaho,2024,0.06067007238610437,Non-177,PolicyRollback
+Idaho,2025,0.10389824909150978,Non-177,PolicyRollback
+Idaho,2026,0.13917863937545127,Non-177,PolicyRollback
+Idaho,2027,0.18874301312881867,Non-177,PolicyRollback
+Idaho,2028,0.2286128564523925,Non-177,PolicyRollback
+Idaho,2029,0.2775430510210611,Non-177,PolicyRollback
+Idaho,2030,0.3228025477707004,Non-177,PolicyRollback
+Idaho,2031,0.37910258442999845,Non-177,PolicyRollback
+Idaho,2032,0.43117613600455057,Non-177,PolicyRollback
+Idaho,2033,0.5008645351944414,Non-177,PolicyRollback
+Idaho,2034,0.5364360456036235,Non-177,PolicyRollback
+Idaho,2035,0.5661408520680656,Non-177,PolicyRollback
+Idaho,2036,0.5914583268951452,Non-177,PolicyRollback
+Idaho,2037,0.61261372018687,Non-177,PolicyRollback
+Idaho,2038,0.6306014601215751,Non-177,PolicyRollback
+Idaho,2039,0.6455373406193079,Non-177,PolicyRollback
+Idaho,2040,0.6573917761967923,Non-177,PolicyRollback
+Idaho,2041,0.6674548774282382,Non-177,PolicyRollback
+Idaho,2042,0.67647146210298,Non-177,PolicyRollback
+Idaho,2043,0.6839434791586774,Non-177,PolicyRollback
+Idaho,2044,0.6911092889773925,Non-177,PolicyRollback
+Idaho,2045,0.6971783918867869,Non-177,PolicyRollback
+Idaho,2046,0.7028887416837075,Non-177,PolicyRollback
+Idaho,2047,0.7082536874839522,Non-177,PolicyRollback
+Idaho,2048,0.713833634719711,Non-177,PolicyRollback
+Idaho,2049,0.7197224087754646,Non-177,PolicyRollback
+Idaho,2050,0.7248913133774544,Non-177,PolicyRollback
+Illinois,2020,0.022555230119779557,Non-177,PolicyRollback
+Illinois,2021,0.0434256782086726,Non-177,PolicyRollback
+Illinois,2022,0.0708682397018826,Non-177,PolicyRollback
+Illinois,2023,0.09618259231817387,Non-177,PolicyRollback
+Illinois,2024,0.10935581827195728,Non-177,PolicyRollback
+Illinois,2025,0.10039051159828832,Non-177,PolicyRollback
+Illinois,2026,0.1331275251409894,Non-177,PolicyRollback
+Illinois,2027,0.1802223818999192,Non-177,PolicyRollback
+Illinois,2028,0.2197434340020732,Non-177,PolicyRollback
+Illinois,2029,0.26820338798508286,Non-177,PolicyRollback
+Illinois,2030,0.3119766722789215,Non-177,PolicyRollback
+Illinois,2031,0.36678802588996823,Non-177,PolicyRollback
+Illinois,2032,0.41774158873481665,Non-177,PolicyRollback
+Illinois,2033,0.488224940400597,Non-177,PolicyRollback
+Illinois,2034,0.5231433314886547,Non-177,PolicyRollback
+Illinois,2035,0.5518135285133946,Non-177,PolicyRollback
+Illinois,2036,0.5750680047132409,Non-177,PolicyRollback
+Illinois,2037,0.595917264933435,Non-177,PolicyRollback
+Illinois,2038,0.6132534971620055,Non-177,PolicyRollback
+Illinois,2039,0.6280044405049775,Non-177,PolicyRollback
+Illinois,2040,0.6398878828923138,Non-177,PolicyRollback
+Illinois,2041,0.6498498192740423,Non-177,PolicyRollback
+Illinois,2042,0.6586162896956581,Non-177,PolicyRollback
+Illinois,2043,0.6661300708306507,Non-177,PolicyRollback
+Illinois,2044,0.6740481240582928,Non-177,PolicyRollback
+Illinois,2045,0.6813364691151574,Non-177,PolicyRollback
+Illinois,2046,0.686079359895493,Non-177,PolicyRollback
+Illinois,2047,0.6913032577399623,Non-177,PolicyRollback
+Illinois,2048,0.6960892288592082,Non-177,PolicyRollback
+Illinois,2049,0.701853401604721,Non-177,PolicyRollback
+Illinois,2050,0.7065426429608697,Non-177,PolicyRollback
+Indiana,2020,0.011810922122385738,Non-177,PolicyRollback
+Indiana,2021,0.023913214297152645,Non-177,PolicyRollback
+Indiana,2022,0.0362033862401844,Non-177,PolicyRollback
+Indiana,2023,0.04857211391002077,Non-177,PolicyRollback
+Indiana,2024,0.05569847472592371,Non-177,PolicyRollback
+Indiana,2025,0.0987566705683923,Non-177,PolicyRollback
+Indiana,2026,0.1310228697458614,Non-177,PolicyRollback
+Indiana,2027,0.17695271771159168,Non-177,PolicyRollback
+Indiana,2028,0.21535031732618973,Non-177,PolicyRollback
+Indiana,2029,0.2605508028075938,Non-177,PolicyRollback
+Indiana,2030,0.30176458044567633,Non-177,PolicyRollback
+Indiana,2031,0.35441974041600693,Non-177,PolicyRollback
+Indiana,2032,0.40564939873752415,Non-177,PolicyRollback
+Indiana,2033,0.4760810455223223,Non-177,PolicyRollback
+Indiana,2034,0.5123570831009473,Non-177,PolicyRollback
+Indiana,2035,0.5424893224406341,Non-177,PolicyRollback
+Indiana,2036,0.5673946594700846,Non-177,PolicyRollback
+Indiana,2037,0.5885268393071514,Non-177,PolicyRollback
+Indiana,2038,0.6061308494047277,Non-177,PolicyRollback
+Indiana,2039,0.6213570031083513,Non-177,PolicyRollback
+Indiana,2040,0.6333809924306134,Non-177,PolicyRollback
+Indiana,2041,0.6437106997018811,Non-177,PolicyRollback
+Indiana,2042,0.6528983164648251,Non-177,PolicyRollback
+Indiana,2043,0.6606804826258009,Non-177,PolicyRollback
+Indiana,2044,0.6680256546427544,Non-177,PolicyRollback
+Indiana,2045,0.6745011877447441,Non-177,PolicyRollback
+Indiana,2046,0.680369956688389,Non-177,PolicyRollback
+Indiana,2047,0.6859055487897091,Non-177,PolicyRollback
+Indiana,2048,0.6914908712515371,Non-177,PolicyRollback
+Indiana,2049,0.6971144837923929,Non-177,PolicyRollback
+Indiana,2050,0.7022790482076636,Non-177,PolicyRollback
+Iowa,2020,0.009025696096615542,Non-177,PolicyRollback
+Iowa,2021,0.019537035829399706,Non-177,PolicyRollback
+Iowa,2022,0.02866161752175736,Non-177,PolicyRollback
+Iowa,2023,0.03780618148366482,Non-177,PolicyRollback
+Iowa,2024,0.043479981520225745,Non-177,PolicyRollback
+Iowa,2025,0.09831213103849656,Non-177,PolicyRollback
+Iowa,2026,0.13084112149532756,Non-177,PolicyRollback
+Iowa,2027,0.17653890824622545,Non-177,PolicyRollback
+Iowa,2028,0.21466223339550697,Non-177,PolicyRollback
+Iowa,2029,0.2611413656430255,Non-177,PolicyRollback
+Iowa,2030,0.3042258488569685,Non-177,PolicyRollback
+Iowa,2031,0.35830473301939497,Non-177,PolicyRollback
+Iowa,2032,0.40837654694111264,Non-177,PolicyRollback
+Iowa,2033,0.47655446359334735,Non-177,PolicyRollback
+Iowa,2034,0.5115723270440257,Non-177,PolicyRollback
+Iowa,2035,0.5409684881830689,Non-177,PolicyRollback
+Iowa,2036,0.5663503422526447,Non-177,PolicyRollback
+Iowa,2037,0.5873288466001393,Non-177,PolicyRollback
+Iowa,2038,0.6046282770815713,Non-177,PolicyRollback
+Iowa,2039,0.6191051071243007,Non-177,PolicyRollback
+Iowa,2040,0.6310262674699163,Non-177,PolicyRollback
+Iowa,2041,0.6414397854484641,Non-177,PolicyRollback
+Iowa,2042,0.6507238573821487,Non-177,PolicyRollback
+Iowa,2043,0.65827653287002,Non-177,PolicyRollback
+Iowa,2044,0.6651974586140308,Non-177,PolicyRollback
+Iowa,2045,0.6714841578654811,Non-177,PolicyRollback
+Iowa,2046,0.6773131904775714,Non-177,PolicyRollback
+Iowa,2047,0.6828665804969125,Non-177,PolicyRollback
+Iowa,2048,0.6884662978081844,Non-177,PolicyRollback
+Iowa,2049,0.6940457241058726,Non-177,PolicyRollback
+Iowa,2050,0.6989350729001145,Non-177,PolicyRollback
+Kansas,2020,0.01237947518440424,Non-177,PolicyRollback
+Kansas,2021,0.024793955832791596,Non-177,PolicyRollback
+Kansas,2022,0.03671809816274437,Non-177,PolicyRollback
+Kansas,2023,0.05004651373561799,Non-177,PolicyRollback
+Kansas,2024,0.05737635903128357,Non-177,PolicyRollback
+Kansas,2025,0.10330494499288378,Non-177,PolicyRollback
+Kansas,2026,0.13736177466747487,Non-177,PolicyRollback
+Kansas,2027,0.18457777777777806,Non-177,PolicyRollback
+Kansas,2028,0.22391380981757297,Non-177,PolicyRollback
+Kansas,2029,0.27157521504081983,Non-177,PolicyRollback
+Kansas,2030,0.3157161211646088,Non-177,PolicyRollback
+Kansas,2031,0.37008283818363197,Non-177,PolicyRollback
+Kansas,2032,0.4202121912746601,Non-177,PolicyRollback
+Kansas,2033,0.48730571618978,Non-177,PolicyRollback
+Kansas,2034,0.522939894912213,Non-177,PolicyRollback
+Kansas,2035,0.5527975368935126,Non-177,PolicyRollback
+Kansas,2036,0.5796280642434491,Non-177,PolicyRollback
+Kansas,2037,0.6005800878538852,Non-177,PolicyRollback
+Kansas,2038,0.6177336814621414,Non-177,PolicyRollback
+Kansas,2039,0.631993025138563,Non-177,PolicyRollback
+Kansas,2040,0.6400816309702952,Non-177,PolicyRollback
+Kansas,2041,0.6490646362929305,Non-177,PolicyRollback
+Kansas,2042,0.6600499806985105,Non-177,PolicyRollback
+Kansas,2043,0.6731285175397892,Non-177,PolicyRollback
+Kansas,2044,0.681658890201654,Non-177,PolicyRollback
+Kansas,2045,0.6864319211509418,Non-177,PolicyRollback
+Kansas,2046,0.6906881474770549,Non-177,PolicyRollback
+Kansas,2047,0.6958074019158358,Non-177,PolicyRollback
+Kansas,2048,0.7010723601584385,Non-177,PolicyRollback
+Kansas,2049,0.706052314345305,Non-177,PolicyRollback
+Kansas,2050,0.7103444358182951,Non-177,PolicyRollback
+Kentucky,2020,0.006744156752838452,Non-177,PolicyRollback
+Kentucky,2021,0.014825754451991982,Non-177,PolicyRollback
+Kentucky,2022,0.024077277375770145,Non-177,PolicyRollback
+Kentucky,2023,0.03309319981643403,Non-177,PolicyRollback
+Kentucky,2024,0.03803590168994915,Non-177,PolicyRollback
+Kentucky,2025,0.09642523364486005,Non-177,PolicyRollback
+Kentucky,2026,0.1283594900882719,Non-177,PolicyRollback
+Kentucky,2027,0.17362124642311252,Non-177,PolicyRollback
+Kentucky,2028,0.2115877627755941,Non-177,PolicyRollback
+Kentucky,2029,0.257640240865668,Non-177,PolicyRollback
+Kentucky,2030,0.2993749648065764,Non-177,PolicyRollback
+Kentucky,2031,0.3520572370560598,Non-177,PolicyRollback
+Kentucky,2032,0.4012515364845228,Non-177,PolicyRollback
+Kentucky,2033,0.47060000667044627,Non-177,PolicyRollback
+Kentucky,2034,0.5059977467028959,Non-177,PolicyRollback
+Kentucky,2035,0.535105635349409,Non-177,PolicyRollback
+Kentucky,2036,0.5606919991694262,Non-177,PolicyRollback
+Kentucky,2037,0.5824819580906004,Non-177,PolicyRollback
+Kentucky,2038,0.6002052389954093,Non-177,PolicyRollback
+Kentucky,2039,0.614765273588045,Non-177,PolicyRollback
+Kentucky,2040,0.6271134042598553,Non-177,PolicyRollback
+Kentucky,2041,0.638822147189263,Non-177,PolicyRollback
+Kentucky,2042,0.6487040208449342,Non-177,PolicyRollback
+Kentucky,2043,0.6567807218860833,Non-177,PolicyRollback
+Kentucky,2044,0.6641433231502103,Non-177,PolicyRollback
+Kentucky,2045,0.6704517428477479,Non-177,PolicyRollback
+Kentucky,2046,0.6761524515695347,Non-177,PolicyRollback
+Kentucky,2047,0.6814540538359091,Non-177,PolicyRollback
+Kentucky,2048,0.6868205435651477,Non-177,PolicyRollback
+Kentucky,2049,0.6921935145511936,Non-177,PolicyRollback
+Kentucky,2050,0.6970839371744156,Non-177,PolicyRollback
+Louisiana,2020,0.005230451800951869,Non-177,PolicyRollback
+Louisiana,2021,0.011590352752176352,Non-177,PolicyRollback
+Louisiana,2022,0.01932593046653501,Non-177,PolicyRollback
+Louisiana,2023,0.0258539024406673,Non-177,PolicyRollback
+Louisiana,2024,0.029749814335396488,Non-177,PolicyRollback
+Louisiana,2025,0.0964909652093134,Non-177,PolicyRollback
+Louisiana,2026,0.12907641037848142,Non-177,PolicyRollback
+Louisiana,2027,0.1743186876354152,Non-177,PolicyRollback
+Louisiana,2028,0.21196843489697495,Non-177,PolicyRollback
+Louisiana,2029,0.25835813312041733,Non-177,PolicyRollback
+Louisiana,2030,0.3013779755026586,Non-177,PolicyRollback
+Louisiana,2031,0.35522890387906736,Non-177,PolicyRollback
+Louisiana,2032,0.40542903415361237,Non-177,PolicyRollback
+Louisiana,2033,0.4743198539896198,Non-177,PolicyRollback
+Louisiana,2034,0.5088897389037642,Non-177,PolicyRollback
+Louisiana,2035,0.53796211534399,Non-177,PolicyRollback
+Louisiana,2036,0.563292824804115,Non-177,PolicyRollback
+Louisiana,2037,0.5847470621854831,Non-177,PolicyRollback
+Louisiana,2038,0.6022470664837982,Non-177,PolicyRollback
+Louisiana,2039,0.6164702318664977,Non-177,PolicyRollback
+Louisiana,2040,0.6283839212469238,Non-177,PolicyRollback
+Louisiana,2041,0.6388010262954267,Non-177,PolicyRollback
+Louisiana,2042,0.6490008219805693,Non-177,PolicyRollback
+Louisiana,2043,0.6565472765951753,Non-177,PolicyRollback
+Louisiana,2044,0.6638154312050899,Non-177,PolicyRollback
+Louisiana,2045,0.6695794287823073,Non-177,PolicyRollback
+Louisiana,2046,0.6756975650538205,Non-177,PolicyRollback
+Louisiana,2047,0.6811764858115181,Non-177,PolicyRollback
+Louisiana,2048,0.6868552242057636,Non-177,PolicyRollback
+Louisiana,2049,0.6922823093422004,Non-177,PolicyRollback
+Louisiana,2050,0.697427911182558,Non-177,PolicyRollback
+Maine,2020,0.019462854667801194,Section 177,PolicyRollback
+Maine,2021,0.043864679210722804,Section 177,PolicyRollback
+Maine,2022,0.06241765035334578,Section 177,PolicyRollback
+Maine,2023,0.08432102771650986,Section 177,PolicyRollback
+Maine,2024,0.09644674915575145,Section 177,PolicyRollback
+Maine,2025,0.10172905825079738,Section 177,PolicyRollback
+Maine,2026,0.1354670222814916,Section 177,PolicyRollback
+Maine,2027,0.18275900033028725,Section 177,PolicyRollback
+Maine,2028,0.22273769239166052,Section 177,PolicyRollback
+Maine,2029,0.270331815224463,Section 177,PolicyRollback
+Maine,2030,0.3147588736649044,Section 177,PolicyRollback
+Maine,2031,0.3691448216587885,Section 177,PolicyRollback
+Maine,2032,0.42009205737529476,Section 177,PolicyRollback
+Maine,2033,0.49033494861281274,Section 177,PolicyRollback
+Maine,2034,0.5265608465608466,Section 177,PolicyRollback
+Maine,2035,0.5565139641298067,Section 177,PolicyRollback
+Maine,2036,0.5809862841587263,Section 177,PolicyRollback
+Maine,2037,0.5974803477536573,Section 177,PolicyRollback
+Maine,2038,0.614942826098205,Section 177,PolicyRollback
+Maine,2039,0.629454414562658,Section 177,PolicyRollback
+Maine,2040,0.6421385895930138,Section 177,PolicyRollback
+Maine,2041,0.6532981797900932,Section 177,PolicyRollback
+Maine,2042,0.6623553095118271,Section 177,PolicyRollback
+Maine,2043,0.6701479112532479,Section 177,PolicyRollback
+Maine,2044,0.6774145542933682,Section 177,PolicyRollback
+Maine,2045,0.6841250307654444,Section 177,PolicyRollback
+Maine,2046,0.6901346604215463,Section 177,PolicyRollback
+Maine,2047,0.6955975450635487,Section 177,PolicyRollback
+Maine,2048,0.7012060878721169,Section 177,PolicyRollback
+Maine,2049,0.7065933545053795,Section 177,PolicyRollback
+Maine,2050,0.7117125568741497,Section 177,PolicyRollback
+Maryland,2020,0.033723464778345015,Section 177,PolicyRollback
+Maryland,2021,0.063975973190376,Section 177,PolicyRollback
+Maryland,2022,0.09825723573232012,Section 177,PolicyRollback
+Maryland,2023,0.13821808643662895,Section 177,PolicyRollback
+Maryland,2024,0.1562708683164915,Section 177,PolicyRollback
+Maryland,2025,0.13491235511940122,Section 177,PolicyRollback
+Maryland,2026,0.17625698641987983,Section 177,PolicyRollback
+Maryland,2027,0.19301252918024628,Section 177,PolicyRollback
+Maryland,2028,0.23279476714932676,Section 177,PolicyRollback
+Maryland,2029,0.28101257386590883,Section 177,PolicyRollback
+Maryland,2030,0.3266138390636914,Section 177,PolicyRollback
+Maryland,2031,0.3828520491262055,Section 177,PolicyRollback
+Maryland,2032,0.43291552894474156,Section 177,PolicyRollback
+Maryland,2033,0.5026183722452544,Section 177,PolicyRollback
+Maryland,2034,0.5398998439125916,Section 177,PolicyRollback
+Maryland,2035,0.5726877943125613,Section 177,PolicyRollback
+Maryland,2036,0.5977349263207574,Section 177,PolicyRollback
+Maryland,2037,0.6163847351692654,Section 177,PolicyRollback
+Maryland,2038,0.6330110877907101,Section 177,PolicyRollback
+Maryland,2039,0.6485640841954449,Section 177,PolicyRollback
+Maryland,2040,0.660072600977079,Section 177,PolicyRollback
+Maryland,2041,0.6685709537362109,Section 177,PolicyRollback
+Maryland,2042,0.675691838165547,Section 177,PolicyRollback
+Maryland,2043,0.6829405622325508,Section 177,PolicyRollback
+Maryland,2044,0.6896747967479673,Section 177,PolicyRollback
+Maryland,2045,0.6956192896472436,Section 177,PolicyRollback
+Maryland,2046,0.7007296351824088,Section 177,PolicyRollback
+Maryland,2047,0.7053820716421458,Section 177,PolicyRollback
+Maryland,2048,0.7101771863938103,Section 177,PolicyRollback
+Maryland,2049,0.7145340312102467,Section 177,PolicyRollback
+Maryland,2050,0.7184452025176572,Section 177,PolicyRollback
+Massachusetts,2020,0.035633371283286225,Section 177,PolicyRollback
+Massachusetts,2021,0.0707890537803164,Section 177,PolicyRollback
+Massachusetts,2022,0.10175656972137329,Section 177,PolicyRollback
+Massachusetts,2023,0.13901141997248365,Section 177,PolicyRollback
+Massachusetts,2024,0.1573134296509316,Section 177,PolicyRollback
+Massachusetts,2025,0.13671118946783437,Section 177,PolicyRollback
+Massachusetts,2026,0.17822281419465322,Section 177,PolicyRollback
+Massachusetts,2027,0.18871587995777384,Section 177,PolicyRollback
+Massachusetts,2028,0.22959460217184063,Section 177,PolicyRollback
+Massachusetts,2029,0.27659258434059275,Section 177,PolicyRollback
+Massachusetts,2030,0.31914539862000135,Section 177,PolicyRollback
+Massachusetts,2031,0.37225216607494316,Section 177,PolicyRollback
+Massachusetts,2032,0.42215195674090394,Section 177,PolicyRollback
+Massachusetts,2033,0.49325698237423465,Section 177,PolicyRollback
+Massachusetts,2034,0.531581236071098,Section 177,PolicyRollback
+Massachusetts,2035,0.563643241198562,Section 177,PolicyRollback
+Massachusetts,2036,0.5878883490794365,Section 177,PolicyRollback
+Massachusetts,2037,0.6066197773201759,Section 177,PolicyRollback
+Massachusetts,2038,0.6219910873282362,Section 177,PolicyRollback
+Massachusetts,2039,0.6360170461549293,Section 177,PolicyRollback
+Massachusetts,2040,0.647352498863358,Section 177,PolicyRollback
+Massachusetts,2041,0.65678444309402,Section 177,PolicyRollback
+Massachusetts,2042,0.6647162738592787,Section 177,PolicyRollback
+Massachusetts,2043,0.6716149732620331,Section 177,PolicyRollback
+Massachusetts,2044,0.6781446153584814,Section 177,PolicyRollback
+Massachusetts,2045,0.6840712365251547,Section 177,PolicyRollback
+Massachusetts,2046,0.6894192535168906,Section 177,PolicyRollback
+Massachusetts,2047,0.6947048747589926,Section 177,PolicyRollback
+Massachusetts,2048,0.7001745601167011,Section 177,PolicyRollback
+Massachusetts,2049,0.7064003506152001,Section 177,PolicyRollback
+Massachusetts,2050,0.7120575692107521,Section 177,PolicyRollback
+Michigan,2020,0.01500618991527276,Non-177,PolicyRollback
+Michigan,2021,0.03276862658080191,Non-177,PolicyRollback
+Michigan,2022,0.05204992442695208,Non-177,PolicyRollback
+Michigan,2023,0.06950995439493908,Non-177,PolicyRollback
+Michigan,2024,0.07949841242749625,Non-177,PolicyRollback
+Michigan,2025,0.09815110208816703,Non-177,PolicyRollback
+Michigan,2026,0.13064606701127404,Non-177,PolicyRollback
+Michigan,2027,0.17642150009985483,Non-177,PolicyRollback
+Michigan,2028,0.21507421839088578,Non-177,PolicyRollback
+Michigan,2029,0.26028985100000673,Non-177,PolicyRollback
+Michigan,2030,0.3017348636293742,Non-177,PolicyRollback
+Michigan,2031,0.35517414181909307,Non-177,PolicyRollback
+Michigan,2032,0.40613231428630936,Non-177,PolicyRollback
+Michigan,2033,0.4756322235639123,Non-177,PolicyRollback
+Michigan,2034,0.5096662736172426,Non-177,PolicyRollback
+Michigan,2035,0.5417402149540994,Non-177,PolicyRollback
+Michigan,2036,0.568947975310318,Non-177,PolicyRollback
+Michigan,2037,0.5924624268098534,Non-177,PolicyRollback
+Michigan,2038,0.6105483336797152,Non-177,PolicyRollback
+Michigan,2039,0.6254855581836958,Non-177,PolicyRollback
+Michigan,2040,0.6378613347801062,Non-177,PolicyRollback
+Michigan,2041,0.643308545301661,Non-177,PolicyRollback
+Michigan,2042,0.6533292469009401,Non-177,PolicyRollback
+Michigan,2043,0.661536568942298,Non-177,PolicyRollback
+Michigan,2044,0.6695204488922312,Non-177,PolicyRollback
+Michigan,2045,0.6761548813388527,Non-177,PolicyRollback
+Michigan,2046,0.6821540776140538,Non-177,PolicyRollback
+Michigan,2047,0.6889817029643448,Non-177,PolicyRollback
+Michigan,2048,0.6952725288218831,Non-177,PolicyRollback
+Michigan,2049,0.6995344666633916,Non-177,PolicyRollback
+Michigan,2050,0.7031985948790879,Non-177,PolicyRollback
+Minnesota,2020,0.019643180670892983,Section 177,PolicyRollback
+Minnesota,2021,0.0376641480625665,Section 177,PolicyRollback
+Minnesota,2022,0.056929531841186744,Section 177,PolicyRollback
+Minnesota,2023,0.07870170631996098,Section 177,PolicyRollback
+Minnesota,2024,0.08979092106309461,Section 177,PolicyRollback
+Minnesota,2025,0.09903035413153452,Section 177,PolicyRollback
+Minnesota,2026,0.1307819498513962,Section 177,PolicyRollback
+Minnesota,2027,0.17686334276798063,Section 177,PolicyRollback
+Minnesota,2028,0.21528577302631566,Section 177,PolicyRollback
+Minnesota,2029,0.26297892329058076,Section 177,PolicyRollback
+Minnesota,2030,0.30747815484657554,Section 177,PolicyRollback
+Minnesota,2031,0.3618271954674214,Section 177,PolicyRollback
+Minnesota,2032,0.41074291014305697,Section 177,PolicyRollback
+Minnesota,2033,0.4801853579273613,Section 177,PolicyRollback
+Minnesota,2034,0.515231840875344,Section 177,PolicyRollback
+Minnesota,2035,0.5459525861641941,Section 177,PolicyRollback
+Minnesota,2036,0.5696495829307261,Section 177,PolicyRollback
+Minnesota,2037,0.5922947942304111,Section 177,PolicyRollback
+Minnesota,2038,0.6125382501413058,Section 177,PolicyRollback
+Minnesota,2039,0.6282482154790838,Section 177,PolicyRollback
+Minnesota,2040,0.6403112256674621,Section 177,PolicyRollback
+Minnesota,2041,0.646562261268144,Section 177,PolicyRollback
+Minnesota,2042,0.6564452069727108,Section 177,PolicyRollback
+Minnesota,2043,0.6650541176470588,Section 177,PolicyRollback
+Minnesota,2044,0.6726182134148055,Section 177,PolicyRollback
+Minnesota,2045,0.6790591594737668,Section 177,PolicyRollback
+Minnesota,2046,0.6849127514311706,Section 177,PolicyRollback
+Minnesota,2047,0.6905117329012761,Section 177,PolicyRollback
+Minnesota,2048,0.6961264209283249,Section 177,PolicyRollback
+Minnesota,2049,0.701713194004267,Section 177,PolicyRollback
+Minnesota,2050,0.7068484195275369,Section 177,PolicyRollback
+Mississippi,2020,0.0031994765767977816,Non-177,PolicyRollback
+Mississippi,2021,0.007310492086087112,Non-177,PolicyRollback
+Mississippi,2022,0.011950270045256103,Non-177,PolicyRollback
+Mississippi,2023,0.01641528497010981,Non-177,PolicyRollback
+Mississippi,2024,0.01892613307062119,Non-177,PolicyRollback
+Mississippi,2025,0.1021096209623441,Non-177,PolicyRollback
+Mississippi,2026,0.13675971053020228,Non-177,PolicyRollback
+Mississippi,2027,0.18370034384373385,Non-177,PolicyRollback
+Mississippi,2028,0.2221953578336558,Non-177,PolicyRollback
+Mississippi,2029,0.2705656298787077,Non-177,PolicyRollback
+Mississippi,2030,0.31535428366590984,Non-177,PolicyRollback
+Mississippi,2031,0.3706867831136075,Non-177,PolicyRollback
+Mississippi,2032,0.4218101629004341,Non-177,PolicyRollback
+Mississippi,2033,0.4913182976314054,Non-177,PolicyRollback
+Mississippi,2034,0.5271534044298604,Non-177,PolicyRollback
+Mississippi,2035,0.556938133519748,Non-177,PolicyRollback
+Mississippi,2036,0.5821892393320964,Non-177,PolicyRollback
+Mississippi,2037,0.6025830258302581,Non-177,PolicyRollback
+Mississippi,2038,0.6197767437595982,Non-177,PolicyRollback
+Mississippi,2039,0.6345080529421149,Non-177,PolicyRollback
+Mississippi,2040,0.6461792516852919,Non-177,PolicyRollback
+Mississippi,2041,0.6560576793495352,Non-177,PolicyRollback
+Mississippi,2042,0.664979711954341,Non-177,PolicyRollback
+Mississippi,2043,0.6721786868552709,Non-177,PolicyRollback
+Mississippi,2044,0.6796026897551969,Non-177,PolicyRollback
+Mississippi,2045,0.6859504132231404,Non-177,PolicyRollback
+Mississippi,2046,0.6922993797142795,Non-177,PolicyRollback
+Mississippi,2047,0.6976963261111591,Non-177,PolicyRollback
+Mississippi,2048,0.7034963848779765,Non-177,PolicyRollback
+Mississippi,2049,0.708808398950131,Non-177,PolicyRollback
+Mississippi,2050,0.7140838631924531,Non-177,PolicyRollback
+Missouri,2020,0.012625849281071343,Non-177,PolicyRollback
+Missouri,2021,0.025736387355576592,Non-177,PolicyRollback
+Missouri,2022,0.04203268517009724,Non-177,PolicyRollback
+Missouri,2023,0.0562489397128767,Non-177,PolicyRollback
+Missouri,2024,0.06443610677492188,Non-177,PolicyRollback
+Missouri,2025,0.10242066139330966,Non-177,PolicyRollback
+Missouri,2026,0.1368428025284836,Non-177,PolicyRollback
+Missouri,2027,0.18457442320492756,Non-177,PolicyRollback
+Missouri,2028,0.22471022373423272,Non-177,PolicyRollback
+Missouri,2029,0.2697187390348853,Non-177,PolicyRollback
+Missouri,2030,0.31089163489365634,Non-177,PolicyRollback
+Missouri,2031,0.3620595015918324,Non-177,PolicyRollback
+Missouri,2032,0.41251276254375796,Non-177,PolicyRollback
+Missouri,2033,0.4836205332849619,Non-177,PolicyRollback
+Missouri,2034,0.5217026951530487,Non-177,PolicyRollback
+Missouri,2035,0.5532284649562842,Non-177,PolicyRollback
+Missouri,2036,0.5787864198851673,Non-177,PolicyRollback
+Missouri,2037,0.5991807348560078,Non-177,PolicyRollback
+Missouri,2038,0.6152958178389517,Non-177,PolicyRollback
+Missouri,2039,0.6288917108201604,Non-177,PolicyRollback
+Missouri,2040,0.64141163783732,Non-177,PolicyRollback
+Missouri,2041,0.6544054156736776,Non-177,PolicyRollback
+Missouri,2042,0.6655981349264175,Non-177,PolicyRollback
+Missouri,2043,0.6734068627450979,Non-177,PolicyRollback
+Missouri,2044,0.6808765882670987,Non-177,PolicyRollback
+Missouri,2045,0.6855487743536428,Non-177,PolicyRollback
+Missouri,2046,0.6905576974208991,Non-177,PolicyRollback
+Missouri,2047,0.6930953027646767,Non-177,PolicyRollback
+Missouri,2048,0.6987911541502617,Non-177,PolicyRollback
+Missouri,2049,0.7041823744520777,Non-177,PolicyRollback
+Missouri,2050,0.7091298339231362,Non-177,PolicyRollback
+Montana,2020,0.010133333044264755,Non-177,PolicyRollback
+Montana,2021,0.024424129575538873,Non-177,PolicyRollback
+Montana,2022,0.04348835776992178,Non-177,PolicyRollback
+Montana,2023,0.05739214117779728,Non-177,PolicyRollback
+Montana,2024,0.06574701599677317,Non-177,PolicyRollback
+Montana,2025,0.10096235016039164,Non-177,PolicyRollback
+Montana,2026,0.13469114072584024,Non-177,PolicyRollback
+Montana,2027,0.18227112310566723,Non-177,PolicyRollback
+Montana,2028,0.22241890334266445,Non-177,PolicyRollback
+Montana,2029,0.2702735860630595,Non-177,PolicyRollback
+Montana,2030,0.3144682236146135,Non-177,PolicyRollback
+Montana,2031,0.36967707953486495,Non-177,PolicyRollback
+Montana,2032,0.4207105369398471,Non-177,PolicyRollback
+Montana,2033,0.49088206940873974,Non-177,PolicyRollback
+Montana,2034,0.5273953469811249,Non-177,PolicyRollback
+Montana,2035,0.5577068042055146,Non-177,PolicyRollback
+Montana,2036,0.5828002842928215,Non-177,PolicyRollback
+Montana,2037,0.603353490929082,Non-177,PolicyRollback
+Montana,2038,0.6204972095383049,Non-177,PolicyRollback
+Montana,2039,0.6349391048018006,Non-177,PolicyRollback
+Montana,2040,0.6464856537646829,Non-177,PolicyRollback
+Montana,2041,0.6563922138513892,Non-177,PolicyRollback
+Montana,2042,0.6651989067719404,Non-177,PolicyRollback
+Montana,2043,0.672621739785919,Non-177,PolicyRollback
+Montana,2044,0.6795749616492691,Non-177,PolicyRollback
+Montana,2045,0.686072847436231,Non-177,PolicyRollback
+Montana,2046,0.692511499540019,Non-177,PolicyRollback
+Montana,2047,0.6989611809732096,Non-177,PolicyRollback
+Montana,2048,0.704714461049744,Non-177,PolicyRollback
+Montana,2049,0.7101387101387096,Non-177,PolicyRollback
+Montana,2050,0.7145333616358883,Non-177,PolicyRollback
+Nebraska,2020,0.00998228250263118,Non-177,PolicyRollback
+Nebraska,2021,0.02059999200153295,Non-177,PolicyRollback
+Nebraska,2022,0.031622849533109815,Non-177,PolicyRollback
+Nebraska,2023,0.043074864274093676,Non-177,PolicyRollback
+Nebraska,2024,0.04945681735691913,Non-177,PolicyRollback
+Nebraska,2025,0.10011418695799772,Non-177,PolicyRollback
+Nebraska,2026,0.13299013299013301,Non-177,PolicyRollback
+Nebraska,2027,0.1794474802671523,Non-177,PolicyRollback
+Nebraska,2028,0.21839633999518399,Non-177,PolicyRollback
+Nebraska,2029,0.26536897500298967,Non-177,PolicyRollback
+Nebraska,2030,0.3089670355825298,Non-177,PolicyRollback
+Nebraska,2031,0.3629576964095271,Non-177,PolicyRollback
+Nebraska,2032,0.4123690036900366,Non-177,PolicyRollback
+Nebraska,2033,0.48124761373314917,Non-177,PolicyRollback
+Nebraska,2034,0.5171427737737445,Non-177,PolicyRollback
+Nebraska,2035,0.5474719345574797,Non-177,PolicyRollback
+Nebraska,2036,0.5724348980888041,Non-177,PolicyRollback
+Nebraska,2037,0.593057310210176,Non-177,PolicyRollback
+Nebraska,2038,0.610278800331022,Non-177,PolicyRollback
+Nebraska,2039,0.6246667801032273,Non-177,PolicyRollback
+Nebraska,2040,0.6370881441847374,Non-177,PolicyRollback
+Nebraska,2041,0.6472150766133543,Non-177,PolicyRollback
+Nebraska,2042,0.6562491326431485,Non-177,PolicyRollback
+Nebraska,2043,0.6631758805048781,Non-177,PolicyRollback
+Nebraska,2044,0.6704054275865846,Non-177,PolicyRollback
+Nebraska,2045,0.6769009419876756,Non-177,PolicyRollback
+Nebraska,2046,0.6828638308176609,Non-177,PolicyRollback
+Nebraska,2047,0.688326226012793,Non-177,PolicyRollback
+Nebraska,2048,0.6938366107958295,Non-177,PolicyRollback
+Nebraska,2049,0.699281139720298,Non-177,PolicyRollback
+Nebraska,2050,0.70400165550066,Non-177,PolicyRollback
+Nevada,2020,0.03759577967165866,Section 177,PolicyRollback
+Nevada,2021,0.07499979076276259,Section 177,PolicyRollback
+Nevada,2022,0.12329253816689671,Section 177,PolicyRollback
+Nevada,2023,0.15746492843098142,Section 177,PolicyRollback
+Nevada,2024,0.1772183855922833,Section 177,PolicyRollback
+Nevada,2025,0.10883934877487866,Section 177,PolicyRollback
+Nevada,2026,0.14417751564410616,Section 177,PolicyRollback
+Nevada,2027,0.1945914168136394,Section 177,PolicyRollback
+Nevada,2028,0.235145541896284,Section 177,PolicyRollback
+Nevada,2029,0.2831224887266858,Section 177,PolicyRollback
+Nevada,2030,0.3267169442407738,Section 177,PolicyRollback
+Nevada,2031,0.3822752242542246,Section 177,PolicyRollback
+Nevada,2032,0.4347976718403544,Section 177,PolicyRollback
+Nevada,2033,0.5044205084015512,Section 177,PolicyRollback
+Nevada,2034,0.5396996626770091,Section 177,PolicyRollback
+Nevada,2035,0.5696898512239128,Section 177,PolicyRollback
+Nevada,2036,0.5958798515933388,Section 177,PolicyRollback
+Nevada,2037,0.6162684907504129,Section 177,PolicyRollback
+Nevada,2038,0.6328700602813127,Section 177,PolicyRollback
+Nevada,2039,0.6470460975203862,Section 177,PolicyRollback
+Nevada,2040,0.658403979310231,Section 177,PolicyRollback
+Nevada,2041,0.6678425517252696,Section 177,PolicyRollback
+Nevada,2042,0.6761295156194015,Section 177,PolicyRollback
+Nevada,2043,0.6831023497258922,Section 177,PolicyRollback
+Nevada,2044,0.6898267807548445,Section 177,PolicyRollback
+Nevada,2045,0.6956750298685778,Section 177,PolicyRollback
+Nevada,2046,0.7012283693318173,Section 177,PolicyRollback
+Nevada,2047,0.7061887111152811,Section 177,PolicyRollback
+Nevada,2048,0.711052941358694,Section 177,PolicyRollback
+Nevada,2049,0.7161527841693502,Section 177,PolicyRollback
+Nevada,2050,0.7206915919061275,Section 177,PolicyRollback
+New Hampshire,2020,0.0202077982830361,Non-177,PolicyRollback
+New Hampshire,2021,0.04181412441815823,Non-177,PolicyRollback
+New Hampshire,2022,0.0632030255013842,Non-177,PolicyRollback
+New Hampshire,2023,0.08386384372138579,Non-177,PolicyRollback
+New Hampshire,2024,0.0957568892028633,Non-177,PolicyRollback
+New Hampshire,2025,0.09711859516055892,Non-177,PolicyRollback
+New Hampshire,2026,0.12926200319266506,Non-177,PolicyRollback
+New Hampshire,2027,0.1748438893844782,Non-177,PolicyRollback
+New Hampshire,2028,0.213622291021672,Non-177,PolicyRollback
+New Hampshire,2029,0.25985541398729894,Non-177,PolicyRollback
+New Hampshire,2030,0.30297250039739343,Non-177,PolicyRollback
+New Hampshire,2031,0.3567980373535931,Non-177,PolicyRollback
+New Hampshire,2032,0.40722340509423544,Non-177,PolicyRollback
+New Hampshire,2033,0.4763642069750104,Non-177,PolicyRollback
+New Hampshire,2034,0.5123747905055152,Non-177,PolicyRollback
+New Hampshire,2035,0.5423479271600156,Non-177,PolicyRollback
+New Hampshire,2036,0.5675832015734065,Non-177,PolicyRollback
+New Hampshire,2037,0.5884405921607734,Non-177,PolicyRollback
+New Hampshire,2038,0.6058319039451112,Non-177,PolicyRollback
+New Hampshire,2039,0.6206151981210696,Non-177,PolicyRollback
+New Hampshire,2040,0.6325233222991274,Non-177,PolicyRollback
+New Hampshire,2041,0.6428624785239412,Non-177,PolicyRollback
+New Hampshire,2042,0.65245439715260245,Non-177,PolicyRollback
+New Hampshire,2043,0.6606169930790751,Non-177,PolicyRollback
+New Hampshire,2044,0.6680431207747127,Non-177,PolicyRollback
+New Hampshire,2045,0.6739429980419168,Non-177,PolicyRollback
+New Hampshire,2046,0.6790181138585388,Non-177,PolicyRollback
+New Hampshire,2047,0.6837196055395349,Non-177,PolicyRollback
+New Hampshire,2048,0.6883748809985539,Non-177,PolicyRollback
+New Hampshire,2049,0.6932504626558191,Non-177,PolicyRollback
+New Hampshire,2050,0.6980408417124494,Non-177,PolicyRollback
+New Jersey,2020,0.03477142653253623,Section 177,PolicyRollback
+New Jersey,2021,0.07110373946056242,Section 177,PolicyRollback
+New Jersey,2022,0.11508253426193837,Section 177,PolicyRollback
+New Jersey,2023,0.15909058497999767,Section 177,PolicyRollback
+New Jersey,2024,0.17912595272625273,Section 177,PolicyRollback
+New Jersey,2025,0.11797646667623908,Section 177,PolicyRollback
+New Jersey,2026,0.15860247328610846,Section 177,PolicyRollback
+New Jersey,2027,0.18831033662424188,Section 177,PolicyRollback
+New Jersey,2028,0.22674872853246875,Section 177,PolicyRollback
+New Jersey,2029,0.2722173814352976,Section 177,PolicyRollback
+New Jersey,2030,0.31403904997814336,Section 177,PolicyRollback
+New Jersey,2031,0.369511912016482,Section 177,PolicyRollback
+New Jersey,2032,0.42060520190264217,Section 177,PolicyRollback
+New Jersey,2033,0.49220379453690166,Section 177,PolicyRollback
+New Jersey,2034,0.5282819332895073,Section 177,PolicyRollback
+New Jersey,2035,0.5582951518380391,Section 177,PolicyRollback
+New Jersey,2036,0.5818545593371321,Section 177,PolicyRollback
+New Jersey,2037,0.6023441564833428,Section 177,PolicyRollback
+New Jersey,2038,0.6192752225622958,Section 177,PolicyRollback
+New Jersey,2039,0.636276511521313,Section 177,PolicyRollback
+New Jersey,2040,0.6479111209191333,Section 177,PolicyRollback
+New Jersey,2041,0.6577927502293794,Section 177,PolicyRollback
+New Jersey,2042,0.6643715973274799,Section 177,PolicyRollback
+New Jersey,2043,0.6725311953785633,Section 177,PolicyRollback
+New Jersey,2044,0.6800809277210935,Section 177,PolicyRollback
+New Jersey,2045,0.6861646257960728,Section 177,PolicyRollback
+New Jersey,2046,0.6906787199135542,Section 177,PolicyRollback
+New Jersey,2047,0.6949580654635636,Section 177,PolicyRollback
+New Jersey,2048,0.6996044109472166,Section 177,PolicyRollback
+New Jersey,2049,0.7045162116314049,Section 177,PolicyRollback
+New Jersey,2050,0.7088424773379449,Section 177,PolicyRollback
+New Mexico,2020,0.014244522659113383,Section 177,PolicyRollback
+New Mexico,2021,0.030540024839495396,Section 177,PolicyRollback
+New Mexico,2022,0.045779156274172034,Section 177,PolicyRollback
+New Mexico,2023,0.06033090049440681,Section 177,PolicyRollback
+New Mexico,2024,0.06904808502849177,Section 177,PolicyRollback
+New Mexico,2025,0.10473204663466246,Section 177,PolicyRollback
+New Mexico,2026,0.13975356679636833,Section 177,PolicyRollback
+New Mexico,2027,0.18793973078035137,Section 177,PolicyRollback
+New Mexico,2028,0.22831661092530628,Section 177,PolicyRollback
+New Mexico,2029,0.278952031388432,Section 177,PolicyRollback
+New Mexico,2030,0.324518322629392,Section 177,PolicyRollback
+New Mexico,2031,0.3804313750078376,Section 177,PolicyRollback
+New Mexico,2032,0.4318827902908374,Section 177,PolicyRollback
+New Mexico,2033,0.5019890601690697,Section 177,PolicyRollback
+New Mexico,2034,0.536266790180639,Section 177,PolicyRollback
+New Mexico,2035,0.5649557956777999,Section 177,PolicyRollback
+New Mexico,2036,0.5884761090064767,Section 177,PolicyRollback
+New Mexico,2037,0.6090787554691302,Section 177,PolicyRollback
+New Mexico,2038,0.6261021862543786,Section 177,PolicyRollback
+New Mexico,2039,0.6405570060922537,Section 177,PolicyRollback
+New Mexico,2040,0.6521233795261511,Section 177,PolicyRollback
+New Mexico,2041,0.662178956089478,Section 177,PolicyRollback
+New Mexico,2042,0.6714151442166482,Section 177,PolicyRollback
+New Mexico,2043,0.6788276465441817,Section 177,PolicyRollback
+New Mexico,2044,0.6858118866340505,Section 177,PolicyRollback
+New Mexico,2045,0.6917353710034182,Section 177,PolicyRollback
+New Mexico,2046,0.6976823643300492,Section 177,PolicyRollback
+New Mexico,2047,0.7027667315339711,Section 177,PolicyRollback
+New Mexico,2048,0.7076978939724045,Section 177,PolicyRollback
+New Mexico,2049,0.7127247579529739,Section 177,PolicyRollback
+New Mexico,2050,0.7173282233780455,Section 177,PolicyRollback
+New York,2020,0.02906979616575007,Section 177,PolicyRollback
+New York,2021,0.061955570838874284,Section 177,PolicyRollback
+New York,2022,0.08877683620189343,Section 177,PolicyRollback
+New York,2023,0.12875935196614163,Section 177,PolicyRollback
+New York,2024,0.14603263544398276,Section 177,PolicyRollback
+New York,2025,0.10703158012045111,Section 177,PolicyRollback
+New York,2026,0.14006178247037673,Section 177,PolicyRollback
+New York,2027,0.17855054722186703,Section 177,PolicyRollback
+New York,2028,0.2167115780892642,Section 177,PolicyRollback
+New York,2029,0.26297154425823915,Section 177,PolicyRollback
+New York,2030,0.3064186179760696,Section 177,PolicyRollback
+New York,2031,0.3597272058659653,Section 177,PolicyRollback
+New York,2032,0.413757417475038,Section 177,PolicyRollback
+New York,2033,0.4832829568352953,Section 177,PolicyRollback
+New York,2034,0.5193530258859893,Section 177,PolicyRollback
+New York,2035,0.549619186871222,Section 177,PolicyRollback
+New York,2036,0.5747262246586767,Section 177,PolicyRollback
+New York,2037,0.5951113722372945,Section 177,PolicyRollback
+New York,2038,0.6120535311771454,Section 177,PolicyRollback
+New York,2039,0.6258096725466604,Section 177,PolicyRollback
+New York,2040,0.6369834281767607,Section 177,PolicyRollback
+New York,2041,0.6463532638877203,Section 177,PolicyRollback
+New York,2042,0.6552295838466516,Section 177,PolicyRollback
+New York,2043,0.6627454720360907,Section 177,PolicyRollback
+New York,2044,0.6696441067268194,Section 177,PolicyRollback
+New York,2045,0.6757072485315857,Section 177,PolicyRollback
+New York,2046,0.6809102391786637,Section 177,PolicyRollback
+New York,2047,0.6858262285352212,Section 177,PolicyRollback
+New York,2048,0.6908311754333006,Section 177,PolicyRollback
+New York,2049,0.6963008122086968,Section 177,PolicyRollback
+New York,2050,0.700812685364657,Section 177,PolicyRollback
+North Carolina,2020,0.016897163269172698,Non-177,PolicyRollback
+North Carolina,2021,0.03487472461514499,Non-177,PolicyRollback
+North Carolina,2022,0.05596515327181886,Non-177,PolicyRollback
+North Carolina,2023,0.07690319801966067,Non-177,PolicyRollback
+North Carolina,2024,0.08769383250790946,Non-177,PolicyRollback
+North Carolina,2025,0.10123740877353268,Non-177,PolicyRollback
+North Carolina,2026,0.13526423959365863,Non-177,PolicyRollback
+North Carolina,2027,0.18339889370343038,Non-177,PolicyRollback
+North Carolina,2028,0.22330711260245345,Non-177,PolicyRollback
+North Carolina,2029,0.27059961420975837,Non-177,PolicyRollback
+North Carolina,2030,0.3144994671712234,Non-177,PolicyRollback
+North Carolina,2031,0.36943775209117224,Non-177,PolicyRollback
+North Carolina,2032,0.4203796915208703,Non-177,PolicyRollback
+North Carolina,2033,0.49014556228262246,Non-177,PolicyRollback
+North Carolina,2034,0.5262310292972715,Non-177,PolicyRollback
+North Carolina,2035,0.5562076222890198,Non-177,PolicyRollback
+North Carolina,2036,0.5812008652983695,Non-177,PolicyRollback
+North Carolina,2037,0.6020663563808853,Non-177,PolicyRollback
+North Carolina,2038,0.6194610887738127,Non-177,PolicyRollback
+North Carolina,2039,0.6341411586661557,Non-177,PolicyRollback
+North Carolina,2040,0.6460340497364958,Non-177,PolicyRollback
+North Carolina,2041,0.6562234917779808,Non-177,PolicyRollback
+North Carolina,2042,0.6654780262143405,Non-177,PolicyRollback
+North Carolina,2043,0.6732777984830332,Non-177,PolicyRollback
+North Carolina,2044,0.6805957612755167,Non-177,PolicyRollback
+North Carolina,2045,0.6871232604866919,Non-177,PolicyRollback
+North Carolina,2046,0.6929885379633857,Non-177,PolicyRollback
+North Carolina,2047,0.6985041621408353,Non-177,PolicyRollback
+North Carolina,2048,0.7039156001717324,Non-177,PolicyRollback
+North Carolina,2049,0.7092947707359955,Non-177,PolicyRollback
+North Carolina,2050,0.7142202051718439,Non-177,PolicyRollback
+North Dakota,2020,0.003757148302798483,Non-177,PolicyRollback
+North Dakota,2021,0.00905474945511936,Non-177,PolicyRollback
+North Dakota,2022,0.012722993551285358,Non-177,PolicyRollback
+North Dakota,2023,0.01865756388646164,Non-177,PolicyRollback
+North Dakota,2024,0.021537967008742446,Non-177,PolicyRollback
+North Dakota,2025,0.10389492753623181,Non-177,PolicyRollback
+North Dakota,2026,0.13744715300890514,Non-177,PolicyRollback
+North Dakota,2027,0.18509936725782003,Non-177,PolicyRollback
+North Dakota,2028,0.22488291950163478,Non-177,PolicyRollback
+North Dakota,2029,0.26946370578425327,Non-177,PolicyRollback
+North Dakota,2030,0.3140936081033883,Non-177,PolicyRollback
+North Dakota,2031,0.3674782608695659,Non-177,PolicyRollback
+North Dakota,2032,0.41828422876949756,Non-177,PolicyRollback
+North Dakota,2033,0.4886187273667865,Non-177,PolicyRollback
+North Dakota,2034,0.5250535331905779,Non-177,PolicyRollback
+North Dakota,2035,0.5554798603423319,Non-177,PolicyRollback
+North Dakota,2036,0.5809814391050095,Non-177,PolicyRollback
+North Dakota,2037,0.6017699115044247,Non-177,PolicyRollback
+North Dakota,2038,0.6192310913811876,Non-177,PolicyRollback
+North Dakota,2039,0.6338966120036625,Non-177,PolicyRollback
+North Dakota,2040,0.6457265663746068,Non-177,PolicyRollback
+North Dakota,2041,0.6559139784946233,Non-177,PolicyRollback
+North Dakota,2042,0.665743380855397,Non-177,PolicyRollback
+North Dakota,2043,0.6731111470635827,Non-177,PolicyRollback
+North Dakota,2044,0.6797301638291039,Non-177,PolicyRollback
+North Dakota,2045,0.6850996015936259,Non-177,PolicyRollback
+North Dakota,2046,0.6904667877734779,Non-177,PolicyRollback
+North Dakota,2047,0.695900485057112,Non-177,PolicyRollback
+North Dakota,2048,0.7016660209221229,Non-177,PolicyRollback
+North Dakota,2049,0.7071055862492319,Non-177,PolicyRollback
+North Dakota,2050,0.7121269648416735,Non-177,PolicyRollback
+Ohio,2020,0.013331298318649988,Non-177,PolicyRollback
+Ohio,2021,0.026412328083013033,Non-177,PolicyRollback
+Ohio,2022,0.03922809222886709,Non-177,PolicyRollback
+Ohio,2023,0.053761572282851805,Non-177,PolicyRollback
+Ohio,2024,0.06159159303776134,Non-177,PolicyRollback
+Ohio,2025,0.09988779739415185,Non-177,PolicyRollback
+Ohio,2026,0.13364164267947193,Non-177,PolicyRollback
+Ohio,2027,0.18070378562965425,Non-177,PolicyRollback
+Ohio,2028,0.21850837736792955,Non-177,PolicyRollback
+Ohio,2029,0.26437204927052643,Non-177,PolicyRollback
+Ohio,2030,0.30738088510578154,Non-177,PolicyRollback
+Ohio,2031,0.3625345103487086,Non-177,PolicyRollback
+Ohio,2032,0.4135406855766074,Non-177,PolicyRollback
+Ohio,2033,0.4831027779956933,Non-177,PolicyRollback
+Ohio,2034,0.5191457484443943,Non-177,PolicyRollback
+Ohio,2035,0.5493620428404159,Non-177,PolicyRollback
+Ohio,2036,0.5745555031918079,Non-177,PolicyRollback
+Ohio,2037,0.5955543057277627,Non-177,PolicyRollback
+Ohio,2038,0.6130510268896889,Non-177,PolicyRollback
+Ohio,2039,0.6278265261031503,Non-177,PolicyRollback
+Ohio,2040,0.6398216367792644,Non-177,PolicyRollback
+Ohio,2041,0.6500898343976527,Non-177,PolicyRollback
+Ohio,2042,0.6592307628940718,Non-177,PolicyRollback
+Ohio,2043,0.6670061016505534,Non-177,PolicyRollback
+Ohio,2044,0.6741677492692428,Non-177,PolicyRollback
+Ohio,2045,0.6805435259899041,Non-177,PolicyRollback
+Ohio,2046,0.6862075712021216,Non-177,PolicyRollback
+Ohio,2047,0.691704372864195,Non-177,PolicyRollback
+Ohio,2048,0.6969156887015645,Non-177,PolicyRollback
+Ohio,2049,0.7021968259879513,Non-177,PolicyRollback
+Ohio,2050,0.7067831094049898,Non-177,PolicyRollback
+Oklahoma,2020,0.008366656298509462,Non-177,PolicyRollback
+Oklahoma,2021,0.027517039367315914,Non-177,PolicyRollback
+Oklahoma,2022,0.05085242309435973,Non-177,PolicyRollback
+Oklahoma,2023,0.08967402066512917,Non-177,PolicyRollback
+Oklahoma,2024,0.10264135756893092,Non-177,PolicyRollback
+Oklahoma,2025,0.1028662167526795,Non-177,PolicyRollback
+Oklahoma,2026,0.13716276942968408,Non-177,PolicyRollback
+Oklahoma,2027,0.18440414264960853,Non-177,PolicyRollback
+Oklahoma,2028,0.2237555369699225,Non-177,PolicyRollback
+Oklahoma,2029,0.27175518493445805,Non-177,PolicyRollback
+Oklahoma,2030,0.31606019319382206,Non-177,PolicyRollback
+Oklahoma,2031,0.37096036585365827,Non-177,PolicyRollback
+Oklahoma,2032,0.42169059011164295,Non-177,PolicyRollback
+Oklahoma,2033,0.4912349634286405,Non-177,PolicyRollback
+Oklahoma,2034,0.5274687326396711,Non-177,PolicyRollback
+Oklahoma,2035,0.5576684827225915,Non-177,PolicyRollback
+Oklahoma,2036,0.5830028076117476,Non-177,PolicyRollback
+Oklahoma,2037,0.6035427777859854,Non-177,PolicyRollback
+Oklahoma,2038,0.6205767480104537,Non-177,PolicyRollback
+Oklahoma,2039,0.635156432407191,Non-177,PolicyRollback
+Oklahoma,2040,0.6471960585422398,Non-177,PolicyRollback
+Oklahoma,2041,0.6577175414364632,Non-177,PolicyRollback
+Oklahoma,2042,0.6672760250789065,Non-177,PolicyRollback
+Oklahoma,2043,0.6750000000000002,Non-177,PolicyRollback
+Oklahoma,2044,0.6822072072072077,Non-177,PolicyRollback
+Oklahoma,2045,0.6884481072775528,Non-177,PolicyRollback
+Oklahoma,2046,0.6943279201450896,Non-177,PolicyRollback
+Oklahoma,2047,0.6999876571992812,Non-177,PolicyRollback
+Oklahoma,2048,0.7059638447852016,Non-177,PolicyRollback
+Oklahoma,2049,0.7117223754119306,Non-177,PolicyRollback
+Oklahoma,2050,0.7165408830145483,Non-177,PolicyRollback
+Oregon,2020,0.05429170355011798,Section 177,PolicyRollback
+Oregon,2021,0.09669853145581579,Section 177,PolicyRollback
+Oregon,2022,0.13443549462812793,Section 177,PolicyRollback
+Oregon,2023,0.16723033525387826,Section 177,PolicyRollback
+Oregon,2024,0.1882610301897663,Section 177,PolicyRollback
+Oregon,2025,0.1296207851752793,Section 177,PolicyRollback
+Oregon,2026,0.16920262854820162,Section 177,PolicyRollback
+Oregon,2027,0.19200773185497402,Section 177,PolicyRollback
+Oregon,2028,0.23289767887563861,Section 177,PolicyRollback
+Oregon,2029,0.281713975964145,Section 177,PolicyRollback
+Oregon,2030,0.32658054671262127,Section 177,PolicyRollback
+Oregon,2031,0.3822716495723135,Section 177,PolicyRollback
+Oregon,2032,0.433607873337423,Section 177,PolicyRollback
+Oregon,2033,0.5035906759301343,Section 177,PolicyRollback
+Oregon,2034,0.5392604634360324,Section 177,PolicyRollback
+Oregon,2035,0.568601295453088,Section 177,PolicyRollback
+Oregon,2036,0.5893331290849672,Section 177,PolicyRollback
+Oregon,2037,0.6094783480810979,Section 177,PolicyRollback
+Oregon,2038,0.6269383635101885,Section 177,PolicyRollback
+Oregon,2039,0.6411526452405729,Section 177,PolicyRollback
+Oregon,2040,0.6525918639255867,Section 177,PolicyRollback
+Oregon,2041,0.6596731121111709,Section 177,PolicyRollback
+Oregon,2042,0.668253890334298,Section 177,PolicyRollback
+Oregon,2043,0.6764311651597494,Section 177,PolicyRollback
+Oregon,2044,0.6830569365315533,Section 177,PolicyRollback
+Oregon,2045,0.6895210658984523,Section 177,PolicyRollback
+Oregon,2046,0.7010647790137404,Section 177,PolicyRollback
+Oregon,2047,0.7062670877722258,Section 177,PolicyRollback
+Oregon,2048,0.7112161531279184,Section 177,PolicyRollback
+Oregon,2049,0.7164141151450009,Section 177,PolicyRollback
+Oregon,2050,0.7208331427002796,Section 177,PolicyRollback
+Pennsylvania,2020,0.01629487964863675,Section 177,PolicyRollback
+Pennsylvania,2021,0.033761439661431504,Section 177,PolicyRollback
+Pennsylvania,2022,0.05374305240635319,Section 177,PolicyRollback
+Pennsylvania,2023,0.07582148897129587,Section 177,PolicyRollback
+Pennsylvania,2024,0.08661828600263614,Section 177,PolicyRollback
+Pennsylvania,2025,0.12889187283248138,Section 177,PolicyRollback
+Pennsylvania,2026,0.16840439307467275,Section 177,PolicyRollback
+Pennsylvania,2027,0.18509578835335247,Section 177,PolicyRollback
+Pennsylvania,2028,0.22588942488882166,Section 177,PolicyRollback
+Pennsylvania,2029,0.27450347241721396,Section 177,PolicyRollback
+Pennsylvania,2030,0.3188971978282937,Section 177,PolicyRollback
+Pennsylvania,2031,0.3742424874694559,Section 177,PolicyRollback
+Pennsylvania,2032,0.4252151856626061,Section 177,PolicyRollback
+Pennsylvania,2033,0.49517584382512614,Section 177,PolicyRollback
+Pennsylvania,2034,0.5312444340928091,Section 177,PolicyRollback
+Pennsylvania,2035,0.5610641968582595,Section 177,PolicyRollback
+Pennsylvania,2036,0.5858588140670821,Section 177,PolicyRollback
+Pennsylvania,2037,0.6062948250139301,Section 177,PolicyRollback
+Pennsylvania,2038,0.6231862051101119,Section 177,PolicyRollback
+Pennsylvania,2039,0.6373776604008078,Section 177,PolicyRollback
+Pennsylvania,2040,0.6488262621098188,Section 177,PolicyRollback
+Pennsylvania,2041,0.6586989343778035,Section 177,PolicyRollback
+Pennsylvania,2042,0.6673790844562596,Section 177,PolicyRollback
+Pennsylvania,2043,0.6745339578858371,Section 177,PolicyRollback
+Pennsylvania,2044,0.6810190537358165,Section 177,PolicyRollback
+Pennsylvania,2045,0.6868326797330079,Section 177,PolicyRollback
+Pennsylvania,2046,0.6920106457345471,Section 177,PolicyRollback
+Pennsylvania,2047,0.6986463656272804,Section 177,PolicyRollback
+Pennsylvania,2048,0.7042432154409917,Section 177,PolicyRollback
+Pennsylvania,2049,0.7093474729869609,Section 177,PolicyRollback
+Pennsylvania,2050,0.7137900460329472,Section 177,PolicyRollback
+Rhode Island,2020,0.018196045603182116,Section 177,PolicyRollback
+Rhode Island,2021,0.040602508061998284,Section 177,PolicyRollback
+Rhode Island,2022,0.061614854358004824,Section 177,PolicyRollback
+Rhode Island,2023,0.08736100510149743,Section 177,PolicyRollback
+Rhode Island,2024,0.09976882204755017,Section 177,PolicyRollback
+Rhode Island,2025,0.10023115133034977,Section 177,PolicyRollback
+Rhode Island,2026,0.13399746068952054,Section 177,PolicyRollback
+Rhode Island,2027,0.16488460980211928,Section 177,PolicyRollback
+Rhode Island,2028,0.20354024752950206,Section 177,PolicyRollback
+Rhode Island,2029,0.24786732116475257,Section 177,PolicyRollback
+Rhode Island,2030,0.2895211000474155,Section 177,PolicyRollback
+Rhode Island,2031,0.3420518389122327,Section 177,PolicyRollback
+Rhode Island,2032,0.3911836657884827,Section 177,PolicyRollback
+Rhode Island,2033,0.45977065293704694,Section 177,PolicyRollback
+Rhode Island,2034,0.494884672619047,Section 177,PolicyRollback
+Rhode Island,2035,0.52327677869724,Section 177,PolicyRollback
+Rhode Island,2036,0.5465629888653731,Section 177,PolicyRollback
+Rhode Island,2037,0.5668527500686366,Section 177,PolicyRollback
+Rhode Island,2038,0.584701441629906,Section 177,PolicyRollback
+Rhode Island,2039,0.6008587570621466,Section 177,PolicyRollback
+Rhode Island,2040,0.6125398321439781,Section 177,PolicyRollback
+Rhode Island,2041,0.6223430328416745,Section 177,PolicyRollback
+Rhode Island,2042,0.6297164595036939,Section 177,PolicyRollback
+Rhode Island,2043,0.6380885453267747,Section 177,PolicyRollback
+Rhode Island,2044,0.6444890129054759,Section 177,PolicyRollback
+Rhode Island,2045,0.6508760545100581,Section 177,PolicyRollback
+Rhode Island,2046,0.6561749571183526,Section 177,PolicyRollback
+Rhode Island,2047,0.66193773096037,Section 177,PolicyRollback
+Rhode Island,2048,0.6673957851343956,Section 177,PolicyRollback
+Rhode Island,2049,0.673429428428595,Section 177,PolicyRollback
+Rhode Island,2050,0.6795284030010718,Section 177,PolicyRollback
+South Carolina,2020,0.008922949946231338,Non-177,PolicyRollback
+South Carolina,2021,0.020140912812483616,Non-177,PolicyRollback
+South Carolina,2022,0.03229054470529047,Non-177,PolicyRollback
+South Carolina,2023,0.045192811047607806,Non-177,PolicyRollback
+South Carolina,2024,0.05182467401610051,Non-177,PolicyRollback
+South Carolina,2025,0.10175270482578798,Non-177,PolicyRollback
+South Carolina,2026,0.1353085654858051,Non-177,PolicyRollback
+South Carolina,2027,0.18256151696169237,Non-177,PolicyRollback
+South Carolina,2028,0.22180442956812807,Non-177,PolicyRollback
+South Carolina,2029,0.26863866997732905,Non-177,PolicyRollback
+South Carolina,2030,0.3118790079164735,Non-177,PolicyRollback
+South Carolina,2031,0.3657493074347814,Non-177,PolicyRollback
+South Carolina,2032,0.41679278664762365,Non-177,PolicyRollback
+South Carolina,2033,0.4865071202112209,Non-177,PolicyRollback
+South Carolina,2034,0.5228558485477403,Non-177,PolicyRollback
+South Carolina,2035,0.5529011311269386,Non-177,PolicyRollback
+South Carolina,2036,0.5778583862326324,Non-177,PolicyRollback
+South Carolina,2037,0.5985486964183894,Non-177,PolicyRollback
+South Carolina,2038,0.6159607677487816,Non-177,PolicyRollback
+South Carolina,2039,0.630696769569447,Non-177,PolicyRollback
+South Carolina,2040,0.6426102163657069,Non-177,PolicyRollback
+South Carolina,2041,0.6528898086921407,Non-177,PolicyRollback
+South Carolina,2042,0.6621204529511973,Non-177,PolicyRollback
+South Carolina,2043,0.6697710516103996,Non-177,PolicyRollback
+South Carolina,2044,0.6769455666070746,Non-177,PolicyRollback
+South Carolina,2045,0.6834331415577929,Non-177,PolicyRollback
+South Carolina,2046,0.6893500034000712,Non-177,PolicyRollback
+South Carolina,2047,0.6948844281067768,Non-177,PolicyRollback
+South Carolina,2048,0.7003716763556654,Non-177,PolicyRollback
+South Carolina,2049,0.7057807559813131,Non-177,PolicyRollback
+South Carolina,2050,0.7107339989352858,Non-177,PolicyRollback
+South Dakota,2020,0.005728729994450791,Non-177,PolicyRollback
+South Dakota,2021,0.01314979723707962,Non-177,PolicyRollback
+South Dakota,2022,0.019549993088925577,Non-177,PolicyRollback
+South Dakota,2023,0.0268421309125909,Non-177,PolicyRollback
+South Dakota,2024,0.030939403601027603,Non-177,PolicyRollback
+South Dakota,2025,0.09963255225588812,Non-177,PolicyRollback
+South Dakota,2026,0.1328349282296651,Non-177,PolicyRollback
+South Dakota,2027,0.17937777777777772,Non-177,PolicyRollback
+South Dakota,2028,0.21808354385758766,Non-177,PolicyRollback
+South Dakota,2029,0.26526205206023096,Non-177,PolicyRollback
+South Dakota,2030,0.3090412868009986,Non-177,PolicyRollback
+South Dakota,2031,0.3639412513010297,Non-177,PolicyRollback
+South Dakota,2032,0.4149236531258994,Non-177,PolicyRollback
+South Dakota,2033,0.4846938775510204,Non-177,PolicyRollback
+South Dakota,2034,0.5210160610547898,Non-177,PolicyRollback
+South Dakota,2035,0.5512145405129939,Non-177,PolicyRollback
+South Dakota,2036,0.5765004226542682,Non-177,PolicyRollback
+South Dakota,2037,0.597433167068318,Non-177,PolicyRollback
+South Dakota,2038,0.6149947084052806,Non-177,PolicyRollback
+South Dakota,2039,0.6297813451425416,Non-177,PolicyRollback
+South Dakota,2040,0.6416556728232187,Non-177,PolicyRollback
+South Dakota,2041,0.6520196506550211,Non-177,PolicyRollback
+South Dakota,2042,0.66142926802839,Non-177,PolicyRollback
+South Dakota,2043,0.6691591801603095,Non-177,PolicyRollback
+South Dakota,2044,0.6764391754779459,Non-177,PolicyRollback
+South Dakota,2045,0.6827937046261462,Non-177,PolicyRollback
+South Dakota,2046,0.6886029411764705,Non-177,PolicyRollback
+South Dakota,2047,0.6940166493236217,Non-177,PolicyRollback
+South Dakota,2048,0.6994693183574631,Non-177,PolicyRollback
+South Dakota,2049,0.7048318791775086,Non-177,PolicyRollback
+South Dakota,2050,0.7097702600353443,Non-177,PolicyRollback
+Tennessee,2020,0.011518539853436992,Non-177,PolicyRollback
+Tennessee,2021,0.024183771588931834,Non-177,PolicyRollback
+Tennessee,2022,0.03832231279977902,Non-177,PolicyRollback
+Tennessee,2023,0.05176878292933612,Non-177,PolicyRollback
+Tennessee,2024,0.05925563016406927,Non-177,PolicyRollback
+Tennessee,2025,0.09880234128770807,Non-177,PolicyRollback
+Tennessee,2026,0.13177400463149247,Non-177,PolicyRollback
+Tennessee,2027,0.177294912791985,Non-177,PolicyRollback
+Tennessee,2028,0.21507803374289736,Non-177,PolicyRollback
+Tennessee,2029,0.2614249070826574,Non-177,PolicyRollback
+Tennessee,2030,0.30552878981223514,Non-177,PolicyRollback
+Tennessee,2031,0.35992012724317984,Non-177,PolicyRollback
+Tennessee,2032,0.4104721872900482,Non-177,PolicyRollback
+Tennessee,2033,0.47956604080793175,Non-177,PolicyRollback
+Tennessee,2034,0.5156277937182316,Non-177,PolicyRollback
+Tennessee,2035,0.5459900969148077,Non-177,PolicyRollback
+Tennessee,2036,0.5714309782746058,Non-177,PolicyRollback
+Tennessee,2037,0.5923142656077215,Non-177,PolicyRollback
+Tennessee,2038,0.6099847630783577,Non-177,PolicyRollback
+Tennessee,2039,0.6250320658695026,Non-177,PolicyRollback
+Tennessee,2040,0.6371509802954867,Non-177,PolicyRollback
+Tennessee,2041,0.6473957313491276,Non-177,PolicyRollback
+Tennessee,2042,0.6567619880625538,Non-177,PolicyRollback
+Tennessee,2043,0.6644339015760699,Non-177,PolicyRollback
+Tennessee,2044,0.6717888132319029,Non-177,PolicyRollback
+Tennessee,2045,0.6781759422080699,Non-177,PolicyRollback
+Tennessee,2046,0.6842394504416088,Non-177,PolicyRollback
+Tennessee,2047,0.6896964700941786,Non-177,PolicyRollback
+Tennessee,2048,0.6953641874042062,Non-177,PolicyRollback
+Tennessee,2049,0.7008580908432175,Non-177,PolicyRollback
+Tennessee,2050,0.705984028501124,Non-177,PolicyRollback
+Texas,2020,0.01909680942093751,Non-177,PolicyRollback
+Texas,2021,0.03835230515465357,Non-177,PolicyRollback
+Texas,2022,0.06245506906551114,Non-177,PolicyRollback
+Texas,2023,0.08592175077835303,Non-177,PolicyRollback
+Texas,2024,0.09775723795182029,Non-177,PolicyRollback
+Texas,2025,0.10937903936629768,Non-177,PolicyRollback
+Texas,2026,0.14613062004225977,Non-177,PolicyRollback
+Texas,2027,0.19602207126374013,Non-177,PolicyRollback
+Texas,2028,0.23689697974550744,Non-177,PolicyRollback
+Texas,2029,0.2869279034610087,Non-177,PolicyRollback
+Texas,2030,0.33265519375786184,Non-177,PolicyRollback
+Texas,2031,0.38902131626677044,Non-177,PolicyRollback
+Texas,2032,0.44031743236401255,Non-177,PolicyRollback
+Texas,2033,0.5072963685700957,Non-177,PolicyRollback
+Texas,2034,0.5413388225463913,Non-177,PolicyRollback
+Texas,2035,0.5709100269748183,Non-177,PolicyRollback
+Texas,2036,0.5981945634529351,Non-177,PolicyRollback
+Texas,2037,0.6170693376269677,Non-177,PolicyRollback
+Texas,2038,0.6321075714082042,Non-177,PolicyRollback
+Texas,2039,0.6457397965118122,Non-177,PolicyRollback
+Texas,2040,0.6587361921962284,Non-177,PolicyRollback
+Texas,2041,0.6681533563113414,Non-177,PolicyRollback
+Texas,2042,0.6760130478157739,Non-177,PolicyRollback
+Texas,2043,0.6834019046523002,Non-177,PolicyRollback
+Texas,2044,0.6912320930934728,Non-177,PolicyRollback
+Texas,2045,0.697684305139714,Non-177,PolicyRollback
+Texas,2046,0.7029117525491874,Non-177,PolicyRollback
+Texas,2047,0.7081479125880724,Non-177,PolicyRollback
+Texas,2048,0.71387066486362,Non-177,PolicyRollback
+Texas,2049,0.7193953039562564,Non-177,PolicyRollback
+Texas,2050,0.7244777493711384,Non-177,PolicyRollback
+Utah,2020,0.03446046413330228,Non-177,PolicyRollback
+Utah,2021,0.06660500200739608,Non-177,PolicyRollback
+Utah,2022,0.09973042121066399,Non-177,PolicyRollback
+Utah,2023,0.1270019732162728,Non-177,PolicyRollback
+Utah,2024,0.14371243826306637,Non-177,PolicyRollback
+Utah,2025,0.1065675076713261,Non-177,PolicyRollback
+Utah,2026,0.13854975561244987,Non-177,PolicyRollback
+Utah,2027,0.18484823075633097,Non-177,PolicyRollback
+Utah,2028,0.22413434759113798,Non-177,PolicyRollback
+Utah,2029,0.27247388198372985,Non-177,PolicyRollback
+Utah,2030,0.31765890135173913,Non-177,PolicyRollback
+Utah,2031,0.37325614695413717,Non-177,PolicyRollback
+Utah,2032,0.4228581911575859,Non-177,PolicyRollback
+Utah,2033,0.48830889659508014,Non-177,PolicyRollback
+Utah,2034,0.522999738066934,Non-177,PolicyRollback
+Utah,2035,0.5534412306706193,Non-177,PolicyRollback
+Utah,2036,0.5810258557103841,Non-177,PolicyRollback
+Utah,2037,0.6012490087232356,Non-177,PolicyRollback
+Utah,2038,0.6180249054224465,Non-177,PolicyRollback
+Utah,2039,0.6322014647710802,Non-177,PolicyRollback
+Utah,2040,0.6440710924435112,Non-177,PolicyRollback
+Utah,2041,0.653924123950189,Non-177,PolicyRollback
+Utah,2042,0.6628464103645221,Non-177,PolicyRollback
+Utah,2043,0.670022073374943,Non-177,PolicyRollback
+Utah,2044,0.677062868369351,Non-177,PolicyRollback
+Utah,2045,0.683174626977581,Non-177,PolicyRollback
+Utah,2046,0.6891407338597308,Non-177,PolicyRollback
+Utah,2047,0.6944863631344541,Non-177,PolicyRollback
+Utah,2048,0.6997776400685309,Non-177,PolicyRollback
+Utah,2049,0.705124271248849,Non-177,PolicyRollback
+Utah,2050,0.7098738970456897,Non-177,PolicyRollback
+Vermont,2020,0.03860762780993361,Section 177,PolicyRollback
+Vermont,2021,0.08078982166220712,Section 177,PolicyRollback
+Vermont,2022,0.11106422304690908,Section 177,PolicyRollback
+Vermont,2023,0.1497470579764848,Section 177,PolicyRollback
+Vermont,2024,0.16931543672959906,Section 177,PolicyRollback
+Vermont,2025,0.11949497962024037,Section 177,PolicyRollback
+Vermont,2026,0.15616979269496534,Section 177,PolicyRollback
+Vermont,2027,0.180653364632238,Section 177,PolicyRollback
+Vermont,2028,0.21945306439100057,Section 177,PolicyRollback
+Vermont,2029,0.2662556593777088,Section 177,PolicyRollback
+Vermont,2030,0.3094987060289463,Section 177,PolicyRollback
+Vermont,2031,0.36336737615729675,Section 177,PolicyRollback
+Vermont,2032,0.413258512459577,Section 177,PolicyRollback
+Vermont,2033,0.48207020531743733,Section 177,PolicyRollback
+Vermont,2034,0.5184245158864454,Section 177,PolicyRollback
+Vermont,2035,0.5481730679375764,Section 177,PolicyRollback
+Vermont,2036,0.5735280439028917,Section 177,PolicyRollback
+Vermont,2037,0.5937471094255864,Section 177,PolicyRollback
+Vermont,2038,0.6108659680088254,Section 177,PolicyRollback
+Vermont,2039,0.6250342622201921,Section 177,PolicyRollback
+Vermont,2040,0.6365450916349127,Section 177,PolicyRollback
+Vermont,2041,0.646518331681829,Section 177,PolicyRollback
+Vermont,2042,0.6559957077707238,Section 177,PolicyRollback
+Vermont,2043,0.6638252530633997,Section 177,PolicyRollback
+Vermont,2044,0.670897232504848,Section 177,PolicyRollback
+Vermont,2045,0.6762879384238608,Section 177,PolicyRollback
+Vermont,2046,0.6816054091539524,Section 177,PolicyRollback
+Vermont,2047,0.6863890081580082,Section 177,PolicyRollback
+Vermont,2048,0.6915029344220469,Section 177,PolicyRollback
+Vermont,2049,0.696563921172309,Section 177,PolicyRollback
+Vermont,2050,0.7017251437619806,Section 177,PolicyRollback
+Virginia,2020,0.023200795028770243,Section 177,PolicyRollback
+Virginia,2021,0.04752732195992513,Section 177,PolicyRollback
+Virginia,2022,0.0770174070336551,Section 177,PolicyRollback
+Virginia,2023,0.10309898068822514,Section 177,PolicyRollback
+Virginia,2024,0.11707717933352059,Section 177,PolicyRollback
+Virginia,2025,0.11270826594371965,Section 177,PolicyRollback
+Virginia,2026,0.14964450527688905,Section 177,PolicyRollback
+Virginia,2027,0.19759683227523384,Section 177,PolicyRollback
+Virginia,2028,0.2401269986712615,Section 177,PolicyRollback
+Virginia,2029,0.2911140134557532,Section 177,PolicyRollback
+Virginia,2030,0.338632421781267,Section 177,PolicyRollback
+Virginia,2031,0.3979040463049863,Section 177,PolicyRollback
+Virginia,2032,0.4528748684782658,Section 177,PolicyRollback
+Virginia,2033,0.5281345195651953,Section 177,PolicyRollback
+Virginia,2034,0.5668197300734523,Section 177,PolicyRollback
+Virginia,2035,0.5992999303661926,Section 177,PolicyRollback
+Virginia,2036,0.6267372024366731,Section 177,PolicyRollback
+Virginia,2037,0.649258463270265,Section 177,PolicyRollback
+Virginia,2038,0.6680348312077649,Section 177,PolicyRollback
+Virginia,2039,0.6838769682536873,Section 177,PolicyRollback
+Virginia,2040,0.696706505718689,Section 177,PolicyRollback
+Virginia,2041,0.707131267518166,Section 177,PolicyRollback
+Virginia,2042,0.7170042055611139,Section 177,PolicyRollback
+Virginia,2043,0.7252569137563092,Section 177,PolicyRollback
+Virginia,2044,0.7334066837831497,Section 177,PolicyRollback
+Virginia,2045,0.7401175908225214,Section 177,PolicyRollback
+Virginia,2046,0.7462364320248901,Section 177,PolicyRollback
+Virginia,2047,0.7520934431365163,Section 177,PolicyRollback
+Virginia,2048,0.7579977946493709,Section 177,PolicyRollback
+Virginia,2049,0.7638800947956462,Section 177,PolicyRollback
+Virginia,2050,0.7691931117605542,Section 177,PolicyRollback
+Washington,2020,0.059055488273709086,Section 177,PolicyRollback
+Washington,2021,0.10166612341891905,Section 177,PolicyRollback
+Washington,2022,0.14512759038323927,Section 177,PolicyRollback
+Washington,2023,0.19012917813738175,Section 177,PolicyRollback
+Washington,2024,0.21302842683589968,Section 177,PolicyRollback
+Washington,2025,0.1098264713104691,Section 177,PolicyRollback
+Washington,2026,0.14454069503613348,Section 177,PolicyRollback
+Washington,2027,0.1941810764203422,Section 177,PolicyRollback
+Washington,2028,0.2356913333022864,Section 177,PolicyRollback
+Washington,2029,0.2852120122660462,Section 177,PolicyRollback
+Washington,2030,0.33048824593128456,Section 177,PolicyRollback
+Washington,2031,0.38680085383900054,Section 177,PolicyRollback
+Washington,2032,0.4388187856406518,Section 177,PolicyRollback
+Washington,2033,0.5097825381369682,Section 177,PolicyRollback
+Washington,2034,0.5458362355854806,Section 177,PolicyRollback
+Washington,2035,0.5695591403364791,Section 177,PolicyRollback
+Washington,2036,0.5929910537667338,Section 177,PolicyRollback
+Washington,2037,0.6128559370974194,Section 177,PolicyRollback
+Washington,2038,0.6291437509460613,Section 177,PolicyRollback
+Washington,2039,0.6423901665444385,Section 177,PolicyRollback
+Washington,2040,0.6532550713632148,Section 177,PolicyRollback
+Washington,2041,0.6635250638105888,Section 177,PolicyRollback
+Washington,2042,0.6725007361601882,Section 177,PolicyRollback
+Washington,2043,0.6804366099382357,Section 177,PolicyRollback
+Washington,2044,0.68760619418192,Section 177,PolicyRollback
+Washington,2045,0.6946514502406067,Section 177,PolicyRollback
+Washington,2046,0.7057459233797592,Section 177,PolicyRollback
+Washington,2047,0.7114042167148743,Section 177,PolicyRollback
+Washington,2048,0.7164985443662004,Section 177,PolicyRollback
+Washington,2049,0.7217506861187343,Section 177,PolicyRollback
+Washington,2050,0.7259592569510755,Section 177,PolicyRollback
+West Virginia,2020,0.004747786344098391,Non-177,PolicyRollback
+West Virginia,2021,0.010787807542843982,Non-177,PolicyRollback
+West Virginia,2022,0.01735032018534396,Non-177,PolicyRollback
+West Virginia,2023,0.02341909797709283,Non-177,PolicyRollback
+West Virginia,2024,0.026988365590470936,Non-177,PolicyRollback
+West Virginia,2025,0.10405643738977059,Non-177,PolicyRollback
+West Virginia,2026,0.13803167684943762,Non-177,PolicyRollback
+West Virginia,2027,0.18624465091175438,Non-177,PolicyRollback
+West Virginia,2028,0.22665596453006093,Non-177,PolicyRollback
+West Virginia,2029,0.26268226002430145,Non-177,PolicyRollback
+West Virginia,2030,0.3093169109868516,Non-177,PolicyRollback
+West Virginia,2031,0.36723100075244575,Non-177,PolicyRollback
+West Virginia,2032,0.41842855000749696,Non-177,PolicyRollback
+West Virginia,2033,0.4884007160972701,Non-177,PolicyRollback
+West Virginia,2034,0.5250129696879864,Non-177,PolicyRollback
+West Virginia,2035,0.5554982501381467,Non-177,PolicyRollback
+West Virginia,2036,0.5809502859656839,Non-177,PolicyRollback
+West Virginia,2037,0.601567912488606,Non-177,PolicyRollback
+West Virginia,2038,0.6187715165790901,Non-177,PolicyRollback
+West Virginia,2039,0.6332565007563202,Non-177,PolicyRollback
+West Virginia,2040,0.6441829691355814,Non-177,PolicyRollback
+West Virginia,2041,0.6370996378098146,Non-177,PolicyRollback
+West Virginia,2042,0.6409714144725247,Non-177,PolicyRollback
+West Virginia,2043,0.6470670586588272,Non-177,PolicyRollback
+West Virginia,2044,0.6712062256809344,Non-177,PolicyRollback
+West Virginia,2045,0.6829966213886782,Non-177,PolicyRollback
+West Virginia,2046,0.691792523747693,Non-177,PolicyRollback
+West Virginia,2047,0.6977932715088341,Non-177,PolicyRollback
+West Virginia,2048,0.7034827204773239,Non-177,PolicyRollback
+West Virginia,2049,0.7088464730290454,Non-177,PolicyRollback
+West Virginia,2050,0.7137178897575713,Non-177,PolicyRollback
+Wisconsin,2020,0.012327540607635017,Non-177,PolicyRollback
+Wisconsin,2021,0.024853859758805594,Non-177,PolicyRollback
+Wisconsin,2022,0.036885561215007225,Non-177,PolicyRollback
+Wisconsin,2023,0.05183597841388663,Non-177,PolicyRollback
+Wisconsin,2024,0.05941465536960355,Non-177,PolicyRollback
+Wisconsin,2025,0.09250627465041218,Non-177,PolicyRollback
+Wisconsin,2026,0.1229430379746835,Non-177,PolicyRollback
+Wisconsin,2027,0.16513662594178363,Non-177,PolicyRollback
+Wisconsin,2028,0.20145708873670412,Non-177,PolicyRollback
+Wisconsin,2029,0.24703509635333715,Non-177,PolicyRollback
+Wisconsin,2030,0.289742777313708,Non-177,PolicyRollback
+Wisconsin,2031,0.34258179245463327,Non-177,PolicyRollback
+Wisconsin,2032,0.3916336407286021,Non-177,PolicyRollback
+Wisconsin,2033,0.4603004596938539,Non-177,PolicyRollback
+Wisconsin,2034,0.4966381648335098,Non-177,PolicyRollback
+Wisconsin,2035,0.5269997004194126,Non-177,PolicyRollback
+Wisconsin,2036,0.5524974610776222,Non-177,PolicyRollback
+Wisconsin,2037,0.5736749444032634,Non-177,PolicyRollback
+Wisconsin,2038,0.5914796430511945,Non-177,PolicyRollback
+Wisconsin,2039,0.6065329208691033,Non-177,PolicyRollback
+Wisconsin,2040,0.6188221394165223,Non-177,PolicyRollback
+Wisconsin,2041,0.6293201465465901,Non-177,PolicyRollback
+Wisconsin,2042,0.6387943389466144,Non-177,PolicyRollback
+Wisconsin,2043,0.6466910358689749,Non-177,PolicyRollback
+Wisconsin,2044,0.654112038140643,Non-177,PolicyRollback
+Wisconsin,2045,0.6606975460606432,Non-177,PolicyRollback
+Wisconsin,2046,0.6666898222519383,Non-177,PolicyRollback
+Wisconsin,2047,0.6723552130194316,Non-177,PolicyRollback
+Wisconsin,2048,0.6779964221824689,Non-177,PolicyRollback
+Wisconsin,2049,0.6835955624920913,Non-177,PolicyRollback
+Wisconsin,2050,0.688811714223699,Non-177,PolicyRollback
+Wyoming,2020,0.005991852889221185,Non-177,PolicyRollback
+Wyoming,2021,0.012946846366010385,Non-177,PolicyRollback
+Wyoming,2022,0.01924818342900696,Non-177,PolicyRollback
+Wyoming,2023,0.025087169164669947,Non-177,PolicyRollback
+Wyoming,2024,0.028919295060752356,Non-177,PolicyRollback
+Wyoming,2025,0.10552980489382348,Non-177,PolicyRollback
+Wyoming,2026,0.136893931285454,Non-177,PolicyRollback
+Wyoming,2027,0.1846039656452129,Non-177,PolicyRollback
+Wyoming,2028,0.2246635828427251,Non-177,PolicyRollback
+Wyoming,2029,0.27279373368146154,Non-177,PolicyRollback
+Wyoming,2030,0.31767640029097005,Non-177,PolicyRollback
+Wyoming,2031,0.37375827814569573,Non-177,PolicyRollback
+Wyoming,2032,0.4250953706567682,Non-177,PolicyRollback
+Wyoming,2033,0.4952820512820512,Non-177,PolicyRollback
+Wyoming,2034,0.5316894232728754,Non-177,PolicyRollback
+Wyoming,2035,0.5619491439570459,Non-177,PolicyRollback
+Wyoming,2036,0.5874168179068366,Non-177,PolicyRollback
+Wyoming,2037,0.6082422540860319,Non-177,PolicyRollback
+Wyoming,2038,0.6250747458640614,Non-177,PolicyRollback
+Wyoming,2039,0.6397226349678059,Non-177,PolicyRollback
+Wyoming,2040,0.6513571990558609,Non-177,PolicyRollback
+Wyoming,2041,0.6625976562499994,Non-177,PolicyRollback
+Wyoming,2042,0.6715781310585501,Non-177,PolicyRollback
+Wyoming,2043,0.6771896053897973,Non-177,PolicyRollback
+Wyoming,2044,0.6822742474916392,Non-177,PolicyRollback
+Wyoming,2045,0.6862614961600453,Non-177,PolicyRollback
+Wyoming,2046,0.6893441082503288,Non-177,PolicyRollback
+Wyoming,2047,0.6954295820534302,Non-177,PolicyRollback
+Wyoming,2048,0.7013920899787962,Non-177,PolicyRollback
+Wyoming,2049,0.7072035058887981,Non-177,PolicyRollback
+Wyoming,2050,0.7120787785707826,Non-177,PolicyRollback

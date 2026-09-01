@@ -1,0 +1,55 @@
+Country,Year,Scenario,Mineral,Recycling Scenario,Tonnes,Type
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,Minerals Demand,0.014893990178470545,Demand
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,Minerals Demand,0.07855525281639557,Demand
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,Minerals Demand,0.17625345970286738,Demand
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,Minerals Demand,0.018755596434744132,Demand
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,Minerals Demand,0.009826607788833708,Demand
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,Minerals Demand,0.09203349171171164,Demand
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,Minerals Demand,3.927039091695965e-5,Demand
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,Minerals Demand,0.0016602015411693416,Demand
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,Minerals Demand,0.003091831280400636,Demand
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,Minerals Demand,2.9390015903757986e-4,Demand
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,Minerals Demand,3.661149290646128e-5,Demand
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,Minerals Demand,3.1299028009295114e-4,Demand
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,Minerals Demand,0.12305896336766305,Demand
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,Minerals Demand,0.728324675891862,Demand
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,Minerals Demand,1.599590718786036,Demand
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,Minerals Demand,0.16830118675725236,Demand
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,Minerals Demand,0.08177448546973075,Demand
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,Minerals Demand,0.7642474325089704,Demand
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,Current NA Recycling Capacity,5.376909499028626e-4,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,All Material is Recycled in NA,0.007718969560005822,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,Current NA Recycling Capacity,0.0025791435489425783,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,All Material is Recycled in NA,0.0370503282092829,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,Current NA Recycling Capacity,0.005496527054368564,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,All Material is Recycled in NA,0.07901488198215727,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,Current NA Recycling Capacity,5.256698718016964e-4,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,All Material is Recycled in NA,0.00755020370166796,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,Current NA Recycling Capacity,3.310821139036258e-4,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,All Material is Recycled in NA,0.004750328130206267,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,Current NA Recycling Capacity,0.0030941920906635213,Recycling
+CA,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,All Material is Recycled in NA,0.04443692730908914,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,Current NA Recycling Capacity,5.681413377861311e-4,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,All Material is Recycled in NA,0.00816645747541505,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,Current NA Recycling Capacity,0.0027163145585159497,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,All Material is Recycled in NA,0.039046165614725306,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,Current NA Recycling Capacity,0.005801057410179811,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,All Material is Recycled in NA,0.08339263358537834,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,Current NA Recycling Capacity,5.54540955991941e-4,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,All Material is Recycled in NA,0.007971257219357937,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,Current NA Recycling Capacity,3.510634906422901e-4,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,All Material is Recycled in NA,0.005045983694225778,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,Current NA Recycling Capacity,0.0032789345574420273,Recycling
+MX,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,All Material is Recycled in NA,0.04713272257842927,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,Current NA Recycling Capacity,0.004451425692190737,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Cobalt,All Material is Recycled in NA,0.0639496705505516,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,Current NA Recycling Capacity,0.02501253434161779,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Copper,All Material is Recycled in NA,0.35946389985788885,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,Current NA Recycling Capacity,0.05180066178706062,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Graphite,All Material is Recycled in NA,0.7446562415169339,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,Current NA Recycling Capacity,0.00487104452863141,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Lithium,All Material is Recycled in NA,0.06999772512776006,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,Current NA Recycling Capacity,0.0027679486277089444,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Manganese,All Material is Recycled in NA,0.039754659277223124,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,Current NA Recycling Capacity,0.025811646229490864,Recycling
+US,2050,Increasing Batt Cap - Benchmark Chemistry,Nickel,All Material is Recycled in NA,0.37088305103990393,Recycling

@@ -1,0 +1,573 @@
+"State","Sale Year","Vehicle","Propulsion","Sales"
+"Alberta",2014,"Car","BEV",59.2718204488778
+"Alberta",2014,"Car","PHEV",62.9020858689722
+"Alberta",2014,"SUV","BEV",17.3884167133187
+"Alberta",2014,"SUV","PHEV",16.6281949049398
+"Alberta",2015,"Car","BEV",90.8329177057357
+"Alberta",2015,"Car","PHEV",67.0140596801947
+"Alberta",2015,"SUV","BEV",26.6474120820398
+"Alberta",2015,"SUV","PHEV",17.7151970453687
+"Alberta",2016,"Car","BEV",103.381546134663
+"Alberta",2016,"Car","PHEV",157.25521467243
+"Alberta",2016,"SUV","BEV",30.3287699119548
+"Alberta",2016,"SUV","PHEV",41.5704872623494
+"Alberta",2017,"Car","BEV",192.837905236908
+"Alberta",2017,"Car","PHEV",261.72157636295
+"Alberta",2017,"SUV","BEV",56.5723446485826
+"Alberta",2017,"SUV","PHEV",69.1862173164897
+"Alberta",2018,"Car","BEV",388.351550506601
+"Alberta",2018,"Car","PHEV",420.220284157357
+"Alberta",2018,"SUV","BEV",129.054037457783
+"Alberta",2018,"SUV","PHEV",176.738137301252
+"Alberta",2019,"Car","BEV",622.261968905679
+"Alberta",2019,"Car","PHEV",306.74196738347
+"Alberta",2019,"SUV","BEV",176.535135379197
+"Alberta",2019,"SUV","PHEV",182.303035382063
+"Alberta",2020,"Car","BEV",653.717779156809
+"Alberta",2020,"Car","PHEV",182.107741223801
+"Alberta",2020,"SUV","BEV",214.306034984292
+"Alberta",2020,"SUV","PHEV",129.136642657842
+"Alberta",2021,"Car","BEV",984.578279968315
+"Alberta",2021,"Car","PHEV",387.238373305527
+"Alberta",2021,"SUV","BEV",558.606888244421
+"Alberta",2021,"SUV","PHEV",378.126882168926
+"Alberta",2022,"Car","BEV",1584.5190770759
+"Alberta",2022,"Car","PHEV",330.783063565943
+"Alberta",2022,"SUV","BEV",1346.84121551452
+"Alberta",2022,"SUV","PHEV",495.84794979569
+"Alberta",2023,"Car","BEV",1978.57343203608
+"Alberta",2023,"Car","PHEV",489.112669645813
+"Alberta",2023,"SUV","BEV",2638.38921877956
+"Alberta",2023,"SUV","PHEV",1087.60871813969
+"Alberta",2024,"Car","BEV",2199.61401753012
+"Alberta",2024,"Car","PHEV",614.57603210835
+"Alberta",2024,"SUV","BEV",3821.78587336809
+"Alberta",2024,"SUV","PHEV",2038.28602952713
+"British Columbia",2014,"Car","BEV",681.928342409283
+"British Columbia",2014,"Car","PHEV",263.105552524447
+"British Columbia",2014,"SUV","BEV",159.822230138938
+"British Columbia",2014,"SUV","PHEV",37.9122843832627
+"British Columbia",2015,"Car","BEV",1045.04198686956
+"British Columbia",2015,"Car","PHEV",280.305032106434
+"British Columbia",2015,"SUV","BEV",244.924474527966
+"British Columbia",2015,"SUV","PHEV",40.3906492634406
+"British Columbia",2016,"Car","BEV",1189.41523741666
+"British Columbia",2016,"Car","PHEV",657.763881311118
+"British Columbia",2016,"SUV","BEV",278.760954755967
+"British Columbia",2016,"SUV","PHEV",94.7807109581567
+"British Columbia",2017,"Car","BEV",2218.61977708789
+"British Columbia",2017,"Car","PHEV",1094.72363285349
+"British Columbia",2017,"SUV","BEV",519.973637335233
+"British Columbia",2017,"SUV","PHEV",157.744575481596
+"British Columbia",2018,"Car","BEV",4563.87411728585
+"British Columbia",2018,"Car","PHEV",2190.27141755207
+"British Columbia",2018,"SUV","BEV",1082.98342032545
+"British Columbia",2018,"SUV","PHEV",626.859737739182
+"British Columbia",2019,"Car","BEV",7882.63516096504
+"British Columbia",2019,"Car","PHEV",1992.57839867254
+"British Columbia",2019,"SUV","BEV",1672.69479102389
+"British Columbia",2019,"SUV","PHEV",884.449709200007
+"British Columbia",2020,"Car","BEV",8670.11344684482
+"British Columbia",2020,"Car","PHEV",1318.63557199403
+"British Columbia",2020,"SUV","BEV",2101.88659194043
+"British Columbia",2020,"SUV","PHEV",705.549957822335
+"British Columbia",2021,"Car","BEV",13368.88914784
+"British Columbia",2021,"Car","PHEV",2830.82640250261
+"British Columbia",2021,"SUV","BEV",5117.80791211957
+"British Columbia",2021,"SUV","PHEV",2117.85222106361
+"British Columbia",2022,"Car","BEV",19995.206465887
+"British Columbia",2022,"Car","PHEV",2463.3429987215
+"British Columbia",2022,"SUV","BEV",10637.197028943
+"British Columbia",2022,"SUV","PHEV",2500.36282808701
+"British Columbia",2023,"Car","BEV",23599.1199964604
+"British Columbia",2023,"Car","PHEV",3468.8463395123
+"British Columbia",2023,"SUV","BEV",19064.743560012
+"British Columbia",2023,"SUV","PHEV",4912.76622669094
+"British Columbia",2024,"Car","BEV",23421.966235865
+"British Columbia",2024,"Car","PHEV",3931.2054347331
+"British Columbia",2024,"SUV","BEV",27874.9188093959
+"British Columbia",2024,"SUV","PHEV",7932.09855704749
+"Manitoba",2014,"Car","BEV",16.6323985953484
+"Manitoba",2014,"Car","PHEV",18.7185965501322
+"Manitoba",2014,"SUV","BEV",1.05842536515853
+"Manitoba",2014,"SUV","PHEV",1.42527384899484
+"Manitoba",2015,"Car","BEV",25.4888289480381
+"Manitoba",2015,"Car","PHEV",19.942250388215
+"Manitoba",2015,"SUV","BEV",1.62201638760242
+"Manitoba",2015,"SUV","PHEV",1.5184454610316
+"Manitoba",2016,"Car","BEV",29.0101277418698
+"Manitoba",2016,"Car","PHEV",46.7964913753305
+"Manitoba",2016,"SUV","BEV",1.84609903811899
+"Manitoba",2016,"SUV","PHEV",3.56318462248709
+"Manitoba",2017,"Car","BEV",54.1126774899486
+"Manitoba",2017,"Car","PHEV",77.8839132077055
+"Manitoba",2017,"SUV","BEV",3.44353402208764
+"Manitoba",2017,"SUV","PHEV",5.93024719855626
+"Manitoba",2018,"Car","BEV",95.1550506601167
+"Manitoba",2018,"Car","PHEV",127.080594192441
+"Manitoba",2018,"SUV","BEV",7.73134786613448
+"Manitoba",2018,"SUV","PHEV",23.4938913633084
+"Manitoba",2019,"Car","BEV",131.182186234818
+"Manitoba",2019,"Car","PHEV",92.7070043410489
+"Manitoba",2019,"SUV","BEV",16.0929819544572
+"Manitoba",2019,"SUV","PHEV",33.9096089703837
+"Manitoba",2020,"Car","BEV",142.758193383237
+"Manitoba",2020,"Car","PHEV",55.7920446434365
+"Manitoba",2020,"SUV","BEV",27.6741651475779
+"Manitoba",2020,"SUV","PHEV",26.1721108299267
+"Manitoba",2021,"Car","BEV",247.201809457097
+"Manitoba",2021,"Car","PHEV",119.873055265902
+"Manitoba",2021,"SUV","BEV",87.6547629179132
+"Manitoba",2021,"SUV","PHEV",86.2744316996872
+"Manitoba",2022,"Car","BEV",413.488264776268
+"Manitoba",2022,"Car","PHEV",105.83315924493
+"Manitoba",2022,"SUV","BEV",248.360012642796
+"Manitoba",2022,"SUV","PHEV",126.302947247036
+"Manitoba",2023,"Car","BEV",523.919952520155
+"Manitoba",2023,"Car","PHEV",156.812486207658
+"Manitoba",2023,"SUV","BEV",552.322618836927
+"Manitoba",2023,"SUV","PHEV",296.135489076465
+"Manitoba",2024,"Car","BEV",570.098519742914
+"Manitoba",2024,"Car","PHEV",191.404644171251
+"Manitoba",2024,"SUV","BEV",903.654467226394
+"Manitoba",2024,"SUV","PHEV",582.097155090824
+"New Brunswick",2014,"Car","BEV",5.29212682579266
+"New Brunswick",2014,"Car","PHEV",16.1531036219415
+"New Brunswick",2014,"SUV","BEV",0.604814494376304
+"New Brunswick",2014,"SUV","PHEV",1.33025559239518
+"New Brunswick",2015,"Car","BEV",8.11008193801211
+"New Brunswick",2015,"Car","PHEV",17.2090485583582
+"New Brunswick",2015,"SUV","BEV",0.926866507201384
+"New Brunswick",2015,"SUV","PHEV",1.4172157636295
+"New Brunswick",2016,"Car","BEV",9.23049519059494
+"New Brunswick",2016,"Car","PHEV",40.3827590548537
+"New Brunswick",2016,"SUV","BEV",1.05491373606799
+"New Brunswick",2016,"SUV","PHEV",3.32563898098795
+"New Brunswick",2017,"Car","BEV",17.2176701104382
+"New Brunswick",2017,"Car","PHEV",67.2094682503043
+"New Brunswick",2017,"SUV","BEV",1.96773372690722
+"New Brunswick",2017,"SUV","PHEV",5.53489738531918
+"New Brunswick",2018,"Car","BEV",32.7095486644151
+"New Brunswick",2018,"Car","PHEV",99.3150862176217
+"New Brunswick",2018,"SUV","BEV",2.37887626650292
+"New Brunswick",2018,"SUV","PHEV",13.8827539874095
+"New Brunswick",2019,"Car","BEV",51.2049425823638
+"New Brunswick",2019,"Car","PHEV",65.6415366307427
+"New Brunswick",2019,"SUV","BEV",7.80265791731258
+"New Brunswick",2019,"SUV","PHEV",17.4214504801971
+"New Brunswick",2020,"Car","BEV",60.7481673971221
+"New Brunswick",2020,"Car","PHEV",38.5529297255207
+"New Brunswick",2020,"SUV","BEV",19.2369196757553
+"New Brunswick",2020,"SUV","PHEV",15.5152034261242
+"New Brunswick",2021,"Car","BEV",111.106256505601
+"New Brunswick",2021,"Car","PHEV",80.0102815432742
+"New Brunswick",2021,"SUV","BEV",67.6633257611962
+"New Brunswick",2021,"SUV","PHEV",52.6758081334724
+"New Brunswick",2022,"Car","BEV",216.313559398564
+"New Brunswick",2022,"Car","PHEV",77.959405369722
+"New Brunswick",2022,"SUV","BEV",198.955063891272
+"New Brunswick",2022,"SUV","PHEV",81.2258609019729
+"New Brunswick",2023,"Car","BEV",325.101288302748
+"New Brunswick",2023,"Car","PHEV",120.054928003972
+"New Brunswick",2023,"SUV","BEV",444.829450930373
+"New Brunswick",2023,"SUV","PHEV",241.295583691934
+"New Brunswick",2024,"Car","BEV",362.930515280404
+"New Brunswick",2024,"Car","PHEV",155.772478122896
+"New Brunswick",2024,"SUV","BEV",754.076075944694
+"New Brunswick",2024,"SUV","PHEV",579.574523866161
+"Newfoundland and Labrador",2014,"Car","BEV",3.7800905898519
+"Newfoundland and Labrador",2014,"Car","PHEV",7.69647878457212
+"Newfoundland and Labrador",2014,"SUV","BEV",0.907221741564456
+"Newfoundland and Labrador",2014,"SUV","PHEV",0.190036513199312
+"Newfoundland and Labrador",2015,"Car","BEV",5.79291567000865
+"Newfoundland and Labrador",2015,"Car","PHEV",8.19960548957066
+"Newfoundland and Labrador",2015,"SUV","BEV",1.39029976080208
+"Newfoundland and Labrador",2015,"SUV","PHEV",0.202459394804214
+"Newfoundland and Labrador",2016,"Car","BEV",6.59321085042496
+"Newfoundland and Labrador",2016,"Car","PHEV",19.2411969614303
+"Newfoundland and Labrador",2016,"SUV","BEV",1.58237060410199
+"Newfoundland and Labrador",2016,"SUV","PHEV",0.475091282998279
+"Newfoundland and Labrador",2017,"Car","BEV",12.2983357931701
+"Newfoundland and Labrador",2017,"Car","PHEV",32.0233348722038
+"Newfoundland and Labrador",2017,"SUV","BEV",2.95160059036083
+"Newfoundland and Labrador",2017,"SUV","PHEV",0.790699626474168
+"Newfoundland and Labrador",2018,"Car","BEV",17.8415719987719
+"Newfoundland and Labrador",2018,"Car","PHEV",41.1143098857896
+"Newfoundland and Labrador",2018,"SUV","BEV",3.56831439975437
+"Newfoundland and Labrador",2018,"SUV","PHEV",2.66976038219413
+"Newfoundland and Labrador",2019,"Car","BEV",20.9696431527776
+"Newfoundland and Labrador",2019,"Car","PHEV",24.5766890702781
+"Newfoundland and Labrador",2019,"SUV","BEV",3.41366283882426
+"Newfoundland and Labrador",2019,"SUV","PHEV",4.6664599500528
+"Newfoundland and Labrador",2020,"Car","BEV",23.961777139976
+"Newfoundland and Labrador",2020,"Car","PHEV",14.2614496139121
+"Newfoundland and Labrador",2020,"SUV","BEV",4.72485746422061
+"Newfoundland and Labrador",2020,"SUV","PHEV",4.23141911621569
+"Newfoundland and Labrador",2021,"Car","BEV",41.9051278861954
+"Newfoundland and Labrador",2021,"Car","PHEV",31.3207507820647
+"Newfoundland and Labrador",2021,"SUV","BEV",17.3002821548513
+"Newfoundland and Labrador",2021,"SUV","PHEV",19.6466527632951
+"Newfoundland and Labrador",2022,"Car","BEV",86.7924775364609
+"Newfoundland and Labrador",2022,"Car","PHEV",30.4869183010086
+"Newfoundland and Labrador",2022,"SUV","BEV",76.5554160834425
+"Newfoundland and Labrador",2022,"SUV","PHEV",38.1086478762607
+"Newfoundland and Labrador",2023,"Car","BEV",133.711013737421
+"Newfoundland and Labrador",2023,"Car","PHEV",45.9469477546066
+"Newfoundland and Labrador",2023,"SUV","BEV",207.99491025821
+"Newfoundland and Labrador",2023,"SUV","PHEV",109.086946927066
+"Newfoundland and Labrador",2024,"Car","BEV",139.142689564372
+"Newfoundland and Labrador",2024,"Car","PHEV",52.0292690086597
+"Newfoundland and Labrador",2024,"SUV","BEV",335.874992309554
+"Newfoundland and Labrador",2024,"SUV","PHEV",225.775494607275
+"Northwest Territories",2014,"Car","BEV",0.604814494376304
+"Northwest Territories",2014,"Car","PHEV",0.285054769798968
+"Northwest Territories",2014,"SUV","BEV",0.151203623594076
+"Northwest Territories",2014,"SUV","PHEV",0
+"Northwest Territories",2015,"Car","BEV",0.926866507201384
+"Northwest Territories",2015,"Car","PHEV",0.303689092206321
+"Northwest Territories",2015,"SUV","BEV",0.231716626800346
+"Northwest Territories",2015,"SUV","PHEV",0
+"Northwest Territories",2016,"Car","BEV",1.05491373606799
+"Northwest Territories",2016,"Car","PHEV",0.712636924497419
+"Northwest Territories",2016,"SUV","BEV",0.263728434016998
+"Northwest Territories",2016,"SUV","PHEV",0
+"Northwest Territories",2017,"Car","BEV",1.96773372690722
+"Northwest Territories",2017,"Car","PHEV",1.18604943971125
+"Northwest Territories",2017,"SUV","BEV",0.491933431726805
+"Northwest Territories",2017,"SUV","PHEV",0
+"Northwest Territories",2018,"Car","BEV",0.594719066625729
+"Northwest Territories",2018,"Car","PHEV",2.13580830575531
+"Northwest Territories",2018,"SUV","BEV",0
+"Northwest Territories",2018,"SUV","PHEV",0
+"Northwest Territories",2019,"Car","BEV",1.46299835949611
+"Northwest Territories",2019,"Car","PHEV",2.17768131002464
+"Northwest Territories",2019,"SUV","BEV",0
+"Northwest Territories",2019,"SUV","PHEV",0.62219466000704
+"Northwest Territories",2020,"Car","BEV",1.6874490943645
+"Northwest Territories",2020,"Car","PHEV",1.56719226526507
+"Northwest Territories",2020,"SUV","BEV",0.337489818872901
+"Northwest Territories",2020,"SUV","PHEV",0.156719226526507
+"Northwest Territories",2021,"Car","BEV",3.07560571641801
+"Northwest Territories",2021,"Car","PHEV",3.13207507820647
+"Northwest Territories",2021,"SUV","BEV",1.15335214365675
+"Northwest Territories",2021,"SUV","PHEV",1.70840458811262
+"Northwest Territories",2022,"Car","BEV",5.78616516909739
+"Northwest Territories",2022,"Car","PHEV",2.39540072365068
+"Northwest Territories",2022,"SUV","BEV",5.34107554070529
+"Northwest Territories",2022,"SUV","PHEV",3.70198293655104
+"Northwest Territories",2023,"Car","BEV",7.42838965207892
+"Northwest Territories",2023,"Car","PHEV",2.96431920997462
+"Northwest Territories",2023,"SUV","BEV",9.17624604080337
+"Northwest Territories",2023,"SUV","PHEV",7.70722994593402
+"Northwest Territories",2024,"Car","BEV",6.57062700720646
+"Northwest Territories",2024,"Car","PHEV",3.15328903082786
+"Northwest Territories",2024,"SUV","BEV",13.5277614854251
+"Northwest Territories",2024,"SUV","PHEV",12.9284850263942
+"Nova Scotia",2014,"Car","BEV",6.35055219095119
+"Nova Scotia",2014,"Car","PHEV",16.6281949049398
+"Nova Scotia",2014,"SUV","BEV",1.51203623594076
+"Nova Scotia",2014,"SUV","PHEV",0.760146052797247
+"Nova Scotia",2015,"Car","BEV",9.73209832561454
+"Nova Scotia",2015,"Car","PHEV",17.7151970453687
+"Nova Scotia",2015,"SUV","BEV",2.31716626800346
+"Nova Scotia",2015,"SUV","PHEV",0.809837579216855
+"Nova Scotia",2016,"Car","BEV",11.0765942287139
+"Nova Scotia",2016,"Car","PHEV",41.5704872623494
+"Nova Scotia",2016,"SUV","BEV",2.63728434016998
+"Nova Scotia",2016,"SUV","PHEV",1.90036513199312
+"Nova Scotia",2017,"Car","BEV",20.6612041325258
+"Nova Scotia",2017,"Car","PHEV",69.1862173164897
+"Nova Scotia",2017,"SUV","BEV",4.91933431726805
+"Nova Scotia",2017,"SUV","PHEV",3.16279850589667
+"Nova Scotia",2018,"Car","BEV",36.8725821307952
+"Nova Scotia",2018,"Car","PHEV",108.926223593521
+"Nova Scotia",2018,"SUV","BEV",7.73134786613448
+"Nova Scotia",2018,"SUV","PHEV",9.07718529946005
+"Nova Scotia",2019,"Car","BEV",52.6679409418599
+"Nova Scotia",2019,"Car","PHEV",72.4856778908201
+"Nova Scotia",2019,"SUV","BEV",10.7286546363048
+"Nova Scotia",2019,"SUV","PHEV",13.0660878601478
+"Nova Scotia",2020,"Car","BEV",83.0224954427336
+"Nova Scotia",2020,"Car","PHEV",47.1724871844786
+"Nova Scotia",2020,"SUV","BEV",19.5744094946282
+"Nova Scotia",2020,"SUV","PHEV",15.0450457465447
+"Nova Scotia",2021,"Car","BEV",163.007102970154
+"Nova Scotia",2021,"Car","PHEV",107.629489051095
+"Nova Scotia",2021,"SUV","BEV",78.8123964832115
+"Nova Scotia",2021,"SUV","PHEV",62.0720333680918
+"Nova Scotia",2022,"Car","BEV",338.268117578001
+"Nova Scotia",2022,"Car","PHEV",104.96210443633
+"Nova Scotia",2022,"SUV","BEV",230.111337878719
+"Nova Scotia",2022,"SUV","PHEV",100.389066691178
+"Nova Scotia",2023,"Car","BEV",521.735132034249
+"Nova Scotia",2023,"Car","PHEV",158.591077733642
+"Nova Scotia",2023,"SUV","BEV",510.811029604721
+"Nova Scotia",2023,"SUV","PHEV",259.674362793777
+"Nova Scotia",2024,"Car","BEV",606.816729489067
+"Nova Scotia",2024,"Car","PHEV",197.080564426741
+"Nova Scotia",2024,"SUV","BEV",853.021988523804
+"Nova Scotia",2024,"SUV","PHEV",572.63728799834
+"Nunavut",2014,"Car","BEV",0
+"Nunavut",2014,"Car","PHEV",0
+"Nunavut",2014,"SUV","BEV",0
+"Nunavut",2014,"SUV","PHEV",0
+"Nunavut",2015,"Car","BEV",0
+"Nunavut",2015,"Car","PHEV",0
+"Nunavut",2015,"SUV","BEV",0
+"Nunavut",2015,"SUV","PHEV",0
+"Nunavut",2016,"Car","BEV",0
+"Nunavut",2016,"Car","PHEV",0
+"Nunavut",2016,"SUV","BEV",0
+"Nunavut",2016,"SUV","PHEV",0
+"Nunavut",2017,"Car","BEV",0
+"Nunavut",2017,"Car","PHEV",0
+"Nunavut",2017,"SUV","BEV",0
+"Nunavut",2017,"SUV","PHEV",0
+"Nunavut",2018,"Car","BEV",0
+"Nunavut",2018,"Car","PHEV",0
+"Nunavut",2018,"SUV","BEV",0
+"Nunavut",2018,"SUV","PHEV",0
+"Nunavut",2019,"Car","BEV",0
+"Nunavut",2019,"Car","PHEV",0
+"Nunavut",2019,"SUV","BEV",0
+"Nunavut",2019,"SUV","PHEV",0
+"Nunavut",2020,"Car","BEV",0
+"Nunavut",2020,"Car","PHEV",0
+"Nunavut",2020,"SUV","BEV",0
+"Nunavut",2020,"SUV","PHEV",0
+"Nunavut",2021,"Car","BEV",0
+"Nunavut",2021,"Car","PHEV",0
+"Nunavut",2021,"SUV","BEV",0
+"Nunavut",2021,"SUV","PHEV",0.28473409801877
+"Nunavut",2022,"Car","BEV",0
+"Nunavut",2022,"Car","PHEV",0
+"Nunavut",2022,"SUV","BEV",0.445089628392107
+"Nunavut",2022,"SUV","PHEV",0.435527404300123
+"Nunavut",2023,"Car","BEV",0
+"Nunavut",2023,"Car","PHEV",0
+"Nunavut",2023,"SUV","BEV",0
+"Nunavut",2023,"SUV","PHEV",0.592863841994924
+"Nunavut",2024,"Car","BEV",0
+"Nunavut",2024,"Car","PHEV",0
+"Nunavut",2024,"SUV","BEV",0
+"Nunavut",2024,"SUV","PHEV",0.945986709248359
+"Ontario",2014,"Car","BEV",717.461193953891
+"Ontario",2014,"Car","PHEV",648.499601292651
+"Ontario",2014,"SUV","BEV",161.031859127691
+"Ontario",2014,"SUV","PHEV",84.756284886893
+"Ontario",2015,"Car","BEV",1099.49539416764
+"Ontario",2015,"Car","PHEV",690.892684769379
+"Ontario",2015,"SUV","BEV",246.778207542369
+"Ontario",2015,"SUV","PHEV",90.2968900826793
+"Ontario",2016,"Car","BEV",1251.39141941066
+"Ontario",2016,"Car","PHEV",1621.24900323163
+"Ontario",2016,"SUV","BEV",280.870782228103
+"Ontario",2016,"SUV","PHEV",211.890712217233
+"Ontario",2017,"Car","BEV",2334.22413354369
+"Ontario",2017,"Car","PHEV",2698.2624753431
+"Ontario",2017,"SUV","BEV",523.909104789048
+"Ontario",2017,"SUV","PHEV",352.652033407479
+"Ontario",2018,"Car","BEV",5661.13079521032
+"Ontario",2018,"Car","PHEV",6241.89977356988
+"Ontario",2018,"SUV","BEV",1215.60577218299
+"Ontario",2018,"SUV","PHEV",1589.04137948195
+"Ontario",2019,"Car","BEV",7328.15878271601
+"Ontario",2019,"Car","PHEV",4514.02225835107
+"Ontario",2019,"SUV","BEV",1476.65301085141
+"Ontario",2019,"SUV","PHEV",1463.71293766656
+"Ontario",2020,"Car","BEV",6700.86035372144
+"Ontario",2020,"Car","PHEV",2487.9177211083
+"Ontario",2020,"SUV","BEV",1592.61445526122
+"Ontario",2020,"SUV","PHEV",902.232587113101
+"Ontario",2021,"Car","BEV",9751.9768253324
+"Ontario",2021,"Car","PHEV",4657.110907195
+"Ontario",2021,"SUV","BEV",4067.10410924826
+"Ontario",2021,"SUV","PHEV",2287.83847758081
+"Ontario",2022,"Car","BEV",14743.1488508602
+"Ontario",2022,"Car","PHEV",3529.73184815035
+"Ontario",2022,"SUV","BEV",9652.65877093963
+"Ontario",2022,"SUV","PHEV",2537.38265745252
+"Ontario",2023,"Car","BEV",17846.0506929738
+"Ontario",2023,"Car","PHEV",4626.1165590864
+"Ontario",2023,"SUV","BEV",18737.4574512233
+"Ontario",2023,"SUV","PHEV",5079.36096629152
+"Ontario",2024,"Car","BEV",20137.4257472037
+"Ontario",2024,"Car","PHEV",5674.34361097474
+"Ontario",2024,"SUV","BEV",28006.33134954
+"Ontario",2024,"SUV","PHEV",9325.53697977032
+"Prince Edward Island",2014,"Car","BEV",1.96564710672299
+"Prince Edward Island",2014,"Car","PHEV",2.85054769798968
+"Prince Edward Island",2014,"SUV","BEV",0.151203623594076
+"Prince Edward Island",2014,"SUV","PHEV",0
+"Prince Edward Island",2015,"Car","BEV",3.0123161484045
+"Prince Edward Island",2015,"Car","PHEV",3.03689092206321
+"Prince Edward Island",2015,"SUV","BEV",0.231716626800346
+"Prince Edward Island",2015,"SUV","PHEV",0
+"Prince Edward Island",2016,"Car","BEV",3.42846964222098
+"Prince Edward Island",2016,"Car","PHEV",7.12636924497419
+"Prince Edward Island",2016,"SUV","BEV",0.263728434016998
+"Prince Edward Island",2016,"SUV","PHEV",0
+"Prince Edward Island",2017,"Car","BEV",6.39513461244847
+"Prince Edward Island",2017,"Car","PHEV",11.8604943971125
+"Prince Edward Island",2017,"SUV","BEV",0.491933431726805
+"Prince Edward Island",2017,"SUV","PHEV",0
+"Prince Edward Island",2018,"Car","BEV",11.8943813325146
+"Prince Edward Island",2018,"Car","PHEV",18.1543705989201
+"Prince Edward Island",2018,"SUV","BEV",0.594719066625729
+"Prince Edward Island",2018,"SUV","PHEV",1.60185622931648
+"Prince Edward Island",2019,"Car","BEV",18.5313125536174
+"Prince Edward Island",2019,"Car","PHEV",13.3771851901513
+"Prince Edward Island",2019,"SUV","BEV",0.975332239664073
+"Prince Edward Island",2019,"SUV","PHEV",3.1109733000352
+"Prince Edward Island",2020,"Car","BEV",21.2618585889927
+"Prince Edward Island",2020,"Car","PHEV",8.7762766854844
+"Prince Edward Island",2020,"SUV","BEV",3.03740836985611
+"Prince Edward Island",2020,"SUV","PHEV",2.97766530400363
+"Prince Edward Island",2021,"Car","BEV",61.1276636138079
+"Prince Edward Island",2021,"Car","PHEV",24.7718665276329
+"Prince Edward Island",2021,"SUV","BEV",25.3737471604486
+"Prince Edward Island",2021,"SUV","PHEV",12.5283003128259
+"Prince Edward Island",2022,"Car","BEV",138.867964058337
+"Prince Edward Island",2022,"Car","PHEV",21.5586065128561
+"Prince Edward Island",2022,"SUV","BEV",81.4514019957556
+"Prince Edward Island",2022,"SUV","PHEV",18.5099146827552
+"Prince Edward Island",2023,"Car","BEV",173.474746580902
+"Prince Edward Island",2023,"Car","PHEV",33.4968070727132
+"Prince Edward Island",2023,"SUV","BEV",145.509044361311
+"Prince Edward Island",2023,"SUV","PHEV",58.6935203574975
+"Prince Edward Island",2024,"Car","BEV",176.247406781538
+"Prince Edward Island",2024,"Car","PHEV",43.2000597223417
+"Prince Edward Island",2024,"SUV","BEV",224.947348129068
+"Prince Edward Island",2024,"SUV","PHEV",135.591428325598
+"Quebec",2014,"Car","BEV",964.527914906611
+"Quebec",2014,"Car","PHEV",1030.37797456667
+"Quebec",2014,"SUV","BEV",162.241488116444
+"Quebec",2014,"SUV","PHEV",41.2379233642506
+"Quebec",2015,"Car","BEV",1478.12036235941
+"Quebec",2015,"Car","PHEV",1097.73483862845
+"Quebec",2015,"SUV","BEV",248.631940556771
+"Quebec",2015,"SUV","PHEV",43.9336886725144
+"Quebec",2016,"Car","BEV",1682.32368059443
+"Quebec",2016,"Car","PHEV",2575.94493641667
+"Quebec",2016,"SUV","BEV",282.980609700239
+"Quebec",2016,"SUV","PHEV",103.094808410627
+"Quebec",2017,"Car","BEV",3138.04336098529
+"Quebec",2017,"Car","PHEV",4287.17337474294
+"Quebec",2017,"SUV","BEV",527.844572242862
+"Quebec",2017,"SUV","PHEV",171.581818944894
+"Quebec",2018,"Car","BEV",6992.70678538532
+"Quebec",2018,"Car","PHEV",8562.98944984946
+"Quebec",2018,"SUV","BEV",1002.69634633098
+"Quebec",2018,"SUV","PHEV",1119.16355221578
+"Quebec",2019,"Car","BEV",11017.8406453652
+"Quebec",2019,"Car","PHEV",7182.92625245127
+"Quebec",2019,"SUV","BEV",1828.74794937014
+"Quebec",2019,"SUV","PHEV",1624.55025727838
+"Quebec",2020,"Car","BEV",11787.8443935927
+"Quebec",2020,"Car","PHEV",4747.33880994095
+"Quebec",2020,"SUV","BEV",2563.57266415855
+"Quebec",2020,"SUV","PHEV",1322.24011420414
+"Quebec",2021,"Car","BEV",17434.45545423
+"Quebec",2021,"Car","PHEV",9852.9387278415
+"Quebec",2021,"SUV","BEV",6311.14293008975
+"Quebec",2021,"SUV","PHEV",4055.46775808133
+"Quebec",2022,"Car","BEV",24576.0689212986
+"Quebec",2022,"Car","PHEV",8115.61765172849
+"Quebec",2022,"SUV","BEV",13546.3028401138
+"Quebec",2022,"SUV","PHEV",5220.23146794127
+"Quebec",2023,"Car","BEV",29597.3261584655
+"Quebec",2023,"Car","PHEV",11043.5712167605
+"Quebec",2023,"SUV","BEV",25474.1329374645
+"Quebec",2023,"SUV","PHEV",10470.2718815514
+"Quebec",2024,"Car","BEV",30379.1007140836
+"Quebec",2024,"Car","PHEV",11730.5505235827
+"Quebec",2024,"SUV","BEV",46750.011156274
+"Quebec",2024,"SUV","PHEV",17770.6756621335
+"Saskatchewan",2014,"Car","BEV",6.19934856735712
+"Saskatchewan",2014,"Car","PHEV",11.307172535359
+"Saskatchewan",2014,"SUV","BEV",1.05842536515853
+"Saskatchewan",2014,"SUV","PHEV",0.855164309396903
+"Saskatchewan",2015,"Car","BEV",9.50038169881419
+"Saskatchewan",2015,"Car","PHEV",12.0463339908507
+"Saskatchewan",2015,"SUV","BEV",1.62201638760242
+"Saskatchewan",2015,"SUV","PHEV",0.911067276618962
+"Saskatchewan",2016,"Car","BEV",10.8128657946969
+"Saskatchewan",2016,"Car","PHEV",28.2679313383976
+"Saskatchewan",2016,"SUV","BEV",1.84609903811899
+"Saskatchewan",2016,"SUV","PHEV",2.13791077349226
+"Saskatchewan",2017,"Car","BEV",20.169270700799
+"Saskatchewan",2017,"Car","PHEV",47.046627775213
+"Saskatchewan",2017,"SUV","BEV",3.44353402208764
+"Saskatchewan",2017,"SUV","PHEV",3.55814831913376
+"Saskatchewan",2018,"Car","BEV",41.0356155971753
+"Saskatchewan",2018,"Car","PHEV",68.3458657841698
+"Saskatchewan",2018,"SUV","BEV",7.73134786613448
+"Saskatchewan",2018,"SUV","PHEV",13.3488019109707
+"Saskatchewan",2019,"Car","BEV",62.9089294583327
+"Saskatchewan",2019,"Car","PHEV",47.5978914905385
+"Saskatchewan",2019,"SUV","BEV",11.7039868759689
+"Saskatchewan",2019,"SUV","PHEV",15.2437691701725
+"Saskatchewan",2020,"Car","BEV",82.3475158049878
+"Saskatchewan",2020,"Car","PHEV",31.1871260787749
+"Saskatchewan",2020,"SUV","BEV",23.6242873211031
+"Saskatchewan",2020,"SUV","PHEV",16.2987995587567
+"Saskatchewan",2021,"Car","BEV",141.477862955228
+"Saskatchewan",2021,"Car","PHEV",69.190385818561
+"Saskatchewan",2021,"SUV","BEV",66.5099736175394
+"Saskatchewan",2021,"SUV","PHEV",52.3910740354536
+"Saskatchewan",2022,"Car","BEV",239.013130446562
+"Saskatchewan",2022,"Car","PHEV",60.5383091977171
+"Saskatchewan",2022,"SUV","BEV",176.700582471667
+"Saskatchewan",2022,"SUV","PHEV",75.7817683482214
+"Saskatchewan",2023,"Car","BEV",297.135586083157
+"Saskatchewan",2023,"Car","PHEV",90.411735904226
+"Saskatchewan",2023,"SUV","BEV",347.823421356166
+"Saskatchewan",2023,"SUV","PHEV",190.012861359373
+"Saskatchewan",2024,"Car","BEV",314.617081403886
+"Saskatchewan",2024,"Car","PHEV",108.157813757396
+"Saskatchewan",2024,"SUV","BEV",507.097801967934
+"Saskatchewan",2024,"SUV","PHEV",371.457447831522
+"Yukon",2014,"Car","BEV",1.05842536515853
+"Yukon",2014,"Car","PHEV",0.380073026398623
+"Yukon",2014,"SUV","BEV",0
+"Yukon",2014,"SUV","PHEV",0
+"Yukon",2015,"Car","BEV",1.62201638760242
+"Yukon",2015,"Car","PHEV",0.404918789608427
+"Yukon",2015,"SUV","BEV",0
+"Yukon",2015,"SUV","PHEV",0
+"Yukon",2016,"Car","BEV",1.84609903811899
+"Yukon",2016,"Car","PHEV",0.950182565996559
+"Yukon",2016,"SUV","BEV",0
+"Yukon",2016,"SUV","PHEV",0
+"Yukon",2017,"Car","BEV",3.44353402208764
+"Yukon",2017,"Car","PHEV",1.58139925294834
+"Yukon",2017,"SUV","BEV",0
+"Yukon",2017,"SUV","PHEV",0
+"Yukon",2018,"Car","BEV",4.75775253300583
+"Yukon",2018,"Car","PHEV",2.66976038219413
+"Yukon",2018,"SUV","BEV",0
+"Yukon",2018,"SUV","PHEV",0
+"Yukon",2019,"Car","BEV",6.82732567764851
+"Yukon",2019,"Car","PHEV",2.79987597003168
+"Yukon",2019,"SUV","BEV",0
+"Yukon",2019,"SUV","PHEV",0.31109733000352
+"Yukon",2020,"Car","BEV",7.08728619633092
+"Yukon",2020,"Car","PHEV",2.35078839789761
+"Yukon",2020,"SUV","BEV",0
+"Yukon",2020,"SUV","PHEV",0.783596132632535
+"Yukon",2021,"Car","BEV",16.1469300111945
+"Yukon",2021,"Car","PHEV",6.83361835245047
+"Yukon",2021,"SUV","BEV",1.92225357276126
+"Yukon",2021,"SUV","PHEV",8.25728884254432
+"Yukon",2022,"Car","BEV",27.5955569603107
+"Yukon",2022,"Car","PHEV",6.53291106450184
+"Yukon",2022,"SUV","BEV",8.01161331105793
+"Yukon",2022,"SUV","PHEV",11.9770036182534
+"Yukon",2023,"Car","BEV",34.957127774489
+"Yukon",2023,"Car","PHEV",9.48582147191879
+"Yukon",2023,"SUV","BEV",29.2765945111346
+"Yukon",2023,"SUV","PHEV",26.3824409687741
+"Yukon",2024,"Car","BEV",34.3991649200809
+"Yukon",2024,"Car","PHEV",11.9824983171459
+"Yukon",2024,"SUV","BEV",73.8229269633196
+"Yukon",2024,"SUV","PHEV",41.9387441100106

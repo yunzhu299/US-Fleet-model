@@ -1,0 +1,67 @@
+Panel,Policy scenario,Country,Metric,Million metric tonnes
+Increasing LIB Capacity,Policy Baseline,MX,LIB demand,0.11024534538403671
+Increasing LIB Capacity,Policy Baseline,US,LIB demand,11.812868245217933
+Increasing LIB Capacity,Policy Baseline,CA,LIB demand,1.8776449521988934
+Increasing LIB Capacity,Policy Baseline,MX,Pack Mfg.,0.0
+Increasing LIB Capacity,Policy Baseline,US,Pack Mfg.,12.536816622232438
+Increasing LIB Capacity,Policy Baseline,CA,Pack Mfg.,0.7496032910202518
+Increasing LIB Capacity,Policy Baseline,MX,Cell Mfg.,0.0
+Increasing LIB Capacity,Policy Baseline,US,Cell Mfg.,7.038781999765234
+Increasing LIB Capacity,Policy Baseline,CA,Cell Mfg.,1.403681196479397
+Increasing LIB Capacity,Policy Baseline,MX,EoL batteries,0.6659696282424172
+Increasing LIB Capacity,Policy Baseline,US,EoL batteries,6.350599542722975
+Increasing LIB Capacity,Policy Baseline,CA,EoL batteries,1.0595882030642636
+Increasing LIB Capacity,Policy Baseline,MX,Mfg. Scrap,0.0
+Increasing LIB Capacity,Policy Baseline,US,Mfg. Scrap,0.310149823163168
+Increasing LIB Capacity,Policy Baseline,CA,Mfg. Scrap,0.06185039895823873
+Increasing LIB Capacity,Policy Rollback,MX,LIB demand,0.020397441652218355
+Increasing LIB Capacity,Policy Rollback,US,LIB demand,9.584875498766218
+Increasing LIB Capacity,Policy Rollback,CA,LIB demand,1.04355187188417
+Increasing LIB Capacity,Policy Rollback,MX,Pack Mfg.,0.0
+Increasing LIB Capacity,Policy Rollback,US,Pack Mfg.,9.775939940225047
+Increasing LIB Capacity,Policy Rollback,CA,Pack Mfg.,0.5845245226777597
+Increasing LIB Capacity,Policy Rollback,MX,Cell Mfg.,0.0
+Increasing LIB Capacity,Policy Rollback,US,Cell Mfg.,5.488690802098447
+Increasing LIB Capacity,Policy Rollback,CA,Cell Mfg.,1.094560404406895
+Increasing LIB Capacity,Policy Rollback,MX,EoL batteries,0.5477544793648994
+Increasing LIB Capacity,Policy Rollback,US,EoL batteries,4.974707959637392
+Increasing LIB Capacity,Policy Rollback,CA,EoL batteries,0.5194176271761867
+Increasing LIB Capacity,Policy Rollback,MX,Mfg. Scrap,0.0
+Increasing LIB Capacity,Policy Rollback,US,Mfg. Scrap,0.2939579777148887
+Increasing LIB Capacity,Policy Rollback,CA,Mfg. Scrap,0.058621404369003205
+Decreasing LIB Capacity,Policy Baseline,MX,LIB demand,0.06637732855497551
+Decreasing LIB Capacity,Policy Baseline,US,LIB demand,6.5368509748196795
+Decreasing LIB Capacity,Policy Baseline,CA,LIB demand,1.0292777328604
+Decreasing LIB Capacity,Policy Baseline,MX,Pack Mfg.,0.0
+Decreasing LIB Capacity,Policy Baseline,US,Pack Mfg.,6.915031289708595
+Decreasing LIB Capacity,Policy Baseline,CA,Pack Mfg.,0.413464627302696
+Decreasing LIB Capacity,Policy Baseline,MX,Cell Mfg.,0.0
+Decreasing LIB Capacity,Policy Baseline,US,Cell Mfg.,3.8824367649677676
+Decreasing LIB Capacity,Policy Baseline,CA,Cell Mfg.,0.774239560720494
+Decreasing LIB Capacity,Policy Baseline,MX,EoL batteries,0.3939349635357499
+Decreasing LIB Capacity,Policy Baseline,US,EoL batteries,3.813774874015224
+Decreasing LIB Capacity,Policy Baseline,CA,EoL batteries,0.6288445391991138
+Decreasing LIB Capacity,Policy Baseline,MX,Mfg. Scrap,0.0
+Decreasing LIB Capacity,Policy Baseline,US,Mfg. Scrap,0.263538871045348
+Decreasing LIB Capacity,Policy Baseline,CA,Mfg. Scrap,0.052555194611809505
+Decreasing LIB Capacity,Policy Rollback,MX,LIB demand,0.012281041721207085
+Decreasing LIB Capacity,Policy Rollback,US,LIB demand,5.271311428760472
+Decreasing LIB Capacity,Policy Rollback,CA,LIB demand,0.5611968147780473
+Decreasing LIB Capacity,Policy Rollback,MX,Pack Mfg.,0.0
+Decreasing LIB Capacity,Policy Rollback,US,Pack Mfg.,5.355688424906349
+Decreasing LIB Capacity,Policy Rollback,CA,Pack Mfg.,0.3202281559953118
+Decreasing LIB Capacity,Policy Rollback,MX,Cell Mfg.,0.0
+Decreasing LIB Capacity,Policy Rollback,US,Cell Mfg.,3.006945416648283
+Decreasing LIB Capacity,Policy Rollback,CA,Cell Mfg.,0.599648169289783
+Decreasing LIB Capacity,Policy Rollback,MX,EoL batteries,0.32900454568516857
+Decreasing LIB Capacity,Policy Rollback,US,EoL batteries,2.9824014989784042
+Decreasing LIB Capacity,Policy Rollback,CA,EoL batteries,0.30417132915422596
+Decreasing LIB Capacity,Policy Rollback,MX,Mfg. Scrap,0.0
+Decreasing LIB Capacity,Policy Rollback,US,Mfg. Scrap,0.2332748030737547
+Decreasing LIB Capacity,Policy Rollback,CA,Mfg. Scrap,0.04651990283233449
+Installed recycling capacity,Policy Baseline,MX,Preprocessing (black mass production),0.0
+Installed recycling capacity,Policy Baseline,US,Preprocessing (black mass production),0.60038736185
+Installed recycling capacity,Policy Baseline,CA,Preprocessing (black mass production),0.318
+Installed recycling capacity,Policy Baseline,MX,Materials recovery (refining),0.0
+Installed recycling capacity,Policy Baseline,US,Materials recovery (refining),1.120380881403
+Installed recycling capacity,Policy Baseline,CA,Materials recovery (refining),0.2825

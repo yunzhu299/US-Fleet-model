@@ -1,0 +1,397 @@
+Year,State_Province,Origin,Metric Tonnes (millions)
+2050,AB,LIB Demand,0.2910798287365335
+2050,AB,Pack Manufacturing,0
+2050,AB,Cell Manufacturing,0
+2050,AB,End of Life Batteries,0.15462689178080172
+2050,AB,Black Mass,0
+2050,AB,Refining,0
+2050,AK,LIB Demand,0.019514401914954516
+2050,AK,Pack Manufacturing,0
+2050,AK,Cell Manufacturing,0
+2050,AK,End of Life Batteries,0.010417491110057322
+2050,AK,Black Mass,0
+2050,AK,Refining,0
+2050,AL,LIB Demand,0.14748828688333726
+2050,AL,Pack Manufacturing,0.3270303171332421
+2050,AL,Cell Manufacturing,0
+2050,AL,End of Life Batteries,0.07640827737896143
+2050,AL,Black Mass,0.018
+2050,AL,Refining,0
+2050,AR,LIB Demand,0.07991732830697265
+2050,AR,Pack Manufacturing,0
+2050,AR,Cell Manufacturing,0
+2050,AR,End of Life Batteries,0.042257552856780886
+2050,AR,Black Mass,0
+2050,AR,Refining,0
+2050,AZ,LIB Demand,0.2615422210834359
+2050,AZ,Pack Manufacturing,0.19894344292272223
+2050,AZ,Cell Manufacturing,0.4528003859610958
+2050,AZ,End of Life Batteries,0.12957686073993976
+2050,AZ,Black Mass,0.0141
+2050,AZ,Refining,0
+2050,BC,LIB Demand,0.25799421603482
+2050,BC,Pack Manufacturing,0
+2050,BC,Cell Manufacturing,0
+2050,BC,End of Life Batteries,0.14570620424336872
+2050,BC,Black Mass,0.25
+2050,BC,Refining,0.25
+2050,CA,LIB Demand,1.827345491614864
+2050,CA,Pack Manufacturing,1.1220909729560968
+2050,CA,Cell Manufacturing,0.03856747147089685
+2050,CA,End of Life Batteries,1.0900979855002473
+2050,CA,Black Mass,0.04582336185
+2050,CA,Refining,0.04582336185
+2050,CO,LIB Demand,0.2787103453342648
+2050,CO,Pack Manufacturing,0
+2050,CO,Cell Manufacturing,0.005957899815277576
+2050,CO,End of Life Batteries,0.15994125537915996
+2050,CO,Black Mass,0
+2050,CO,Refining,0
+2050,CT,LIB Demand,0.0919260243464541
+2050,CT,Pack Manufacturing,0
+2050,CT,Cell Manufacturing,0
+2050,CT,End of Life Batteries,0.05177205687961866
+2050,CT,Black Mass,0
+2050,CT,Refining,0
+2050,DC,LIB Demand,0.023844672811198443
+2050,DC,Pack Manufacturing,0
+2050,DC,Cell Manufacturing,0
+2050,DC,End of Life Batteries,0.013079219392950706
+2050,DC,Black Mass,0
+2050,DC,Refining,0
+2050,DE,LIB Demand,0.03718129059080816
+2050,DE,Pack Manufacturing,0
+2050,DE,Cell Manufacturing,0
+2050,DE,End of Life Batteries,0.018867565968175907
+2050,DE,Black Mass,0
+2050,DE,Refining,0
+2050,FL,LIB Demand,0.8257318070191556
+2050,FL,Pack Manufacturing,0
+2050,FL,Cell Manufacturing,0.011915799630555153
+2050,FL,End of Life Batteries,0.40221629690318983
+2050,FL,Black Mass,1.5e-5
+2050,FL,Refining,0
+2050,GA,LIB Demand,0.36602842817149533
+2050,GA,Pack Manufacturing,1.2539927960426116
+2050,GA,Cell Manufacturing,1.088309699590704
+2050,GA,End of Life Batteries,0.18158179285222778
+2050,GA,Black Mass,0.032
+2050,GA,Refining,0.129143
+2050,HI,LIB Demand,0.04681760864555483
+2050,HI,Pack Manufacturing,0
+2050,HI,Cell Manufacturing,0
+2050,HI,End of Life Batteries,0.02431259985647605
+2050,HI,Black Mass,0
+2050,HI,Refining,0
+2050,IA,LIB Demand,0.09426202161414825
+2050,IA,Pack Manufacturing,0
+2050,IA,Cell Manufacturing,0
+2050,IA,End of Life Batteries,0.049105007445124756
+2050,IA,Black Mass,0
+2050,IA,Refining,0
+2050,ID,LIB Demand,0.08605616263430418
+2050,ID,Pack Manufacturing,0
+2050,ID,Cell Manufacturing,0
+2050,ID,End of Life Batteries,0.038938930039529036
+2050,ID,Black Mass,0
+2050,ID,Refining,0
+2050,IL,LIB Demand,0.30967735590775064
+2050,IL,Pack Manufacturing,0.09910009610098244
+2050,IL,Cell Manufacturing,0.7149479778333093
+2050,IL,End of Life Batteries,0.1762999980100672
+2050,IL,Black Mass,0.024
+2050,IL,Refining,0
+2050,IN,LIB Demand,0.19405400209256157
+2050,IN,Pack Manufacturing,0.37122895999428024
+2050,IN,Cell Manufacturing,0.8266387397037127
+2050,IN,End of Life Batteries,0.10144474583456906
+2050,IN,Black Mass,5e-6
+2050,IN,Refining,5e-6
+2050,KS,LIB Demand,0.07879802933361443
+2050,KS,Pack Manufacturing,0
+2050,KS,Cell Manufacturing,0.23831599261110312
+2050,KS,End of Life Batteries,0.042251553669656175
+2050,KS,Black Mass,0
+2050,KS,Refining,0
+2050,KY,LIB Demand,0.1226409692801599
+2050,KY,Pack Manufacturing,0.5648705477755999
+2050,KY,Cell Manufacturing,0.20654052692962266
+2050,KY,End of Life Batteries,0.06433840352020934
+2050,KY,Black Mass,2.7e-4
+2050,KY,Refining,2.7e-4
+2050,LA,LIB Demand,0.11667043109430603
+2050,LA,Pack Manufacturing,0
+2050,LA,Cell Manufacturing,0
+2050,LA,End of Life Batteries,0.06277675256231693
+2050,LA,Black Mass,0
+2050,LA,Refining,0
+2050,MA,LIB Demand,0.31522014700765205
+2050,MA,Pack Manufacturing,0.10903983573991098
+2050,MA,Cell Manufacturing,0
+2050,MA,End of Life Batteries,0.1824357263388291
+2050,MA,Black Mass,0.03
+2050,MA,Refining,0
+2050,MB,LIB Demand,0.0647899187425092
+2050,MB,Pack Manufacturing,0
+2050,MB,Cell Manufacturing,0
+2050,MB,End of Life Batteries,0.035991068270960803
+2050,MB,Black Mass,0
+2050,MB,Refining,0
+2050,MD,LIB Demand,0.26383813954901214
+2050,MD,Pack Manufacturing,0
+2050,MD,Cell Manufacturing,0.0015887732840740207
+2050,MD,End of Life Batteries,0.15358171691516637
+2050,MD,Black Mass,0
+2050,MD,Refining,0
+2050,ME,LIB Demand,0.03985403273843968
+2050,ME,Pack Manufacturing,0
+2050,ME,Cell Manufacturing,0
+2050,ME,End of Life Batteries,0.021705710748076822
+2050,ME,Black Mass,0
+2050,ME,Refining,0
+2050,MI,LIB Demand,0.2610369190811266
+2050,MI,Pack Manufacturing,2.0137337727911837
+2050,MI,Cell Manufacturing,1.2831727428823823
+2050,MI,End of Life Batteries,0.14180065415040363
+2050,MI,Black Mass,0.02268
+2050,MI,Refining,0
+2050,MN,LIB Demand,0.1863227760208198
+2050,MN,Pack Manufacturing,0
+2050,MN,Cell Manufacturing,0
+2050,MN,End of Life Batteries,0.0947781671616209
+2050,MN,Black Mass,0
+2050,MN,Refining,0
+2050,MO,LIB Demand,0.16863843250067995
+2050,MO,Pack Manufacturing,0
+2050,MO,Cell Manufacturing,0.0015887732840740207
+2050,MO,End of Life Batteries,0.09103634024535302
+2050,MO,Black Mass,0
+2050,MO,Refining,0.2060853314
+2050,MS,LIB Demand,0.07323571935457278
+2050,MS,Pack Manufacturing,0
+2050,MS,Cell Manufacturing,0.1668211948277722
+2050,MS,End of Life Batteries,0.04060469032459322
+2050,MS,Black Mass,0
+2050,MS,Refining,0
+2050,MT,LIB Demand,0.033310542074107746
+2050,MT,Pack Manufacturing,0
+2050,MT,Cell Manufacturing,0
+2050,MT,End of Life Batteries,0.01621317148214611
+2050,MT,Black Mass,0
+2050,MT,Refining,0
+2050,MX,LIB Demand,0.11024534538403671
+2050,MX,Pack Manufacturing,0
+2050,MX,Cell Manufacturing,0
+2050,MX,End of Life Batteries,0.6659696282424172
+2050,MX,Black Mass,0
+2050,MX,Refining,0
+2050,NB,LIB Demand,0.039456134474687474
+2050,NB,Pack Manufacturing,0
+2050,NB,Cell Manufacturing,0
+2050,NB,End of Life Batteries,0.022650275424425454
+2050,NB,Black Mass,0
+2050,NB,Refining,0
+2050,NC,LIB Demand,0.33675601250841597
+2050,NC,Pack Manufacturing,0.6804212598293454
+2050,NC,Cell Manufacturing,0.24625985903147318
+2050,NC,End of Life Batteries,0.16728406153337116
+2050,NC,Black Mass,0.038
+2050,NC,Refining,0.028504625929
+2050,ND,LIB Demand,0.03248209171173356
+2050,ND,Pack Manufacturing,0
+2050,ND,Cell Manufacturing,0
+2050,ND,End of Life Batteries,0.01502749638944734
+2050,ND,Black Mass,0
+2050,ND,Refining,0
+2050,NE,LIB Demand,0.06301742235785837
+2050,NE,Pack Manufacturing,0
+2050,NE,Cell Manufacturing,0
+2050,NE,End of Life Batteries,0.03182271391433141
+2050,NE,Black Mass,0
+2050,NE,Refining,0
+2050,NH,LIB Demand,0.04568713493756247
+2050,NH,Pack Manufacturing,9.910009610098246e-5
+2050,NH,Cell Manufacturing,0
+2050,NH,End of Life Batteries,0.024182268918715034
+2050,NH,Black Mass,0
+2050,NH,Refining,0
+2050,NJ,LIB Demand,0.385148719551878
+2050,NJ,Pack Manufacturing,0
+2050,NJ,Cell Manufacturing,0
+2050,NJ,End of Life Batteries,0.22791264928546934
+2050,NJ,Black Mass,5e-4
+2050,NJ,Refining,5e-4
+2050,NL,LIB Demand,0.02227220669367713
+2050,NL,Pack Manufacturing,0
+2050,NL,Cell Manufacturing,0
+2050,NL,End of Life Batteries,0.013381832240883497
+2050,NL,Black Mass,0
+2050,NL,Refining,0
+2050,NM,LIB Demand,0.06511079287832167
+2050,NM,Pack Manufacturing,0
+2050,NM,Cell Manufacturing,0
+2050,NM,End of Life Batteries,0.04204660361099434
+2050,NM,Black Mass,0
+2050,NM,Refining,0
+2050,NS,LIB Demand,0.04395274701305596
+2050,NS,Pack Manufacturing,0
+2050,NS,Cell Manufacturing,0
+2050,NS,End of Life Batteries,0.02533556423157229
+2050,NS,Black Mass,0
+2050,NS,Refining,0
+2050,NT,LIB Demand,0.001664440143199383
+2050,NT,Pack Manufacturing,0
+2050,NT,Cell Manufacturing,0
+2050,NT,End of Life Batteries,9.667933704969433e-4
+2050,NT,Black Mass,0
+2050,NT,Refining,0
+2050,NU,LIB Demand,3.8401174863999447e-4
+2050,NU,Pack Manufacturing,0
+2050,NU,Cell Manufacturing,0
+2050,NU,End of Life Batteries,1.8936757955584227e-4
+2050,NU,Black Mass,0
+2050,NU,Refining,0
+2050,NV,LIB Demand,0.11669516455813571
+2050,NV,Pack Manufacturing,1.6351515856662104
+2050,NV,Cell Manufacturing,0.08221901745083056
+2050,NV,End of Life Batteries,0.05659198218843731
+2050,NV,Black Mass,0.216075
+2050,NV,Refining,0.216075
+2050,NY,LIB Demand,0.6346815229755685
+2050,NY,Pack Manufacturing,0.32207531232819286
+2050,NY,Cell Manufacturing,0.004369126531203558
+2050,NY,End of Life Batteries,0.3785779872416067
+2050,NY,Black Mass,0.01012
+2050,NY,Refining,1.2e-4
+2050,OH,LIB Demand,0.3163931231490852
+2050,OH,Pack Manufacturing,0.9140001863393612
+2050,OH,Cell Manufacturing,0.6513970464703484
+2050,OH,End of Life Batteries,0.17190605708988477
+2050,OH,Black Mass,0.0176
+2050,OH,Refining,0.05400569026
+2050,OK,LIB Demand,0.13401035124425367
+2050,OK,Pack Manufacturing,0
+2050,OK,Cell Manufacturing,0
+2050,OK,End of Life Batteries,0.06982663802181957
+2050,OK,Black Mass,0.045359
+2050,OK,Refining,0
+2050,ON,LIB Demand,0.7079645809081669
+2050,ON,Pack Manufacturing,0.7000532429697606
+2050,ON,Cell Manufacturing,1.402092423195323
+2050,ON,End of Life Batteries,0.39619801601158067
+2050,ON,Black Mass,0.068
+2050,ON,Refining,0.0325
+2050,OR,LIB Demand,0.1972687505488877
+2050,OR,Pack Manufacturing,0
+2050,OR,Cell Manufacturing,0
+2050,OR,End of Life Batteries,0.1080608081408068
+2050,OR,Black Mass,0
+2050,OR,Refining,0
+2050,PA,LIB Demand,0.3224319552093795
+2050,PA,Pack Manufacturing,0
+2050,PA,Cell Manufacturing,5.560706494259071e-4
+2050,PA,End of Life Batteries,0.17535772819495102
+2050,PA,Black Mass,0.015
+2050,PA,Refining,0.02
+2050,PE,LIB Demand,0.00814866289542017
+2050,PE,Pack Manufacturing,0
+2050,PE,Cell Manufacturing,0
+2050,PE,End of Life Batteries,0.004519474222164957
+2050,PE,Black Mass,0
+2050,PE,Refining,0
+2050,QC,LIB Demand,0.3718195116807333
+2050,QC,Pack Manufacturing,0.04955004805049122
+2050,QC,Cell Manufacturing,0.0015887732840740207
+2050,QC,End of Life Batteries,0.22258700018698901
+2050,QC,Black Mass,0
+2050,QC,Refining,0
+2050,RI,LIB Demand,0.044392573009804356
+2050,RI,Pack Manufacturing,0
+2050,RI,Cell Manufacturing,0
+2050,RI,End of Life Batteries,0.026467359753677266
+2050,RI,Black Mass,0
+2050,RI,Refining,0
+2050,SC,LIB Demand,0.18553133001209418
+2050,SC,Pack Manufacturing,0.05906365727618554
+2050,SC,Cell Manufacturing,0.05560706494259071
+2050,SC,End of Life Batteries,0.09063880307937859
+2050,SC,Black Mass,0.02184
+2050,SC,Refining,0.05644569026
+2050,SD,LIB Demand,0.030840715008928113
+2050,SD,Pack Manufacturing,0
+2050,SD,Cell Manufacturing,0
+2050,SD,End of Life Batteries,0.015177178585125468
+2050,SD,Black Mass,0
+2050,SD,Refining,0
+2050,SK,LIB Demand,0.06546015418483651
+2050,SK,Pack Manufacturing,0
+2050,SK,Cell Manufacturing,0
+2050,SK,End of Life Batteries,0.03595033383369605
+2050,SK,Black Mass,0
+2050,SK,Refining,0
+2050,TN,LIB Demand,0.2329931230433378
+2050,TN,Pack Manufacturing,1.8056037509598999
+2050,TN,Cell Manufacturing,0.7626111763555298
+2050,TN,End of Life Batteries,0.11600795057406739
+2050,TN,Black Mass,0
+2050,TN,Refining,0
+2050,TX,LIB Demand,1.1760153760283656
+2050,TX,Pack Manufacturing,1.0405510090603158
+2050,TX,Cell Manufacturing,0.07943866420370102
+2050,TX,End of Life Batteries,0.5616231805544282
+2050,TX,Black Mass,0.049
+2050,TX,Refining,0.36340318170400004
+2050,UT,LIB Demand,0.14247185642628113
+2050,UT,Pack Manufacturing,0
+2050,UT,Cell Manufacturing,0
+2050,UT,End of Life Batteries,0.06577364419517064
+2050,UT,Black Mass,0
+2050,UT,Refining,0
+2050,VA,LIB Demand,0.3127120925989376
+2050,VA,Pack Manufacturing,0.01982001922019649
+2050,VA,Cell Manufacturing,0
+2050,VA,End of Life Batteries,0.1582151443632129
+2050,VA,Black Mass,0
+2050,VA,Refining,0
+2050,VT,LIB Demand,0.02930774818201305
+2050,VT,Pack Manufacturing,0
+2050,VT,Cell Manufacturing,0
+2050,VT,End of Life Batteries,0.017737148788702348
+2050,VT,Black Mass,0
+2050,VT,Refining,0
+2050,WA,LIB Demand,0.43325928272275255
+2050,WA,Pack Manufacturing,0
+2050,WA,Cell Manufacturing,0
+2050,WA,End of Life Batteries,0.23125942184058726
+2050,WA,Black Mass,0
+2050,WA,Refining,0
+2050,WI,LIB Demand,0.17015767264408554
+2050,WI,Pack Manufacturing,0
+2050,WI,Cell Manufacturing,0
+2050,WI,End of Life Batteries,0.08981355001242589
+2050,WI,Black Mass,0
+2050,WI,Refining,0
+2050,WV,LIB Demand,0.03907839844039085
+2050,WV,Pack Manufacturing,0
+2050,WV,Cell Manufacturing,0.11915799630555156
+2050,WV,End of Life Batteries,0.02252822764273539
+2050,WV,Black Mass,0
+2050,WV,Refining,0
+2050,WY,LIB Demand,0.016761448464108895
+2050,WY,Pack Manufacturing,0
+2050,WY,Cell Manufacturing,0
+2050,WY,End of Life Batteries,0.00892041553818283
+2050,WY,Black Mass,0
+2050,WY,Refining,0
+2050,YT,LIB Demand,0.002658538942614141
+2050,YT,Pack Manufacturing,0
+2050,YT,Cell Manufacturing,0
+2050,YT,End of Life Batteries,0.0014853816677676069
+2050,YT,Black Mass,0
+2050,YT,Refining,0
+2050,SLP ,LIB Demand,0
+2050,SLP ,Pack Manufacturing,0.08671258408835963
+2050,SLP ,Cell Manufacturing,0
+2050,SLP ,End of Life Batteries,NA
+2050,SLP ,Black Mass,0
+2050,SLP ,Refining,0

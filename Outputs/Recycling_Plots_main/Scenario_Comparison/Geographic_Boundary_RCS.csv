@@ -1,0 +1,721 @@
+Policy,Battery Capacity,Chemistry,Scenario,Scope,Year,Mineral,Maximum RCS (%)
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Nickel,1.8626287964136357
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Manganese,1.8785538405328805
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Cobalt,2.4294971008107455
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Lithium,1.470154721722684
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Graphite,1.5743936916398749
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Copper,1.621883879793803
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Nickel,5.606346712108963
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Manganese,4.413375894332881
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Cobalt,6.680880957350202
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Lithium,4.556816540052597
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Graphite,4.980126569154077
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Copper,5.211437455726815
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Nickel,19.306833429782294
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Manganese,16.146208706933585
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Cobalt,23.153868958005244
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Lithium,15.591901679380236
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Graphite,17.05582331071645
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Copper,17.828818154905857
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Nickel,33.23114532291244
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Manganese,33.03285199438063
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Cobalt,38.64414850521647
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Lithium,28.368266666169266
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Graphite,31.434078290621354
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Copper,33.28751061611756
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Nickel,53.72479658198477
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Manganese,53.83293751586984
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Cobalt,58.527407024615826
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Lithium,44.85883948947131
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Graphite,49.93179981444138
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Copper,52.57708541014131
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Nickel,1.1011864351769571
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Manganese,1.0576651734062947
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Cobalt,1.3513618100125429
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Lithium,1.024504746476817
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Graphite,1.1400325177455704
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Copper,1.231870113757575
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Nickel,3.4513112042782152
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Manganese,2.837196467702962
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Cobalt,3.9703461191063436
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Lithium,3.340213907203033
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Graphite,3.7683204260639647
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Copper,4.111280052897484
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Nickel,12.52472543029449
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Manganese,11.133982957306712
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Cobalt,14.916905591670815
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Lithium,11.099604524407699
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Graphite,12.336997335799664
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Copper,13.189109044526589
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Nickel,26.90313620860595
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Manganese,27.093344503114057
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Cobalt,31.024442595642054
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Lithium,23.80372709881015
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Graphite,26.552226402251826
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Copper,28.3491895473567
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Nickel,47.1029407719777
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Manganese,47.25789062939012
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Cobalt,51.10717880441926
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Lithium,39.901179275272796
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Graphite,44.54201875659744
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Copper,47.07971986765946
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Nickel,1.076652122357384
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Manganese,1.0265464501395765
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Cobalt,1.3159097155278527
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Lithium,0.9856087322663003
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Graphite,1.0941171518102084
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Copper,1.1785604861829408
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Nickel,3.5348991207763976
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Manganese,2.9349833082488517
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Cobalt,4.079076900334414
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Lithium,3.362622694972137
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Graphite,3.783589912058523
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Copper,4.113489316854729
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Nickel,13.277809250762473
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Manganese,11.931778858800778
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Cobalt,15.865112886110397
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Lithium,11.602588811762137
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Graphite,12.867626088450706
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Copper,13.71184277023911
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Nickel,29.21600260998039
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Manganese,29.432699504103127
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Cobalt,33.703587877126566
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Lithium,25.393416483220086
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Graphite,28.257086003056763
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Copper,30.045666302211625
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Nickel,52.21724440087957
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Manganese,52.36284729030647
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Cobalt,56.671652828026865
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Lithium,43.4336011016753
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Graphite,48.3666470877455
+Baseline Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Copper,50.89507215113726
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Nickel,2.2246540321199526
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Manganese,2.2434492037492997
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Cobalt,2.9074125030228726
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Lithium,1.4927239720658483
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Graphite,1.5625982396905769
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Copper,1.5489091948231706
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Nickel,7.516313819427832
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Manganese,5.884158553914316
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Cobalt,8.991174358954021
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Lithium,4.657949865111
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Graphite,4.92396594927917
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Copper,4.860097307258818
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Nickel,27.81811780610172
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Manganese,23.020397984157263
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Cobalt,33.50707824308419
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Lithium,15.94342094599881
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Graphite,16.844051270135896
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Copper,16.511805009953864
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Nickel,42.41155519597272
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Manganese,41.920803716993326
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Cobalt,49.59873124115759
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Lithium,28.736595934262414
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Graphite,31.188871287740632
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Copper,31.709270080922135
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Nickel,60.95417699684522
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Manganese,61.02991633395815
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Cobalt,66.66123818015909
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Lithium,45.09208920071382
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Graphite,49.7533489828495
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Copper,51.4233417246869
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Nickel,1.3085013948779276
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Manganese,1.2562355091047468
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Cobalt,1.6105569035278058
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Lithium,1.0390678029793539
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Graphite,1.1321637251623478
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Copper,1.1812393084656339
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Nickel,4.57097651044442
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Manganese,3.732155274260174
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Cobalt,5.284845539793135
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Lithium,3.4083255759025293
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Graphite,3.729356665112581
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Copper,3.85839233343546
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Nickel,17.66348881444998
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Manganese,15.545129607780673
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Cobalt,21.161174889988438
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Lithium,11.32404268579703
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Graphite,12.199099829491761
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Copper,12.313696942078087
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Nickel,33.870535041265114
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Manganese,33.986878010531306
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Cobalt,39.27669161537175
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Lithium,24.091185270398636
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Graphite,26.359040782354842
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Copper,27.094298172672893
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Nickel,53.192710298642154
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Manganese,53.34354677661272
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Cobalt,57.912028675927495
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Lithium,40.10446538494805
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Graphite,44.38716274603337
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Copper,46.071236913905125
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Nickel,1.2776326295398914
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Manganese,1.2175800838503053
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Cobalt,1.5663319700210943
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Lithium,0.9995135601013394
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Graphite,1.0866145912194556
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Copper,1.1304101830902047
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Nickel,4.667088385535416
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Manganese,3.846913850751733
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Cobalt,5.413070642458692
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Lithium,3.43033627858537
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Graphite,3.7448941847157737
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Copper,3.8630246638791186
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Nickel,18.61947188158106
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Manganese,16.564157237634287
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Cobalt,22.386508772595196
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Lithium,11.83064739338767
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Graphite,12.727371927159565
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Copper,12.824310575076897
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Nickel,36.61097405972625
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Manganese,36.75602999940372
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Cobalt,42.49705414350713
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Lithium,25.685978664137693
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Graphite,28.060082436810298
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Copper,28.773672131151283
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Nickel,58.73079469784371
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Manganese,58.860005573784505
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Cobalt,64.01432888296601
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Lithium,43.6291264641469
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Graphite,48.21563584698062
+Baseline Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Copper,49.92604577095309
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Nickel,2.5197012562020316
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Manganese,2.5418533051382064
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Cobalt,3.2980108928285867
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Lithium,1.9548766430191493
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Graphite,2.0850872367688376
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Copper,2.13631813964349
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Nickel,9.293746535697647
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Manganese,7.223980813758144
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Cobalt,11.140024691657288
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Lithium,7.263183611288173
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Graphite,7.8770854323971875
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Copper,8.149976563303502
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Nickel,32.12228311512917
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Manganese,26.294954597370513
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Cobalt,38.683283418103365
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Lithium,24.847409795498216
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Graphite,26.98097385927531
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Copper,27.87700756955535
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Nickel,45.075098282053276
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Manganese,44.3843290481761
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Cobalt,52.85557720565763
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Lithium,37.53527531895898
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Graphite,41.401502732064806
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Copper,43.567131506210316
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Nickel,60.55651404601661
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Manganese,60.63189636445425
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Cobalt,66.29668253203691
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Lithium,50.23276368774958
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Graphite,55.83560337555148
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Copper,58.69604517972991
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Nickel,1.4840746194945635
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Manganese,1.4238391407707334
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Cobalt,1.833425183433252
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Lithium,1.3351521855759199
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Graphite,1.4766221949244167
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Copper,1.5833468186128778
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Nickel,5.6296260191611305
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Manganese,4.542635371490254
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Cobalt,6.54501427554681
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Lithium,5.105392460928843
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Graphite,5.702221917613622
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Copper,6.1339813784057995
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Nickel,20.22310979244024
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Manganese,17.594941091496704
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Cobalt,24.301657368044964
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Lithium,16.756664970272016
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Graphite,18.43578560195158
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Copper,19.410560060927768
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Nickel,35.77653519308158
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Manganese,35.821364908659376
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Cobalt,41.66396142282784
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Lithium,30.61481030251053
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Graphite,33.96368137757524
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Copper,35.98317013850723
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Nickel,52.71793901602791
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Manganese,52.88547556008979
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Cobalt,57.463676865782574
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Lithium,44.312354041694704
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Graphite,49.39676466116234
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Copper,52.114483504527655
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Nickel,1.4480752191350121
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Manganese,1.3789827650308322
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Cobalt,1.7815305184275714
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Lithium,1.2843294176931672
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Graphite,1.4173201467658083
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Copper,1.515467054350628
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Nickel,5.742247753347859
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Manganese,4.678331990222588
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Cobalt,6.694595074656889
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Lithium,5.13488683078094
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Graphite,5.721753318024008
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Copper,6.135818308261425
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Nickel,21.297451870773322
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Manganese,18.744510521608003
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Cobalt,25.67470907716182
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Lithium,17.468707752481023
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Graphite,19.18597493127409
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Copper,20.15008164129946
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Nickel,38.704722257159226
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Manganese,38.7889666080946
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Cobalt,45.10078279792686
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Lithium,32.592646570039975
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Graphite,36.07686114262465
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Copper,38.07760586241293
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Nickel,58.39340372898444
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Manganese,58.55185792449365
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Cobalt,63.70108281883289
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Lithium,48.14375359738894
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Graphite,53.526994960965354
+Baseline Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Copper,56.209616834766095
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Nickel,3.010277195337691
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Manganese,3.036339253614169
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Cobalt,3.947874027520796
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Lithium,1.9848289325460728
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Graphite,2.0695075857996743
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Copper,2.040539400254631
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Nickel,12.488897407548578
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Manganese,9.660751868217417
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Cobalt,15.027628968961562
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Lithium,7.424493693311683
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Graphite,7.7883560600303925
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Copper,7.6022950258864785
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Nickel,46.60294814662142
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Manganese,37.782042895560615
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Cobalt,56.36983824472668
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Lithium,25.415220548350888
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Graphite,26.64293919557148
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Copper,25.805604823409272
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Nickel,58.198108942596136
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Manganese,56.89498160510888
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Cobalt,68.65411227073105
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Lithium,38.0375999325013
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Graphite,41.07133336348495
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Copper,41.46965225223791
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Nickel,69.19069329331033
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Manganese,69.18611035936763
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Cobalt,76.09351583670231
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Lithium,50.505259767287605
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Graphite,55.62961038881936
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Copper,57.37440928161358
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Nickel,1.76405225370632
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Manganese,1.6916735816837034
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Cobalt,2.185983816926706
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Lithium,1.3540165332730112
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Graphite,1.4665057953862124
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Copper,1.5188630536065875
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Nickel,7.476412462619966
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Manganese,5.995260145024288
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Cobalt,8.738949575881175
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Lithium,5.208711657965805
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Graphite,5.643874742486462
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Copper,5.761922321390078
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Nickel,28.737323092652733
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Manganese,24.756677734804807
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Cobalt,34.751133654449426
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Lithium,17.096581718778868
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Graphite,18.23017377377128
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Copper,18.131523730598033
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Nickel,45.440794974012015
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Manganese,45.27525629808208
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Cobalt,53.25830765064954
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Lithium,30.98401489642167
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Graphite,33.71801679790615
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Copper,34.411922102043725
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Nickel,59.85884850045529
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Manganese,60.00007756497211
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Cobalt,65.51532725794232
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Lithium,44.54134491695157
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Graphite,49.22355746569947
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Copper,50.99603384015213
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Nickel,1.7192408558032957
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Manganese,1.6363858912361362
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Cobalt,2.1217767377025005
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Lithium,1.3023564331362554
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Graphite,1.4076653202533171
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Copper,1.4540694723877268
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Nickel,7.605786118814509
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Manganese,6.154990977378174
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Cobalt,8.91552497237328
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Lithium,5.23766817141668
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Graphite,5.66376366968586
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Copper,5.766974475486552
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Nickel,30.11019776593564
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Manganese,26.236515617099876
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Cobalt,36.53894061613276
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Lithium,17.813865801979844
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Graphite,18.97697544045399
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Copper,18.85347949531345
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Nickel,48.95462793615521
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Manganese,48.83257059183277
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Cobalt,57.44612663042158
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Lithium,32.96916187138056
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Graphite,35.825935035270334
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Copper,36.48232478726941
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Nickel,66.06193265238365
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Manganese,66.17889018204606
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Cobalt,72.43251487102448
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Lithium,48.36427749935387
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Graphite,53.358047307090295
+Baseline Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Copper,55.13580526214391
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Nickel,3.63963995836936
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Manganese,3.6705771144711288
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Cobalt,4.801636988668562
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Lithium,2.6768459475097672
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Graphite,2.829706947961863
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Copper,2.859395924324136
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Nickel,8.875083957711706
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Manganese,6.827951326595781
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Cobalt,10.645545061965384
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Lithium,6.94479205478936
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Graphite,7.537267781234673
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Copper,7.806012782255772
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Nickel,24.9355567607567
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Manganese,19.931305914069743
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Cobalt,29.776665474159735
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Lithium,20.06317992164861
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Graphite,21.93529700099434
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Copper,22.91059974925414
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Nickel,29.92105296191294
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Manganese,29.10761711308794
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Cobalt,34.61387565189557
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Lithium,26.320163470272412
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Graphite,29.305620917055474
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Copper,31.2774261671311
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Nickel,47.0241506040821
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Manganese,47.03748080203384
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Cobalt,51.02187233298425
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Lithium,40.20862605246828
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Graphite,44.92231599771739
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Copper,47.59822168124451
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Nickel,1.4169792675697483
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Manganese,1.3611187400287927
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Cobalt,1.7562458011675643
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Lithium,1.25911273525545
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Graphite,1.389665848227937
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Copper,1.485487621742171
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Nickel,3.9623608539990274
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Manganese,3.2086189166639647
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Cobalt,4.573754987554538
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Lithium,3.821740920264216
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Graphite,4.308160610991216
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Copper,4.700320846494678
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Nickel,12.804847139768968
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Manganese,11.206849374912716
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Cobalt,15.181828357701308
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Lithium,11.789487513891315
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Graphite,13.17076328086161
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Copper,14.216954886262448
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Nickel,24.66893074099243
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Manganese,24.777632002187218
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Cobalt,28.34741231541571
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Lithium,22.53368264985892
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Graphite,25.24463249220144
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Copper,27.174647458913448
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Nickel,44.14013922303363
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Manganese,44.28562684850101
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Cobalt,47.79973742681565
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Lithium,38.03308107434922
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Graphite,42.549111299509676
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Copper,45.16992051550235
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Nickel,1.453753279602449
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Manganese,1.3870687583890444
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Cobalt,1.7941257727859528
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Lithium,1.2812725834474767
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Graphite,1.4121422494425246
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Copper,1.50753235361703
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Nickel,4.18825167537475
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Manganese,3.421088536020937
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Cobalt,4.8570898695314275
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Lithium,3.950060511306398
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Graphite,4.436655304387472
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Copper,4.819438109508907
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Nickel,13.763886287454627
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Manganese,12.186763221289311
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Cobalt,16.395642894131687
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Lithium,12.44354397414312
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Graphite,13.857840322148874
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Copper,14.898603221439144
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Nickel,27.066299263607753
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Manganese,27.199570734652667
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Cobalt,31.135744718045345
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Lithium,24.2404505233078
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Graphite,27.07804533374173
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Copper,29.01825100943636
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Nickel,48.96415311480315
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Manganese,49.11186269183868
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Cobalt,53.06741318748869
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Lithium,41.60363774728961
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Graphite,46.44530205836989
+Rollback Policy,Increasing Batt Cap,Benchmark Chemistry,Increasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Copper,49.13051074793177
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Nickel,4.339233724819988
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Manganese,4.374565978766481
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Cobalt,5.7407364177682565
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Lithium,2.715336365468491
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Graphite,2.8100109741647805
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Copper,2.741209350198736
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Nickel,11.949178348997975
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Manganese,9.156243544890188
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Cobalt,14.391551387830564
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Lithium,7.098801550309256
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Graphite,7.452722341736936
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Copper,7.284783643807765
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Nickel,36.54157867922335
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Manganese,28.961773246743206
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Cobalt,43.80494605547114
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Lithium,20.552183828030657
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Graphite,21.643305728325284
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Copper,21.096222175289693
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Nickel,38.712602563518786
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Manganese,37.33469342341932
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Cobalt,45.01814130535154
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Lithium,26.704023077746154
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Graphite,29.05367302471655
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Copper,29.640744871146946
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Nickel,53.40501688886916
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Manganese,53.36125168462821
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Cobalt,58.129571586098095
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Lithium,40.44517124957966
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Graphite,44.74459128161489
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Copper,46.42650571537664
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Nickel,1.683314183869311
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Manganese,1.6161349355211245
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Cobalt,2.0933537219846166
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Lithium,1.276543173614875
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Graphite,1.3803602400396542
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Copper,1.4265509732140718
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Nickel,5.277544617235195
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Manganese,4.248106180473974
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Cobalt,6.1198699364733224
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Lithium,3.902438167155707
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Graphite,4.262046800342489
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Copper,4.400636586470131
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Nickel,18.30873775989383
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Manganese,15.873007102498764
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Cobalt,21.80112449814133
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Lithium,12.053048354173784
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Graphite,13.008177060678634
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Copper,13.168541431393646
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Nickel,31.246804693938344
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Manganese,31.270373190245966
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Cobalt,36.066012927018235
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Lithium,22.83596210178913
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Graphite,25.04139484434576
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Copper,25.83165210513629
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Nickel,49.956739763428345
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Manganese,50.113677853853524
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Cobalt,54.24314407590766
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Lithium,38.25311529895727
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Graphite,42.38293234948712
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Copper,44.068201083503375
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Nickel,1.725863467673488
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Manganese,1.6458561822660989
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Cobalt,2.136900095662489
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Lithium,1.2991062979607206
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Graphite,1.4026152102097273
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Copper,1.4471422783028625
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Nickel,5.566777947515394
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Manganese,4.517630715373262
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Cobalt,6.484508530999249
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Lithium,4.033427935926628
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Graphite,4.389074202485942
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Copper,4.510922018834409
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Nickel,19.59129458721262
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Manganese,17.18115673644985
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Cobalt,23.43906291632119
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Lithium,12.718121198753868
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Graphite,13.68828993768479
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Copper,13.80777059203893
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Nickel,34.15007867693713
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Manganese,34.20354408556592
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Cobalt,39.48269503645372
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Lithium,24.55523590999357
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Graphite,26.865965884738184
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Copper,27.623223606105853
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Nickel,55.31321727988704
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Manganese,55.46930398172529
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Cobalt,60.15482831407364
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Lithium,41.82962960713978
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Graphite,46.27360916510361
+Rollback Policy,Increasing Batt Cap,High LFP Chemistry,Increasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Copper,48.002532685380665
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Nickel,4.937627148950938
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Manganese,4.979935670049734
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Cobalt,6.5345611832265575
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Lithium,3.5630239262023786
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Graphite,3.7508650491673796
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2030,Copper,3.768287965144363
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Nickel,14.876218083234463
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Manganese,11.333364711179556
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Cobalt,17.938546940703766
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Lithium,11.175242159965428
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Graphite,12.032949834983487
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2035,Copper,12.314292972408685
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Nickel,42.55435393260344
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Manganese,33.37176741488407
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Cobalt,51.00864683646721
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Lithium,32.75638784602212
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Graphite,35.539922885438266
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2040,Copper,36.66578213205619
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Nickel,41.28038040920098
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Manganese,39.52419484825978
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Cobalt,48.18089494976916
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Lithium,35.228183445233924
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Graphite,39.01213250031631
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2045,Copper,41.325099761187516
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Nickel,52.82604137890179
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Manganese,52.743907811213006
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Cobalt,57.58637534069317
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Lithium,45.0165310322361
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Graphite,50.246001393699004
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,California-origin / US network,2050,Copper,53.19155001265107
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Nickel,1.916898285897641
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Manganese,1.8394125161123727
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Cobalt,2.3909147444255803
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Lithium,1.6460190949281428
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Graphite,1.8053199898187928
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2030,Copper,1.9144487705454354
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Nickel,6.524374899507356
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Manganese,5.191963774474391
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Cobalt,7.608356566526112
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Lithium,5.895336395484847
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Graphite,6.577765096710786
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2035,Copper,7.073201596913564
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Nickel,20.959242779788926
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Manganese,17.946466219583932
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Cobalt,25.059525862305073
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Lithium,18.093731377031403
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Graphite,20.012316241895256
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2040,Copper,21.279762955229245
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Nickel,32.876076337912686
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Manganese,32.79732722562566
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Cobalt,38.13374864421517
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Lithium,29.222738082780698
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Graphite,32.58329959407122
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2045,Copper,34.84615203994125
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Nickel,49.31553839202515
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Manganese,49.47256713618325
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Cobalt,53.62293691036647
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Lithium,42.39377766649877
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Graphite,47.393697521450605
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,US-origin / US network,2050,Copper,50.28044189511643
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Nickel,1.9630016946816902
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Manganese,1.8708832414950576
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Cobalt,2.4375314976920013
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Lithium,1.6761794213439953
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Graphite,1.836397457674079
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2030,Copper,1.945683819172594
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Nickel,6.876402449825669
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Manganese,5.519093073345462
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Cobalt,8.05019207366087
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Lithium,6.113719816931443
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Graphite,6.80106804189768
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2035,Copper,7.287587899095804
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Nickel,22.395862437482215
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Manganese,19.41576072472259
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Cobalt,26.888020881718955
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Lithium,19.137514642860516
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Graphite,21.120445180760196
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2040,Copper,22.400095819992057
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Nickel,35.946900652333
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Manganese,35.9060802028109
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Cobalt,41.74368905509429
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Lithium,31.45629154815038
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Graphite,34.98781499345809
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2045,Copper,37.28062312354245
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Nickel,54.757011751514725
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Manganese,54.92029663827323
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Cobalt,59.62527202075327
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Lithium,46.40063620698368
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Graphite,51.757226859834994
+Rollback Policy,Decreasing Batt Cap,Benchmark Chemistry,Decreasing Batt Cap - Benchmark Chemistry,North America-origin / NA network,2050,Copper,54.710788919071575
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Nickel,5.885731322965937
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Manganese,5.933869563364846
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Cobalt,7.812002336269853
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Lithium,3.6138840296491206
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Graphite,3.7249715963147723
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2030,Copper,3.614005927112639
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Nickel,20.045875082339265
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Manganese,15.21810484289124
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Cobalt,24.274927987069113
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Lithium,11.421532926881058
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Graphite,11.899017706653357
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2035,Copper,11.499978070675661
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Nickel,62.66157306584466
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Manganese,48.77979607242066
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Cobalt,75.40758513967025
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Lithium,33.560828947498386
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Graphite,35.064769151775934
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2040,Copper,33.7562026350908
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Nickel,54.21710044902394
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Manganese,51.364126535333
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Cobalt,63.63232365419616
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Lithium,35.76402055558704
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Graphite,38.66582727988393
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2045,Copper,39.10862240694703
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Nickel,60.49371878341867
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Manganese,60.28296437015156
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Cobalt,66.19705898698486
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Lithium,45.29807249329934
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Graphite,50.03753224305466
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,California-origin / US network,2050,Copper,51.82557039644608
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Nickel,2.2773128508356004
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Manganese,2.184092443826786
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Cobalt,2.8503362769430622
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Lithium,1.668607870272463
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Graphite,1.7933530594834954
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2030,Copper,1.8393962867293472
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Nickel,8.709465076274121
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Manganese,6.893359770133353
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Cobalt,10.206239870699097
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Lithium,6.01887750397889
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Graphite,6.508066000888032
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2035,Copper,6.62818452549777
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Nickel,30.20905639838722
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Manganese,25.634925115463204
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Cobalt,36.283951678895434
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Lithium,18.501659034455763
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Graphite,19.76439211698517
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2040,Copper,19.71167583192824
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Nickel,42.09317398156308
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Manganese,41.78187876951747
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Cobalt,49.07415721134251
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Lithium,29.621194754488062
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Graphite,32.31827718373115
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2045,Copper,33.11819662407621
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Nickel,56.167427909941544
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Manganese,56.3189318831183
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Cobalt,61.26703167469633
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Lithium,42.64950492714663
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Graphite,47.202489686791544
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,US-origin / US network,2050,Copper,49.01929983382885
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Nickel,2.330995212686652
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Manganese,2.2204269489964323
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Cobalt,2.904228382420919
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Lithium,1.6993436996380278
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Graphite,1.82411453263987
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2030,Copper,1.8685511873226825
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Nickel,9.165720222536443
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Manganese,7.31326741818685
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Cobalt,10.780679172921127
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Lithium,6.2421649713786405
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Graphite,6.728652458398894
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2035,Copper,6.825923664765364
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Nickel,32.16605054649083
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Manganese,27.63094911161343
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Cobalt,38.79126263182642
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Lithium,19.565477283328548
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Graphite,20.859948108259264
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2040,Copper,20.754050311354902
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Nickel,45.88365627032302
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Manganese,45.61917696080435
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Cobalt,53.5810969451737
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Lithium,31.875417865602756
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Graphite,34.70862830840605
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2045,Copper,35.467078638313424
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Nickel,62.29450320617331
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Manganese,62.44904977651971
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Cobalt,68.10689383453419
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Lithium,46.666278016894424
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Graphite,51.55783213912355
+Rollback Policy,Decreasing Batt Cap,High LFP Chemistry,Decreasing Batt Cap - High LFP Chemistry,North America-origin / NA network,2050,Copper,53.40764808575983

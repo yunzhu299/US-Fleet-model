@@ -1,0 +1,481 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram id="fleet-model-journal" name="Model Framework">
+    <mxGraphModel dx="1426" dy="859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1900" pageHeight="2600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="input_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;strokeWidth=1;dashed=1;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="664" width="200" x="15" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="input_title" parent="1" style="text;html=1;align=center;fontSize=12;fontColor=#555555;" value="&lt;b&gt;Data Inputs&lt;/b&gt;" vertex="1">
+          <mxGeometry height="25" width="150" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QcBC_LGQdNqvIKgJi9rG-7" edge="1" parent="1" source="d1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#777777, #ededed);" target="m1a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;verticalAlign=middle;" value="Vehicle registrations&lt;br&gt;&amp;amp; age distribution&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(EPA, 2025; DOE, 2025;&lt;br&gt;Statistics Canada, 2025;&lt;br&gt;Parés Olguín et al., 2023)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="30" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="d2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="State/province population&lt;br&gt;projections&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(UVA, 2025; Statistics&lt;br&gt;Canada, 2025; G-STEM)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="30" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="d3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="Used-vehicle trade&lt;br&gt;statistics&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(US Dept. of Commerce, 2025)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="46" width="170" x="30" y="229" as="geometry" />
+        </mxCell>
+        <mxCell id="d4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="EV penetration schedules&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(RMI; ENME, 2023)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="30" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="d5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="Historical vehicle sales&lt;br&gt;(2020–2024)&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(FRED, 2025; J.D. Power, 2025;&lt;br&gt;Statistics Canada, 2025;&lt;br&gt;INEGI, 2026)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="62" width="170" x="30" y="329" as="geometry" />
+        </mxCell>
+        <mxCell id="d6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="HDV sales projections&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(ICCT, 2025)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="30" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="d7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="Battery chemistry,&lt;br&gt;capacity, &amp;amp; projections&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(Benchmark Minerals;&lt;br&gt;J.D. Power, 2025)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="56" width="170" x="30" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="d8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="Mineral intensity &amp;amp;&lt;br&gt;specific energy (kg/kWh)&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;(ANL, 2024)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="d9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="NA recycling &amp;amp;&lt;br&gt;manufacturing facilities&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;[NaatBatt; EDF; ICCT]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="170" x="30" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="m1_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1565C0;strokeWidth=2;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="150" width="530" x="265" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="m1_label" parent="1" style="text;html=1;align=left;fontSize=12;" value="&lt;font color=&quot;#1565C0&quot;&gt;&lt;b&gt;Module 1: Baseline Fleet Composition (2020)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="440" x="275" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="m1a" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1565C0;fontSize=12;verticalAlign=middle;" value="ICE age distribution&lt;br&gt;&lt;i&gt;State × Type (Car/Truck)&lt;br&gt;Ages 0–29; 30+ smoothed&lt;br&gt;to 30–49 via S(a) weights&lt;/i&gt;" vertex="1">
+          <mxGeometry height="75" width="210" x="280" y="91" as="geometry" />
+        </mxCell>
+        <mxCell id="m1b" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1565C0;fontSize=12;verticalAlign=middle;" value="ICE/HEV survival model&lt;br&gt;&lt;i&gt;S(a) = 1/(1+e&lt;sup&gt;(a−μ)/b&lt;/sup&gt;)&lt;br&gt;Car: μ=16, b=4&lt;br&gt;Truck: μ=19, b=4.5&lt;/i&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="555" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="e_m1ab" edge="1" parent="1" source="m1a" style="strokeColor=#1565C0;fontSize=12;" target="m1b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2E7D32;strokeWidth=2;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="110" width="530" x="265" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="m2_label" parent="1" style="text;html=1;align=left;fontSize=12;" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;Module 2: Demand Drivers&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="300" x="275" y="238" as="geometry" />
+        </mxCell>
+        <mxCell id="m2a" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#2E7D32;fontSize=12;" value="Population-driven growth&lt;br&gt;&lt;i&gt;Growth&lt;sub&gt;s,t&lt;/sub&gt; = ΔPop&lt;sub&gt;s,t&lt;/sub&gt; × VPP&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="55" width="220" x="280" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m2b" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#2E7D32;fontSize=12;" value="Export adjustment&lt;br&gt;&lt;i&gt;Domestic factor = 1 − export ratio&lt;br&gt;Applied to all battery EOL flows&lt;/i&gt;" vertex="1">
+          <mxGeometry height="55" width="220" x="555" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m3_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E65100;strokeWidth=2;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="200" width="530" x="265" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="m3_label" parent="1" style="text;html=1;align=left;fontSize=12;" value="&lt;font color=&quot;#E65100&quot;&gt;&lt;b&gt;Module 3: EV–LIB Independent Aging Engine&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="430" x="275" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="m3_matrix" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#E65100;fontSize=12;" value="Stock matrix &lt;b&gt;N&lt;/b&gt;[a&lt;sub&gt;EV&lt;/sub&gt;, a&lt;sub&gt;LIB&lt;/sub&gt;]&lt;br&gt;&lt;i&gt;EV survival: μ=17, σ=4&lt;br&gt;LIB survival: μ=15, σ=4&lt;/i&gt;" vertex="1">
+          <mxGeometry height="65" width="200" x="275" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m3_outcomes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#E65100;fontSize=12;align=left;spacingLeft=10;verticalAlign=top;spacingTop=6;" value="&lt;font style=&quot;line-height: 110%;&quot;&gt;&lt;b&gt;Four mutually exclusive outcomes:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Both survive&lt;/b&gt; → remain in fleet&lt;br&gt;&lt;b&gt;EV fails, LIB survives&amp;nbsp;&lt;/b&gt;50% Reuse (in another EV) · 25% Repurpose (→ BESS) · 25% Recycle&lt;br&gt;&lt;b&gt;LIB fails, EV survives&amp;nbsp;&lt;/b&gt;50% Repurpose (→ BESS) · 50% Recycle; EV gets new battery&lt;br&gt;&lt;b&gt;Both fail&lt;/b&gt; → 100% Recycle&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="280" x="500" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="e_m3" edge="1" parent="1" source="m3_matrix" style="strokeColor=#E65100;strokeWidth=1.5;fontSize=12;" target="m3_outcomes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BF360C;strokeWidth=2;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="505" width="405" x="855" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_label" parent="1" style="text;html=1;align=left;fontSize=12;" value="&lt;font color=&quot;#BF360C&quot;&gt;&lt;b&gt;Module 4: Fleet Simulation (2020–2050)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="440" x="886" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_ice_init" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="Initialize ICE stock&lt;br&gt;&lt;i&gt;State × Segment × Age (0–49)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="220" x="900" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_loop_start" parent="1" style="text;html=1;align=left;fontSize=12;fontColor=#BF360C;fontStyle=1;" value="&lt;b&gt;For each year t = 2025 → 2050:&lt;/b&gt;" vertex="1">
+          <mxGeometry height="22" width="300" x="870" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_step1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="① Age &amp;amp; retire ICE fleet" vertex="1">
+          <mxGeometry height="35" width="200" x="880" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_step2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="② Total new vehicles needed&lt;br&gt;&lt;i&gt;= Retirements + Growth − Surplus&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="240" x="880" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_step3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="③ Split EV vs. ICE sales&lt;br&gt;&lt;i&gt;EV = Total × PR / (1 − PR)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="220" x="880" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_step4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="④ Add new ICE to age bin 0" vertex="1">
+          <mxGeometry height="35" width="200" x="880" y="336" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_step5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="⑤ Step EV/LIB engine&lt;br&gt;&lt;i&gt;→ Reuse · Repurpose · Recycle flows&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="240" x="880" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="QcBC_LGQdNqvIKgJi9rG-2" edge="1" parent="1" source="m4_step6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=1.5;fontSize=12;" target="out_fleet">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4_step6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCBC;strokeColor=#BF360C;fontSize=12;" value="⑥ Apply export factor&lt;br&gt;&lt;i&gt;Domestic flows × (1 − export ratio)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="240" x="880" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="e_l2" edge="1" parent="1" style="strokeColor=#BF360C;fontSize=12;exitX=0.416;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="977.8400000000001" y="267.2249999999999" as="sourcePoint" />
+            <mxPoint x="978" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_l5" edge="1" parent="1" style="strokeColor=#BF360C;fontSize=12;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="981.0000000000005" y="428" as="sourcePoint" />
+            <mxPoint x="981.0000000000005" y="439.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_loopback" edge="1" parent="1" source="m4_step6" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#BF360C;dashed=1;fontColor=#BF360C;fontSize=12;" target="m4_step1" value="t + 1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="463" />
+              <mxPoint x="1160" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m4_scope" parent="1" style="text;html=1;align=center;fontSize=12;fontColor=#BF360C;" value="&lt;div&gt;&lt;i&gt;×2 Vehicle Segment(LDV, HDV)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/div&gt;&lt;i&gt;×2 policy scenarios (ACCII, Repeal)&lt;br&gt;×3 countries (US, Canada, Mexico)&lt;br&gt;&lt;br&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="48" width="380" x="945" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="out_fleet" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0E0E0;strokeColor=#616161;fontSize=12;strokeWidth=2;" value="&lt;b&gt;Fleet Simulation Outputs&lt;/b&gt;&lt;br&gt;Vehicle stock, sales, retirements&lt;br&gt;Battery EOL flows: recycle · repurpose · reuse&lt;br&gt;&lt;i&gt;by state × segment × powertrain × year&lt;/i&gt;" vertex="1">
+          <mxGeometry height="75" width="370" x="886" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="m5_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00695C;strokeWidth=2;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="90" width="530" x="265" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="m5_label" parent="1" style="text;html=1;align=left;fontSize=12;" value="&lt;font color=&quot;#00695C&quot;&gt;&lt;b&gt;Module 5: BESS Second-Life Degradation&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="440" x="275" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="m5a" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2DFDB;strokeColor=#00695C;fontSize=12;" value="Repurposed batteries → BESS stock → degradation simulation → BESS retirement&lt;br&gt;&lt;i&gt;Retired BESS batteries enter the post-consumer recycling stream&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="500" x="280" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="m6_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6A1B9A;strokeWidth=2;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="505" width="1010" x="250" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="m6_label" parent="1" style="text;html=1;align=left;fontSize=12;" value="&lt;font color=&quot;#6A1B9A&quot;&gt;&lt;b&gt;Module 6: Mineral Recovery &amp;amp; Recycling Capacity Analysis&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="530" x="275" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="stream_a_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#9C27B0;strokeWidth=1;dashed=1;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="160" width="320" x="280" y="773" as="geometry" />
+        </mxCell>
+        <mxCell id="stream_a_title" parent="1" style="text;html=1;align=center;fontSize=12;fontColor=#6A1B9A;" value="&lt;b&gt;Stream A: Post-Consumer Recycling&lt;/b&gt;&lt;br&gt;&lt;i&gt;(retired EV batteries + retired BESS)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="32" width="310" x="285" y="778" as="geometry" />
+        </mxCell>
+        <mxCell id="s_a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="Retired batteries (count)&lt;br&gt;× Avg battery capacity (kWh/batt)" vertex="1">
+          <mxGeometry height="38" width="240" x="295" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="s_a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="× Chemistry share of sale year&lt;br&gt;→ kWh by chemistry by state" vertex="1">
+          <mxGeometry height="38" width="240" x="295" y="863" as="geometry" />
+        </mxCell>
+        <mxCell id="s_a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="× Specific energy (kg/kWh)&lt;br&gt;→ &lt;b&gt;EOL battery mass (tonnes)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="38" width="240" x="295" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sa1" edge="1" parent="1" source="s_a1" style="strokeColor=#6A1B9A;fontSize=12;" target="s_a2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sa2" edge="1" parent="1" source="s_a2" style="strokeColor=#6A1B9A;fontSize=12;" target="s_a3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stream_b_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#9C27B0;strokeWidth=1;dashed=1;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="160" width="320" x="640" y="773" as="geometry" />
+        </mxCell>
+        <mxCell id="stream_b_title" parent="1" style="text;html=1;align=center;fontSize=12;fontColor=#6A1B9A;" value="&lt;b&gt;Stream B: Manufacturing Scrap Recycling&lt;/b&gt;&lt;br&gt;&lt;i&gt;(factory production waste)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="32" width="310" x="645" y="778" as="geometry" />
+        </mxCell>
+        <mxCell id="s_b1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="Cell/pack production (GWh/yr)&lt;br&gt;by chemistry, facility, state, year" vertex="1">
+          <mxGeometry height="38" width="240" x="660" y="812" as="geometry" />
+        </mxCell>
+        <mxCell id="s_b2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="× Cell scrap rate (5–11%)&lt;br&gt;&lt;i&gt;New factory ~11.05%, declining&lt;br&gt;to ~7.72% over 6 years of ramp-up&lt;/i&gt;" vertex="1">
+          <mxGeometry height="48" width="240" x="660" y="859" as="geometry" />
+        </mxCell>
+        <mxCell id="s_b3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="× Specific energy (kg/kWh)&lt;br&gt;→ &lt;b&gt;Scrap mass (tonnes)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="38" width="240" x="660" y="914" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sb1" edge="1" parent="1" source="s_b1" style="strokeColor=#6A1B9A;fontSize=12;" target="s_b2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_sb2" edge="1" parent="1" source="s_b2" style="strokeColor=#6A1B9A;fontSize=12;" target="s_b3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6_constraint" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CE93D8;strokeColor=#6A1B9A;fontSize=12;align=left;spacingLeft=12;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;Recycling Facility Capacity Constraint&lt;/b&gt;&lt;br&gt;&lt;br&gt;Facilities have two sequential processing stages, each with independent capacity:&lt;br&gt;① &lt;b&gt;Black mass processing&lt;/b&gt; — disassembly, discharge, crushing → black powder&lt;br&gt;② &lt;b&gt;Refining&lt;/b&gt; — hydrometallurgy / pyrometallurgy → purified minerals&lt;br&gt;&lt;br&gt;&lt;b&gt;Effective capacity&lt;/b&gt; = min(Black mass cap, Refining cap)&lt;br&gt;&lt;b&gt;Available for post-consumer&lt;/b&gt; = Effective capacity − Scrap mass&lt;br&gt;&lt;b&gt;% Recyclable in NA&lt;/b&gt; = min(Available / EOL battery mass, 1)&lt;br&gt;&lt;br&gt;&lt;i&gt;Remainder is either exported as black mass (partially processed)&lt;br&gt;or exported as whole packs (unprocessed)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="195" width="480" x="310" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="e_a_con" edge="1" parent="1" source="s_a3" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6A1B9A;strokeWidth=1.5;fontSize=12;fontColor=#6A1B9A;" target="m6_constraint" value="EOL battery mass">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_b_con" edge="1" parent="1" source="s_b3" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6A1B9A;strokeWidth=1.5;fontSize=12;fontColor=#6A1B9A;" target="m6_constraint" value="scrap mass">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6d" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;align=left;spacingLeft=12;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;Mineral Recovery&lt;/b&gt;&lt;br&gt;&lt;br&gt;Recyclable kWh × mineral intensity (kg/kWh)&lt;br&gt;× element-specific recovery rate:&lt;br&gt;&lt;br&gt;Ni, Co: 95% (hydro.)&lt;br&gt;Cu: 90% → 95% (post-2035)&lt;br&gt;Li: 0% → 80% (post-2035)&lt;br&gt;Mn: 0% → 95% (post-2035)&lt;br&gt;Graphite: 0% → 90% (post-2035)&lt;br&gt;&lt;br&gt;&lt;i&gt;2035 threshold reflects EU Battery&lt;br&gt;Regulation recovery mandates&lt;/i&gt;" vertex="1">
+          <mxGeometry height="218" width="270" x="905" y="947" as="geometry" />
+        </mxCell>
+        <mxCell id="e_con_min" edge="1" parent="1" source="m6_constraint" style="strokeColor=#6A1B9A;strokeWidth=2;fontSize=12;fontColor=#6A1B9A;" target="m6d" value="% recyclable in NA">
+          <mxGeometry relative="1" x="-0.0158" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6e" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#6A1B9A;fontSize=12;" value="&lt;b&gt;Recycled Content Ratio&lt;/b&gt;&lt;br&gt;&lt;i&gt;= Recycled minerals&lt;sub&gt;t&lt;/sub&gt; / Demanded minerals&lt;sub&gt;t+1&lt;/sub&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="38" width="280" x="380" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="e_min_ratio" edge="1" parent="1" source="m6d" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6A1B9A;fontSize=12;" target="m6e">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="1214" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6_scen" parent="1" style="text;html=1;align=left;fontSize=12;fontColor=#6A1B9A;" value="&lt;i&gt;×2 battery capacity scenarios (Increasing, −15% by 2040)&lt;br&gt;×2 chemistry scenarios (Benchmark Chemistries, High LFP)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="35" width="370" x="695" y="1193" as="geometry" />
+        </mxCell>
+        <mxCell id="out_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;strokeWidth=1;dashed=1;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="95" width="1025" x="265" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="out_title" parent="1" style="text;html=1;align=left;fontSize=12;fontColor=#555555;" value="&lt;b&gt;Key Outputs&lt;/b&gt;" vertex="1">
+          <mxGeometry height="25" width="150" x="275" y="1283" as="geometry" />
+        </mxCell>
+        <mxCell id="o1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=12;" value="Recoverable minerals&lt;br&gt;by element, state, year" vertex="1">
+          <mxGeometry height="42" width="155" x="280" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="o2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=12;" value="Minerals lost to&lt;br&gt;incomplete recovery" vertex="1">
+          <mxGeometry height="42" width="155" x="450" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="o3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=12;" value="Minerals exported&lt;br&gt;(insufficient capacity)" vertex="1">
+          <mxGeometry height="42" width="155" x="620" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="o4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=12;" value="Additional recycling&lt;br&gt;capacity needed" vertex="1">
+          <mxGeometry height="42" width="155" x="790" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="o5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=12;" value="Recycled content&lt;br&gt;ratio (% of demand)" vertex="1">
+          <mxGeometry height="42" width="155" x="960" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="o6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=12;" value="Vehicle stock, sales,&lt;br&gt;and retirements" vertex="1">
+          <mxGeometry height="42" width="155" x="1130" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="e_d2_m2a" edge="1" parent="1" source="d2" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" target="m2a">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="192" />
+              <mxPoint x="230" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d3_m2b" edge="1" parent="1" source="d3" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" target="m2b">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="252" />
+              <mxPoint x="240" y="297" />
+              <mxPoint x="540" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d4_m4" edge="1" parent="1" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="287" />
+              <mxPoint x="220" y="625" />
+              <mxPoint x="850" y="625" />
+              <mxPoint x="850" y="286" />
+            </Array>
+            <mxPoint x="200" y="287" as="sourcePoint" />
+            <mxPoint x="880" y="286.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d5_m4" edge="1" parent="1" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="377" />
+              <mxPoint x="215" y="667" />
+              <mxPoint x="845" y="667" />
+              <mxPoint x="845" y="422" />
+            </Array>
+            <mxPoint x="200" y="377" as="sourcePoint" />
+            <mxPoint x="880" y="422.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d6_m4" edge="1" parent="1" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="437" />
+              <mxPoint x="210" y="679" />
+              <mxPoint x="840" y="679" />
+              <mxPoint x="840" y="438" />
+            </Array>
+            <mxPoint x="200" y="437" as="sourcePoint" />
+            <mxPoint x="880" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d7_m6a" edge="1" parent="1" source="d7" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;" target="s_a2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="473" />
+              <mxPoint x="250" y="882" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d8_m6d" edge="1" parent="1" source="d8" style="strokeColor=#777777;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;" target="m6d">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="533" />
+              <mxPoint x="245" y="1250" />
+              <mxPoint x="1040" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d9_con" edge="1" parent="1" source="d9" style="strokeColor=#777777;exitX=1;exitY=0.3;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;" target="m6_constraint">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="580" />
+              <mxPoint x="240" y="1087" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_d9_sb" edge="1" parent="1" source="d9" style="strokeColor=#777777;exitX=1;exitY=0.7;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;" target="s_b1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="600" />
+              <mxPoint x="235" y="760" />
+              <mxPoint x="630" y="760" />
+              <mxPoint x="630" y="831" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_m1_m4" edge="1" parent="1" source="m1b" style="strokeColor=#333333;strokeWidth=1.5;fontSize=12;fontColor=#555555;" target="m4_ice_init" value="ICE stock (0–49)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_m1_m2" edge="1" parent="1" source="m1b" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=1.5;fontSize=12;" target="m2b">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="210" />
+              <mxPoint x="665" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_m2_m4" edge="1" parent="1" source="m2b" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=1.5;fontSize=12;fontColor=#555555;" target="m4_step2" value="growth &amp; export&#xa;(MX)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="297" />
+              <mxPoint x="830" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_m3_m4" edge="1" parent="1" source="m3_outcomes" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=1.5;fontSize=12;fontColor=#555555;" target="m4_step5" value="EV/LIB &#xa;engine">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="810" y="485" />
+              <mxPoint x="810" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_fleet_bess" edge="1" parent="1" source="out_fleet" style="strokeColor=#333333;strokeWidth=1.5;fontSize=12;fontColor=#555555;" target="m5a" value="repurposed LIBs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fleet_m6" edge="1" parent="1" source="out_fleet" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6A1B9A;strokeWidth=2.5;fontSize=12;fontColor=#6A1B9A;fontStyle=1;" target="s_a1" value="Post-consumer recycling stream">
+          <mxGeometry relative="1" x="-0.0016" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1260" y="632" />
+              <mxPoint x="1260" y="715" />
+              <mxPoint x="640" y="715" />
+              <mxPoint x="640" y="834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_bess_m6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6A1B9A;strokeWidth=1.5;dashed=1;fontSize=12;fontColor=#6A1B9A;" value="BESS retirements">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="524" y="700" />
+              <mxPoint x="334" y="700" />
+            </Array>
+            <mxPoint x="524.0666666666666" y="673" as="sourcePoint" />
+            <mxPoint x="334.0666666666666" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_m6_o1" edge="1" parent="1" source="m6d" style="strokeColor=#333333;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;fontSize=12;" target="o1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="1260" />
+              <mxPoint x="358" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_m6_o5" edge="1" parent="1" source="m6e" style="strokeColor=#333333;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;fontSize=12;" target="o5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1260" />
+              <mxPoint x="1038" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_fleet_o6" edge="1" parent="1" source="out_fleet" style="strokeColor=#333333;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;fontSize=12;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="632" />
+            </Array>
+            <mxPoint x="1270" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_con_o4" edge="1" parent="1" source="m6_constraint" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=1.5;fontSize=12;" target="o4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1260" />
+              <mxPoint x="868" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcBC_LGQdNqvIKgJi9rG-3" edge="1" parent="1" source="m4_step1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;" target="m4_step2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QcBC_LGQdNqvIKgJi9rG-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="981.5" y="324" as="sourcePoint" />
+            <mxPoint x="978.5" y="338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcBC_LGQdNqvIKgJi9rG-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="981.5" y="371" as="sourcePoint" />
+            <mxPoint x="978.5" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2WN2VVVjgPK4YlUmFTt-1" edge="1" parent="1" source="out_fleet" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=#888888;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1071" y="883" />
+            </Array>
+            <mxPoint x="1071" y="725" as="sourcePoint" />
+            <mxPoint x="900" y="883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2WN2VVVjgPK4YlUmFTt-2" connectable="0" parent="X2WN2VVVjgPK4YlUmFTt-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#555555;fontSize=12;" value="Projected Demand" vertex="1">
+          <mxGeometry relative="1" x="-0.4488" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2WN2VVVjgPK4YlUmFTt-6" edge="1" parent="1" source="X2WN2VVVjgPK4YlUmFTt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=#777777;" target="s_b2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="259" y="640" />
+              <mxPoint x="259" y="883" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2WN2VVVjgPK4YlUmFTt-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="Scrap rates&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;[BatPac]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="36" width="170" x="30" y="622" as="geometry" />
+        </mxCell>
+        <mxCell id="X2WN2VVVjgPK4YlUmFTt-7" edge="1" parent="1" source="X2WN2VVVjgPK4YlUmFTt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#777777;curved=0;" target="m6d">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="686" />
+              <mxPoint x="1040" y="686" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2WN2VVVjgPK4YlUmFTt-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;fontSize=11;" value="Mineral Recovery Rates&lt;br&gt;&lt;font color=&quot;#888888&quot;&gt;[Everbatt; EU]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33" width="170" x="30" y="665" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

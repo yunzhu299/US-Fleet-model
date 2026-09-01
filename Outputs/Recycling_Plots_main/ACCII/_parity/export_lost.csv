@@ -1,0 +1,385 @@
+Year,Mineral,Total_Minerals_Exported,Scenario
+2035,Cobalt,0,Decreasing Batt Cap - Benchmark Chemistry
+2035,Copper,0,Decreasing Batt Cap - Benchmark Chemistry
+2035,Graphite,0,Decreasing Batt Cap - Benchmark Chemistry
+2035,Lithium,0,Decreasing Batt Cap - Benchmark Chemistry
+2035,Manganese,0,Decreasing Batt Cap - Benchmark Chemistry
+2035,Nickel,0,Decreasing Batt Cap - Benchmark Chemistry
+2035,Cobalt,0,Decreasing Batt Cap - High LFP Chemistry
+2035,Copper,0,Decreasing Batt Cap - High LFP Chemistry
+2035,Graphite,0,Decreasing Batt Cap - High LFP Chemistry
+2035,Lithium,0,Decreasing Batt Cap - High LFP Chemistry
+2035,Manganese,0,Decreasing Batt Cap - High LFP Chemistry
+2035,Nickel,0,Decreasing Batt Cap - High LFP Chemistry
+2035,Cobalt,900.9980576871596,Increasing Batt Cap - Benchmark Chemistry
+2035,Copper,5193.578180553076,Increasing Batt Cap - Benchmark Chemistry
+2035,Graphite,10439.203311966392,Increasing Batt Cap - Benchmark Chemistry
+2035,Lithium,979.2469400876449,Increasing Batt Cap - Benchmark Chemistry
+2035,Manganese,407.38714736912465,Increasing Batt Cap - Benchmark Chemistry
+2035,Nickel,4586.848620305113,Increasing Batt Cap - Benchmark Chemistry
+2035,Cobalt,899.6026045165876,Increasing Batt Cap - High LFP Chemistry
+2035,Copper,5375.697597054709,Increasing Batt Cap - High LFP Chemistry
+2035,Graphite,10743.301825886376,Increasing Batt Cap - High LFP Chemistry
+2035,Lithium,1004.1747272776673,Increasing Batt Cap - High LFP Chemistry
+2035,Manganese,403.70976507647737,Increasing Batt Cap - High LFP Chemistry
+2035,Nickel,4576.746687727856,Increasing Batt Cap - High LFP Chemistry
+2036,Cobalt,709.8357962584795,Decreasing Batt Cap - Benchmark Chemistry
+2036,Copper,3756.427174335053,Decreasing Batt Cap - Benchmark Chemistry
+2036,Graphite,7664.33550188255,Decreasing Batt Cap - Benchmark Chemistry
+2036,Lithium,725.4340160327736,Decreasing Batt Cap - Benchmark Chemistry
+2036,Manganese,322.1622392208443,Decreasing Batt Cap - Benchmark Chemistry
+2036,Nickel,3633.250625765958,Decreasing Batt Cap - Benchmark Chemistry
+2036,Cobalt,723.8524317048044,Decreasing Batt Cap - High LFP Chemistry
+2036,Copper,3966.469004763081,Decreasing Batt Cap - High LFP Chemistry
+2036,Graphite,8044.692002122639,Decreasing Batt Cap - High LFP Chemistry
+2036,Lithium,758.6744604106258,Decreasing Batt Cap - High LFP Chemistry
+2036,Manganese,326.2532695766629,Decreasing Batt Cap - High LFP Chemistry
+2036,Nickel,3703.4068050121587,Decreasing Batt Cap - High LFP Chemistry
+2036,Cobalt,3318.4733112356216,Increasing Batt Cap - Benchmark Chemistry
+2036,Copper,19036.827978071942,Increasing Batt Cap - Benchmark Chemistry
+2036,Graphite,38390.31513868836,Increasing Batt Cap - Benchmark Chemistry
+2036,Lithium,3603.297992166887,Increasing Batt Cap - Benchmark Chemistry
+2036,Manganese,1550.5799103963684,Increasing Batt Cap - Benchmark Chemistry
+2036,Nickel,17126.48055465959,Increasing Batt Cap - Benchmark Chemistry
+2036,Cobalt,3233.9201461232115,Increasing Batt Cap - High LFP Chemistry
+2036,Copper,19368.909802883118,Increasing Batt Cap - High LFP Chemistry
+2036,Graphite,38790.38272949159,Increasing Batt Cap - High LFP Chemistry
+2036,Lithium,3625.324272694665,Increasing Batt Cap - High LFP Chemistry
+2036,Manganese,1499.4003471658789,Increasing Batt Cap - High LFP Chemistry
+2036,Nickel,16682.042360222862,Increasing Batt Cap - High LFP Chemistry
+2037,Cobalt,3299.890609214671,Decreasing Batt Cap - Benchmark Chemistry
+2037,Copper,17382.00300238521,Decreasing Batt Cap - Benchmark Chemistry
+2037,Graphite,35574.77479797326,Decreasing Batt Cap - Benchmark Chemistry
+2037,Lithium,3369.029929082495,Decreasing Batt Cap - Benchmark Chemistry
+2037,Manganese,1533.4350422956052,Decreasing Batt Cap - Benchmark Chemistry
+2037,Nickel,17091.898167705567,Decreasing Batt Cap - Benchmark Chemistry
+2037,Cobalt,3231.3972918413506,Decreasing Batt Cap - High LFP Chemistry
+2037,Copper,17750.69874495095,Decreasing Batt Cap - High LFP Chemistry
+2037,Graphite,36067.696311879816,Decreasing Batt Cap - High LFP Chemistry
+2037,Lithium,3400.833084185816,Decreasing Batt Cap - High LFP Chemistry
+2037,Manganese,1490.334906494511,Decreasing Batt Cap - High LFP Chemistry
+2037,Nickel,16732.85091905555,Decreasing Batt Cap - High LFP Chemistry
+2037,Cobalt,6248.334813324202,Increasing Batt Cap - Benchmark Chemistry
+2037,Copper,35720.81039527889,Increasing Batt Cap - Benchmark Chemistry
+2037,Graphite,72226.78085167705,Increasing Batt Cap - Benchmark Chemistry
+2037,Lithium,6781.945774224213,Increasing Batt Cap - Benchmark Chemistry
+2037,Manganese,2991.154915677516,Increasing Batt Cap - Benchmark Chemistry
+2037,Nickel,32617.000719596603,Increasing Batt Cap - Benchmark Chemistry
+2037,Cobalt,6026.819691948941,Increasing Batt Cap - High LFP Chemistry
+2037,Copper,36286.26429861757,Increasing Batt Cap - High LFP Chemistry
+2037,Graphite,72759.48796776313,Increasing Batt Cap - High LFP Chemistry
+2037,Lithium,6797.063874880971,Increasing Batt Cap - High LFP Chemistry
+2037,Manganese,2861.246227744315,Increasing Batt Cap - High LFP Chemistry
+2037,Nickel,31451.300071481703,Increasing Batt Cap - High LFP Chemistry
+2038,Cobalt,7361.404826469376,Decreasing Batt Cap - Benchmark Chemistry
+2038,Copper,38260.17986151567,Decreasing Batt Cap - Benchmark Chemistry
+2038,Graphite,78528.13674772935,Decreasing Batt Cap - Benchmark Chemistry
+2038,Lithium,7446.833066981373,Decreasing Batt Cap - Benchmark Chemistry
+2038,Manganese,3483.058826613486,Decreasing Batt Cap - Benchmark Chemistry
+2038,Nickel,38209.35175720313,Decreasing Batt Cap - Benchmark Chemistry
+2038,Cobalt,7138.6154580280745,Decreasing Batt Cap - High LFP Chemistry
+2038,Copper,38876.57621782797,Decreasing Batt Cap - High LFP Chemistry
+2038,Graphite,79145.27687429861,Decreasing Batt Cap - High LFP Chemistry
+2038,Lithium,7468.771736928188,Decreasing Batt Cap - High LFP Chemistry
+2038,Manganese,3351.5565625074332,Decreasing Batt Cap - High LFP Chemistry
+2038,Nickel,37038.97873307472,Decreasing Batt Cap - High LFP Chemistry
+2038,Cobalt,10852.590299181717,Increasing Batt Cap - Benchmark Chemistry
+2038,Copper,60929.27684460088,Increasing Batt Cap - Benchmark Chemistry
+2038,Graphite,123612.82668950914,Increasing Batt Cap - Benchmark Chemistry
+2038,Lithium,11627.525543904641,Increasing Batt Cap - Benchmark Chemistry
+2038,Manganese,5284.688236337585,Increasing Batt Cap - Benchmark Chemistry
+2038,Nickel,56741.95148295341,Increasing Batt Cap - Benchmark Chemistry
+2038,Cobalt,10399.533911132181,Increasing Batt Cap - High LFP Chemistry
+2038,Copper,61854.09924348785,Increasing Batt Cap - High LFP Chemistry
+2038,Graphite,124306.14518300489,Increasing Batt Cap - High LFP Chemistry
+2038,Lithium,11625.656014114602,Increasing Batt Cap - High LFP Chemistry
+2038,Manganese,5021.033826557808,Increasing Batt Cap - High LFP Chemistry
+2038,Nickel,54346.5258682008,Increasing Batt Cap - High LFP Chemistry
+2039,Cobalt,10919.25832919555,Decreasing Batt Cap - Benchmark Chemistry
+2039,Copper,57425.56601763848,Decreasing Batt Cap - Benchmark Chemistry
+2039,Graphite,117619.04984354264,Decreasing Batt Cap - Benchmark Chemistry
+2039,Lithium,11138.653335673207,Decreasing Batt Cap - Benchmark Chemistry
+2039,Manganese,5342.523277444779,Decreasing Batt Cap - Benchmark Chemistry
+2039,Nickel,56596.56045813976,Decreasing Batt Cap - Benchmark Chemistry
+2039,Cobalt,10462.017896851563,Decreasing Batt Cap - High LFP Chemistry
+2039,Copper,58446.71445483919,Decreasing Batt Cap - High LFP Chemistry
+2039,Graphite,118474.38474866787,Decreasing Batt Cap - High LFP Chemistry
+2039,Lithium,11149.70027340337,Decreasing Batt Cap - High LFP Chemistry
+2039,Manganese,5077.646704648618,Decreasing Batt Cap - High LFP Chemistry
+2039,Nickel,54196.593314589416,Decreasing Batt Cap - High LFP Chemistry
+2039,Cobalt,15206.61681892177,Increasing Batt Cap - Benchmark Chemistry
+2039,Copper,86018.01131782278,Increasing Batt Cap - Benchmark Chemistry
+2039,Graphite,174304.15719729717,Increasing Batt Cap - Benchmark Chemistry
+2039,Lithium,16381.55474279823,Increasing Batt Cap - Benchmark Chemistry
+2039,Manganese,7651.226234050535,Increasing Batt Cap - Benchmark Chemistry
+2039,Nickel,79426.77533467615,Increasing Batt Cap - Benchmark Chemistry
+2039,Cobalt,14386.285877375125,Increasing Batt Cap - High LFP Chemistry
+2039,Copper,87527.61033766446,Increasing Batt Cap - High LFP Chemistry
+2039,Graphite,175279.97689592102,Increasing Batt Cap - High LFP Chemistry
+2039,Lithium,16355.056585029122,Increasing Batt Cap - High LFP Chemistry
+2039,Manganese,7176.988967571612,Increasing Batt Cap - High LFP Chemistry
+2039,Nickel,75087.19682661367,Increasing Batt Cap - High LFP Chemistry
+2040,Cobalt,14648.493181681886,Decreasing Batt Cap - Benchmark Chemistry
+2040,Copper,77883.37713253303,Decreasing Batt Cap - Benchmark Chemistry
+2040,Graphite,159238.00790237542,Decreasing Batt Cap - Benchmark Chemistry
+2040,Lithium,15060.861372465566,Decreasing Batt Cap - Benchmark Chemistry
+2040,Manganese,7415.926681469545,Decreasing Batt Cap - Benchmark Chemistry
+2040,Nickel,75867.39973240849,Decreasing Batt Cap - Benchmark Chemistry
+2040,Cobalt,13802.06909546705,Decreasing Batt Cap - High LFP Chemistry
+2040,Copper,79558.88346628305,Decreasing Batt Cap - High LFP Chemistry
+2040,Graphite,160461.20541040032,Decreasing Batt Cap - High LFP Chemistry
+2040,Lithium,15051.575663305191,Decreasing Batt Cap - High LFP Chemistry
+2040,Manganese,6930.297327948231,Decreasing Batt Cap - High LFP Chemistry
+2040,Nickel,71431.52265570208,Decreasing Batt Cap - High LFP Chemistry
+2040,Cobalt,20116.73402017736,Increasing Batt Cap - Benchmark Chemistry
+2040,Copper,114352.53805015872,Increasing Batt Cap - Benchmark Chemistry
+2040,Graphite,231579.73393419906,Increasing Batt Cap - Benchmark Chemistry
+2040,Lithium,21751.269599287407,Increasing Batt Cap - Benchmark Chemistry
+2040,Manganese,10457.229498380915,Increasing Batt Cap - Benchmark Chemistry
+2040,Nickel,105051.53520289296,Increasing Batt Cap - Benchmark Chemistry
+2040,Cobalt,18694.83189840366,Increasing Batt Cap - High LFP Chemistry
+2040,Copper,116802.54483993036,Increasing Batt Cap - High LFP Chemistry
+2040,Graphite,232991.94749772392,Increasing Batt Cap - High LFP Chemistry
+2040,Lithium,21682.290842616167,Increasing Batt Cap - High LFP Chemistry
+2040,Manganese,9638.892635391034,Increasing Batt Cap - High LFP Chemistry
+2040,Nickel,97535.34991035996,Increasing Batt Cap - High LFP Chemistry
+2041,Cobalt,18453.691052660415,Decreasing Batt Cap - Benchmark Chemistry
+2041,Copper,99099.75627594361,Decreasing Batt Cap - Benchmark Chemistry
+2041,Graphite,202386.9151913724,Decreasing Batt Cap - Benchmark Chemistry
+2041,Lithium,19119.69409144779,Decreasing Batt Cap - Benchmark Chemistry
+2041,Manganese,9659.006841929959,Decreasing Batt Cap - Benchmark Chemistry
+2041,Nickel,95743.06128148749,Decreasing Batt Cap - Benchmark Chemistry
+2041,Cobalt,17024.589223466126,Decreasing Batt Cap - High LFP Chemistry
+2041,Copper,101734.20377680808,Decreasing Batt Cap - High LFP Chemistry
+2041,Graphite,204118.82266489125,Decreasing Batt Cap - High LFP Chemistry
+2041,Lithium,19076.41390301676,Decreasing Batt Cap - High LFP Chemistry
+2041,Manganese,8841.705315544225,Decreasing Batt Cap - High LFP Chemistry
+2041,Nickel,88241.62226731956,Decreasing Batt Cap - High LFP Chemistry
+2041,Cobalt,25582.494375152753,Increasing Batt Cap - Benchmark Chemistry
+2041,Copper,145774.7137184992,Increasing Batt Cap - Benchmark Chemistry
+2041,Graphite,295288.0601333818,Increasing Batt Cap - Benchmark Chemistry
+2041,Lithium,27725.584343237584,Increasing Batt Cap - Benchmark Chemistry
+2041,Manganese,13715.423463603543,Increasing Batt Cap - Benchmark Chemistry
+2041,Nickel,133911.06273334968,Increasing Batt Cap - Benchmark Chemistry
+2041,Cobalt,23256.672345281033,Increasing Batt Cap - High LFP Chemistry
+2041,Copper,149622.15982608238,Increasing Batt Cap - High LFP Chemistry
+2041,Graphite,297320.0994012579,Increasing Batt Cap - High LFP Chemistry
+2041,Lithium,27589.70070797674,Increasing Batt Cap - High LFP Chemistry
+2041,Manganese,12378.324643935013,Increasing Batt Cap - High LFP Chemistry
+2041,Nickel,121597.90813870708,Increasing Batt Cap - High LFP Chemistry
+2042,Cobalt,22328.162504427284,Decreasing Batt Cap - Benchmark Chemistry
+2042,Copper,121195.83797946577,Decreasing Batt Cap - Benchmark Chemistry
+2042,Graphite,247447.72065154198,Decreasing Batt Cap - Benchmark Chemistry
+2042,Lithium,23347.94664736065,Decreasing Batt Cap - Benchmark Chemistry
+2042,Manganese,12130.940925734318,Decreasing Batt Cap - Benchmark Chemistry
+2042,Nickel,116644.52685835393,Decreasing Batt Cap - Benchmark Chemistry
+2042,Cobalt,20105.18726992134,Decreasing Batt Cap - High LFP Chemistry
+2042,Copper,125123.16172884713,Decreasing Batt Cap - High LFP Chemistry
+2042,Graphite,249818.50859902232,Decreasing Batt Cap - High LFP Chemistry
+2042,Lithium,23253.5739300289,Decreasing Batt Cap - High LFP Chemistry
+2042,Manganese,10846.802524689934,Decreasing Batt Cap - High LFP Chemistry
+2042,Nickel,104893.2891782464,Decreasing Batt Cap - High LFP Chemistry
+2042,Cobalt,31613.095881388046,Increasing Batt Cap - Benchmark Chemistry
+2042,Copper,180532.43185604317,Increasing Batt Cap - Benchmark Chemistry
+2042,Graphite,366139.23902837496,Increasing Batt Cap - Benchmark Chemistry
+2042,Lithium,34367.25583507229,Increasing Batt Cap - Benchmark Chemistry
+2042,Manganese,17538.017949889265,Increasing Batt Cap - Benchmark Chemistry
+2042,Nickel,166702.9875818333,Increasing Batt Cap - Benchmark Chemistry
+2042,Cobalt,28038.623038423902,Increasing Batt Cap - High LFP Chemistry
+2042,Copper,186311.29615914816,Increasing Batt Cap - High LFP Chemistry
+2042,Graphite,368983.83841200656,Increasing Batt Cap - High LFP Chemistry
+2042,Lithium,34134.912127213356,Increasing Batt Cap - High LFP Chemistry
+2042,Manganese,15462.239212864759,Increasing Batt Cap - High LFP Chemistry
+2042,Nickel,147656.93104535528,Increasing Batt Cap - High LFP Chemistry
+2043,Cobalt,26354.061695256012,Decreasing Batt Cap - Benchmark Chemistry
+2043,Copper,144389.2077377758,Decreasing Batt Cap - Benchmark Chemistry
+2043,Graphite,295013.13924379286,Decreasing Batt Cap - Benchmark Chemistry
+2043,Lithium,27806.75521446199,Decreasing Batt Cap - Benchmark Chemistry
+2043,Manganese,14784.518458014665,Decreasing Batt Cap - Benchmark Chemistry
+2043,Nickel,139225.78599273693,Decreasing Batt Cap - Benchmark Chemistry
+2043,Cobalt,23126.44239515632,Decreasing Batt Cap - High LFP Chemistry
+2043,Copper,149947.3997844929,Decreasing Batt Cap - High LFP Chemistry
+2043,Graphite,298139.88356785424,Decreasing Batt Cap - High LFP Chemistry
+2043,Lithium,27642.891479048194,Decreasing Batt Cap - High LFP Chemistry
+2043,Manganese,12901.450293709324,Decreasing Batt Cap - High LFP Chemistry
+2043,Nickel,121986.91426079818,Decreasing Batt Cap - High LFP Chemistry
+2043,Cobalt,38346.67456253715,Increasing Batt Cap - Benchmark Chemistry
+2043,Copper,219040.60643368744,Increasing Batt Cap - Benchmark Chemistry
+2043,Graphite,445209.0207907636,Increasing Batt Cap - Benchmark Chemistry
+2043,Lithium,41785.27355266547,Increasing Batt Cap - Benchmark Chemistry
+2043,Manganese,21886.82376531304,Increasing Batt Cap - Benchmark Chemistry
+2043,Nickel,204497.57365508805,Increasing Batt Cap - Benchmark Chemistry
+2043,Cobalt,33151.78461722023,Increasing Batt Cap - High LFP Chemistry
+2043,Copper,227338.54459605564,Increasing Batt Cap - High LFP Chemistry
+2043,Graphite,449064.704364264,Increasing Batt Cap - High LFP Chemistry
+2043,Lithium,41423.429905023404,Increasing Batt Cap - High LFP Chemistry
+2043,Manganese,18840.78517788049,Increasing Batt Cap - High LFP Chemistry
+2043,Nickel,176551.2527532737,Increasing Batt Cap - High LFP Chemistry
+2044,Cobalt,30510.59148612764,Decreasing Batt Cap - Benchmark Chemistry
+2044,Copper,168601.36708795986,Decreasing Batt Cap - Benchmark Chemistry
+2044,Graphite,344913.4755431817,Decreasing Batt Cap - Benchmark Chemistry
+2044,Lithium,32479.736421138223,Decreasing Batt Cap - Benchmark Chemistry
+2044,Manganese,17557.385579448255,Decreasing Batt Cap - Benchmark Chemistry
+2044,Nickel,163408.80380484386,Decreasing Batt Cap - Benchmark Chemistry
+2044,Cobalt,26104.299350928097,Decreasing Batt Cap - High LFP Chemistry
+2044,Copper,176074.7462622682,Decreasing Batt Cap - High LFP Chemistry
+2044,Graphite,348876.93839396746,Decreasing Batt Cap - High LFP Chemistry
+2044,Lithium,32229.586859331153,Decreasing Batt Cap - High LFP Chemistry
+2044,Manganese,14963.139604776283,Decreasing Batt Cap - High LFP Chemistry
+2044,Nickel,139597.21061495025,Decreasing Batt Cap - High LFP Chemistry
+2044,Cobalt,45733.25182501218,Increasing Batt Cap - Benchmark Chemistry
+2044,Copper,261132.71026500684,Increasing Batt Cap - Benchmark Chemistry
+2044,Graphite,532153.1058105443,Increasing Batt Cap - Benchmark Chemistry
+2044,Lithium,49945.40920498507,Increasing Batt Cap - Benchmark Chemistry
+2044,Manganese,26681.14850200096,Increasing Batt Cap - Benchmark Chemistry
+2044,Nickel,247143.14040986044,Increasing Batt Cap - Benchmark Chemistry
+2044,Cobalt,38571.539814880976,Increasing Batt Cap - High LFP Chemistry
+2044,Copper,272511.9407540135,Increasing Batt Cap - High LFP Chemistry
+2044,Graphite,537195.563513281,Increasing Batt Cap - High LFP Chemistry
+2044,Lithium,49422.10966584343,Increasing Batt Cap - High LFP Chemistry
+2044,Manganese,22445.282532628702,Increasing Batt Cap - High LFP Chemistry
+2044,Nickel,208190.02931678272,Increasing Batt Cap - High LFP Chemistry
+2045,Cobalt,34787.28919408299,Decreasing Batt Cap - Benchmark Chemistry
+2045,Copper,193669.43854215482,Decreasing Batt Cap - Benchmark Chemistry
+2045,Graphite,396775.9549268925,Decreasing Batt Cap - Benchmark Chemistry
+2045,Lithium,37333.950432997786,Decreasing Batt Cap - Benchmark Chemistry
+2045,Manganese,20411.052937931785,Decreasing Batt Cap - Benchmark Chemistry
+2045,Nickel,188953.84646598404,Decreasing Batt Cap - Benchmark Chemistry
+2045,Cobalt,29048.550343827104,Decreasing Batt Cap - High LFP Chemistry
+2045,Copper,203314.49059537967,Decreasing Batt Cap - High LFP Chemistry
+2045,Graphite,401644.72281427163,Decreasing Batt Cap - High LFP Chemistry
+2045,Lithium,36982.31248306252,Decreasing Batt Cap - High LFP Chemistry
+2045,Manganese,17004.024568449026,Decreasing Batt Cap - High LFP Chemistry
+2045,Nickel,157581.50051039757,Decreasing Batt Cap - High LFP Chemistry
+2045,Cobalt,53753.94199041892,Increasing Batt Cap - Benchmark Chemistry
+2045,Copper,306579.8708012879,Increasing Batt Cap - Benchmark Chemistry
+2045,Graphite,626469.0340352313,Increasing Batt Cap - Benchmark Chemistry
+2045,Lithium,58802.8828744319,Increasing Batt Cap - Benchmark Chemistry
+2045,Manganese,31879.007921573168,Increasing Batt Cap - Benchmark Chemistry
+2045,Nickel,294350.37513090397,Increasing Batt Cap - Benchmark Chemistry
+2045,Cobalt,44278.61977236401,Increasing Batt Cap - High LFP Chemistry
+2045,Copper,321610.450216385,Increasing Batt Cap - High LFP Chemistry
+2045,Graphite,632874.4856648864,Increasing Batt Cap - High LFP Chemistry
+2045,Lithium,58086.029447996356,Increasing Batt Cap - High LFP Chemistry
+2045,Manganese,26230.630578741122,Increasing Batt Cap - High LFP Chemistry
+2045,Nickel,242252.0795436459,Increasing Batt Cap - High LFP Chemistry
+2046,Cobalt,39166.07371642386,Decreasing Batt Cap - Benchmark Chemistry
+2046,Copper,219464.12209483553,Decreasing Batt Cap - Benchmark Chemistry
+2046,Graphite,450311.0974119057,Decreasing Batt Cap - Benchmark Chemistry
+2046,Lithium,42342.76774611015,Decreasing Batt Cap - Benchmark Chemistry
+2046,Manganese,23317.822159182673,Decreasing Batt Cap - Benchmark Chemistry
+2046,Nickel,215682.0102524257,Decreasing Batt Cap - Benchmark Chemistry
+2046,Cobalt,31942.743882866074,Decreasing Batt Cap - High LFP Chemistry
+2046,Copper,231545.1816989694,Decreasing Batt Cap - High LFP Chemistry
+2046,Graphite,456159.50619994383,Decreasing Batt Cap - High LFP Chemistry
+2046,Lithium,41874.99058731556,Decreasing Batt Cap - High LFP Chemistry
+2046,Manganese,18997.664166089166,Decreasing Batt Cap - High LFP Chemistry
+2046,Nickel,175741.4205373397,Decreasing Batt Cap - High LFP Chemistry
+2046,Cobalt,62395.39360967075,Increasing Batt Cap - Benchmark Chemistry
+2046,Copper,355285.68348317925,Increasing Batt Cap - Benchmark Chemistry
+2046,Graphite,727959.4313889989,Increasing Batt Cap - Benchmark Chemistry
+2046,Lithium,68339.62686892215,Increasing Batt Cap - Benchmark Chemistry
+2046,Manganese,37455.86519603071,Increasing Batt Cap - Benchmark Chemistry
+2046,Nickel,346036.85639143304,Increasing Batt Cap - Benchmark Chemistry
+2046,Cobalt,50233.13271248252,Increasing Batt Cap - High LFP Chemistry
+2046,Copper,374595.5168214569,Increasing Batt Cap - High LFP Chemistry
+2046,Graphite,735924.941308402,Increasing Batt Cap - High LFP Chemistry
+2046,Lithium,67395.06081698762,Increasing Batt Cap - High LFP Chemistry
+2046,Manganese,30155.629825053926,Increasing Batt Cap - High LFP Chemistry
+2046,Nickel,278447.42399127514,Increasing Batt Cap - High LFP Chemistry
+2047,Cobalt,43458.79947203622,Decreasing Batt Cap - Benchmark Chemistry
+2047,Copper,245099.79169506568,Decreasing Batt Cap - Benchmark Chemistry
+2047,Graphite,503608.09847356286,Decreasing Batt Cap - Benchmark Chemistry
+2047,Lithium,47323.152579468064,Decreasing Batt Cap - Benchmark Chemistry
+2047,Manganese,26174.029813965357,Decreasing Batt Cap - Benchmark Chemistry
+2047,Nickel,242467.2830048968,Decreasing Batt Cap - Benchmark Chemistry
+2047,Cobalt,34639.815945329756,Decreasing Batt Cap - High LFP Chemistry
+2047,Copper,259826.00349678373,Decreasing Batt Cap - High LFP Chemistry
+2047,Graphite,510492.4601071553,Decreasing Batt Cap - High LFP Chemistry
+2047,Lithium,46728.42160909076,Decreasing Batt Cap - High LFP Chemistry
+2047,Manganese,20862.706885624706,Decreasing Batt Cap - High LFP Chemistry
+2047,Nickel,193159.36559605223,Decreasing Batt Cap - High LFP Chemistry
+2047,Cobalt,71358.82765174157,Increasing Batt Cap - Benchmark Chemistry
+2047,Copper,405920.30536748463,Increasing Batt Cap - Benchmark Chemistry
+2047,Graphite,833762.942000944,Increasing Batt Cap - Benchmark Chemistry
+2047,Lithium,78279.7912817752,Increasing Batt Cap - Benchmark Chemistry
+2047,Manganese,43251.656040074435,Increasing Batt Cap - Benchmark Chemistry
+2047,Nickel,400525.0957348698,Increasing Batt Cap - Benchmark Chemistry
+2047,Cobalt,56182.55182000233,Increasing Batt Cap - High LFP Chemistry
+2047,Copper,430083.2843166181,Increasing Batt Cap - High LFP Chemistry
+2047,Graphite,843466.2696155034,Increasing Batt Cap - High LFP Chemistry
+2047,Lithium,77077.61200201944,Increasing Batt Cap - High LFP Chemistry
+2047,Manganese,34082.45835657188,Increasing Batt Cap - High LFP Chemistry
+2047,Nickel,315301.4321652143,Increasing Batt Cap - High LFP Chemistry
+2048,Cobalt,47567.56882037279,Decreasing Batt Cap - Benchmark Chemistry
+2048,Copper,270154.1809882002,Decreasing Batt Cap - Benchmark Chemistry
+2048,Graphite,555741.6454315671,Decreasing Batt Cap - Benchmark Chemistry
+2048,Lithium,52185.51227602266,Decreasing Batt Cap - Benchmark Chemistry
+2048,Manganese,28943.35386017134,Decreasing Batt Cap - Benchmark Chemistry
+2048,Nickel,268724.093517003,Decreasing Batt Cap - Benchmark Chemistry
+2048,Cobalt,37073.5582959031,Decreasing Batt Cap - High LFP Chemistry
+2048,Copper,287693.0689415428,Decreasing Batt Cap - High LFP Chemistry
+2048,Graphite,563704.6523395407,Decreasing Batt Cap - High LFP Chemistry
+2048,Lithium,51455.9985739633,Decreasing Batt Cap - High LFP Chemistry
+2048,Manganese,22576.846399137237,Decreasing Batt Cap - High LFP Chemistry
+2048,Nickel,209408.8256307994,Decreasing Batt Cap - High LFP Chemistry
+2048,Cobalt,80442.16291810862,Increasing Batt Cap - Benchmark Chemistry
+2048,Copper,457688.06439788156,Increasing Batt Cap - Benchmark Chemistry
+2048,Graphite,942140.644741237,Increasing Batt Cap - Benchmark Chemistry
+2048,Lithium,88453.13033029929,Increasing Batt Cap - Benchmark Chemistry
+2048,Manganese,49185.64465033947,Increasing Batt Cap - Benchmark Chemistry
+2048,Nickel,456719.6974225647,Increasing Batt Cap - Benchmark Chemistry
+2048,Cobalt,61969.449061265426,Increasing Batt Cap - High LFP Chemistry
+2048,Copper,487227.49242709536,Increasing Batt Cap - High LFP Chemistry
+2048,Graphite,953741.7179833716,Increasing Batt Cap - High LFP Chemistry
+2048,Lithium,86967.62352809148,Increasing Batt Cap - High LFP Chemistry
+2048,Manganese,37946.71516863208,Increasing Batt Cap - High LFP Chemistry
+2048,Nickel,351912.6143639949,Increasing Batt Cap - High LFP Chemistry
+2049,Cobalt,51300.664734365004,Decreasing Batt Cap - Benchmark Chemistry
+2049,Copper,293891.18605178664,Decreasing Batt Cap - Benchmark Chemistry
+2049,Graphite,605071.4077199985,Decreasing Batt Cap - Benchmark Chemistry
+2049,Lithium,56768.91191190968,Decreasing Batt Cap - Benchmark Chemistry
+2049,Manganese,31532.822733412188,Decreasing Batt Cap - Benchmark Chemistry
+2049,Nickel,293362.96342586994,Decreasing Batt Cap - Benchmark Chemistry
+2049,Cobalt,39133.443187779856,Decreasing Batt Cap - High LFP Chemistry
+2049,Copper,314291.01108533406,Decreasing Batt Cap - High LFP Chemistry
+2049,Graphite,614113.1500234136,Decreasing Batt Cap - High LFP Chemistry
+2049,Lithium,55903.928005542104,Decreasing Batt Cap - High LFP Chemistry
+2049,Manganese,24090.324141509795,Decreasing Batt Cap - High LFP Chemistry
+2049,Nickel,223839.5738445238,Decreasing Batt Cap - High LFP Chemistry
+2049,Cobalt,89012.49521383649,Increasing Batt Cap - Benchmark Chemistry
+2049,Copper,508030.45038623764,Increasing Batt Cap - Benchmark Chemistry
+2049,Graphite,1047479.4470102922,Increasing Batt Cap - Benchmark Chemistry
+2049,Lithium,98312.47722728232,Increasing Batt Cap - Benchmark Chemistry
+2049,Manganese,54916.32127715145,Increasing Batt Cap - Benchmark Chemistry
+2049,Nickel,511093.367368205,Increasing Batt Cap - Benchmark Chemistry
+2049,Cobalt,67169.82228702729,Increasing Batt Cap - High LFP Chemistry
+2049,Copper,543164.4498795323,Increasing Batt Cap - High LFP Chemistry
+2049,Graphite,1061031.5163847867,Increasing Batt Cap - High LFP Chemistry
+2049,Lithium,96536.52681736586,Increasing Batt Cap - High LFP Chemistry
+2049,Manganese,41521.3553673038,Increasing Batt Cap - High LFP Chemistry
+2049,Nickel,385882.2736218518,Increasing Batt Cap - High LFP Chemistry
+2050,Cobalt,54585.86584645105,Decreasing Batt Cap - Benchmark Chemistry
+2050,Copper,316170.539335572,Decreasing Batt Cap - Benchmark Chemistry
+2050,Graphite,651220.6568217365,Decreasing Batt Cap - Benchmark Chemistry
+2050,Lithium,61032.715044789315,Decreasing Batt Cap - Benchmark Chemistry
+2050,Manganese,33915.263303664986,Decreasing Batt Cap - Benchmark Chemistry
+2050,Nickel,315993.3796586562,Decreasing Batt Cap - Benchmark Chemistry
+2050,Cobalt,40804.612767893355,Decreasing Batt Cap - High LFP Chemistry
+2050,Copper,339395.6848429938,Decreasing Batt Cap - High LFP Chemistry
+2050,Graphite,661310.0864292312,Decreasing Batt Cap - High LFP Chemistry
+2050,Lithium,60036.51840631039,Decreasing Batt Cap - High LFP Chemistry
+2050,Manganese,25405.78965047564,Decreasing Batt Cap - High LFP Chemistry
+2050,Nickel,236367.4533435957,Decreasing Batt Cap - High LFP Chemistry
+2050,Cobalt,96791.24644221058,Increasing Batt Cap - Benchmark Chemistry
+2050,Copper,556063.6759709638,Increasing Batt Cap - Benchmark Chemistry
+2050,Graphite,1147735.5985914217,Increasing Batt Cap - Benchmark Chemistry
+2050,Lithium,107652.3831352575,Increasing Batt Cap - Benchmark Chemistry
+2050,Manganese,60304.92420065087,Increasing Batt Cap - Benchmark Chemistry
+2050,Nickel,562130.6079659944,Increasing Batt Cap - Benchmark Chemistry
+2050,Cobalt,71641.21258339651,Increasing Batt Cap - High LFP Chemistry
+2050,Copper,596815.6157456976,Increasing Batt Cap - High LFP Chemistry
+2050,Graphite,1163224.876665382,Increasing Batt Cap - High LFP Chemistry
+2050,Lithium,105591.1557610409,Increasing Batt Cap - High LFP Chemistry
+2050,Manganese,44740.12934026507,Increasing Batt Cap - High LFP Chemistry
+2050,Nickel,416419.8370505941,Increasing Batt Cap - High LFP Chemistry

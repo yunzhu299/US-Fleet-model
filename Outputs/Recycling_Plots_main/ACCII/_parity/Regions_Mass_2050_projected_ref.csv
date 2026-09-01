@@ -1,0 +1,61 @@
+Region,Origin,Metric Tonnes (millions)
+Canada-East,LIB Demand,1.1956622955575804
+Canada-East,Pack Manufacturing,0.7496032910202518
+Canada-East,Cell Manufacturing,1.403681196479397
+Canada-East,End of Life Batteries,0.6858283232676687
+Canada-East,Black Mass,0.068
+Canada-East,Refining,0.0325
+Canada-Midwest,LIB Demand,0.1302500729273457
+Canada-Midwest,Pack Manufacturing,0
+Canada-Midwest,Cell Manufacturing,0
+Canada-Midwest,End of Life Batteries,0.07194140210465685
+Canada-Midwest,Black Mass,0
+Canada-Midwest,Refining,0
+Canada-Mountain,LIB Demand,0.2910798287365335
+Canada-Mountain,Pack Manufacturing,0
+Canada-Mountain,Cell Manufacturing,0
+Canada-Mountain,End of Life Batteries,0.15462689178080172
+Canada-Mountain,Black Mass,0
+Canada-Mountain,Refining,0
+Canada-West,LIB Demand,0.2606527549774341
+Canada-West,Pack Manufacturing,0
+Canada-West,Cell Manufacturing,0
+Canada-West,End of Life Batteries,0.14719158591113632
+Canada-West,Black Mass,0.25
+Canada-West,Refining,0.25
+Mexico,LIB Demand,0.11024534538403671
+Mexico,Pack Manufacturing,0.08671258408835963
+Mexico,Cell Manufacturing,0
+Mexico,End of Life Batteries,0.6659696282424172
+Mexico,Black Mass,0
+Mexico,Refining,0
+US-East,LIB Demand,4.29935202966026
+US-East,Pack Manufacturing,2.4445119805325435
+US-East,Cell Manufacturing,1.5277643899655782
+US-East,End of Life Batteries,2.3141414648000547
+US-East,Black Mass,0.147475
+US-East,Refining,0.234713316189
+US-Midwest,LIB Demand,1.905680561422392
+US-Midwest,Pack Manufacturing,3.398063015225808
+US-Midwest,Cell Manufacturing,3.7160612727849296
+US-Midwest,End of Life Batteries,1.0204634625080096
+US-Midwest,Black Mass,0.06428500000000001
+US-Midwest,Refining,0.26009602166
+US-Mountain,LIB Demand,0.7979072062605201
+US-Mountain,Pack Manufacturing,0.19894344292272223
+US-Mountain,Cell Manufacturing,0.45875828577637334
+US-Mountain,End of Life Batteries,0.42247195094559364
+US-Mountain,Black Mass,0.0141
+US-Mountain,Refining,0
+US-South,LIB Demand,2.0829715852353057
+US-South,Pack Manufacturing,3.738055624929058
+US-South,Cell Manufacturing,1.2154115623166257
+US-South,End of Life Batteries,1.0338434457931769
+US-South,Black Mass,0.11262899999999999
+US-South,Refining,0.36367318170400004
+US-West,LIB Demand,2.726956862639453
+US-West,Pack Manufacturing,2.7572425586223073
+US-West,Cell Manufacturing,0.12078648892172741
+US-West,End of Life Batteries,1.5596792186761412
+US-West,Black Mass,0.26189836185
+US-West,Refining,0.26189836185

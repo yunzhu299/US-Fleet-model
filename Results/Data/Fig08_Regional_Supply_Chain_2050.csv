@@ -1,0 +1,71 @@
+Region,Source metric,Metric tonnes,Display metric,Million metric tonnes
+Canada-East,Add_LIB_proj_tonnes,1195662.2955575804,LIB demand,1.1956622955575804
+Canada-Midwest,Add_LIB_proj_tonnes,130250.0729273457,LIB demand,0.1302500729273457
+Canada-Mountain,Add_LIB_proj_tonnes,291079.82873653347,LIB demand,0.2910798287365335
+Canada-West,Add_LIB_proj_tonnes,260652.7549774341,LIB demand,0.26065275497743406
+Mexico,Add_LIB_proj_tonnes,110245.34538403671,LIB demand,0.11024534538403671
+US-East,Add_LIB_proj_tonnes,4299352.029660259,LIB demand,4.299352029660259
+US-Midwest,Add_LIB_proj_tonnes,1905680.561422392,LIB demand,1.905680561422392
+US-Mountain,Add_LIB_proj_tonnes,797907.2062605201,LIB demand,0.7979072062605201
+US-South,Add_LIB_proj_tonnes,2082971.5852353058,LIB demand,2.0829715852353057
+US-West,Add_LIB_proj_tonnes,2726956.8626394533,LIB demand,2.726956862639453
+Canada-East,Tonnes_Prod_proj_down,749603.2910202518,Pack Mfg.,0.7496032910202518
+Canada-Midwest,Tonnes_Prod_proj_down,0.0,Pack Mfg.,0.0
+Canada-Mountain,Tonnes_Prod_proj_down,0.0,Pack Mfg.,0.0
+Canada-West,Tonnes_Prod_proj_down,0.0,Pack Mfg.,0.0
+Mexico,Tonnes_Prod_proj_down,86712.58408835964,Pack Mfg.,0.08671258408835963
+US-East,Tonnes_Prod_proj_down,2444511.9805325437,Pack Mfg.,2.444511980532544
+US-Midwest,Tonnes_Prod_proj_down,3398063.0152258077,Pack Mfg.,3.398063015225808
+US-Mountain,Tonnes_Prod_proj_down,198943.44292272223,Pack Mfg.,0.19894344292272223
+US-South,Tonnes_Prod_proj_down,3738055.6249290574,Pack Mfg.,3.7380556249290575
+US-West,Tonnes_Prod_proj_down,2757242.558622307,Pack Mfg.,2.7572425586223073
+Canada-East,Tonnes_Prod_proj_mid,1403681.196479397,Cell Mfg.,1.403681196479397
+Canada-Midwest,Tonnes_Prod_proj_mid,0.0,Cell Mfg.,0.0
+Canada-Mountain,Tonnes_Prod_proj_mid,0.0,Cell Mfg.,0.0
+Canada-West,Tonnes_Prod_proj_mid,0.0,Cell Mfg.,0.0
+Mexico,Tonnes_Prod_proj_mid,0.0,Cell Mfg.,0.0
+US-East,Tonnes_Prod_proj_mid,1527764.389965578,Cell Mfg.,1.527764389965578
+US-Midwest,Tonnes_Prod_proj_mid,3716061.2727849297,Cell Mfg.,3.7160612727849296
+US-Mountain,Tonnes_Prod_proj_mid,458758.2857763734,Cell Mfg.,0.4587582857763734
+US-South,Tonnes_Prod_proj_mid,1215411.5623166256,Cell Mfg.,1.2154115623166255
+US-West,Tonnes_Prod_proj_mid,120786.48892172742,Cell Mfg.,0.12078648892172741
+Canada-East,Recycle_Batt_Proj,685828.3232676687,EoL batteries,0.6858283232676687
+Canada-Midwest,Recycle_Batt_Proj,71941.40210465685,EoL batteries,0.07194140210465685
+Canada-Mountain,Recycle_Batt_Proj,154626.89178080173,EoL batteries,0.15462689178080172
+Canada-West,Recycle_Batt_Proj,147191.58591113632,EoL batteries,0.14719158591113632
+Mexico,Recycle_Batt_Proj,665969.6282424172,EoL batteries,0.6659696282424172
+US-East,Recycle_Batt_Proj,2314141.4648000547,EoL batteries,2.3141414648000547
+US-Midwest,Recycle_Batt_Proj,1020463.4625080096,EoL batteries,1.0204634625080096
+US-Mountain,Recycle_Batt_Proj,422471.95094559365,EoL batteries,0.42247195094559364
+US-South,Recycle_Batt_Proj,1033843.445793177,EoL batteries,1.033843445793177
+US-West,Recycle_Batt_Proj,1559679.218676141,EoL batteries,1.559679218676141
+Canada-East,Tonnes_Scrap_proj_mid,61850.39895823873,Mfg. Scrap,0.06185039895823873
+Canada-Midwest,Tonnes_Scrap_proj_mid,0.0,Mfg. Scrap,0.0
+Canada-Mountain,Tonnes_Scrap_proj_mid,0.0,Mfg. Scrap,0.0
+Canada-West,Tonnes_Scrap_proj_mid,0.0,Mfg. Scrap,0.0
+Mexico,Tonnes_Scrap_proj_mid,0.0,Mfg. Scrap,0.0
+US-East,Tonnes_Scrap_proj_mid,67317.87621759181,Mfg. Scrap,0.0673178762175918
+US-Midwest,Tonnes_Scrap_proj_mid,163740.7930315478,Mfg. Scrap,0.1637407930315478
+US-Mountain,Tonnes_Scrap_proj_mid,20214.264515213847,Mfg. Scrap,0.020214264515213846
+US-South,Tonnes_Scrap_proj_mid,53554.674819527594,Mfg. Scrap,0.053554674819527595
+US-West,Tonnes_Scrap_proj_mid,5322.21457928704,Mfg. Scrap,0.00532221457928704
+Canada-East,Cumulative_black_mass_cap,68000.0,Preprocessing (black mass prod.),0.068
+Canada-Midwest,Cumulative_black_mass_cap,0.0,Preprocessing (black mass prod.),0.0
+Canada-Mountain,Cumulative_black_mass_cap,0.0,Preprocessing (black mass prod.),0.0
+Canada-West,Cumulative_black_mass_cap,250000.0,Preprocessing (black mass prod.),0.25
+Mexico,Cumulative_black_mass_cap,0.0,Preprocessing (black mass prod.),0.0
+US-East,Cumulative_black_mass_cap,147475.0,Preprocessing (black mass prod.),0.147475
+US-Midwest,Cumulative_black_mass_cap,64285.0,Preprocessing (black mass prod.),0.064285
+US-Mountain,Cumulative_black_mass_cap,14100.0,Preprocessing (black mass prod.),0.0141
+US-South,Cumulative_black_mass_cap,112629.0,Preprocessing (black mass prod.),0.112629
+US-West,Cumulative_black_mass_cap,261898.36185,Preprocessing (black mass prod.),0.26189836185
+Canada-East,Cumulative_refining_cap,32500.0,Materials recovery (refining),0.0325
+Canada-Midwest,Cumulative_refining_cap,0.0,Materials recovery (refining),0.0
+Canada-Mountain,Cumulative_refining_cap,0.0,Materials recovery (refining),0.0
+Canada-West,Cumulative_refining_cap,250000.0,Materials recovery (refining),0.25
+Mexico,Cumulative_refining_cap,0.0,Materials recovery (refining),0.0
+US-East,Cumulative_refining_cap,234713.316189,Materials recovery (refining),0.23471331618900002
+US-Midwest,Cumulative_refining_cap,260096.02166,Materials recovery (refining),0.26009602166
+US-Mountain,Cumulative_refining_cap,0.0,Materials recovery (refining),0.0
+US-South,Cumulative_refining_cap,363673.1817040001,Materials recovery (refining),0.3636731817040001
+US-West,Cumulative_refining_cap,261898.36185,Materials recovery (refining),0.26189836185

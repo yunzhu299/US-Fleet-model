@@ -1,0 +1,9 @@
+Mineral,Cumulative loss (thousand metric tonnes),Year,Policy scenario
+Manganese,7.168531207216345,2035,Policy Baseline
+Copper,4.570895205174094,2035,Policy Baseline
+Lithium,16.472771378084307,2035,Policy Baseline
+Graphite,174.42698325104905,2035,Policy Baseline
+Manganese,6.642251084369248,2035,Policy Rollback
+Copper,4.104616269824275,2035,Policy Rollback
+Lithium,14.965029448887014,2035,Policy Rollback
+Graphite,157.63501182016253,2035,Policy Rollback

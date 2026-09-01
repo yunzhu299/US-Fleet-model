@@ -1,0 +1,208 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram id="two-stream-framework" name="Two-stream Framework">
+    <mxGraphModel dx="1394" dy="1033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1450" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="scope_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#71808D;strokeWidth=1.5;dashed=1;dashPattern=6 5;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="130" width="396.5" x="1039.5" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="scope_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=12;fontFamily=Helvetica;fontSize=11;fontColor=#4D5B66;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Spatial resolution:&lt;/b&gt; US(states),&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Canada(provinces),&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(77, 91, 102), rgb(151, 163, 173));&quot;&gt;Mexico(national)&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Time horizon:&lt;/b&gt; 2025–2050&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Vehicle segments:&lt;/b&gt; LDV(Car,Trucks), MDV, HDV&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Powertrains: &lt;/b&gt;ICE(&amp;amp;HEV), PHEV. BEV&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="63" width="345.5" x="1039.5" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="param_panel" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F7F9;strokeColor=#93A1AD;strokeWidth=1.3;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="525" width="235" x="45" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="param_title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#4D5B66;" value="&lt;b&gt;PARAMETERS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="28" width="195" x="65" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA7B2;strokeWidth=1.1;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Fleet baseline &amp;amp; population&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#6F7F8C&quot; style=&quot;font-size: 12px;&quot;&gt;[EPA, 2025; DOE, 2025; StatCan, 2025; UVA, 2025;&lt;br&gt;G-STEM, n.d.; Parés et al., 2023]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="185" x="70" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA7B2;strokeWidth=1.1;fontFamily=Helvetica;fontSize=12;" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;EV adoption &amp;amp; sales&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#6F7F8C&quot; style=&quot;font-size: 12px;&quot;&gt;[RMI, 2023; ENME, 2023; FRED, 2025; J.D. Power, 2025;&lt;br&gt;StatCan, 2025; INEGI, 2026; ICCT, 2025]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="185" x="70" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA7B2;strokeWidth=1.1;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Survival functions&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="185" x="70" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA7B2;strokeWidth=1.1;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Reuse • Repurpose • Recycle&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#6F7F8C&quot; style=&quot;font-size: 12px;&quot;&gt;[scenario assumption]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="68" width="185" x="70" y="467" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA7B2;strokeWidth=1.1;fontFamily=Helvetica;fontSize=12;" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Battery specs &amp;amp; mineral intensity&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#6F7F8C&quot; style=&quot;font-size: 12px;&quot;&gt;[Benchmark Minerals, n.d.; J.D. Power, 2025; ANL, 2024]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="185" x="70" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="fleet" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F1FA;strokeColor=#2D6A9F;strokeWidth=2;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;arcSize=10;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#174A7E&quot;&gt;&lt;b style=&quot;&quot;&gt;FLEET TURNOVER&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;Baseline stock&lt;/b&gt;&lt;br&gt;↓&lt;br&gt;&lt;b style=&quot;&quot;&gt;Annual aging &amp;amp; retirement&lt;/b&gt;&lt;br&gt;↓&lt;br&gt;&lt;b style=&quot;&quot;&gt;New ICE &amp;amp; EV sales&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="340" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="fleet_out" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6E7F5;strokeColor=#2D6A9F;strokeWidth=1.3;fontFamily=Helvetica;fontSize=13;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Stocks • Sales • Retirements&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;geography × segment × year&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="62" width="230" x="365" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="fate" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F1FA;strokeColor=#2D6A9F;strokeWidth=2;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;arcSize=10;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#174A7E&quot;&gt;&lt;b style=&quot;&quot;&gt;EV–LIB FATE MODEL&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Independent aging&lt;br&gt;↓&lt;br&gt;&lt;b style=&quot;&quot;&gt;Reuse • Second life • Recycle&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="280" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="demand" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6E7F5;strokeColor=#2D6A9F;strokeWidth=1.3;fontFamily=Helvetica;fontSize=13;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Projected LIB demand&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;new EVs + replacements&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="62" width="230" x="365" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_lane" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF8F6;strokeColor=#29927E;strokeWidth=1.7;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="350" width="320" x="690" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#167461;" value="&lt;b&gt;POST-CONSUMER RECYCLING&lt;/b&gt;" vertex="1">
+          <mxGeometry height="28" width="270" x="715" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_export_param" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA99F;strokeWidth=1;fontFamily=Helvetica;fontSize=11;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Export rate&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#5E8078&quot; style=&quot;font-size: 12px;&quot;&gt;[U.S. Commerce, 2025; Parés et al., 2023]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="750" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_retired" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFEDE7;strokeColor=#29927E;strokeWidth=1.3;fontFamily=Helvetica;fontSize=13;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Retired EV batteries&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;after export adjustment&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="65" width="250" x="725" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="bess" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDF3EF;strokeColor=#29927E;strokeWidth=1.3;fontFamily=Helvetica;fontSize=13;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Second-life BESS&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;repurposed LIBs&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="250" x="725" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_feed" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFE5DD;strokeColor=#167461;strokeWidth=1.6;fontFamily=Helvetica;fontSize=13;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Post-consumer feedstock&lt;/b&gt;&lt;br&gt;EV LIBs + BESS LIBs&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="250" x="725" y="417" as="geometry" />
+        </mxCell>
+        <mxCell id="mfg_lane" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6EB;strokeColor=#D68632;strokeWidth=1.7;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="215" width="320" x="690" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="mfg_title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#B66819;" value="&lt;b&gt;MANUFACTURING SCRAP&lt;/b&gt;" vertex="1">
+          <mxGeometry height="28" width="260" x="720" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="production" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE3C6;strokeColor=#D68632;strokeWidth=1.3;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Domestic production&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#9A6A38&quot; style=&quot;font-size: 12px;&quot;&gt;[NaatBatt, 2021; EDF, n.d.;&lt;br&gt;ICCT, 2025]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="150" x="710" y="578" as="geometry" />
+        </mxCell>
+        <mxCell id="mfg_feed" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8D5AD;strokeColor=#B66819;strokeWidth=1.6;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Manufacturing scrap&lt;/b&gt;&lt;br&gt;production × scrap rate&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="115" x="875" y="578" as="geometry" />
+        </mxCell>
+        <mxCell id="p_scrap" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8A28A;strokeWidth=1;fontFamily=Helvetica;fontSize=11;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Scrap rate&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#9A6A38&quot; style=&quot;font-size: 12px;&quot;&gt;[BatPaC/ANL, 2024]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42" width="145" x="790" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="merge" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3EEF8;strokeColor=#74549A;strokeWidth=2;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;arcSize=10;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CAPACITY-CONSTRAINED ALLOCATION&lt;/b&gt;&lt;br&gt;&lt;br&gt;Post-consumer + manufacturing scrap&lt;/font&gt;" vertex="1">
+          <mxGeometry height="125" width="300" x="1070" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="capacity" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8A78A1;strokeWidth=1.1;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Recycling capacity&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#766889&quot; style=&quot;font-size: 12px;&quot;&gt;[NaatBatt, 2021; EDF, n.d.; ICCT, 2025]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="62" width="240" x="1100" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="recovery" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3EEF8;strokeColor=#74549A;strokeWidth=2;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;arcSize=10;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;MINERAL RECOVERY&lt;/b&gt;&lt;br&gt;&lt;br&gt;Mineral intensity × recovery rates&lt;br&gt;&lt;font color=&quot;#766889&quot; style=&quot;font-size: 12px;&quot;&gt;[EverBatt, 2019; EU, 2023]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="300" x="1070" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="outputs_bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F5FB;strokeColor=#A493B8;strokeWidth=1.2;dashed=1;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="140" width="360" x="1050" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="outputs_title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#5E447C;" value="&lt;b&gt;KEY RESULTS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="1110" y="639" as="geometry" />
+        </mxCell>
+        <mxCell id="out1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8E1F0;strokeColor=#74549A;strokeWidth=1.2;fontFamily=Helvetica;fontSize=11;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Recovered minerals&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="155" x="1070" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="out2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8E1F0;strokeColor=#74549A;strokeWidth=1.2;fontFamily=Helvetica;fontSize=11;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Exports&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="155" x="1235" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="out3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8E1F0;strokeColor=#74549A;strokeWidth=1.2;fontFamily=Helvetica;fontSize=11;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Recycling capacity gap&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="155" x="1070" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="out4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8E1F0;strokeColor=#74549A;strokeWidth=1.2;fontFamily=Helvetica;fontSize=11;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;RCS&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="155" x="1235" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p1_fleet" edge="1" parent="1" source="p1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#8997A2;strokeWidth=1.2;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.3;" target="fleet">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p2_fleet" edge="1" parent="1" source="p2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#8997A2;strokeWidth=1.2;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.7;" target="fleet">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p3_fate" edge="1" parent="1" source="p3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#8997A2;strokeWidth=1.2;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.3;" target="fate">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p4_fate" edge="1" parent="1" source="p4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#8997A2;strokeWidth=1.2;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.7;" target="fate">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p5_demand" edge="1" parent="1" source="p5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#8997A2;strokeWidth=1.2;endArrow=block;endFill=1;" target="demand">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_export_retired" edge="1" parent="1" source="pc_export_param" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#7EA99F;strokeWidth=1;endArrow=block;endFill=1;" target="pc_retired">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fleet_out" edge="1" parent="1" source="fleet" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A9F;strokeWidth=1.6;endArrow=block;endFill=1;" target="fleet_out">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fleet_fate" edge="1" parent="1" source="fleet_out" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A9F;strokeWidth=1.7;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#174A7E;labelBackgroundColor=#FFFFFF;" target="fate" value="EV retirements">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fate_demand" edge="1" parent="1" source="fate" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A9F;strokeWidth=1.5;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#174A7E;labelBackgroundColor=#FFFFFF;" target="demand" value="replacement demand">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fate_retired" edge="1" parent="1" source="fate" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#167461;strokeWidth=1.8;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#167461;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.25;entryX=0;entryY=0.5;" target="pc_retired" value="recycle">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="508" />
+              <mxPoint x="650" y="245" />
+              <mxPoint x="725" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_fate_bess" edge="1" parent="1" source="fate" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#167461;strokeWidth=1.8;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#167461;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.75;entryX=0;entryY=0.5;" target="bess" value="repurpose">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="583" />
+              <mxPoint x="660" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_retired_feed" edge="1" parent="1" source="pc_retired" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#167461;strokeWidth=1.6;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=1;entryY=0.5;" target="pc_feed">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="264" />
+              <mxPoint x="990" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_bess_feed" edge="1" parent="1" source="bess" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#167461;strokeWidth=1.5;dashed=1;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#167461;labelBackgroundColor=#EEF8F6;exitX=0.65;exitY=1;entryX=0.65;entryY=0;" target="pc_feed" value="BESS retirement">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_demand_prod" edge="1" parent="1" source="demand" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B66819;strokeWidth=1.8;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#B66819;labelBackgroundColor=#FFFFFF;" target="production" value="battery demand">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_prod_scrap" edge="1" parent="1" source="production" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B66819;strokeWidth=1.7;endArrow=block;endFill=1;" target="mfg_feed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pscrap_mfg" edge="1" parent="1" source="p_scrap" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B8A28A;strokeWidth=1.1;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0.5;entryY=1;" target="mfg_feed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pc_merge" edge="1" parent="1" source="pc_feed" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#167461;strokeWidth=2;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#167461;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.5;entryX=0;entryY=0.3;" target="merge" value="post-consumer">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="446" />
+              <mxPoint x="1040" y="278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_mfg_merge" edge="1" parent="1" source="mfg_feed" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#B66819;strokeWidth=2;endArrow=block;endFill=1;fontFamily=Helvetica;fontSize=13;fontColor=#B66819;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.5;entryX=0;entryY=0.7;" target="merge" value="manufacturing scrap">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="620" />
+              <mxPoint x="1035" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_cap_merge" edge="1" parent="1" source="capacity" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#8A78A1;strokeWidth=1.2;endArrow=block;endFill=1;" target="merge">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_merge_recovery" edge="1" parent="1" source="merge" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#74549A;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=1;entryY=0.5;" target="recovery">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="303" />
+              <mxPoint x="1400" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_recovery_results" edge="1" parent="1" source="recovery" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#74549A;strokeWidth=2;endArrow=block;endFill=1;" target="outputs_bg">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="685" />
+              <mxPoint x="1220" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
