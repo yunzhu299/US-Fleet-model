@@ -10,9 +10,9 @@ message("=== 01 Fleet turnover ===")
 source(file.path("Scripts", "01-Fleet_Turnover", "00-Run_Fleet_Turnover_Pipeline.R"))
 
 message("=== 02 Recycling analysis ===")
-source(file.path("Scripts", "02-Recycling_Analysis", "98-Run_Recycling_Data_Exports.R"))
+source(file.path("Scripts", "02-Recycling_Analysis", "00-Run_Recycling_Pipeline.R"))
 
 message("=== 03 Figures ===")
-source(file.path("Scripts", "03-Figures", "99-Run_All_Figures.R"))
+source(file.path("Scripts", "03-Figures", "Run_All_Main_Text_Figures.R"))
 
 message("=== Full pipeline complete ===")

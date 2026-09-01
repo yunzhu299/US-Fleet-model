@@ -180,7 +180,7 @@ Year,State_Province,Origin,Metric Tonnes (millions)
 2050,MT,Black Mass,0
 2050,MT,Refining,0
 2050,MX,LIB Demand,0.11024534538403671
-2050,MX,Pack Manufacturing,0
+2050,MX,Pack Manufacturing,0.08671258408835963
 2050,MX,Cell Manufacturing,0
 2050,MX,End of Life Batteries,0.6659696282424172
 2050,MX,Black Mass,0
@@ -389,9 +389,3 @@ Year,State_Province,Origin,Metric Tonnes (millions)
 2050,YT,End of Life Batteries,0.0014853816677676069
 2050,YT,Black Mass,0
 2050,YT,Refining,0
-2050,SLP ,LIB Demand,0
-2050,SLP ,Pack Manufacturing,0.08671258408835963
-2050,SLP ,Cell Manufacturing,0
-2050,SLP ,End of Life Batteries,NA
-2050,SLP ,Black Mass,0
-2050,SLP ,Refining,0

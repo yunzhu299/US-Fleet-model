@@ -2,7 +2,7 @@ Panel,Policy scenario,Country,Metric,Million metric tonnes
 Increasing LIB Capacity,Policy Baseline,MX,LIB demand,0.11024534538403671
 Increasing LIB Capacity,Policy Baseline,US,LIB demand,11.812868245217933
 Increasing LIB Capacity,Policy Baseline,CA,LIB demand,1.8776449521988934
-Increasing LIB Capacity,Policy Baseline,MX,Pack Mfg.,0.0
+Increasing LIB Capacity,Policy Baseline,MX,Pack Mfg.,0.08671258408835963
 Increasing LIB Capacity,Policy Baseline,US,Pack Mfg.,12.536816622232438
 Increasing LIB Capacity,Policy Baseline,CA,Pack Mfg.,0.7496032910202518
 Increasing LIB Capacity,Policy Baseline,MX,Cell Mfg.,0.0
@@ -17,7 +17,7 @@ Increasing LIB Capacity,Policy Baseline,CA,Mfg. Scrap,0.06185039895823873
 Increasing LIB Capacity,Policy Rollback,MX,LIB demand,0.020397441652218355
 Increasing LIB Capacity,Policy Rollback,US,LIB demand,9.584875498766218
 Increasing LIB Capacity,Policy Rollback,CA,LIB demand,1.04355187188417
-Increasing LIB Capacity,Policy Rollback,MX,Pack Mfg.,0.0
+Increasing LIB Capacity,Policy Rollback,MX,Pack Mfg.,0.0676166079199273
 Increasing LIB Capacity,Policy Rollback,US,Pack Mfg.,9.775939940225047
 Increasing LIB Capacity,Policy Rollback,CA,Pack Mfg.,0.5845245226777597
 Increasing LIB Capacity,Policy Rollback,MX,Cell Mfg.,0.0
@@ -32,7 +32,7 @@ Increasing LIB Capacity,Policy Rollback,CA,Mfg. Scrap,0.058621404369003205
 Decreasing LIB Capacity,Policy Baseline,MX,LIB demand,0.06637732855497551
 Decreasing LIB Capacity,Policy Baseline,US,LIB demand,6.5368509748196795
 Decreasing LIB Capacity,Policy Baseline,CA,LIB demand,1.0292777328604
-Decreasing LIB Capacity,Policy Baseline,MX,Pack Mfg.,0.0
+Decreasing LIB Capacity,Policy Baseline,MX,Pack Mfg.,0.04782874714137119
 Decreasing LIB Capacity,Policy Baseline,US,Pack Mfg.,6.915031289708595
 Decreasing LIB Capacity,Policy Baseline,CA,Pack Mfg.,0.413464627302696
 Decreasing LIB Capacity,Policy Baseline,MX,Cell Mfg.,0.0
@@ -47,7 +47,7 @@ Decreasing LIB Capacity,Policy Baseline,CA,Mfg. Scrap,0.052555194611809505
 Decreasing LIB Capacity,Policy Rollback,MX,LIB demand,0.012281041721207085
 Decreasing LIB Capacity,Policy Rollback,US,LIB demand,5.271311428760472
 Decreasing LIB Capacity,Policy Rollback,CA,LIB demand,0.5611968147780473
-Decreasing LIB Capacity,Policy Rollback,MX,Pack Mfg.,0.0
+Decreasing LIB Capacity,Policy Rollback,MX,Pack Mfg.,0.03704334177403395
 Decreasing LIB Capacity,Policy Rollback,US,Pack Mfg.,5.355688424906349
 Decreasing LIB Capacity,Policy Rollback,CA,Pack Mfg.,0.3202281559953118
 Decreasing LIB Capacity,Policy Rollback,MX,Cell Mfg.,0.0

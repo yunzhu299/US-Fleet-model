@@ -59,6 +59,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2025,MS,Decreasing Batt Cap - High LFP Chemistry,0
 2025,MS,Increasing Batt Cap - Benchmark Chemistry,0
 2025,MS,Increasing Batt Cap - High LFP Chemistry,0
+2025,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2025,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2025,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2025,MX,Increasing Batt Cap - High LFP Chemistry,0
 2025,NC,Decreasing Batt Cap - Benchmark Chemistry,10943.254518886664
 2025,NC,Decreasing Batt Cap - High LFP Chemistry,10943.254518886664
 2025,NC,Increasing Batt Cap - Benchmark Chemistry,11326.071121111092
@@ -95,10 +99,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2025,SC,Decreasing Batt Cap - High LFP Chemistry,0
 2025,SC,Increasing Batt Cap - Benchmark Chemistry,0
 2025,SC,Increasing Batt Cap - High LFP Chemistry,0
-2025,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2025,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2025,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2025,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2025,TN,Decreasing Batt Cap - Benchmark Chemistry,19333.082983366447
 2025,TN,Decreasing Batt Cap - High LFP Chemistry,19333.082983366447
 2025,TN,Increasing Batt Cap - Benchmark Chemistry,20009.392313962933
@@ -175,6 +175,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2026,MS,Decreasing Batt Cap - High LFP Chemistry,0
 2026,MS,Increasing Batt Cap - Benchmark Chemistry,0
 2026,MS,Increasing Batt Cap - High LFP Chemistry,0
+2026,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2026,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2026,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2026,MX,Increasing Batt Cap - High LFP Chemistry,0
 2026,NC,Decreasing Batt Cap - Benchmark Chemistry,8979.655365439734
 2026,NC,Decreasing Batt Cap - High LFP Chemistry,8979.655365439734
 2026,NC,Increasing Batt Cap - Benchmark Chemistry,9790.805398634795
@@ -211,10 +215,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2026,SC,Decreasing Batt Cap - High LFP Chemistry,0
 2026,SC,Increasing Batt Cap - Benchmark Chemistry,0
 2026,SC,Increasing Batt Cap - High LFP Chemistry,0
-2026,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2026,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2026,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2026,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2026,TN,Decreasing Batt Cap - Benchmark Chemistry,15864.05781227686
 2026,TN,Decreasing Batt Cap - High LFP Chemistry,15864.05781227686
 2026,TN,Increasing Batt Cap - Benchmark Chemistry,17297.089537588137
@@ -291,6 +291,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2027,MS,Decreasing Batt Cap - High LFP Chemistry,6236.32912015913
 2027,MS,Increasing Batt Cap - Benchmark Chemistry,6236.32912015913
 2027,MS,Increasing Batt Cap - High LFP Chemistry,6236.32912015913
+2027,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2027,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2027,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2027,MX,Increasing Batt Cap - High LFP Chemistry,0
 2027,NC,Decreasing Batt Cap - Benchmark Chemistry,8130.810310800943
 2027,NC,Decreasing Batt Cap - High LFP Chemistry,8130.810310800943
 2027,NC,Increasing Batt Cap - Benchmark Chemistry,8130.810310800943
@@ -327,10 +331,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2027,SC,Decreasing Batt Cap - High LFP Chemistry,890.9041600227328
 2027,SC,Increasing Batt Cap - Benchmark Chemistry,890.9041600227328
 2027,SC,Increasing Batt Cap - High LFP Chemistry,890.9041600227328
-2027,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2027,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2027,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2027,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2027,TN,Decreasing Batt Cap - Benchmark Chemistry,26609.414281838563
 2027,TN,Decreasing Batt Cap - High LFP Chemistry,26609.414281838563
 2027,TN,Increasing Batt Cap - Benchmark Chemistry,26609.414281838563
@@ -407,6 +407,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2028,MS,Decreasing Batt Cap - High LFP Chemistry,5860.009350190576
 2028,MS,Increasing Batt Cap - Benchmark Chemistry,5860.009350190576
 2028,MS,Increasing Batt Cap - High LFP Chemistry,5860.009350190576
+2028,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2028,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2028,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2028,MX,Increasing Batt Cap - High LFP Chemistry,0
 2028,NC,Decreasing Batt Cap - Benchmark Chemistry,7575.290650371171
 2028,NC,Decreasing Batt Cap - High LFP Chemistry,7575.290650371171
 2028,NC,Increasing Batt Cap - Benchmark Chemistry,7575.290650371171
@@ -443,10 +447,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2028,SC,Decreasing Batt Cap - High LFP Chemistry,837.1441928843678
 2028,SC,Increasing Batt Cap - Benchmark Chemistry,837.1441928843678
 2028,SC,Increasing Batt Cap - High LFP Chemistry,837.1441928843678
-2028,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2028,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2028,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2028,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2028,TN,Decreasing Batt Cap - Benchmark Chemistry,24889.09533341088
 2028,TN,Decreasing Batt Cap - High LFP Chemistry,24889.09533341088
 2028,TN,Increasing Batt Cap - Benchmark Chemistry,24889.09533341088
@@ -523,6 +523,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2029,MS,Decreasing Batt Cap - High LFP Chemistry,5483.689580222022
 2029,MS,Increasing Batt Cap - Benchmark Chemistry,5483.689580222022
 2029,MS,Increasing Batt Cap - High LFP Chemistry,5483.689580222022
+2029,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2029,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2029,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2029,MX,Increasing Batt Cap - High LFP Chemistry,0
 2029,NC,Decreasing Batt Cap - Benchmark Chemistry,7019.770989941403
 2029,NC,Decreasing Batt Cap - High LFP Chemistry,7019.770989941403
 2029,NC,Increasing Batt Cap - Benchmark Chemistry,7019.770989941403
@@ -559,10 +563,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2029,SC,Decreasing Batt Cap - High LFP Chemistry,1971.2564391096466
 2029,SC,Increasing Batt Cap - Benchmark Chemistry,1971.2564391096466
 2029,SC,Increasing Batt Cap - High LFP Chemistry,1971.2564391096466
-2029,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2029,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2029,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2029,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2029,TN,Decreasing Batt Cap - Benchmark Chemistry,23168.77638498321
 2029,TN,Decreasing Batt Cap - High LFP Chemistry,23168.77638498321
 2029,TN,Increasing Batt Cap - Benchmark Chemistry,23168.77638498321
@@ -639,6 +639,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2030,MS,Decreasing Batt Cap - High LFP Chemistry,5107.369810253468
 2030,MS,Increasing Batt Cap - Benchmark Chemistry,5107.369810253468
 2030,MS,Increasing Batt Cap - High LFP Chemistry,5107.369810253468
+2030,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2030,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2030,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2030,MX,Increasing Batt Cap - High LFP Chemistry,0
 2030,NC,Decreasing Batt Cap - Benchmark Chemistry,6464.251329511633
 2030,NC,Decreasing Batt Cap - High LFP Chemistry,6464.251329511633
 2030,NC,Increasing Batt Cap - Benchmark Chemistry,6464.251329511633
@@ -675,10 +679,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2030,SC,Decreasing Batt Cap - High LFP Chemistry,1845.816515786796
 2030,SC,Increasing Batt Cap - Benchmark Chemistry,1845.816515786796
 2030,SC,Increasing Batt Cap - High LFP Chemistry,1845.816515786796
-2030,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2030,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2030,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2030,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2030,TN,Decreasing Batt Cap - Benchmark Chemistry,21448.45743655554
 2030,TN,Decreasing Batt Cap - High LFP Chemistry,21448.45743655554
 2030,TN,Increasing Batt Cap - Benchmark Chemistry,21448.45743655554
@@ -755,6 +755,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2031,MS,Decreasing Batt Cap - High LFP Chemistry,4731.050040284915
 2031,MS,Increasing Batt Cap - Benchmark Chemistry,4731.050040284915
 2031,MS,Increasing Batt Cap - High LFP Chemistry,4731.050040284915
+2031,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2031,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2031,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2031,MX,Increasing Batt Cap - High LFP Chemistry,0
 2031,NC,Decreasing Batt Cap - Benchmark Chemistry,6446.331340465512
 2031,NC,Decreasing Batt Cap - High LFP Chemistry,6446.331340465512
 2031,NC,Increasing Batt Cap - Benchmark Chemistry,6446.331340465512
@@ -791,10 +795,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2031,SC,Decreasing Batt Cap - High LFP Chemistry,1720.3765924639445
 2031,SC,Increasing Batt Cap - Benchmark Chemistry,1720.3765924639445
 2031,SC,Increasing Batt Cap - High LFP Chemistry,1720.3765924639445
-2031,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2031,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2031,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2031,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2031,TN,Decreasing Batt Cap - Benchmark Chemistry,20677.897907572307
 2031,TN,Decreasing Batt Cap - High LFP Chemistry,20677.897907572307
 2031,TN,Increasing Batt Cap - Benchmark Chemistry,20677.897907572307
@@ -871,6 +871,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2032,MS,Decreasing Batt Cap - High LFP Chemistry,4354.730270316361
 2032,MS,Increasing Batt Cap - Benchmark Chemistry,4641.42766399429
 2032,MS,Increasing Batt Cap - High LFP Chemistry,4641.42766399429
+2032,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2032,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2032,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2032,MX,Increasing Batt Cap - High LFP Chemistry,0
 2032,NC,Decreasing Batt Cap - Benchmark Chemistry,6428.4113514193905
 2032,NC,Decreasing Batt Cap - High LFP Chemistry,6428.4113514193905
 2032,NC,Increasing Batt Cap - Benchmark Chemistry,6851.631313515381
@@ -907,10 +911,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2032,SC,Decreasing Batt Cap - High LFP Chemistry,1594.9366691410928
 2032,SC,Increasing Batt Cap - Benchmark Chemistry,1699.9406895372608
 2032,SC,Increasing Batt Cap - High LFP Chemistry,1699.9406895372608
-2032,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2032,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2032,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2032,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2032,TN,Decreasing Batt Cap - Benchmark Chemistry,19907.33837858908
 2032,TN,Decreasing Batt Cap - High LFP Chemistry,19907.33837858908
 2032,TN,Increasing Batt Cap - Benchmark Chemistry,21217.955035402472
@@ -987,6 +987,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2033,MS,Decreasing Batt Cap - High LFP Chemistry,4354.730270316361
 2033,MS,Increasing Batt Cap - Benchmark Chemistry,5291.602145291865
 2033,MS,Increasing Batt Cap - High LFP Chemistry,5291.602145291865
+2033,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2033,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2033,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2033,MX,Increasing Batt Cap - High LFP Chemistry,0
 2033,NC,Decreasing Batt Cap - Benchmark Chemistry,6428.4113514193905
 2033,NC,Decreasing Batt Cap - High LFP Chemistry,6428.4113514193905
 2033,NC,Increasing Batt Cap - Benchmark Chemistry,7811.412690668943
@@ -1023,10 +1027,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2033,SC,Decreasing Batt Cap - High LFP Chemistry,1523.2567129566066
 2033,SC,Increasing Batt Cap - Benchmark Chemistry,1850.9684847888038
 2033,SC,Increasing Batt Cap - High LFP Chemistry,1850.9684847888038
-2033,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2033,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2033,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2033,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2033,TN,Decreasing Batt Cap - Benchmark Chemistry,19907.338378589076
 2033,TN,Decreasing Batt Cap - High LFP Chemistry,19907.338378589076
 2033,TN,Increasing Batt Cap - Benchmark Chemistry,24190.18123561995
@@ -1103,6 +1103,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2034,MS,Decreasing Batt Cap - High LFP Chemistry,4354.730270316361
 2034,MS,Increasing Batt Cap - Benchmark Chemistry,5631.349443947913
 2034,MS,Increasing Batt Cap - High LFP Chemistry,5631.349443947913
+2034,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2034,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2034,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2034,MX,Increasing Batt Cap - High LFP Chemistry,0
 2034,NC,Decreasing Batt Cap - Benchmark Chemistry,6428.4113514193905
 2034,NC,Decreasing Batt Cap - High LFP Chemistry,6428.4113514193905
 2034,NC,Increasing Batt Cap - Benchmark Chemistry,8312.944417256444
@@ -1139,10 +1143,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2034,SC,Decreasing Batt Cap - High LFP Chemistry,1451.5767567721202
 2034,SC,Increasing Batt Cap - Benchmark Chemistry,1877.1164813159708
 2034,SC,Increasing Batt Cap - High LFP Chemistry,1877.1164813159708
-2034,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2034,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2034,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2034,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2034,TN,Decreasing Batt Cap - Benchmark Chemistry,19907.33837858908
 2034,TN,Decreasing Batt Cap - High LFP Chemistry,19907.33837858908
 2034,TN,Increasing Batt Cap - Benchmark Chemistry,25743.311743761886
@@ -1219,6 +1219,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2035,MS,Decreasing Batt Cap - High LFP Chemistry,4354.730270316361
 2035,MS,Increasing Batt Cap - Benchmark Chemistry,5927.461669865563
 2035,MS,Increasing Batt Cap - High LFP Chemistry,5927.461669865563
+2035,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2035,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2035,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2035,MX,Increasing Batt Cap - High LFP Chemistry,0
 2035,NC,Decreasing Batt Cap - Benchmark Chemistry,6428.4113514193905
 2035,NC,Decreasing Batt Cap - High LFP Chemistry,6428.4113514193905
 2035,NC,Increasing Batt Cap - Benchmark Chemistry,8750.06246503964
@@ -1255,10 +1259,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2035,SC,Decreasing Batt Cap - High LFP Chemistry,1451.5767567721202
 2035,SC,Increasing Batt Cap - Benchmark Chemistry,1975.820556621854
 2035,SC,Increasing Batt Cap - High LFP Chemistry,1975.820556621854
-2035,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2035,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2035,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2035,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2035,TN,Decreasing Batt Cap - Benchmark Chemistry,19907.33837858908
 2035,TN,Decreasing Batt Cap - High LFP Chemistry,19907.33837858908
 2035,TN,Increasing Batt Cap - Benchmark Chemistry,27096.967633671142
@@ -1335,6 +1335,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2036,MS,Decreasing Batt Cap - High LFP Chemistry,4354.730270316361
 2036,MS,Increasing Batt Cap - Benchmark Chemistry,6079.477503002295
 2036,MS,Increasing Batt Cap - High LFP Chemistry,6079.477503002295
+2036,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2036,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2036,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2036,MX,Increasing Batt Cap - High LFP Chemistry,0
 2036,NC,Decreasing Batt Cap - Benchmark Chemistry,6428.4113514193905
 2036,NC,Decreasing Batt Cap - High LFP Chemistry,6428.4113514193905
 2036,NC,Increasing Batt Cap - Benchmark Chemistry,8974.466790146245
@@ -1371,10 +1375,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2036,SC,Decreasing Batt Cap - High LFP Chemistry,1451.5767567721202
 2036,SC,Increasing Batt Cap - Benchmark Chemistry,2026.4925010007646
 2036,SC,Increasing Batt Cap - High LFP Chemistry,2026.4925010007646
-2036,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2036,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2036,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2036,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2036,TN,Decreasing Batt Cap - Benchmark Chemistry,19907.33837858908
 2036,TN,Decreasing Batt Cap - High LFP Chemistry,19907.33837858908
 2036,TN,Increasing Batt Cap - Benchmark Chemistry,27791.897156581916
@@ -1451,6 +1451,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2037,MS,Decreasing Batt Cap - High LFP Chemistry,4354.730270316361
 2037,MS,Increasing Batt Cap - Benchmark Chemistry,6200.03350165631
 2037,MS,Increasing Batt Cap - High LFP Chemistry,6200.03350165631
+2037,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2037,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2037,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2037,MX,Increasing Batt Cap - High LFP Chemistry,0
 2037,NC,Decreasing Batt Cap - Benchmark Chemistry,6428.4113514193905
 2037,NC,Decreasing Batt Cap - High LFP Chemistry,6428.4113514193905
 2037,NC,Increasing Batt Cap - Benchmark Chemistry,9152.430407206934
@@ -1487,10 +1491,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2037,SC,Decreasing Batt Cap - High LFP Chemistry,1451.5767567721202
 2037,SC,Increasing Batt Cap - Benchmark Chemistry,2066.6778338854365
 2037,SC,Increasing Batt Cap - High LFP Chemistry,2066.6778338854365
-2037,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2037,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2037,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2037,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2037,TN,Decreasing Batt Cap - Benchmark Chemistry,19907.33837858908
 2037,TN,Decreasing Batt Cap - High LFP Chemistry,19907.33837858908
 2037,TN,Increasing Batt Cap - Benchmark Chemistry,28343.010293285985
@@ -1567,6 +1567,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2038,MS,Decreasing Batt Cap - High LFP Chemistry,4426.332987682582
 2038,MS,Increasing Batt Cap - Benchmark Chemistry,6304.253853069209
 2038,MS,Increasing Batt Cap - High LFP Chemistry,6304.253853069209
+2038,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2038,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2038,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2038,MX,Increasing Batt Cap - High LFP Chemistry,0
 2038,NC,Decreasing Batt Cap - Benchmark Chemistry,6534.110600864764
 2038,NC,Decreasing Batt Cap - High LFP Chemistry,6534.110600864764
 2038,NC,Increasing Batt Cap - Benchmark Chemistry,9306.27949738788
@@ -1603,10 +1607,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2038,SC,Decreasing Batt Cap - High LFP Chemistry,1475.444329227527
 2038,SC,Increasing Batt Cap - Benchmark Chemistry,2101.4179510230692
 2038,SC,Increasing Batt Cap - High LFP Chemistry,2101.4179510230692
-2038,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2038,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2038,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2038,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2038,TN,Decreasing Batt Cap - Benchmark Chemistry,20234.665086548943
 2038,TN,Decreasing Batt Cap - High LFP Chemistry,20234.665086548943
 2038,TN,Increasing Batt Cap - Benchmark Chemistry,28819.44618545924
@@ -1683,6 +1683,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2039,MS,Decreasing Batt Cap - High LFP Chemistry,4538.1508969801935
 2039,MS,Increasing Batt Cap - Benchmark Chemistry,6393.427099181736
 2039,MS,Increasing Batt Cap - High LFP Chemistry,6393.427099181736
+2039,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2039,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2039,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2039,MX,Increasing Batt Cap - High LFP Chemistry,0
 2039,NC,Decreasing Batt Cap - Benchmark Chemistry,6699.175133637427
 2039,NC,Decreasing Batt Cap - High LFP Chemistry,6699.175133637427
 2039,NC,Increasing Batt Cap - Benchmark Chemistry,9437.91619403018
@@ -1719,10 +1723,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2039,SC,Decreasing Batt Cap - High LFP Chemistry,1512.716965660064
 2039,SC,Increasing Batt Cap - Benchmark Chemistry,2131.1423663939113
 2039,SC,Increasing Batt Cap - High LFP Chemistry,2131.1423663939113
-2039,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2039,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2039,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2039,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2039,TN,Decreasing Batt Cap - Benchmark Chemistry,20745.83267190945
 2039,TN,Decreasing Batt Cap - High LFP Chemistry,20745.83267190945
 2039,TN,Increasing Batt Cap - Benchmark Chemistry,29227.09531054507
@@ -1799,6 +1799,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2040,MS,Decreasing Batt Cap - High LFP Chemistry,4628.4642501961935
 2040,MS,Increasing Batt Cap - Benchmark Chemistry,6468.61605904628
 2040,MS,Increasing Batt Cap - High LFP Chemistry,6468.61605904628
+2040,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2040,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2040,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2040,MX,Increasing Batt Cap - High LFP Chemistry,0
 2040,NC,Decreasing Batt Cap - Benchmark Chemistry,6832.4948455277145
 2040,NC,Decreasing Batt Cap - High LFP Chemistry,6832.4948455277145
 2040,NC,Increasing Batt Cap - Benchmark Chemistry,9548.90942049689
@@ -1835,10 +1839,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2040,SC,Decreasing Batt Cap - High LFP Chemistry,1542.8214167320643
 2040,SC,Increasing Batt Cap - Benchmark Chemistry,2156.205353015426
 2040,SC,Increasing Batt Cap - High LFP Chemistry,2156.205353015426
-2040,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2040,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2040,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2040,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2040,TN,Decreasing Batt Cap - Benchmark Chemistry,21158.693715182595
 2040,TN,Decreasing Batt Cap - High LFP Chemistry,21158.693715182595
 2040,TN,Increasing Batt Cap - Benchmark Chemistry,29570.816269925846
@@ -1915,6 +1915,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2041,MS,Decreasing Batt Cap - High LFP Chemistry,4706.2616149285805
 2041,MS,Increasing Batt Cap - Benchmark Chemistry,6511.013281433251
 2041,MS,Increasing Batt Cap - High LFP Chemistry,6511.013281433251
+2041,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2041,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2041,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2041,MX,Increasing Batt Cap - High LFP Chemistry,0
 2041,NC,Decreasing Batt Cap - Benchmark Chemistry,6947.338574418381
 2041,NC,Decreasing Batt Cap - High LFP Chemistry,6947.338574418381
 2041,NC,Increasing Batt Cap - Benchmark Chemistry,9611.495796401467
@@ -1951,10 +1955,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2041,SC,Decreasing Batt Cap - High LFP Chemistry,1568.75387164286
 2041,SC,Increasing Batt Cap - Benchmark Chemistry,2170.33776047775
 2041,SC,Increasing Batt Cap - High LFP Chemistry,2170.33776047775
-2041,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2041,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2041,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2041,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2041,TN,Decreasing Batt Cap - Benchmark Chemistry,21514.33881110208
 2041,TN,Decreasing Batt Cap - High LFP Chemistry,21514.33881110208
 2041,TN,Increasing Batt Cap - Benchmark Chemistry,29764.63214369486
@@ -2031,6 +2031,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2042,MS,Decreasing Batt Cap - High LFP Chemistry,4823.309546518065
 2042,MS,Increasing Batt Cap - Benchmark Chemistry,6575.309339025752
 2042,MS,Increasing Batt Cap - High LFP Chemistry,6575.309339025752
+2042,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2042,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2042,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2042,MX,Increasing Batt Cap - High LFP Chemistry,0
 2042,NC,Decreasing Batt Cap - Benchmark Chemistry,7120.1236162885725
 2042,NC,Decreasing Batt Cap - High LFP Chemistry,7120.1236162885725
 2042,NC,Increasing Batt Cap - Benchmark Chemistry,9706.40902427611
@@ -2067,10 +2071,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2042,SC,Decreasing Batt Cap - High LFP Chemistry,1607.7698488393548
 2042,SC,Increasing Batt Cap - Benchmark Chemistry,2191.76977967525
 2042,SC,Increasing Batt Cap - High LFP Chemistry,2191.76977967525
-2042,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2042,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2042,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2042,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2042,TN,Decreasing Batt Cap - Benchmark Chemistry,22049.415069796865
 2042,TN,Decreasing Batt Cap - High LFP Chemistry,22049.415069796865
 2042,TN,Increasing Batt Cap - Benchmark Chemistry,30058.556978403434
@@ -2147,6 +2147,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2043,MS,Decreasing Batt Cap - High LFP Chemistry,4936.01515926587
 2043,MS,Increasing Batt Cap - Benchmark Chemistry,6637.306343394394
 2043,MS,Increasing Batt Cap - High LFP Chemistry,6637.306343394394
+2043,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2043,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2043,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2043,MX,Increasing Batt Cap - High LFP Chemistry,0
 2043,NC,Decreasing Batt Cap - Benchmark Chemistry,7286.498568440094
 2043,NC,Decreasing Batt Cap - High LFP Chemistry,7286.498568440094
 2043,NC,Increasing Batt Cap - Benchmark Chemistry,9797.92841167744
@@ -2183,10 +2187,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2043,SC,Decreasing Batt Cap - High LFP Chemistry,1645.3383864219566
 2043,SC,Increasing Batt Cap - Benchmark Chemistry,2212.435447798131
 2043,SC,Increasing Batt Cap - High LFP Chemistry,2212.435447798131
-2043,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2043,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2043,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2043,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2043,TN,Decreasing Batt Cap - Benchmark Chemistry,22564.640728072547
 2043,TN,Decreasing Batt Cap - High LFP Chemistry,22564.640728072547
 2043,TN,Increasing Batt Cap - Benchmark Chemistry,30341.97185551723
@@ -2263,6 +2263,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2044,MS,Decreasing Batt Cap - High LFP Chemistry,5045.542933430966
 2044,MS,Increasing Batt Cap - Benchmark Chemistry,6697.7827401301365
 2044,MS,Increasing Batt Cap - High LFP Chemistry,6697.7827401301365
+2044,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2044,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2044,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2044,MX,Increasing Batt Cap - High LFP Chemistry,0
 2044,NC,Decreasing Batt Cap - Benchmark Chemistry,7448.182425540949
 2044,NC,Decreasing Batt Cap - High LFP Chemistry,7448.182425540949
 2044,NC,Increasing Batt Cap - Benchmark Chemistry,9887.203092573058
@@ -2299,10 +2303,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2044,SC,Decreasing Batt Cap - High LFP Chemistry,1681.8476444769883
 2044,SC,Increasing Batt Cap - Benchmark Chemistry,2232.594246710045
 2044,SC,Increasing Batt Cap - High LFP Chemistry,2232.594246710045
-2044,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2044,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2044,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2044,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2044,TN,Decreasing Batt Cap - Benchmark Chemistry,23065.33912425584
 2044,TN,Decreasing Batt Cap - High LFP Chemistry,23065.33912425584
 2044,TN,Increasing Batt Cap - Benchmark Chemistry,30618.435383452048
@@ -2379,6 +2379,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2045,MS,Decreasing Batt Cap - High LFP Chemistry,5145.651454883849
 2045,MS,Increasing Batt Cap - Benchmark Chemistry,6753.281422470426
 2045,MS,Increasing Batt Cap - High LFP Chemistry,6753.281422470426
+2045,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2045,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2045,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2045,MX,Increasing Batt Cap - High LFP Chemistry,0
 2045,NC,Decreasing Batt Cap - Benchmark Chemistry,7595.961671495205
 2045,NC,Decreasing Batt Cap - High LFP Chemistry,7595.961671495205
 2045,NC,Increasing Batt Cap - Benchmark Chemistry,9969.129718884915
@@ -2415,10 +2419,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2045,SC,Decreasing Batt Cap - High LFP Chemistry,1715.2171516279493
 2045,SC,Increasing Batt Cap - Benchmark Chemistry,2251.093807490142
 2045,SC,Increasing Batt Cap - High LFP Chemistry,2251.093807490142
-2045,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2045,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2045,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2045,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2045,TN,Decreasing Batt Cap - Benchmark Chemistry,23522.97807946902
 2045,TN,Decreasing Batt Cap - High LFP Chemistry,23522.97807946902
 2045,TN,Increasing Batt Cap - Benchmark Chemistry,30872.143645579086
@@ -2495,6 +2495,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2046,MS,Decreasing Batt Cap - High LFP Chemistry,5245.64310680821
 2046,MS,Increasing Batt Cap - Benchmark Chemistry,6808.904723851835
 2046,MS,Increasing Batt Cap - High LFP Chemistry,6808.904723851835
+2046,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2046,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2046,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2046,MX,Increasing Batt Cap - High LFP Chemistry,0
 2046,NC,Decreasing Batt Cap - Benchmark Chemistry,7743.5683957645
 2046,NC,Decreasing Batt Cap - High LFP Chemistry,7743.5683957645
 2046,NC,Increasing Batt Cap - Benchmark Chemistry,10051.240306638423
@@ -2531,10 +2535,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2046,SC,Decreasing Batt Cap - High LFP Chemistry,1748.5477022694029
 2046,SC,Increasing Batt Cap - Benchmark Chemistry,2269.6349079506113
 2046,SC,Increasing Batt Cap - High LFP Chemistry,2269.6349079506113
-2046,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2046,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2046,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2046,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2046,TN,Decreasing Batt Cap - Benchmark Chemistry,23980.082773980386
 2046,TN,Decreasing Batt Cap - High LFP Chemistry,23980.082773980386
 2046,TN,Increasing Batt Cap - Benchmark Chemistry,31126.42159475124
@@ -2611,6 +2611,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2047,MS,Decreasing Batt Cap - High LFP Chemistry,5330.728780197706
 2047,MS,Increasing Batt Cap - Benchmark Chemistry,6856.352729630093
 2047,MS,Increasing Batt Cap - High LFP Chemistry,6856.352729630093
+2047,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2047,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2047,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2047,MX,Increasing Batt Cap - High LFP Chemistry,0
 2047,NC,Decreasing Batt Cap - Benchmark Chemistry,7869.171056482328
 2047,NC,Decreasing Batt Cap - High LFP Chemistry,7869.171056482328
 2047,NC,Increasing Batt Cap - Benchmark Chemistry,10121.282600882518
@@ -2647,10 +2651,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2047,SC,Decreasing Batt Cap - High LFP Chemistry,1776.909593399235
 2047,SC,Increasing Batt Cap - Benchmark Chemistry,2285.450909876697
 2047,SC,Increasing Batt Cap - High LFP Chemistry,2285.450909876697
-2047,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2047,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2047,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2047,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2047,TN,Decreasing Batt Cap - Benchmark Chemistry,24369.04585233237
 2047,TN,Decreasing Batt Cap - High LFP Chemistry,24369.04585233237
 2047,TN,Increasing Batt Cap - Benchmark Chemistry,31343.326764023277
@@ -2727,6 +2727,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2048,MS,Decreasing Batt Cap - High LFP Chemistry,5408.056301037082
 2048,MS,Increasing Batt Cap - Benchmark Chemistry,6899.473646131752
 2048,MS,Increasing Batt Cap - High LFP Chemistry,6899.473646131752
+2048,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2048,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2048,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2048,MX,Increasing Batt Cap - High LFP Chemistry,0
 2048,NC,Decreasing Batt Cap - Benchmark Chemistry,7983.321206292836
 2048,NC,Decreasing Batt Cap - High LFP Chemistry,7983.321206292836
 2048,NC,Increasing Batt Cap - Benchmark Chemistry,10184.937287146871
@@ -2763,10 +2767,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2048,SC,Decreasing Batt Cap - High LFP Chemistry,1802.6854336790273
 2048,SC,Increasing Batt Cap - Benchmark Chemistry,2299.8245487105833
 2048,SC,Increasing Batt Cap - High LFP Chemistry,2299.8245487105833
-2048,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2048,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2048,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2048,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2048,TN,Decreasing Batt Cap - Benchmark Chemistry,24722.54309045523
 2048,TN,Decreasing Batt Cap - High LFP Chemistry,24722.54309045523
 2048,TN,Increasing Batt Cap - Benchmark Chemistry,31540.450953745145
@@ -2843,6 +2843,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2049,MS,Decreasing Batt Cap - High LFP Chemistry,5473.809989352734
 2049,MS,Increasing Batt Cap - Benchmark Chemistry,6936.250234057446
 2049,MS,Increasing Batt Cap - High LFP Chemistry,6936.250234057446
+2049,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2049,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2049,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2049,MX,Increasing Batt Cap - High LFP Chemistry,0
 2049,NC,Decreasing Batt Cap - Benchmark Chemistry,8080.386174758797
 2049,NC,Decreasing Batt Cap - High LFP Chemistry,8080.386174758797
 2049,NC,Increasing Batt Cap - Benchmark Chemistry,10239.226535989561
@@ -2879,10 +2883,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2049,SC,Decreasing Batt Cap - High LFP Chemistry,1824.6033297842444
 2049,SC,Increasing Batt Cap - Benchmark Chemistry,2312.0834113524816
 2049,SC,Increasing Batt Cap - High LFP Chemistry,2312.0834113524816
-2049,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2049,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2049,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2049,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2049,TN,Decreasing Batt Cap - Benchmark Chemistry,25023.13137989821
 2049,TN,Decreasing Batt Cap - High LFP Chemistry,25023.13137989821
 2049,TN,Increasing Batt Cap - Benchmark Chemistry,31708.572498548318
@@ -2959,6 +2959,10 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2050,MS,Decreasing Batt Cap - High LFP Chemistry,5528.681151550789
 2050,MS,Increasing Batt Cap - Benchmark Chemistry,6966.890162699873
 2050,MS,Increasing Batt Cap - High LFP Chemistry,6966.890162699873
+2050,MX,Decreasing Batt Cap - Benchmark Chemistry,0
+2050,MX,Decreasing Batt Cap - High LFP Chemistry,0
+2050,MX,Increasing Batt Cap - Benchmark Chemistry,0
+2050,MX,Increasing Batt Cap - High LFP Chemistry,0
 2050,NC,Decreasing Batt Cap - Benchmark Chemistry,8161.386461813069
 2050,NC,Decreasing Batt Cap - High LFP Chemistry,8161.386461813069
 2050,NC,Increasing Batt Cap - Benchmark Chemistry,10284.45690684267
@@ -2995,10 +2999,6 @@ Year,State_Province,Scenario,Tonnes_Scrap
 2050,SC,Decreasing Batt Cap - High LFP Chemistry,1842.893717183596
 2050,SC,Increasing Batt Cap - Benchmark Chemistry,2322.296720899957
 2050,SC,Increasing Batt Cap - High LFP Chemistry,2322.296720899957
-2050,SLP ,Decreasing Batt Cap - Benchmark Chemistry,0
-2050,SLP ,Decreasing Batt Cap - High LFP Chemistry,0
-2050,SLP ,Increasing Batt Cap - Benchmark Chemistry,0
-2050,SLP ,Increasing Batt Cap - High LFP Chemistry,0
 2050,TN,Decreasing Batt Cap - Benchmark Chemistry,25273.97097851789
 2050,TN,Decreasing Batt Cap - High LFP Chemistry,25273.97097851789
 2050,TN,Increasing Batt Cap - Benchmark Chemistry,31848.640743770844
