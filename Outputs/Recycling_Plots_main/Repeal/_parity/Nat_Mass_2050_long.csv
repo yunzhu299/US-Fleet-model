@@ -1,31 +1,31 @@
 Country,Metric,Tonnes
 CA,LIB Demand (Increasing Batt Cap - Benchmark Chemistry),1.0435518718841699
 CA,LIB Demand (Decreasing Batt Cap - Benchmark Chemistry),0.5611968147780473
-CA,Pack Manufacturing,0.5845245226777597
-CA,Decreasing Batt Cap Pack Manufacturing,0.3202281559953118
-CA,Cell Manufacturing,1.094560404406895
-CA,Decreasing Batt Cap Cell Manufacturing,0.599648169289783
+CA,Pack Manufacturing,0.584029460298372
+CA,Decreasing Batt Cap Pack Manufacturing,0.3199556844246506
+CA,Cell Manufacturing,1.0936333677178147
+CA,Decreasing Batt Cap Cell Manufacturing,0.5991379484504484
 CA,EoL Batteries (Increasing Batt Cap - Benchmark Chemistry),0.5194176271761867
 CA,EoL Batteries (Decreasing Batt Cap - Benchmark Chemistry),0.30417132915422596
 CA,Black Mass,0.318
 CA,Refining,0.2825
 MX,LIB Demand (Increasing Batt Cap - Benchmark Chemistry),0.020397441652218355
 MX,LIB Demand (Decreasing Batt Cap - Benchmark Chemistry),0.012281041721207085
-MX,Pack Manufacturing,0.0676166079199273
-MX,Decreasing Batt Cap Pack Manufacturing,0.03704334177403395
+MX,Pack Manufacturing,0.06755934011078625
+MX,Decreasing Batt Cap Pack Manufacturing,0.03701182281691933
 MX,Cell Manufacturing,0
 MX,Decreasing Batt Cap Cell Manufacturing,0
-MX,EoL Batteries (Increasing Batt Cap - Benchmark Chemistry),0.5477544793648994
-MX,EoL Batteries (Decreasing Batt Cap - Benchmark Chemistry),0.32900454568516857
+MX,EoL Batteries (Increasing Batt Cap - Benchmark Chemistry),0.5476838187546399
+MX,EoL Batteries (Decreasing Batt Cap - Benchmark Chemistry),0.32896105093633976
 MX,Black Mass,0
 MX,Refining,0
-US,LIB Demand (Increasing Batt Cap - Benchmark Chemistry),9.584875498766218
-US,LIB Demand (Decreasing Batt Cap - Benchmark Chemistry),5.271311428760473
-US,Pack Manufacturing,9.775939940225046
-US,Decreasing Batt Cap Pack Manufacturing,5.355688424906347
-US,Cell Manufacturing,5.488690802098447
-US,Decreasing Batt Cap Cell Manufacturing,3.0069454166482825
-US,EoL Batteries (Increasing Batt Cap - Benchmark Chemistry),4.974707959637392
-US,EoL Batteries (Decreasing Batt Cap - Benchmark Chemistry),2.9824014989784033
+US,LIB Demand (Increasing Batt Cap - Benchmark Chemistry),9.576026621080743
+US,LIB Demand (Decreasing Batt Cap - Benchmark Chemistry),5.266441198862314
+US,Pack Manufacturing,9.767660219016111
+US,Decreasing Batt Cap Pack Manufacturing,5.351131446359068
+US,Cell Manufacturing,5.48404216166885
+US,Decreasing Batt Cap Cell Manufacturing,3.0043869060200716
+US,EoL Batteries (Increasing Batt Cap - Benchmark Chemistry),4.967049474693764
+US,EoL Batteries (Decreasing Batt Cap - Benchmark Chemistry),2.977285247541354
 US,Black Mass,0.60038736185
 US,Refining,1.120380881403

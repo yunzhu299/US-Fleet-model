@@ -23,7 +23,7 @@ missing_objects <- required_objects[
   )
 ]
 if (length(missing_objects) > 0) {
-  source(file.path("Scripts", "02-Recycling_Analysis", "02-Recycling_Analysis.R"))
+  source(file.path("Scripts", "02-Recycling_Analysis", "02-Core_Analysis.R"))
 }
 
 out_dir <- file.path(

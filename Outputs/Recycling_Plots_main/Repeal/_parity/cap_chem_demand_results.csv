@@ -35,12 +35,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2026,BC,Lithium,177035.1508496553,177.0351508496553,Decreasing Batt Cap - Benchmark Chemistry,CA
 2026,BC,Manganese,83050.42777089661,83.0504277708966,Decreasing Batt Cap - Benchmark Chemistry,CA
 2026,BC,Nickel,780929.5123248845,780.9295123248845,Decreasing Batt Cap - Benchmark Chemistry,CA
-2026,CA,Cobalt,1869728.7633387933,1869.7287633387932,Decreasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Copper,10237468.956187692,10237.468956187691,Decreasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Graphite,21779464.38295979,21779.46438295979,Decreasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Lithium,2309783.831610846,2309.783831610846,Decreasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Manganese,978868.4322510215,978.8684322510215,Decreasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Nickel,9172044.710612739,9172.044710612738,Decreasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Cobalt,1868139.0213444063,1868.1390213444063,Decreasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Copper,10230597.593815012,10230.597593815011,Decreasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Graphite,21764287.80628095,21764.287806280947,Decreasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Lithium,2308131.1816334585,2308.1311816334583,Decreasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Manganese,978056.5071957359,978.0565071957359,Decreasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Nickel,9164398.80372257,9164.39880372257,Decreasing Batt Cap - Benchmark Chemistry,US
 2026,CO,Cobalt,359992.9197174533,359.9929197174533,Decreasing Batt Cap - Benchmark Chemistry,US
 2026,CO,Copper,1882075.2352896566,1882.0752352896566,Decreasing Batt Cap - Benchmark Chemistry,US
 2026,CO,Graphite,4031088.2797797066,4031.0882797797067,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -425,12 +425,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2027,BC,Lithium,238923.6006542632,238.9236006542632,Decreasing Batt Cap - Benchmark Chemistry,CA
 2027,BC,Manganese,117943.17742861673,117.94317742861674,Decreasing Batt Cap - Benchmark Chemistry,CA
 2027,BC,Nickel,1093085.6796811263,1093.0856796811263,Decreasing Batt Cap - Benchmark Chemistry,CA
-2027,CA,Cobalt,2488563.7270350102,2488.5637270350103,Decreasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Copper,13092163.762009054,13092.163762009055,Decreasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Graphite,28095395.58899408,28095.395588994077,Decreasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Lithium,2991987.612815975,2991.9876128159754,Decreasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Manganese,1335329.4711160548,1335.3294711160547,Decreasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Nickel,12341329.216350487,12341.329216350487,Decreasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Cobalt,2486015.2125273463,2486.015212527346,Decreasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Copper,13081395.8064227,13081.395806422699,Decreasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Graphite,28071432.74352368,28071.43274352368,Decreasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Lithium,2989371.504359195,2989.371504359195,Decreasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Manganese,1333990.191197861,1333.990191197861,Decreasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Nickel,12328905.29058195,12328.905290581952,Decreasing Batt Cap - Benchmark Chemistry,US
 2027,CO,Cobalt,378527.3159416231,378.5273159416231,Decreasing Batt Cap - Benchmark Chemistry,US
 2027,CO,Copper,1991359.7701296792,1991.3597701296792,Decreasing Batt Cap - Benchmark Chemistry,US
 2027,CO,Graphite,4273414.164497321,4273.414164497321,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -815,12 +815,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2028,BC,Lithium,330072.7230070936,330.0727230070936,Decreasing Batt Cap - Benchmark Chemistry,CA
 2028,BC,Manganese,166739.99984634586,166.73999984634585,Decreasing Batt Cap - Benchmark Chemistry,CA
 2028,BC,Nickel,1550000.1557058562,1550.000155705856,Decreasing Batt Cap - Benchmark Chemistry,CA
-2028,CA,Cobalt,3064780.6604235373,3064.780660423537,Decreasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Copper,16087369.509682892,16087.369509682892,Decreasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Graphite,34656065.588574685,34656.06558857468,Decreasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Lithium,3691418.8638924346,3691.4188638924347,Decreasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Manganese,1670564.7716045966,1670.5647716045967,Decreasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Nickel,15481942.801921902,15481.942801921903,Decreasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Cobalt,3060750.4091680534,3060.7504091680535,Decreasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Copper,16070397.15164544,16070.39715164544,Decreasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Graphite,34618108.88794137,34618.108887941366,Decreasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Lithium,3687273.9583511883,3687.2739583511884,Decreasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Manganese,1668411.685776384,1668.411685776384,Decreasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Nickel,15461913.425123382,15461.913425123383,Decreasing Batt Cap - Benchmark Chemistry,US
 2028,CO,Cobalt,460000.42593316146,460.00042593316147,Decreasing Batt Cap - Benchmark Chemistry,US
 2028,CO,Copper,2423600.1081248247,2423.6001081248246,Decreasing Batt Cap - Benchmark Chemistry,US
 2028,CO,Graphite,5218015.707647806,5218.015707647806,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -1205,12 +1205,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2029,BC,Lithium,393002.6746944086,393.0026746944086,Decreasing Batt Cap - Benchmark Chemistry,CA
 2029,BC,Manganese,213166.11840454364,213.16611840454362,Decreasing Batt Cap - Benchmark Chemistry,CA
 2029,BC,Nickel,1874581.9798745092,1874.5819798745092,Decreasing Batt Cap - Benchmark Chemistry,CA
-2029,CA,Cobalt,3552790.7964464957,3552.7907964464957,Decreasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Copper,18967366.730276275,18967.366730276277,Decreasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Graphite,41055919.990066715,41055.919990066715,Decreasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Lithium,4364203.208276533,4364.203208276533,Decreasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Manganese,2119470.2580273487,2119.470258027349,Decreasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Nickel,18620518.2471052,18620.5182471052,Decreasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Cobalt,3546566.1531990515,3546.5661531990513,Decreasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Copper,18940488.9518669,18940.488951866897,Decreasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Graphite,40995543.640992835,40995.54364099284,Decreasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Lithium,4357633.009691906,4357.633009691906,Decreasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Manganese,2115814.605274518,2115.814605274518,Decreasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Nickel,18588363.73419011,18588.36373419011,Decreasing Batt Cap - Benchmark Chemistry,US
 2029,CO,Cobalt,529068.5176845511,529.0685176845511,Decreasing Batt Cap - Benchmark Chemistry,US
 2029,CO,Copper,2842089.244231953,2842.0892442319528,Decreasing Batt Cap - Benchmark Chemistry,US
 2029,CO,Graphite,6145793.238695477,6145.793238695477,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -1595,12 +1595,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2030,BC,Lithium,454188.038963993,454.188038963993,Decreasing Batt Cap - Benchmark Chemistry,CA
 2030,BC,Manganese,243535.31522838236,243.53531522838236,Decreasing Batt Cap - Benchmark Chemistry,CA
 2030,BC,Nickel,2197530.9301379677,2197.5309301379675,Decreasing Batt Cap - Benchmark Chemistry,CA
-2030,CA,Cobalt,4051678.980382232,4051.678980382232,Decreasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Copper,22047868.855486553,22047.868855486555,Decreasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Graphite,47824278.94080905,47824.27894080905,Decreasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Lithium,5073768.183876503,5073.768183876503,Decreasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Manganese,2428066.9082363104,2428.06690823631,Decreasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Nickel,21867562.314931624,21867.562314931623,Decreasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Cobalt,4042032.401292914,4042.032401292914,Decreasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Copper,22005509.744786754,22005.509744786756,Decreasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Graphite,47728828.916027665,47728.82891602766,Decreasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Lithium,5063402.676744443,5063.402676744443,Decreasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Manganese,2422377.585396451,2422.3775853964507,Decreasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Nickel,21816206.082832232,21816.206082832232,Decreasing Batt Cap - Benchmark Chemistry,US
 2030,CO,Cobalt,598441.9495176025,598.4419495176024,Decreasing Batt Cap - Benchmark Chemistry,US
 2030,CO,Copper,3285767.8657806725,3285.7678657806723,Decreasing Batt Cap - Benchmark Chemistry,US
 2030,CO,Graphite,7116896.984892383,7116.896984892383,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -1985,12 +1985,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2031,BC,Lithium,526912.2577198346,526.9122577198345,Decreasing Batt Cap - Benchmark Chemistry,CA
 2031,BC,Manganese,279368.0172265949,279.36801722659493,Decreasing Batt Cap - Benchmark Chemistry,CA
 2031,BC,Nickel,2567655.8455549586,2567.6558455549584,Decreasing Batt Cap - Benchmark Chemistry,CA
-2031,CA,Cobalt,4448271.654370028,4448.271654370028,Decreasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Copper,25084507.172966715,25084.507172966714,Decreasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Graphite,54288976.847124636,54288.976847124635,Decreasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Lithium,5739028.427652592,5739.028427652592,Decreasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Manganese,2676887.5098288665,2676.8875098288663,Decreasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Nickel,24530976.613265637,24530.976613265637,Decreasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Cobalt,4433282.198775449,4433.282198775449,Decreasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Copper,25017597.705363087,25017.59770536309,Decreasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Graphite,54138030.35566356,54138.03035566356,Decreasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Lithium,5722668.045376812,5722.668045376812,Decreasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Manganese,2668026.073139801,2668.026073139801,Decreasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Nickel,24449494.737846803,24449.494737846802,Decreasing Batt Cap - Benchmark Chemistry,US
 2031,CO,Cobalt,694098.3571823832,694.0983571823832,Decreasing Batt Cap - Benchmark Chemistry,US
 2031,CO,Copper,3913200.644250227,3913.200644250227,Decreasing Batt Cap - Benchmark Chemistry,US
 2031,CO,Graphite,8469442.229450999,8469.442229450999,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -2375,12 +2375,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2032,BC,Lithium,598068.1232177039,598.0681232177039,Decreasing Batt Cap - Benchmark Chemistry,CA
 2032,BC,Manganese,317330.2675370967,317.3302675370967,Decreasing Batt Cap - Benchmark Chemistry,CA
 2032,BC,Nickel,2929288.607815262,2929.288607815262,Decreasing Batt Cap - Benchmark Chemistry,CA
-2032,CA,Cobalt,4992657.388492555,4992.657388492556,Decreasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Copper,28364030.31473484,28364.03031473484,Decreasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Graphite,61414643.40532614,61414.64340532614,Decreasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Lithium,6487543.885937823,6487.543885937823,Decreasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Manganese,3020065.958825401,3020.065958825401,Decreasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Nickel,27790004.095584024,27790.004095584023,Decreasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Cobalt,4969495.82153686,4969.495821536861,Decreasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Copper,28260103.016651772,28260.10301665177,Decreasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Graphite,61179938.8672946,61179.9388672946,Decreasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Lithium,6462121.417145147,6462.121417145147,Decreasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Manganese,3006302.920897596,3006.302920897596,Decreasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Nickel,27662899.577467367,27662.899577467368,Decreasing Batt Cap - Benchmark Chemistry,US
 2032,CO,Cobalt,777321.6803858783,777.3216803858783,Decreasing Batt Cap - Benchmark Chemistry,US
 2032,CO,Copper,4424712.463028733,4424.712463028733,Decreasing Batt Cap - Benchmark Chemistry,US
 2032,CO,Graphite,9577498.556992296,9577.498556992296,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -2765,12 +2765,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2033,BC,Lithium,703567.9209567512,703.5679209567512,Decreasing Batt Cap - Benchmark Chemistry,CA
 2033,BC,Manganese,373255.2011867362,373.25520118673614,Decreasing Batt Cap - Benchmark Chemistry,CA
 2033,BC,Nickel,3477001.624423232,3477.001624423232,Decreasing Batt Cap - Benchmark Chemistry,CA
-2033,CA,Cobalt,5773279.100122772,5773.279100122772,Decreasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Copper,32093196.069751445,32093.196069751444,Decreasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Graphite,69890446.15817787,69890.44615817787,Decreasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Lithium,7399089.9924824955,7399.089992482495,Decreasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Manganese,3496010.036597028,3496.010036597028,Decreasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Nickel,32465575.211275283,32465.57521127528,Decreasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Cobalt,5737867.036717678,5737.867036717678,Decreasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Copper,31933704.734933,31933.704734933,Decreasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Graphite,69529548.10408613,69529.54810408613,Decreasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Lithium,7360016.783955571,7360.016783955572,Decreasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Manganese,3474898.73166525,3474.89873166525,Decreasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Nickel,32268826.182402875,32268.826182402874,Decreasing Batt Cap - Benchmark Chemistry,US
 2033,CO,Cobalt,901901.6326273999,901.9016326273999,Decreasing Batt Cap - Benchmark Chemistry,US
 2033,CO,Copper,5026979.33118667,5026.97933118667,Decreasing Batt Cap - Benchmark Chemistry,US
 2033,CO,Graphite,10942564.828586731,10942.564828586732,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -3155,12 +3155,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2034,BC,Lithium,766069.2383116852,766.0692383116851,Decreasing Batt Cap - Benchmark Chemistry,CA
 2034,BC,Manganese,406331.6710531043,406.3316710531043,Decreasing Batt Cap - Benchmark Chemistry,CA
 2034,BC,Nickel,3809684.5538693364,3809.6845538693365,Decreasing Batt Cap - Benchmark Chemistry,CA
-2034,CA,Cobalt,6170462.016759479,6170.462016759479,Decreasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Copper,34096748.09480978,34096.74809480978,Decreasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Graphite,74502665.53757355,74502.66553757354,Decreasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Lithium,7892157.99584834,7892.15799584834,Decreasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Manganese,3756091.6333025526,3756.0916333025525,Decreasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Nickel,35107233.51119687,35107.233511196864,Decreasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Cobalt,6117051.296090764,6117.051296090764,Decreasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Copper,33854753.42808366,33854.753428083655,Decreasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Graphite,73954169.70768137,73954.16970768137,Decreasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Lithium,7832817.143103526,7832.817143103526,Decreasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Manganese,3724047.286103091,3724.047286103091,Decreasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Nickel,34806647.63032343,34806.64763032343,Decreasing Batt Cap - Benchmark Chemistry,US
 2034,CO,Cobalt,962511.435812761,962.511435812761,Decreasing Batt Cap - Benchmark Chemistry,US
 2034,CO,Copper,5341365.576503852,5341.365576503852,Decreasing Batt Cap - Benchmark Chemistry,US
 2034,CO,Graphite,11662648.9268332,11662.648926833199,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -3545,12 +3545,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2035,BC,Lithium,819534.1071275588,819.5341071275587,Decreasing Batt Cap - Benchmark Chemistry,CA
 2035,BC,Manganese,435505.1087455697,435.5051087455697,Decreasing Batt Cap - Benchmark Chemistry,CA
 2035,BC,Nickel,4092510.429438516,4092.510429438516,Decreasing Batt Cap - Benchmark Chemistry,CA
-2035,CA,Cobalt,6489827.138342609,6489.827138342609,Decreasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Copper,36081345.023222834,36081.345023222835,Decreasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Graphite,78949380.81294543,78949.38081294543,Decreasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Lithium,8358012.207661615,8358.012207661615,Decreasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Manganese,3991486.4132491066,3991.4864132491066,Decreasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Nickel,37391755.71619101,37391.75571619101,Decreasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Cobalt,6410942.6955346465,6410.942695534646,Decreasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Copper,35720763.88674296,35720.763886742956,Decreasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Graphite,78131140.92165746,78131.14092165745,Decreasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Lithium,8269581.287605055,8269.581287605055,Decreasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Manganese,3943643.4245525007,3943.6434245525006,Decreasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Nickel,36941946.74672793,36941.94674672793,Decreasing Batt Cap - Benchmark Chemistry,US
 2035,CO,Cobalt,1017596.8437127986,1017.5968437127985,Decreasing Batt Cap - Benchmark Chemistry,US
 2035,CO,Copper,5684163.93345584,5684.1639334558395,Decreasing Batt Cap - Benchmark Chemistry,US
 2035,CO,Graphite,12427488.138380418,12427.488138380417,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -3935,12 +3935,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2036,BC,Lithium,867985.9396874295,867.9859396874294,Decreasing Batt Cap - Benchmark Chemistry,CA
 2036,BC,Manganese,460920.5291730195,460.92052917301953,Decreasing Batt Cap - Benchmark Chemistry,CA
 2036,BC,Nickel,4330489.89306155,4330.48989306155,Decreasing Batt Cap - Benchmark Chemistry,CA
-2036,CA,Cobalt,6724107.155715919,6724.107155715919,Decreasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Copper,37755483.18264574,37755.48318264574,Decreasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Graphite,82691902.48556678,82691.90248556678,Decreasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Lithium,8745462.175045172,8745.462175045172,Decreasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Manganese,4192824.5656720363,4192.824565672036,Decreasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Nickel,39275832.23529415,39275.83223529415,Decreasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Cobalt,6613341.308159734,6613.341308159734,Decreasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Copper,37240207.62378709,37240.20762378709,Decreasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Graphite,81523017.90894,81523.01790894,Decreasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Lithium,8619389.703596966,8619.389703596966,Decreasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Manganese,4124654.7022914225,4124.654702291423,Decreasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Nickel,38635038.33782339,38635.03833782339,Decreasing Batt Cap - Benchmark Chemistry,US
 2036,CO,Cobalt,1057959.282672544,1057.959282672544,Decreasing Batt Cap - Benchmark Chemistry,US
 2036,CO,Copper,5971949.0032842215,5971.949003284221,Decreasing Batt Cap - Benchmark Chemistry,US
 2036,CO,Graphite,13067802.696631828,13067.802696631828,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -4325,12 +4325,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2037,BC,Lithium,917239.4556992403,917.2394556992404,Decreasing Batt Cap - Benchmark Chemistry,CA
 2037,BC,Manganese,485721.8423156477,485.7218423156477,Decreasing Batt Cap - Benchmark Chemistry,CA
 2037,BC,Nickel,4557987.117085005,4557.987117085006,Decreasing Batt Cap - Benchmark Chemistry,CA
-2037,CA,Cobalt,6818657.897006073,6818.657897006073,Decreasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Copper,38974377.45705156,38974.37745705156,Decreasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Graphite,85368123.67865404,85368.12367865404,Decreasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Lithium,9012503.817570886,9012.503817570885,Decreasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Manganese,4327018.082857475,4327.018082857475,Decreasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Nickel,40490069.45183686,40490.06945183686,Decreasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Cobalt,6723020.322181189,6723.02032218119,Decreasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Copper,38518120.07966125,38518.12007966125,Decreasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Graphite,84334465.09191482,84334.46509191481,Decreasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Lithium,8901331.298449121,8901.331298449122,Decreasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Manganese,4267063.965626482,4267.063965626482,Decreasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Nickel,39927185.148465216,39927.185148465214,Decreasing Batt Cap - Benchmark Chemistry,US
 2037,CO,Cobalt,1082871.6483984664,1082.8716483984665,Decreasing Batt Cap - Benchmark Chemistry,US
 2037,CO,Copper,6219546.382366127,6219.5463823661275,Decreasing Batt Cap - Benchmark Chemistry,US
 2037,CO,Graphite,13611690.274946025,13611.690274946024,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -4715,12 +4715,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2038,BC,Lithium,953372.2606841787,953.3722606841786,Decreasing Batt Cap - Benchmark Chemistry,CA
 2038,BC,Manganese,503311.4354334557,503.3114354334557,Decreasing Batt Cap - Benchmark Chemistry,CA
 2038,BC,Nickel,4715671.5591154015,4715.671559115402,Decreasing Batt Cap - Benchmark Chemistry,CA
-2038,CA,Cobalt,6922027.18792486,6922.02718792486,Decreasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Copper,40430781.11334426,40430.78111334426,Decreasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Graphite,88566628.73802567,88566.62873802567,Decreasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Lithium,9330405.961760856,9330.405961760856,Decreasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Manganese,4487852.6937451465,4487.852693745146,Decreasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Nickel,41937052.83310267,41937.05283310267,Decreasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Cobalt,6761217.628116379,6761.217628116378,Decreasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Copper,39640388.77649067,39640.388776490676,Decreasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Graphite,86778511.95246519,86778.5119524652,Decreasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Lithium,9138718.635962866,9138.718635962867,Decreasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Manganese,4384753.072723862,4384.753072723862,Decreasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Nickel,40970600.40740298,40970.60040740298,Decreasing Batt Cap - Benchmark Chemistry,US
 2038,CO,Cobalt,1093383.1382223063,1093.3831382223063,Decreasing Batt Cap - Benchmark Chemistry,US
 2038,CO,Copper,6429660.01307871,6429.66001307871,Decreasing Batt Cap - Benchmark Chemistry,US
 2038,CO,Graphite,14068143.691273462,14068.143691273463,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -5105,12 +5105,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2039,BC,Lithium,982608.9664062336,982.6089664062337,Decreasing Batt Cap - Benchmark Chemistry,CA
 2039,BC,Manganese,515181.14167595975,515.1811416759598,Decreasing Batt Cap - Benchmark Chemistry,CA
 2039,BC,Nickel,4825147.0958985435,4825.147095898544,Decreasing Batt Cap - Benchmark Chemistry,CA
-2039,CA,Cobalt,6840539.449638148,6840.539449638148,Decreasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Copper,41350720.95477905,41350.72095477905,Decreasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Graphite,90481086.22278999,90481.08622278999,Decreasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Lithium,9500954.392552052,9500.954392552052,Decreasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Manganese,4552009.448137139,4552.009448137139,Decreasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Nickel,42524464.34597476,42524.46434597476,Decreasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Cobalt,6657532.346953788,6657.532346953788,Decreasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Copper,40414795.711053275,40414.79571105327,Decreasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Graphite,88368392.1310908,88368.3921310908,Decreasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Lithium,9275428.889457582,9275.428889457582,Decreasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Manganese,4431482.705999191,4431.482705999191,Decreasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Nickel,41395038.64180151,41395.038641801504,Decreasing Batt Cap - Benchmark Chemistry,US
 2039,CO,Cobalt,1089569.7974170009,1089.569797417001,Decreasing Batt Cap - Benchmark Chemistry,US
 2039,CO,Copper,6628946.089279879,6628.946089279879,Decreasing Batt Cap - Benchmark Chemistry,US
 2039,CO,Graphite,14488872.441956991,14488.872441956992,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -5495,12 +5495,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2040,BC,Lithium,1001107.8171026716,1001.1078171026716,Decreasing Batt Cap - Benchmark Chemistry,CA
 2040,BC,Manganese,524512.1049746311,524.5121049746311,Decreasing Batt Cap - Benchmark Chemistry,CA
 2040,BC,Nickel,4912446.625417619,4912.446625417619,Decreasing Batt Cap - Benchmark Chemistry,CA
-2040,CA,Cobalt,6933620.467573549,6933.620467573549,Decreasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Copper,41828462.60283741,41828.46260283741,Decreasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Graphite,91558738.86128087,91558.73886128087,Decreasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Lithium,9615949.07853286,9615.94907853286,Decreasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Manganese,4613324.286585527,4613.324286585526,Decreasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Nickel,43098996.01295867,43098.99601295867,Decreasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Cobalt,6740282.39605817,6740.28239605817,Decreasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Copper,40839703.250907354,40839.703250907354,Decreasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Graphite,89326780.64085859,89326.78064085859,Decreasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Lithium,9377692.38913513,9377.692389135129,Decreasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Manganese,4485993.667498147,4485.993667498147,Decreasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Nickel,41905812.86359143,41905.81286359143,Decreasing Batt Cap - Benchmark Chemistry,US
 2040,CO,Cobalt,1119030.0361097907,1119.0300361097907,Decreasing Batt Cap - Benchmark Chemistry,US
 2040,CO,Copper,6787793.45432356,6787.79345432356,Decreasing Batt Cap - Benchmark Chemistry,US
 2040,CO,Graphite,14843766.378782412,14843.766378782411,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -5885,12 +5885,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2041,BC,Lithium,1031688.4460408164,1031.6884460408164,Decreasing Batt Cap - Benchmark Chemistry,CA
 2041,BC,Manganese,540178.2211351753,540.1782211351754,Decreasing Batt Cap - Benchmark Chemistry,CA
 2041,BC,Nickel,5059080.762917722,5059.080762917722,Decreasing Batt Cap - Benchmark Chemistry,CA
-2041,CA,Cobalt,6926115.743712884,6926.115743712884,Decreasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Copper,41846459.02506148,41846.45902506148,Decreasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Graphite,91574028.80281685,91574.02880281686,Decreasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Lithium,9616184.889162937,9616.184889162938,Decreasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Manganese,4608796.966682893,4608.796966682893,Decreasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Nickel,43055409.35836155,43055.40935836155,Decreasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Cobalt,6744483.717099415,6744.483717099415,Decreasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Copper,40917566.109576955,40917.566109576954,Decreasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Graphite,89477209.01086167,89477.20901086167,Decreasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Lithium,9392353.933312716,9392.353933312716,Decreasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Manganese,4489175.837675467,4489.175837675467,Decreasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Nickel,41934469.89805785,41934.46989805785,Decreasing Batt Cap - Benchmark Chemistry,US
 2041,CO,Cobalt,1153616.3872277795,1153.6163872277796,Decreasing Batt Cap - Benchmark Chemistry,US
 2041,CO,Copper,6982944.924954358,6982.944924954358,Decreasing Batt Cap - Benchmark Chemistry,US
 2041,CO,Graphite,15276077.27685869,15276.077276858688,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -6275,12 +6275,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2042,BC,Lithium,1064359.1526745036,1064.3591526745035,Decreasing Batt Cap - Benchmark Chemistry,CA
 2042,BC,Manganese,556954.4562232445,556.9544562232445,Decreasing Batt Cap - Benchmark Chemistry,CA
 2042,BC,Nickel,5216115.828399449,5216.115828399448,Decreasing Batt Cap - Benchmark Chemistry,CA
-2042,CA,Cobalt,7033832.608400437,7033.8326084004375,Decreasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Copper,42436500.35139344,42436.500351393435,Decreasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Graphite,92888350.0775645,92888.3500775645,Decreasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Lithium,9755515.864977185,9755.515864977184,Decreasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Manganese,4680026.699405519,4680.026699405519,Decreasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Nickel,43722077.87171393,43722.077871713926,Decreasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Cobalt,6882856.781084363,6882.856781084363,Decreasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Copper,41664387.75088955,41664.387750889546,Decreasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Graphite,91145435.52265042,91145.43552265043,Decreasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Lithium,9569463.524051929,9569.46352405193,Decreasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Manganese,4580595.452322578,4580.595452322578,Decreasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Nickel,42790332.7079013,42790.332707901296,Decreasing Batt Cap - Benchmark Chemistry,US
 2042,CO,Cobalt,1193494.3521865953,1193.4943521865953,Decreasing Batt Cap - Benchmark Chemistry,US
 2042,CO,Copper,7202372.840304335,7202.372840304334,Decreasing Batt Cap - Benchmark Chemistry,US
 2042,CO,Graphite,15764439.9575617,15764.439957561699,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -6665,12 +6665,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2043,BC,Lithium,1099687.8822940374,1099.6878822940373,Decreasing Batt Cap - Benchmark Chemistry,CA
 2043,BC,Manganese,575148.0233412163,575.1480233412162,Decreasing Batt Cap - Benchmark Chemistry,CA
 2043,BC,Nickel,5386431.559667212,5386.431559667212,Decreasing Batt Cap - Benchmark Chemistry,CA
-2043,CA,Cobalt,7158115.504330803,7158.115504330803,Decreasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Copper,43116626.61812944,43116.62661812944,Decreasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Graphite,94403612.64344569,94403.61264344568,Decreasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Lithium,9916164.033991667,9916.164033991667,Decreasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Manganese,4762206.168158798,4762.2061681587975,Decreasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Nickel,44491243.02025644,44491.243020256436,Decreasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Cobalt,7045562.803471312,7045.562803471312,Decreasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Copper,42541015.54118253,42541.01554118253,Decreasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Graphite,93104267.28458768,93104.26728458768,Decreasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Lithium,9777461.740752842,9777.461740752842,Decreasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Manganese,4688080.027517866,4688.080027517866,Decreasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Nickel,43796625.63306155,43796.62563306155,Decreasing Batt Cap - Benchmark Chemistry,US
 2043,CO,Cobalt,1232700.0046608695,1232.7000046608696,Decreasing Batt Cap - Benchmark Chemistry,US
 2043,CO,Copper,7419374.004191784,7419.3740041917845,Decreasing Batt Cap - Benchmark Chemistry,US
 2043,CO,Graphite,16246870.093041455,16246.870093041456,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -7055,12 +7055,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2044,BC,Lithium,1138107.4544024384,1138.1074544024384,Decreasing Batt Cap - Benchmark Chemistry,CA
 2044,BC,Manganese,595033.2985324081,595.033298532408,Decreasing Batt Cap - Benchmark Chemistry,CA
 2044,BC,Nickel,5572609.822213853,5572.609822213853,Decreasing Batt Cap - Benchmark Chemistry,CA
-2044,CA,Cobalt,7310098.212340401,7310.098212340401,Decreasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Copper,43934524.58721434,43934.52458721434,Decreasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Graphite,96231619.38862891,96231.61938862891,Decreasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Lithium,10110293.293863645,10110.293293863644,Decreasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Manganese,4862599.825820154,4862.5998258201535,Decreasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Nickel,45431168.92514252,45431.16892514252,Decreasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Cobalt,7231228.96836516,7231.22896836516,Decreasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Copper,43531175.66607872,43531.175666078714,Decreasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Graphite,95321126.92302561,95321.12692302561,Decreasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Lithium,10013100.20190013,10013.10020190013,Decreasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Manganese,4810657.290221198,4810.657290221198,Decreasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Nickel,44944428.51143613,44944.42851143613,Decreasing Batt Cap - Benchmark Chemistry,US
 2044,CO,Cobalt,1275296.9080283153,1275.2969080283153,Decreasing Batt Cap - Benchmark Chemistry,US
 2044,CO,Copper,7653153.913065358,7653.153913065358,Decreasing Batt Cap - Benchmark Chemistry,US
 2044,CO,Graphite,16767429.14712973,16767.42914712973,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -7445,12 +7445,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2045,BC,Lithium,1177576.6887655468,1177.5766887655468,Decreasing Batt Cap - Benchmark Chemistry,CA
 2045,BC,Manganese,615472.832593332,615.4728325933321,Decreasing Batt Cap - Benchmark Chemistry,CA
 2045,BC,Nickel,5763980.229462333,5763.980229462333,Decreasing Batt Cap - Benchmark Chemistry,CA
-2045,CA,Cobalt,7492573.536825793,7492.573536825793,Decreasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Copper,44896972.109157674,44896.97210915767,Decreasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Graphite,98391042.67338003,98391.04267338003,Decreasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Lithium,10340082.76399479,10340.082763994791,Decreasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Manganese,4982991.712051667,4982.9917120516675,Decreasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Nickel,46558728.097338706,46558.72809733871,Decreasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Cobalt,7436102.614808566,7436.102614808566,Decreasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Copper,44608171.50295008,44608.17150295008,Decreasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Graphite,97739123.79561701,97739.12379561701,Decreasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Lithium,10270491.8405848,10270.4918405848,Decreasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Manganese,4945800.498730206,4945.800498730206,Decreasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Nickel,46210218.60796569,46210.21860796569,Decreasing Batt Cap - Benchmark Chemistry,US
 2045,CO,Cobalt,1318562.2067270176,1318.5622067270176,Decreasing Batt Cap - Benchmark Chemistry,US
 2045,CO,Copper,7888464.911259594,7888.464911259594,Decreasing Batt Cap - Benchmark Chemistry,US
 2045,CO,Graphite,17292292.420576446,17292.292420576447,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -7835,12 +7835,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2046,BC,Lithium,1228354.488393665,1228.354488393665,Decreasing Batt Cap - Benchmark Chemistry,CA
 2046,BC,Manganese,641982.4632145939,641.982463214594,Decreasing Batt Cap - Benchmark Chemistry,CA
 2046,BC,Nickel,6012238.601877904,6012.238601877903,Decreasing Batt Cap - Benchmark Chemistry,CA
-2046,CA,Cobalt,7762883.08840166,7762.883088401661,Decreasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Copper,46305651.81572001,46305.651815720004,Decreasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Graphite,101559092.56203371,101559.09256203371,Decreasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Lithium,10677614.369730545,10677.614369730545,Decreasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Manganese,5161208.549306673,5161.208549306673,Decreasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Nickel,48228211.44306241,48228.21144306241,Decreasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Cobalt,7716663.397714291,7716.663397714291,Decreasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Copper,46069277.515240766,46069.27751524076,Decreasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Graphite,101025517.26687078,101025.51726687078,Decreasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Lithium,10620656.366571378,10620.656366571378,Decreasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Manganese,5130768.699653049,5130.768699653049,Decreasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Nickel,47942967.28155358,47942.96728155358,Decreasing Batt Cap - Benchmark Chemistry,US
 2046,CO,Cobalt,1365839.3115476952,1365.8393115476952,Decreasing Batt Cap - Benchmark Chemistry,US
 2046,CO,Copper,8143837.518898548,8143.837518898547,Decreasing Batt Cap - Benchmark Chemistry,US
 2046,CO,Graphite,17862646.032670442,17862.646032670444,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -8225,12 +8225,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2047,BC,Lithium,1268582.5381996138,1268.5825381996137,Decreasing Batt Cap - Benchmark Chemistry,CA
 2047,BC,Manganese,662894.1912991728,662.8941912991728,Decreasing Batt Cap - Benchmark Chemistry,CA
 2047,BC,Nickel,6208050.471020914,6208.050471020913,Decreasing Batt Cap - Benchmark Chemistry,CA
-2047,CA,Cobalt,7982886.506344244,7982.886506344244,Decreasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Copper,47461764.28183115,47461.76428183115,Decreasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Graphite,104154899.70077325,104154.89970077325,Decreasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Lithium,10953943.752367353,10953.943752367353,Decreasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Manganese,5306328.902549532,5306.328902549532,Decreasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Nickel,49587458.961157225,49587.45896115722,Decreasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Cobalt,7937848.768348876,7937.848768348877,Decreasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Copper,47231434.6613707,47231.4346613707,Decreasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Graphite,103634969.25582732,103634.96925582732,Decreasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Lithium,10898442.307315007,10898.442307315006,Decreasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Manganese,5276667.47572192,5276.66747572192,Decreasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Nickel,49309509.20382032,49309.509203820315,Decreasing Batt Cap - Benchmark Chemistry,US
 2047,CO,Cobalt,1411115.5957699013,1411.1155957699013,Decreasing Batt Cap - Benchmark Chemistry,US
 2047,CO,Copper,8389866.115875665,8389.866115875666,Decreasing Batt Cap - Benchmark Chemistry,US
 2047,CO,Graphite,18411507.853663016,18411.507853663017,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -8615,12 +8615,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2048,BC,Lithium,1306808.1533523116,1306.8081533523116,Decreasing Batt Cap - Benchmark Chemistry,CA
 2048,BC,Manganese,682748.9520756258,682.7489520756258,Decreasing Batt Cap - Benchmark Chemistry,CA
 2048,BC,Nickel,6393961.059404118,6393.961059404118,Decreasing Batt Cap - Benchmark Chemistry,CA
-2048,CA,Cobalt,8196719.724168381,8196.71972416838,Decreasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Copper,48614117.317439914,48614.117317439915,Decreasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Graphite,106729729.93650493,106729.72993650493,Decreasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Lithium,11227345.438114444,11227.345438114444,Decreasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Manganese,5447590.340038892,5447.590340038892,Decreasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Nickel,50909972.50288272,50909.972502882716,Decreasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Cobalt,8146105.7703922475,8146.105770392248,Decreasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Copper,48355270.108806595,48355.270108806595,Decreasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Graphite,106145425.82447325,106145.42582447325,Decreasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Lithium,11164972.2440016,11164.972244001601,Decreasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Manganese,5414256.470417345,5414.256470417345,Decreasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Nickel,50597609.20942901,50597.609209429014,Decreasing Batt Cap - Benchmark Chemistry,US
 2048,CO,Cobalt,1454620.3757985805,1454.6203757985804,Decreasing Batt Cap - Benchmark Chemistry,US
 2048,CO,Copper,8631856.101797374,8631.856101797373,Decreasing Batt Cap - Benchmark Chemistry,US
 2048,CO,Graphite,18948996.84939501,18948.99684939501,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -9005,12 +9005,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2049,BC,Lithium,1342382.7278334275,1342.3827278334275,Decreasing Batt Cap - Benchmark Chemistry,CA
 2049,BC,Manganese,701221.1490008257,701.2211490008257,Decreasing Batt Cap - Benchmark Chemistry,CA
 2049,BC,Nickel,6566924.537966178,6566.924537966178,Decreasing Batt Cap - Benchmark Chemistry,CA
-2049,CA,Cobalt,8390874.293023363,8390.874293023362,Decreasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Copper,49653003.48425887,49653.003484258865,Decreasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Graphite,109054191.99204147,109054.19199204147,Decreasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Lithium,11474338.577315545,11474.338577315544,Decreasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Manganese,5575797.131247899,5575.7971312478985,Decreasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Nickel,52110418.69671033,52110.41869671033,Decreasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Cobalt,8330668.874046896,8330.668874046896,Decreasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Copper,49345104.11098355,49345.10411098355,Decreasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Graphite,108359160.8543806,108359.16085438059,Decreasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Lithium,11400145.51385574,11400.145513855741,Decreasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Manganese,5536146.413670122,5536.146413670122,Decreasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Nickel,51738861.81264573,51738.86181264574,Decreasing Batt Cap - Benchmark Chemistry,US
 2049,CO,Cobalt,1497561.091418971,1497.561091418971,Decreasing Batt Cap - Benchmark Chemistry,US
 2049,CO,Copper,8868803.263333369,8868.80326333337,Decreasing Batt Cap - Benchmark Chemistry,US
 2049,CO,Graphite,19476072.307189252,19476.072307189253,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -9395,12 +9395,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2050,BC,Lithium,1372171.5148836416,1372.1715148836415,Decreasing Batt Cap - Benchmark Chemistry,CA
 2050,BC,Manganese,716637.5190460512,716.6375190460512,Decreasing Batt Cap - Benchmark Chemistry,CA
 2050,BC,Nickel,6711261.686947675,6711.261686947675,Decreasing Batt Cap - Benchmark Chemistry,CA
-2050,CA,Cobalt,8553039.992669564,8553.039992669565,Decreasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Copper,50557789.63298134,50557.78963298134,Decreasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Graphite,111062691.27594782,111062.69127594783,Decreasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Lithium,11686872.815864794,11686.872815864794,Decreasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Manganese,5683153.596097059,5683.153596097059,Decreasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Nickel,53114873.641101554,53114.873641101556,Decreasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Cobalt,8481545.683861522,8481.545683861523,Decreasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Copper,50192157.21568425,50192.15721568425,Decreasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Graphite,110237337.48501156,110237.33748501157,Decreasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Lithium,11598768.09239326,11598.76809239326,Decreasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Manganese,5636068.122809776,5636.0681228097765,Decreasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Nickel,52673647.5345371,52673.6475345371,Decreasing Batt Cap - Benchmark Chemistry,US
 2050,CO,Cobalt,1534758.2125524592,1534.758212552459,Decreasing Batt Cap - Benchmark Chemistry,US
 2050,CO,Copper,9081821.039888745,9081.821039888746,Decreasing Batt Cap - Benchmark Chemistry,US
 2050,CO,Graphite,19946684.73790768,19946.684737907683,Decreasing Batt Cap - Benchmark Chemistry,US
@@ -9785,12 +9785,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2026,BC,Lithium,176365.47872487459,176.36547872487458,Decreasing Batt Cap - High LFP Chemistry,CA
 2026,BC,Manganese,79942.08508966536,79.94208508966535,Decreasing Batt Cap - High LFP Chemistry,CA
 2026,BC,Nickel,751658.216201282,751.658216201282,Decreasing Batt Cap - High LFP Chemistry,CA
-2026,CA,Cobalt,1800769.1295770528,1800.7691295770528,Decreasing Batt Cap - High LFP Chemistry,US
-2026,CA,Copper,10325518.612225173,10325.518612225173,Decreasing Batt Cap - High LFP Chemistry,US
-2026,CA,Graphite,21811031.39557112,21811.03139557112,Decreasing Batt Cap - High LFP Chemistry,US
-2026,CA,Lithium,2302196.0019452693,2302.1960019452695,Decreasing Batt Cap - High LFP Chemistry,US
-2026,CA,Manganese,943648.8465244324,943.6488465244324,Decreasing Batt Cap - High LFP Chemistry,US
-2026,CA,Nickel,8840381.496843386,8840.381496843387,Decreasing Batt Cap - High LFP Chemistry,US
+2026,CA,Cobalt,1799239.8578265784,1799.2398578265784,Decreasing Batt Cap - High LFP Chemistry,US
+2026,CA,Copper,10318570.039695095,10318.570039695096,Decreasing Batt Cap - High LFP Chemistry,US
+2026,CA,Graphite,21795827.137989007,21795.827137989007,Decreasing Batt Cap - High LFP Chemistry,US
+2026,CA,Lithium,2300550.005685219,2300.5500056852193,Decreasing Batt Cap - High LFP Chemistry,US
+2026,CA,Manganese,942867.8052894806,942.8678052894807,Decreasing Batt Cap - High LFP Chemistry,US
+2026,CA,Nickel,8833026.423218118,8833.026423218118,Decreasing Batt Cap - High LFP Chemistry,US
 2026,CO,Cobalt,346626.38519244856,346.62638519244854,Decreasing Batt Cap - High LFP Chemistry,US
 2026,CO,Copper,1899142.0133906852,1899.1420133906852,Decreasing Batt Cap - High LFP Chemistry,US
 2026,CO,Graphite,4037206.9544434724,4037.2069544434726,Decreasing Batt Cap - High LFP Chemistry,US
@@ -10175,12 +10175,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2027,BC,Lithium,236889.93942509248,236.88993942509248,Decreasing Batt Cap - High LFP Chemistry,CA
 2027,BC,Manganese,108203.50351773419,108.20350351773419,Decreasing Batt Cap - High LFP Chemistry,CA
 2027,BC,Nickel,1002734.8993590086,1002.7348993590086,Decreasing Batt Cap - High LFP Chemistry,CA
-2027,CA,Cobalt,2286242.5384010114,2286.242538401011,Decreasing Batt Cap - High LFP Chemistry,US
-2027,CA,Copper,13354612.902501786,13354.612902501785,Decreasing Batt Cap - High LFP Chemistry,US
-2027,CA,Graphite,28189373.59410066,28189.37359410066,Decreasing Batt Cap - High LFP Chemistry,US
-2027,CA,Lithium,2969787.2635593107,2969.7872635593108,Decreasing Batt Cap - High LFP Chemistry,US
-2027,CA,Manganese,1229006.8646926703,1229.0068646926702,Decreasing Batt Cap - High LFP Chemistry,US
-2027,CA,Nickel,11355019.967793342,11355.019967793341,Decreasing Batt Cap - High LFP Chemistry,US
+2027,CA,Cobalt,2283907.016741189,2283.907016741189,Decreasing Batt Cap - High LFP Chemistry,US
+2027,CA,Copper,13343568.65459911,13343.56865459911,Decreasing Batt Cap - High LFP Chemistry,US
+2027,CA,Graphite,28165311.813649304,28165.311813649303,Decreasing Batt Cap - High LFP Chemistry,US
+2027,CA,Lithium,2967194.526434239,2967.194526434239,Decreasing Batt Cap - High LFP Chemistry,US
+2027,CA,Manganese,1227779.5154866523,1227.7795154866524,Decreasing Batt Cap - High LFP Chemistry,US
+2027,CA,Nickel,11343634.375266723,11343.634375266724,Decreasing Batt Cap - High LFP Chemistry,US
 2027,CO,Cobalt,347752.79718573845,347.7527971857385,Decreasing Batt Cap - High LFP Chemistry,US
 2027,CO,Copper,2031280.1860341658,2031.2801860341658,Decreasing Batt Cap - High LFP Chemistry,US
 2027,CO,Graphite,4287708.900013257,4287.708900013256,Decreasing Batt Cap - High LFP Chemistry,US
@@ -10565,12 +10565,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2028,BC,Lithium,326118.81257232913,326.11881257232915,Decreasing Batt Cap - High LFP Chemistry,CA
 2028,BC,Manganese,147454.33891130908,147.4543389113091,Decreasing Batt Cap - High LFP Chemistry,CA
 2028,BC,Nickel,1370592.6445817344,1370.5926445817345,Decreasing Batt Cap - High LFP Chemistry,CA
-2028,CA,Cobalt,2716858.661635645,2716.858661635645,Decreasing Batt Cap - High LFP Chemistry,US
-2028,CA,Copper,16548000.597336626,16548.000597336624,Decreasing Batt Cap - High LFP Chemistry,US
-2028,CA,Graphite,34820323.369575895,34820.3233695759,Decreasing Batt Cap - High LFP Chemistry,US
-2028,CA,Lithium,3653311.9823151724,3653.3119823151724,Decreasing Batt Cap - High LFP Chemistry,US
-2028,CA,Manganese,1484693.99645275,1484.6939964527498,Decreasing Batt Cap - High LFP Chemistry,US
-2028,CA,Nickel,13752854.373320403,13752.854373320402,Decreasing Batt Cap - High LFP Chemistry,US
+2028,CA,Cobalt,2713298.7595777963,2713.2987595777963,Decreasing Batt Cap - High LFP Chemistry,US
+2028,CA,Copper,16530405.520806989,16530.405520806988,Decreasing Batt Cap - High LFP Chemistry,US
+2028,CA,Graphite,34782144.611941956,34782.144611941956,Decreasing Batt Cap - High LFP Chemistry,US
+2028,CA,Lithium,3649218.5927494518,3649.2185927494515,Decreasing Batt Cap - High LFP Chemistry,US
+2028,CA,Manganese,1482792.1858249018,1482.7921858249017,Decreasing Batt Cap - High LFP Chemistry,US
+2028,CA,Nickel,13735162.518604042,13735.162518604042,Decreasing Batt Cap - High LFP Chemistry,US
 2028,CO,Cobalt,407807.57843450014,407.80757843450016,Decreasing Batt Cap - High LFP Chemistry,US
 2028,CO,Copper,2492700.7921712818,2492.7007921712816,Decreasing Batt Cap - High LFP Chemistry,US
 2028,CO,Graphite,5242656.521807682,5242.656521807682,Decreasing Batt Cap - High LFP Chemistry,US
@@ -10955,12 +10955,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2029,BC,Lithium,387332.77556985,387.33277556985,Decreasing Batt Cap - High LFP Chemistry,CA
 2029,BC,Manganese,182455.50953850965,182.45550953850966,Decreasing Batt Cap - High LFP Chemistry,CA
 2029,BC,Nickel,1604456.5778793478,1604.4565778793478,Decreasing Batt Cap - High LFP Chemistry,CA
-2029,CA,Cobalt,3050973.3370533343,3050.9733370533345,Decreasing Batt Cap - High LFP Chemistry,US
-2029,CA,Copper,19663330.1460865,19663.3301460865,Decreasing Batt Cap - High LFP Chemistry,US
-2029,CA,Graphite,41303632.77628457,41303.63277628457,Decreasing Batt Cap - High LFP Chemistry,US
-2029,CA,Lithium,4309792.654911512,4309.792654911512,Decreasing Batt Cap - High LFP Chemistry,US
-2029,CA,Manganese,1824759.3318064627,1824.7593318064628,Decreasing Batt Cap - High LFP Chemistry,US
-2029,CA,Nickel,16028290.012065845,16028.290012065845,Decreasing Batt Cap - High LFP Chemistry,US
+2029,CA,Cobalt,3045652.1964302454,3045.6521964302456,Decreasing Batt Cap - High LFP Chemistry,US
+2029,CA,Copper,19635199.31288425,19635.199312884248,Decreasing Batt Cap - High LFP Chemistry,US
+2029,CA,Graphite,41242810.43006921,41242.81043006921,Decreasing Batt Cap - High LFP Chemistry,US
+2029,CA,Lithium,4303320.420390982,4303.320420390982,Decreasing Batt Cap - High LFP Chemistry,US
+2029,CA,Manganese,1821634.2945001111,1821.634294500111,Decreasing Batt Cap - High LFP Chemistry,US
+2029,CA,Nickel,16000802.704265783,16000.802704265783,Decreasing Batt Cap - High LFP Chemistry,US
 2029,CO,Cobalt,454406.7775067811,454.4067775067811,Decreasing Batt Cap - High LFP Chemistry,US
 2029,CO,Copper,2945636.5376786436,2945.6365376786434,Decreasing Batt Cap - High LFP Chemistry,US
 2029,CO,Graphite,6182648.6077886,6182.6486077886,Decreasing Batt Cap - High LFP Chemistry,US
@@ -11345,12 +11345,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2030,BC,Lithium,446673.11852214474,446.67311852214476,Decreasing Batt Cap - High LFP Chemistry,CA
 2030,BC,Manganese,202618.02122340963,202.6180212234096,Decreasing Batt Cap - High LFP Chemistry,CA
 2030,BC,Nickel,1828179.7600696837,1828.1797600696837,Decreasing Batt Cap - High LFP Chemistry,CA
-2030,CA,Cobalt,3385193.84222638,3385.19384222638,Decreasing Batt Cap - High LFP Chemistry,US
-2030,CA,Copper,23000223.55253119,23000.22355253119,Decreasing Batt Cap - High LFP Chemistry,US
-2030,CA,Graphite,48160378.24020761,48160.37824020761,Decreasing Batt Cap - High LFP Chemistry,US
-2030,CA,Lithium,5001575.165280979,5001.5751652809795,Decreasing Batt Cap - High LFP Chemistry,US
-2030,CA,Manganese,2034989.8304631393,2034.9898304631392,Decreasing Batt Cap - High LFP Chemistry,US
-2030,CA,Nickel,18319344.32708281,18319.34432708281,Decreasing Batt Cap - High LFP Chemistry,US
+2030,CA,Cobalt,3377179.34514084,3377.17934514084,Decreasing Batt Cap - High LFP Chemistry,US
+2030,CA,Copper,22955532.32536956,22955.53232536956,Decreasing Batt Cap - High LFP Chemistry,US
+2030,CA,Graphite,48064105.1788923,48064.1051788923,Decreasing Batt Cap - High LFP Chemistry,US
+2030,CA,Lithium,4991386.44367601,4991.38644367601,Decreasing Batt Cap - High LFP Chemistry,US
+2030,CA,Manganese,2030263.0707593553,2030.2630707593553,Decreasing Batt Cap - High LFP Chemistry,US
+2030,CA,Nickel,18276676.934976865,18276.676934976866,Decreasing Batt Cap - High LFP Chemistry,US
 2030,CO,Cobalt,500131.2400003593,500.1312400003593,Decreasing Batt Cap - High LFP Chemistry,US
 2030,CO,Copper,3426246.1159598143,3426.2461159598142,Decreasing Batt Cap - High LFP Chemistry,US
 2030,CO,Graphite,7166473.725168315,7166.473725168315,Decreasing Batt Cap - High LFP Chemistry,US
@@ -11735,12 +11735,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2031,BC,Lithium,517335.6922718163,517.3356922718164,Decreasing Batt Cap - High LFP Chemistry,CA
 2031,BC,Manganese,227068.33899461073,227.06833899461074,Decreasing Batt Cap - High LFP Chemistry,CA
 2031,BC,Nickel,2086754.6084674944,2086.7546084674946,Decreasing Batt Cap - High LFP Chemistry,CA
-2031,CA,Cobalt,3636174.9728285046,3636.1749728285045,Decreasing Batt Cap - High LFP Chemistry,US
-2031,CA,Copper,26269082.652799282,26269.082652799283,Decreasing Batt Cap - High LFP Chemistry,US
-2031,CA,Graphite,54704600.305335306,54704.600305335305,Decreasing Batt Cap - High LFP Chemistry,US
-2031,CA,Lithium,5651118.731481095,5651.118731481095,Decreasing Batt Cap - High LFP Chemistry,US
-2031,CA,Manganese,2196793.801056455,2196.793801056455,Decreasing Batt Cap - High LFP Chemistry,US
-2031,CA,Nickel,20116462.67605814,20116.46267605814,Decreasing Batt Cap - High LFP Chemistry,US
+2031,CA,Cobalt,3624009.854165815,3624.009854165815,Decreasing Batt Cap - High LFP Chemistry,US
+2031,CA,Copper,26198053.42907258,26198.05342907258,Decreasing Batt Cap - High LFP Chemistry,US
+2031,CA,Graphite,54552208.34474545,54552.20834474545,Decreasing Batt Cap - High LFP Chemistry,US
+2031,CA,Lithium,5635064.084479466,5635.064084479466,Decreasing Batt Cap - High LFP Chemistry,US
+2031,CA,Manganese,2189602.0502844397,2189.60205028444,Decreasing Batt Cap - High LFP Chemistry,US
+2031,CA,Nickel,20050333.744485248,20050.333744485248,Decreasing Batt Cap - High LFP Chemistry,US
 2031,CO,Cobalt,567375.974903195,567.375974903195,Decreasing Batt Cap - High LFP Chemistry,US
 2031,CO,Copper,4098045.9098520414,4098.045909852041,Decreasing Batt Cap - High LFP Chemistry,US
 2031,CO,Graphite,8534297.55511936,8534.29755511936,Decreasing Batt Cap - High LFP Chemistry,US
@@ -12125,12 +12125,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2032,BC,Lithium,586078.6613126844,586.0786613126844,Decreasing Batt Cap - High LFP Chemistry,CA
 2032,BC,Manganese,251470.30986280908,251.47030986280907,Decreasing Batt Cap - High LFP Chemistry,CA
 2032,BC,Nickel,2321058.1991449855,2321.0581991449853,Decreasing Batt Cap - High LFP Chemistry,CA
-2032,CA,Cobalt,3983073.549593921,3983.0735495939207,Decreasing Batt Cap - High LFP Chemistry,US
-2032,CA,Copper,29851052.20709052,29851.05220709052,Decreasing Batt Cap - High LFP Chemistry,US
-2032,CA,Graphite,61935253.02536835,61935.25302536835,Decreasing Batt Cap - High LFP Chemistry,US
-2032,CA,Lithium,6378332.729984177,6378.332729984178,Decreasing Batt Cap - High LFP Chemistry,US
-2032,CA,Manganese,2420152.2874990846,2420.1522874990847,Decreasing Batt Cap - High LFP Chemistry,US
-2032,CA,Nickel,22249676.5526748,22249.6765526748,Decreasing Batt Cap - High LFP Chemistry,US
+2032,CA,Cobalt,3964748.394171998,3964.748394171998,Decreasing Batt Cap - High LFP Chemistry,US
+2032,CA,Copper,29740001.330405988,29740.001330405987,Decreasing Batt Cap - High LFP Chemistry,US
+2032,CA,Graphite,61698054.50687281,61698.05450687281,Decreasing Batt Cap - High LFP Chemistry,US
+2032,CA,Lithium,6353433.437250703,6353.433437250703,Decreasing Batt Cap - High LFP Chemistry,US
+2032,CA,Manganese,2409263.1361049972,2409.263136104997,Decreasing Batt Cap - High LFP Chemistry,US
+2032,CA,Nickel,22149112.974494975,22149.112974494976,Decreasing Batt Cap - High LFP Chemistry,US
 2032,CO,Cobalt,620184.2684664956,620.1842684664956,Decreasing Batt Cap - High LFP Chemistry,US
 2032,CO,Copper,4656161.068512695,4656.161068512695,Decreasing Batt Cap - High LFP Chemistry,US
 2032,CO,Graphite,9658529.22048133,9658.52922048133,Decreasing Batt Cap - High LFP Chemistry,US
@@ -12515,12 +12515,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2033,BC,Lithium,688000.2235584527,688.0002235584527,Decreasing Batt Cap - High LFP Chemistry,CA
 2033,BC,Manganese,287411.4481321354,287.4114481321354,Decreasing Batt Cap - High LFP Chemistry,CA
 2033,BC,Nickel,2676971.730352943,2676.971730352943,Decreasing Batt Cap - High LFP Chemistry,CA
-2033,CA,Cobalt,4475416.725147414,4475.416725147414,Decreasing Batt Cap - High LFP Chemistry,US
-2033,CA,Copper,34028611.21967149,34028.61121967149,Decreasing Batt Cap - High LFP Chemistry,US
-2033,CA,Graphite,70565889.10409635,70565.88910409635,Decreasing Batt Cap - High LFP Chemistry,US
-2033,CA,Lithium,7258773.676820557,7258.773676820557,Decreasing Batt Cap - High LFP Chemistry,US
-2033,CA,Manganese,2722274.599490484,2722.2745994904844,Decreasing Batt Cap - High LFP Chemistry,US
-2033,CA,Nickel,25254666.347667523,25254.666347667524,Decreasing Batt Cap - High LFP Chemistry,US
+2033,CA,Cobalt,4448194.22241686,4448.19422241686,Decreasing Batt Cap - High LFP Chemistry,US
+2033,CA,Copper,33856907.34205475,33856.90734205475,Decreasing Batt Cap - High LFP Chemistry,US
+2033,CA,Graphite,70200728.97946893,70200.72897946893,Decreasing Batt Cap - High LFP Chemistry,US
+2033,CA,Lithium,7220585.869552576,7220.585869552576,Decreasing Batt Cap - High LFP Chemistry,US
+2033,CA,Manganese,2706045.5944314855,2706.0455944314854,Decreasing Batt Cap - High LFP Chemistry,US
+2033,CA,Nickel,25103418.42645934,25103.41842645934,Decreasing Batt Cap - High LFP Chemistry,US
 2033,CO,Cobalt,699231.501643313,699.231501643313,Decreasing Batt Cap - High LFP Chemistry,US
 2033,CO,Copper,5329207.710332286,5329.207710332285,Decreasing Batt Cap - High LFP Chemistry,US
 2033,CO,Graphite,11048039.88739193,11048.039887391931,Decreasing Batt Cap - High LFP Chemistry,US
@@ -12905,12 +12905,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2034,BC,Lithium,747688.8491823038,747.6888491823038,Decreasing Batt Cap - High LFP Chemistry,CA
 2034,BC,Manganese,304239.1445271529,304.23914452715286,Decreasing Batt Cap - High LFP Chemistry,CA
 2034,BC,Nickel,2852025.100693988,2852.025100693988,Decreasing Batt Cap - High LFP Chemistry,CA
-2034,CA,Cobalt,4652743.8924508765,4652.743892450877,Decreasing Batt Cap - High LFP Chemistry,US
-2034,CA,Copper,36389871.891758345,36389.87189175835,Decreasing Batt Cap - High LFP Chemistry,US
-2034,CA,Graphite,75300569.95071463,75300.56995071463,Decreasing Batt Cap - High LFP Chemistry,US
-2034,CA,Lithium,7728221.796957317,7728.221796957317,Decreasing Batt Cap - High LFP Chemistry,US
-2034,CA,Manganese,2845520.0117751425,2845.5200117751424,Decreasing Batt Cap - High LFP Chemistry,US
-2034,CA,Nickel,26565790.265326492,26565.790265326494,Decreasing Batt Cap - High LFP Chemistry,US
+2034,CA,Cobalt,4612826.017951174,4612.8260179511735,Decreasing Batt Cap - High LFP Chemistry,US
+2034,CA,Copper,36127490.85279144,36127.490852791445,Decreasing Batt Cap - High LFP Chemistry,US
+2034,CA,Graphite,74744980.57602547,74744.98057602547,Decreasing Batt Cap - High LFP Chemistry,US
+2034,CA,Lithium,7670338.372886337,7670.338372886337,Decreasing Batt Cap - High LFP Chemistry,US
+2034,CA,Manganese,2821570.845504442,2821.5708455044423,Decreasing Batt Cap - High LFP Chemistry,US
+2034,CA,Nickel,26341139.683591962,26341.139683591962,Decreasing Batt Cap - High LFP Chemistry,US
 2034,CO,Cobalt,725919.2942914449,725.9192942914449,Decreasing Batt Cap - High LFP Chemistry,US
 2034,CO,Copper,5698833.186071146,5698.833186071146,Decreasing Batt Cap - High LFP Chemistry,US
 2034,CO,Graphite,11787031.650351353,11787.031650351353,Decreasing Batt Cap - High LFP Chemistry,US
@@ -13295,12 +13295,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2035,BC,Lithium,798535.6943884181,798.5356943884182,Decreasing Batt Cap - High LFP Chemistry,CA
 2035,BC,Manganese,317434.0852611334,317.43408526113336,Decreasing Batt Cap - High LFP Chemistry,CA
 2035,BC,Nickel,2982433.3451288827,2982.4333451288826,Decreasing Batt Cap - High LFP Chemistry,CA
-2035,CA,Cobalt,4767163.395392793,4767.163395392793,Decreasing Batt Cap - High LFP Chemistry,US
-2035,CA,Copper,38720148.17814734,38720.14817814734,Decreasing Batt Cap - High LFP Chemistry,US
-2035,CA,Graphite,79865216.63557348,79865.21663557348,Decreasing Batt Cap - High LFP Chemistry,US
-2035,CA,Lithium,8172201.561946209,8172.201561946209,Decreasing Batt Cap - High LFP Chemistry,US
-2035,CA,Manganese,2946700.153141535,2946.700153141535,Decreasing Batt Cap - High LFP Chemistry,US
-2035,CA,Nickel,27568911.37115272,27568.91137115272,Decreasing Batt Cap - High LFP Chemistry,US
+2035,CA,Cobalt,4709781.920740362,4709.781920740363,Decreasing Batt Cap - High LFP Chemistry,US
+2035,CA,Copper,38326628.46010081,38326.62846010081,Decreasing Batt Cap - High LFP Chemistry,US
+2035,CA,Graphite,79035544.9203963,79035.54492039629,Decreasing Batt Cap - High LFP Chemistry,US
+2035,CA,Lithium,8086090.003642124,8086.090003642124,Decreasing Batt Cap - High LFP Chemistry,US
+2035,CA,Manganese,2911898.598545098,2911.898598545098,Decreasing Batt Cap - High LFP Chemistry,US
+2035,CA,Nickel,27241715.018349458,27241.715018349456,Decreasing Batt Cap - High LFP Chemistry,US
 2035,CO,Cobalt,747677.9987744897,747.6779987744898,Decreasing Batt Cap - High LFP Chemistry,US
 2035,CO,Copper,6097629.824586247,6097.629824586247,Decreasing Batt Cap - High LFP Chemistry,US
 2035,CO,Graphite,12570987.616098328,12570.987616098328,Decreasing Batt Cap - High LFP Chemistry,US
@@ -13685,12 +13685,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2036,BC,Lithium,844844.2468102768,844.8442468102768,Decreasing Batt Cap - High LFP Chemistry,CA
 2036,BC,Manganese,328629.6089591714,328.6296089591714,Decreasing Batt Cap - High LFP Chemistry,CA
 2036,BC,Nickel,3086960.7122779475,3086.9607122779476,Decreasing Batt Cap - High LFP Chemistry,CA
-2036,CA,Cobalt,4833251.7263428075,4833.251726342807,Decreasing Batt Cap - High LFP Chemistry,US
-2036,CA,Copper,40696776.47750832,40696.77647750832,Decreasing Batt Cap - High LFP Chemistry,US
-2036,CA,Graphite,83710152.49721186,83710.15249721186,Decreasing Batt Cap - High LFP Chemistry,US
-2036,CA,Lithium,8541893.963218676,8541.893963218676,Decreasing Batt Cap - High LFP Chemistry,US
-2036,CA,Manganese,3029114.2782797758,3029.1142782797756,Decreasing Batt Cap - High LFP Chemistry,US
-2036,CA,Nickel,28337003.644404456,28337.003644404456,Decreasing Batt Cap - High LFP Chemistry,US
+2036,CA,Cobalt,4754452.023591564,4754.452023591564,Decreasing Batt Cap - High LFP Chemistry,US
+2036,CA,Copper,40131776.436324485,40131.776436324486,Decreasing Batt Cap - High LFP Chemistry,US
+2036,CA,Graphite,82524053.73973642,82524.05373973642,Decreasing Batt Cap - High LFP Chemistry,US
+2036,CA,Lithium,8419262.945218386,8419.262945218386,Decreasing Batt Cap - High LFP Chemistry,US
+2036,CA,Manganese,2980617.6966212415,2980.6176966212415,Decreasing Batt Cap - High LFP Chemistry,US
+2036,CA,Nickel,27881137.781780194,27881.137781780195,Decreasing Batt Cap - High LFP Chemistry,US
 2036,CO,Cobalt,760697.5222078711,760.6975222078711,Decreasing Batt Cap - High LFP Chemistry,US
 2036,CO,Copper,6434350.310804418,6434.350310804418,Decreasing Batt Cap - High LFP Chemistry,US
 2036,CO,Graphite,13227881.984742781,13227.88198474278,Decreasing Batt Cap - High LFP Chemistry,US
@@ -14075,12 +14075,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2037,BC,Lithium,892240.2679821604,892.2402679821604,Decreasing Batt Cap - High LFP Chemistry,CA
 2037,BC,Manganese,339803.34488750057,339.80334488750054,Decreasing Batt Cap - High LFP Chemistry,CA
 2037,BC,Nickel,3188018.9553084583,3188.0189553084583,Decreasing Batt Cap - High LFP Chemistry,CA
-2037,CA,Cobalt,4810751.733168359,4810.751733168359,Decreasing Batt Cap - High LFP Chemistry,US
-2037,CA,Copper,42155683.59892497,42155.683598924974,Decreasing Batt Cap - High LFP Chemistry,US
-2037,CA,Graphite,86466306.81346497,86466.30681346497,Decreasing Batt Cap - High LFP Chemistry,US
-2037,CA,Lithium,8796853.838839218,8796.853838839217,Decreasing Batt Cap - High LFP Chemistry,US
-2037,CA,Manganese,3068284.3502635118,3068.284350263512,Decreasing Batt Cap - High LFP Chemistry,US
-2037,CA,Nickel,28672341.280279845,28672.341280279845,Decreasing Batt Cap - High LFP Chemistry,US
+2037,CA,Cobalt,4744004.834358003,4744.004834358003,Decreasing Batt Cap - High LFP Chemistry,US
+2037,CA,Copper,41653652.12775319,41653.652127753194,Decreasing Batt Cap - High LFP Chemistry,US
+2037,CA,Graphite,85416847.06344244,85416.84706344244,Decreasing Batt Cap - High LFP Chemistry,US
+2037,CA,Lithium,8688784.19064852,8688.784190648521,Decreasing Batt Cap - High LFP Chemistry,US
+2037,CA,Manganese,3026441.472049499,3026.4414720494988,Decreasing Batt Cap - High LFP Chemistry,US
+2037,CA,Nickel,28279495.877122384,28279.495877122383,Decreasing Batt Cap - High LFP Chemistry,US
 2037,CO,Cobalt,764237.7084742037,764.2377084742037,Decreasing Batt Cap - High LFP Chemistry,US
 2037,CO,Copper,6724386.762034541,6724.386762034541,Decreasing Batt Cap - High LFP Chemistry,US
 2037,CO,Graphite,13785960.57965707,13785.96057965707,Decreasing Batt Cap - High LFP Chemistry,US
@@ -14465,12 +14465,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2038,BC,Lithium,927026.7710848965,927.0267710848965,Decreasing Batt Cap - High LFP Chemistry,CA
 2038,BC,Manganese,345568.7276852596,345.5687276852596,Decreasing Batt Cap - High LFP Chemistry,CA
 2038,BC,Nickel,3236996.6519767023,3236.996651976702,Decreasing Batt Cap - High LFP Chemistry,CA
-2038,CA,Cobalt,4794296.876997168,4794.2968769971685,Decreasing Batt Cap - High LFP Chemistry,US
-2038,CA,Copper,43877935.12527773,43877.93512527773,Decreasing Batt Cap - High LFP Chemistry,US
-2038,CA,Graphite,89752530.27063906,89752.53027063906,Decreasing Batt Cap - High LFP Chemistry,US
-2038,CA,Lithium,9102571.83922961,9102.57183922961,Decreasing Batt Cap - High LFP Chemistry,US
-2038,CA,Manganese,3123703.7653269432,3123.703765326943,Decreasing Batt Cap - High LFP Chemistry,US
-2038,CA,Nickel,29149566.05259119,29149.566052591188,Decreasing Batt Cap - High LFP Chemistry,US
+2038,CA,Cobalt,4684173.840649381,4684.173840649381,Decreasing Batt Cap - High LFP Chemistry,US
+2038,CA,Copper,43005425.11975103,43005.42511975103,Decreasing Batt Cap - High LFP Chemistry,US
+2038,CA,Graphite,87936163.08814338,87936.16308814338,Decreasing Batt Cap - High LFP Chemistry,US
+2038,CA,Lithium,8916311.94920086,8916.3119492008591,Decreasing Batt Cap - High LFP Chemistry,US
+2038,CA,Manganese,3053100.72825196,3053.10072825196,Decreasing Batt Cap - High LFP Chemistry,US
+2038,CA,Nickel,28487735.526281144,28487.735526281143,Decreasing Batt Cap - High LFP Chemistry,US
 2038,CO,Cobalt,757658.6626462974,757.6586626462973,Decreasing Batt Cap - High LFP Chemistry,US
 2038,CO,Copper,6973570.097426535,6973.570097426535,Decreasing Batt Cap - High LFP Chemistry,US
 2038,CO,Graphite,14255261.4702874,14255.2614702874,Decreasing Batt Cap - High LFP Chemistry,US
@@ -14855,12 +14855,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2039,BC,Lithium,955552.5975139333,955.5525975139333,Decreasing Batt Cap - High LFP Chemistry,CA
 2039,BC,Manganese,348146.3578684916,348.14635786849163,Decreasing Batt Cap - High LFP Chemistry,CA
 2039,BC,Nickel,3259906.2623974266,3259.906262397427,Decreasing Batt Cap - High LFP Chemistry,CA
-2039,CA,Cobalt,4665445.43182701,4665.44543182701,Decreasing Batt Cap - High LFP Chemistry,US
-2039,CA,Copper,44975095.960971296,44975.095960971295,Decreasing Batt Cap - High LFP Chemistry,US
-2039,CA,Graphite,91722458.05174105,91722.45805174105,Decreasing Batt Cap - High LFP Chemistry,US
-2039,CA,Lithium,9268918.003477994,9268.918003477995,Decreasing Batt Cap - High LFP Chemistry,US
-2039,CA,Manganese,3119513.15719989,3119.51315719989,Decreasing Batt Cap - High LFP Chemistry,US
-2039,CA,Nickel,29100902.873902313,29100.902873902312,Decreasing Batt Cap - High LFP Chemistry,US
+2039,CA,Cobalt,4542124.266799997,4542.124266799997,Decreasing Batt Cap - High LFP Chemistry,US
+2039,CA,Copper,43939715.60454924,43939.71560454924,Decreasing Batt Cap - High LFP Chemistry,US
+2039,CA,Graphite,89575699.94212556,89575.69994212556,Decreasing Batt Cap - High LFP Chemistry,US
+2039,CA,Lithium,9049759.723749092,9049.759723749092,Decreasing Batt Cap - High LFP Chemistry,US
+2039,CA,Manganese,3038295.0075251316,3038.2950075251315,Decreasing Batt Cap - High LFP Chemistry,US
+2039,CA,Nickel,28339828.076219045,28339.828076219044,Decreasing Batt Cap - High LFP Chemistry,US
 2039,CO,Cobalt,743491.4972583264,743.4914972583264,Decreasing Batt Cap - High LFP Chemistry,US
 2039,CO,Copper,7205618.881816387,7205.618881816387,Decreasing Batt Cap - High LFP Chemistry,US
 2039,CO,Graphite,14686386.594867304,14686.386594867305,Decreasing Batt Cap - High LFP Chemistry,US
@@ -15245,12 +15245,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2040,BC,Lithium,971977.1813262375,971.9771813262375,Decreasing Batt Cap - High LFP Chemistry,CA
 2040,BC,Manganese,344671.6610696076,344.6716610696076,Decreasing Batt Cap - High LFP Chemistry,CA
 2040,BC,Nickel,3227207.138009306,3227.207138009306,Decreasing Batt Cap - High LFP Chemistry,CA
-2040,CA,Cobalt,4600837.195127665,4600.837195127665,Decreasing Batt Cap - High LFP Chemistry,US
-2040,CA,Copper,45715596.419577986,45715.59641957799,Decreasing Batt Cap - High LFP Chemistry,US
-2040,CA,Graphite,92890107.2752818,92890.1072752818,Decreasing Batt Cap - High LFP Chemistry,US
-2040,CA,Lithium,9367090.590534816,9367.090590534815,Decreasing Batt Cap - High LFP Chemistry,US
-2040,CA,Manganese,3076975.361880408,3076.975361880408,Decreasing Batt Cap - High LFP Chemistry,US
-2040,CA,Nickel,28702257.336547717,28702.25733654772,Decreasing Batt Cap - High LFP Chemistry,US
+2040,CA,Cobalt,4474195.356263276,4474.195356263276,Decreasing Batt Cap - High LFP Chemistry,US
+2040,CA,Copper,44615700.64771166,44615.70064771166,Decreasing Batt Cap - High LFP Chemistry,US
+2040,CA,Graphite,90620084.1139225,90620.08411392251,Decreasing Batt Cap - High LFP Chemistry,US
+2040,CA,Lithium,9135948.974281147,9135.948974281147,Decreasing Batt Cap - High LFP Chemistry,US
+2040,CA,Manganese,2993570.2486578748,2993.570248657875,Decreasing Batt Cap - High LFP Chemistry,US
+2040,CA,Nickel,27920689.035211638,27920.68903521164,Decreasing Batt Cap - High LFP Chemistry,US
 2040,CO,Cobalt,742881.4072682495,742.8814072682495,Decreasing Batt Cap - High LFP Chemistry,US
 2040,CO,Copper,7414572.663760162,7414.572663760162,Decreasing Batt Cap - High LFP Chemistry,US
 2040,CO,Graphite,15058442.302313153,15058.442302313153,Decreasing Batt Cap - High LFP Chemistry,US
@@ -15635,12 +15635,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2041,BC,Lithium,1001693.9051614227,1001.6939051614227,Decreasing Batt Cap - High LFP Chemistry,CA
 2041,BC,Manganese,355004.38600585697,355.004386005857,Decreasing Batt Cap - High LFP Chemistry,CA
 2041,BC,Nickel,3323863.410142677,3323.863410142677,Decreasing Batt Cap - High LFP Chemistry,CA
-2041,CA,Cobalt,4596444.731589281,4596.444731589281,Decreasing Batt Cap - High LFP Chemistry,US
-2041,CA,Copper,45728406.85968013,45728.40685968013,Decreasing Batt Cap - High LFP Chemistry,US
-2041,CA,Graphite,92903620.98447838,92903.62098447839,Decreasing Batt Cap - High LFP Chemistry,US
-2041,CA,Lithium,9367658.413318448,9367.658413318448,Decreasing Batt Cap - High LFP Chemistry,US
-2041,CA,Manganese,3074497.7470901273,3074.497747090127,Decreasing Batt Cap - High LFP Chemistry,US
-2041,CA,Nickel,28677877.952116713,28677.877952116713,Decreasing Batt Cap - High LFP Chemistry,US
+2041,CA,Cobalt,4477470.679211991,4477.4706792119905,Decreasing Batt Cap - High LFP Chemistry,US
+2041,CA,Copper,44695106.50377079,44695.10650377079,Decreasing Batt Cap - High LFP Chemistry,US
+2041,CA,Graphite,90771040.9704877,90771.0409704877,Decreasing Batt Cap - High LFP Chemistry,US
+2041,CA,Lithium,9150511.734106189,9150.511734106189,Decreasing Batt Cap - High LFP Chemistry,US
+2041,CA,Manganese,2996142.565279339,2996.142565279339,Decreasing Batt Cap - High LFP Chemistry,US
+2041,CA,Nickel,27943631.28566424,27943.631285664243,Decreasing Batt Cap - High LFP Chemistry,US
 2041,CO,Cobalt,765706.0491091758,765.7060491091758,Decreasing Batt Cap - High LFP Chemistry,US
 2041,CO,Copper,7629322.756523397,7629.3227565233965,Decreasing Batt Cap - High LFP Chemistry,US
 2041,CO,Graphite,15497465.854930082,15497.465854930082,Decreasing Batt Cap - High LFP Chemistry,US
@@ -16025,12 +16025,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2042,BC,Lithium,1033438.7913932345,1033.4387913932346,Decreasing Batt Cap - High LFP Chemistry,CA
 2042,BC,Manganese,366064.99053483503,366.06499053483503,Decreasing Batt Cap - High LFP Chemistry,CA
 2042,BC,Nickel,3427338.7417599517,3427.3387417599515,Decreasing Batt Cap - High LFP Chemistry,CA
-2042,CA,Cobalt,4667365.820070275,4667.365820070275,Decreasing Batt Cap - High LFP Chemistry,US
-2042,CA,Copper,46379761.25683831,46379.761256838305,Decreasing Batt Cap - High LFP Chemistry,US
-2042,CA,Graphite,94238942.38160716,94238.94238160716,Decreasing Batt Cap - High LFP Chemistry,US
-2042,CA,Lithium,9503064.060389286,9503.064060389286,Decreasing Batt Cap - High LFP Chemistry,US
-2042,CA,Manganese,3121494.130801567,3121.494130801567,Decreasing Batt Cap - High LFP Chemistry,US
-2042,CA,Nickel,29117461.85769664,29117.461857696642,Decreasing Batt Cap - High LFP Chemistry,US
+2042,CA,Cobalt,4568472.434791737,4568.472434791737,Decreasing Batt Cap - High LFP Chemistry,US
+2042,CA,Copper,45520863.30250674,45520.86330250674,Decreasing Batt Cap - High LFP Chemistry,US
+2042,CA,Graphite,92466303.28302382,92466.30328302382,Decreasing Batt Cap - High LFP Chemistry,US
+2042,CA,Lithium,9322567.811163506,9322.567811163506,Decreasing Batt Cap - High LFP Chemistry,US
+2042,CA,Manganese,3056363.8857729184,3056.3638857729184,Decreasing Batt Cap - High LFP Chemistry,US
+2042,CA,Nickel,28507142.74168721,28507.14274168721,Decreasing Batt Cap - High LFP Chemistry,US
 2042,CO,Cobalt,791970.9869259832,791.9709869259832,Decreasing Batt Cap - High LFP Chemistry,US
 2042,CO,Copper,7871434.158495096,7871.434158495095,Decreasing Batt Cap - High LFP Chemistry,US
 2042,CO,Graphite,15993597.776166433,15993.597776166433,Decreasing Batt Cap - High LFP Chemistry,US
@@ -16415,12 +16415,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2043,BC,Lithium,1067762.5559938846,1067.7625559938845,Decreasing Batt Cap - High LFP Chemistry,CA
 2043,BC,Manganese,378054.3211063685,378.0543211063685,Decreasing Batt Cap - High LFP Chemistry,CA
 2043,BC,Nickel,3539516.1355645265,3539.5161355645264,Decreasing Batt Cap - High LFP Chemistry,CA
-2043,CA,Cobalt,4749187.913784569,4749.187913784569,Decreasing Batt Cap - High LFP Chemistry,US
-2043,CA,Copper,47130640.268644795,47130.6402686448,Decreasing Batt Cap - High LFP Chemistry,US
-2043,CA,Graphite,95778438.21920775,95778.43821920775,Decreasing Batt Cap - High LFP Chemistry,US
-2043,CA,Lithium,9659182.562561808,9659.182562561808,Decreasing Batt Cap - High LFP Chemistry,US
-2043,CA,Manganese,3175709.318175897,3175.709318175897,Decreasing Batt Cap - High LFP Chemistry,US
-2043,CA,Nickel,29624580.771290526,29624.580771290526,Decreasing Batt Cap - High LFP Chemistry,US
+2043,CA,Cobalt,4675462.749908269,4675.462749908269,Decreasing Batt Cap - High LFP Chemistry,US
+2043,CA,Copper,46490330.583039805,46490.3305830398,Decreasing Batt Cap - High LFP Chemistry,US
+2043,CA,Graphite,94456933.16941601,94456.933169416,Decreasing Batt Cap - High LFP Chemistry,US
+2043,CA,Lithium,9524622.343839917,9524.622343839917,Decreasing Batt Cap - High LFP Chemistry,US
+2043,CA,Manganese,3127154.62491187,3127.15462491187,Decreasing Batt Cap - High LFP Chemistry,US
+2043,CA,Nickel,29169586.97450725,29169.58697450725,Decreasing Batt Cap - High LFP Chemistry,US
 2043,CO,Cobalt,817804.9314514215,817.8049314514215,Decreasing Batt Cap - High LFP Chemistry,US
 2043,CO,Copper,8110716.6970689325,8110.716697068932,Decreasing Batt Cap - High LFP Chemistry,US
 2043,CO,Graphite,16483659.42624706,16483.65942624706,Decreasing Batt Cap - High LFP Chemistry,US
@@ -16805,12 +16805,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2044,BC,Lithium,1105081.955259905,1105.081955259905,Decreasing Batt Cap - High LFP Chemistry,CA
 2044,BC,Manganese,391147.58619986294,391.14758619986293,Decreasing Batt Cap - High LFP Chemistry,CA
 2044,BC,Nickel,3662048.182793992,3662.048182793992,Decreasing Batt Cap - High LFP Chemistry,CA
-2044,CA,Cobalt,4849118.055108189,4849.118055108189,Decreasing Batt Cap - High LFP Chemistry,US
-2044,CA,Copper,48035273.810040735,48035.27381004074,Decreasing Batt Cap - High LFP Chemistry,US
-2044,CA,Graphite,97636152.4575696,97636.1524575696,Decreasing Batt Cap - High LFP Chemistry,US
-2044,CA,Lithium,9847758.917800555,9847.758917800555,Decreasing Batt Cap - High LFP Chemistry,US
-2044,CA,Manganese,3241821.649405975,3241.8216494059748,Decreasing Batt Cap - High LFP Chemistry,US
-2044,CA,Nickel,30243265.00367919,30243.26500367919,Decreasing Batt Cap - High LFP Chemistry,US
+2044,CA,Cobalt,4797456.496634051,4797.456496634051,Decreasing Batt Cap - High LFP Chemistry,US
+2044,CA,Copper,47586588.52369889,47586.58852369889,Decreasing Batt Cap - High LFP Chemistry,US
+2044,CA,Graphite,96710131.99434985,96710.13199434985,Decreasing Batt Cap - High LFP Chemistry,US
+2044,CA,Lithium,9753468.308701912,9753.468308701911,Decreasing Batt Cap - High LFP Chemistry,US
+2044,CA,Manganese,3207797.837272277,3207.7978372722773,Decreasing Batt Cap - High LFP Chemistry,US
+2044,CA,Nickel,29924436.432781372,29924.43643278137,Decreasing Batt Cap - High LFP Chemistry,US
 2044,CO,Cobalt,845854.9988254713,845.8549988254713,Decreasing Batt Cap - High LFP Chemistry,US
 2044,CO,Copper,8368736.105078326,8368.736105078326,Decreasing Batt Cap - High LFP Chemistry,US
 2044,CO,Graphite,17012520.66519495,17012.520665194952,Decreasing Batt Cap - High LFP Chemistry,US
@@ -17195,12 +17195,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2045,BC,Lithium,1143420.1594291148,1143.4201594291148,Decreasing Batt Cap - High LFP Chemistry,CA
 2045,BC,Manganese,404604.6096934986,404.60460969349856,Decreasing Batt Cap - High LFP Chemistry,CA
 2045,BC,Nickel,3787987.242823076,3787.987242823076,Decreasing Batt Cap - High LFP Chemistry,CA
-2045,CA,Cobalt,4968915.940986928,4968.915940986928,Decreasing Batt Cap - High LFP Chemistry,US
-2045,CA,Copper,49102161.20603166,49102.161206031655,Decreasing Batt Cap - High LFP Chemistry,US
-2045,CA,Graphite,99831347.07308133,99831.34707308133,Decreasing Batt Cap - High LFP Chemistry,US
-2045,CA,Lithium,10070862.03485832,10070.862034858319,Decreasing Batt Cap - High LFP Chemistry,US
-2045,CA,Manganese,3320934.769391176,3320.934769391176,Decreasing Batt Cap - High LFP Chemistry,US
-2045,CA,Nickel,30984011.257939503,30984.011257939503,Decreasing Batt Cap - High LFP Chemistry,US
+2045,CA,Cobalt,4931925.909222488,4931.925909222488,Decreasing Batt Cap - High LFP Chemistry,US
+2045,CA,Copper,48780899.45001377,48780.89945001377,Decreasing Batt Cap - High LFP Chemistry,US
+2045,CA,Graphite,99168310.04205239,99168.31004205238,Decreasing Batt Cap - High LFP Chemistry,US
+2045,CA,Lithium,10003349.309174813,10003.349309174813,Decreasing Batt Cap - High LFP Chemistry,US
+2045,CA,Manganese,3296573.4855130906,3296.5734855130904,Decreasing Batt Cap - High LFP Chemistry,US
+2045,CA,Nickel,30755727.804763675,30755.727804763676,Decreasing Batt Cap - High LFP Chemistry,US
 2045,CO,Cobalt,874325.365249421,874.325365249421,Decreasing Batt Cap - High LFP Chemistry,US
 2045,CO,Copper,8628700.007055296,8628.700007055295,Decreasing Batt Cap - High LFP Chemistry,US
 2045,CO,Graphite,17545827.717260342,17545.82771726034,Decreasing Batt Cap - High LFP Chemistry,US
@@ -17585,12 +17585,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2046,BC,Lithium,1192727.28946424,1192.72728946424,Decreasing Batt Cap - High LFP Chemistry,CA
 2046,BC,Manganese,422034.9371896529,422.03493718965285,Decreasing Batt Cap - High LFP Chemistry,CA
 2046,BC,Nickel,3951165.7532657636,3951.1657532657637,Decreasing Batt Cap - High LFP Chemistry,CA
-2046,CA,Cobalt,5146220.176099597,5146.220176099597,Decreasing Batt Cap - High LFP Chemistry,US
-2046,CA,Copper,50665816.35117458,50665.81635117458,Decreasing Batt Cap - High LFP Chemistry,US
-2046,CA,Graphite,103052477.04942931,103052.47704942932,Decreasing Batt Cap - High LFP Chemistry,US
-2046,CA,Lithium,10398471.946322607,10398.471946322607,Decreasing Batt Cap - High LFP Chemistry,US
-2046,CA,Manganese,3437899.1878604977,3437.899187860498,Decreasing Batt Cap - High LFP Chemistry,US
-2046,CA,Nickel,32079513.620323215,32079.513620323214,Decreasing Batt Cap - High LFP Chemistry,US
+2046,CA,Cobalt,5115944.987283894,5115.944987283894,Decreasing Batt Cap - High LFP Chemistry,US
+2046,CA,Copper,50402873.610691294,50402.87361069129,Decreasing Batt Cap - High LFP Chemistry,US
+2046,CA,Graphite,102509801.89213188,102509.80189213189,Decreasing Batt Cap - High LFP Chemistry,US
+2046,CA,Lithium,10343214.88326985,10343.21488326985,Decreasing Batt Cap - High LFP Chemistry,US
+2046,CA,Manganese,3417960.235823398,3417.960235823398,Decreasing Batt Cap - High LFP Chemistry,US
+2046,CA,Nickel,31892670.72458277,31892.670724582767,Decreasing Batt Cap - High LFP Chemistry,US
 2046,CO,Cobalt,905419.3497289717,905.4193497289717,Decreasing Batt Cap - High LFP Chemistry,US
 2046,CO,Copper,8911038.666397985,8911.038666397984,Decreasing Batt Cap - High LFP Chemistry,US
 2046,CO,Graphite,18125417.37606157,18125.41737606157,Decreasing Batt Cap - High LFP Chemistry,US
@@ -17975,12 +17975,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2047,BC,Lithium,1231796.791283187,1231.796791283187,Decreasing Batt Cap - High LFP Chemistry,CA
 2047,BC,Manganese,435794.2712836993,435.7942712836993,Decreasing Batt Cap - High LFP Chemistry,CA
 2047,BC,Nickel,4079954.3404338215,4079.9543404338215,Decreasing Batt Cap - High LFP Chemistry,CA
-2047,CA,Cobalt,5290616.171011979,5290.616171011979,Decreasing Batt Cap - High LFP Chemistry,US
-2047,CA,Copper,51947914.018881075,51947.91401888108,Decreasing Batt Cap - High LFP Chemistry,US
-2047,CA,Graphite,105691434.93263596,105691.43493263597,Decreasing Batt Cap - High LFP Chemistry,US
-2047,CA,Lithium,10666735.620842008,10666.735620842008,Decreasing Batt Cap - High LFP Chemistry,US
-2047,CA,Manganese,3533225.2098235437,3533.2252098235435,Decreasing Batt Cap - High LFP Chemistry,US
-2047,CA,Nickel,32972151.00612686,32972.15100612686,Decreasing Batt Cap - High LFP Chemistry,US
+2047,CA,Cobalt,5261115.194234252,5261.115194234252,Decreasing Batt Cap - High LFP Chemistry,US
+2047,CA,Copper,51691695.37964847,51691.69537964847,Decreasing Batt Cap - High LFP Chemistry,US
+2047,CA,Graphite,105162637.33171141,105162.6373317114,Decreasing Batt Cap - High LFP Chemistry,US
+2047,CA,Lithium,10612891.618618008,10612.891618618009,Decreasing Batt Cap - High LFP Chemistry,US
+2047,CA,Manganese,3513796.1464872444,3513.796146487244,Decreasing Batt Cap - High LFP Chemistry,US
+2047,CA,Nickel,32790086.148930557,32790.08614893055,Decreasing Batt Cap - High LFP Chemistry,US
 2047,CO,Cobalt,935210.9885043635,935.2109885043635,Decreasing Batt Cap - High LFP Chemistry,US
 2047,CO,Copper,9182869.441257417,9182.869441257417,Decreasing Batt Cap - High LFP Chemistry,US
 2047,CO,Graphite,18683116.609467626,18683.116609467626,Decreasing Batt Cap - High LFP Chemistry,US
@@ -18365,12 +18365,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2048,BC,Lithium,1268922.6964864081,1268.922696486408,Decreasing Batt Cap - High LFP Chemistry,CA
 2048,BC,Manganese,448859.8796709475,448.8598796709475,Decreasing Batt Cap - High LFP Chemistry,CA
 2048,BC,Nickel,4202245.492366107,4202.245492366107,Decreasing Batt Cap - High LFP Chemistry,CA
-2048,CA,Cobalt,5431228.539398764,5431.228539398764,Decreasing Batt Cap - High LFP Chemistry,US
-2048,CA,Copper,53222275.491064385,53222.275491064385,Decreasing Batt Cap - High LFP Chemistry,US
-2048,CA,Graphite,108308053.84515497,108308.05384515497,Decreasing Batt Cap - High LFP Chemistry,US
-2048,CA,Lithium,10932326.195245774,10932.326195245774,Decreasing Batt Cap - High LFP Chemistry,US
-2048,CA,Manganese,3626264.090752335,3626.2640907523346,Decreasing Batt Cap - High LFP Chemistry,US
-2048,CA,Nickel,33842783.12043233,33842.78312043233,Decreasing Batt Cap - High LFP Chemistry,US
+2048,CA,Cobalt,5398074.985480664,5398.0749854806645,Decreasing Batt Cap - High LFP Chemistry,US
+2048,CA,Copper,52934333.89053292,52934.333890532915,Decreasing Batt Cap - High LFP Chemistry,US
+2048,CA,Graphite,107713784.71616632,107713.78471616632,Decreasing Batt Cap - High LFP Chemistry,US
+2048,CA,Lithium,10871815.655396545,10871.815655396545,Decreasing Batt Cap - High LFP Chemistry,US
+2048,CA,Manganese,3604429.4747749916,3604.429474774992,Decreasing Batt Cap - High LFP Chemistry,US
+2048,CA,Nickel,33638176.43553754,33638.17643553754,Decreasing Batt Cap - High LFP Chemistry,US
 2048,CO,Cobalt,963888.8532128885,963.8888532128884,Decreasing Batt Cap - High LFP Chemistry,US
 2048,CO,Copper,9449565.62454417,9449.56562454417,Decreasing Batt Cap - High LFP Chemistry,US
 2048,CO,Graphite,19229067.637214117,19229.067637214117,Decreasing Batt Cap - High LFP Chemistry,US
@@ -18755,12 +18755,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2049,BC,Lithium,1303474.2357144211,1303.4742357144212,Decreasing Batt Cap - High LFP Chemistry,CA
 2049,BC,Manganese,461016.281930337,461.016281930337,Decreasing Batt Cap - High LFP Chemistry,CA
 2049,BC,Nickel,4316025.2504364215,4316.025250436422,Decreasing Batt Cap - High LFP Chemistry,CA
-2049,CA,Cobalt,5558831.767494206,5558.831767494206,Decreasing Batt Cap - High LFP Chemistry,US
-2049,CA,Copper,54372056.64340192,54372.05664340192,Decreasing Batt Cap - High LFP Chemistry,US
-2049,CA,Graphite,110670498.14878255,110670.49814878256,Decreasing Batt Cap - High LFP Chemistry,US
-2049,CA,Lithium,11172219.718193926,11172.219718193926,Decreasing Batt Cap - High LFP Chemistry,US
-2049,CA,Manganese,3710640.80052116,3710.64080052116,Decreasing Batt Cap - High LFP Chemistry,US
-2049,CA,Nickel,34632508.66446926,34632.50866446926,Decreasing Batt Cap - High LFP Chemistry,US
+2049,CA,Cobalt,5519395.5358766075,5519.395535876608,Decreasing Batt Cap - High LFP Chemistry,US
+2049,CA,Copper,54029549.4214325,54029.5494214325,Decreasing Batt Cap - High LFP Chemistry,US
+2049,CA,Graphite,109963613.59963651,109963.6135996365,Decreasing Batt Cap - High LFP Chemistry,US
+2049,CA,Lithium,11100242.286432156,11100.242286432156,Decreasing Batt Cap - High LFP Chemistry,US
+2049,CA,Manganese,3684668.472634653,3684.668472634653,Decreasing Batt Cap - High LFP Chemistry,US
+2049,CA,Nickel,34389128.52380761,34389.12852380761,Decreasing Batt Cap - High LFP Chemistry,US
 2049,CO,Cobalt,992177.206354524,992.1772063545241,Decreasing Batt Cap - High LFP Chemistry,US
 2049,CO,Copper,9710928.124769812,9710.928124769813,Decreasing Batt Cap - High LFP Chemistry,US
 2049,CO,Graphite,19764505.506049763,19764.50550604976,Decreasing Batt Cap - High LFP Chemistry,US
@@ -19145,12 +19145,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2050,BC,Lithium,1332410.127579465,1332.410127579465,Decreasing Batt Cap - High LFP Chemistry,CA
 2050,BC,Manganese,471167.23140998813,471.1672314099881,Decreasing Batt Cap - High LFP Chemistry,CA
 2050,BC,Nickel,4411021.469968233,4411.021469968233,Decreasing Batt Cap - High LFP Chemistry,CA
-2050,CA,Cobalt,5665755.199321512,5665.755199321512,Decreasing Batt Cap - High LFP Chemistry,US
-2050,CA,Copper,55368893.386746116,55368.89338674612,Decreasing Batt Cap - High LFP Chemistry,US
-2050,CA,Graphite,112710525.35530412,112710.52535530413,Decreasing Batt Cap - High LFP Chemistry,US
-2050,CA,Lithium,11378860.778664714,11378.860778664714,Decreasing Batt Cap - High LFP Chemistry,US
-2050,CA,Manganese,3781615.2320437306,3781.6152320437304,Decreasing Batt Cap - High LFP Chemistry,US
-2050,CA,Nickel,35296036.741339214,35296.036741339216,Decreasing Batt Cap - High LFP Chemistry,US
+2050,CA,Cobalt,5618924.429443534,5618.924429443535,Decreasing Batt Cap - High LFP Chemistry,US
+2050,CA,Copper,54962163.93426878,54962.16393426878,Decreasing Batt Cap - High LFP Chemistry,US
+2050,CA,Graphite,111871095.56463969,111871.09556463969,Decreasing Batt Cap - High LFP Chemistry,US
+2050,CA,Lithium,11293387.131589904,11293.387131589905,Decreasing Batt Cap - High LFP Chemistry,US
+2050,CA,Manganese,3750772.9314344204,3750.7729314344206,Decreasing Batt Cap - High LFP Chemistry,US
+2050,CA,Nickel,35007021.31332584,35007.02131332584,Decreasing Batt Cap - High LFP Chemistry,US
 2050,CO,Cobalt,1016753.882725616,1016.753882725616,Decreasing Batt Cap - High LFP Chemistry,US
 2050,CO,Copper,9944975.440673174,9944.975440673174,Decreasing Batt Cap - High LFP Chemistry,US
 2050,CO,Graphite,20242320.689688176,20242.320689688175,Decreasing Batt Cap - High LFP Chemistry,US
@@ -19535,12 +19535,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2026,BC,Lithium,198641.1354744988,198.64113547449878,Increasing Batt Cap - Benchmark Chemistry,CA
 2026,BC,Manganese,93290.74194284674,93.29074194284674,Increasing Batt Cap - Benchmark Chemistry,CA
 2026,BC,Nickel,877252.2542935999,877.2522542935999,Increasing Batt Cap - Benchmark Chemistry,CA
-2026,CA,Cobalt,2090312.9870117377,2090.3129870117377,Increasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Copper,11396584.748022836,11396.584748022835,Increasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Graphite,24260219.272386424,24260.219272386425,Increasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Lithium,2574020.9397346755,2574.0209397346753,Increasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Manganese,1093811.4451220764,1093.8114451220765,Increasing Batt Cap - Benchmark Chemistry,US
-2026,CA,Nickel,10250078.616911948,10250.078616911947,Increasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Cobalt,2088530.3120230879,2088.530312023088,Increasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Copper,11388879.468875049,11388.87946887505,Increasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Graphite,24243200.84816777,24243.20084816777,Increasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Lithium,2572167.722174794,2572.167722174794,Increasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Manganese,1092900.983868725,1092.900983868725,Increasing Batt Cap - Benchmark Chemistry,US
+2026,CA,Nickel,10241504.793595472,10241.504793595472,Increasing Batt Cap - Benchmark Chemistry,US
 2026,CO,Cobalt,405154.2983819799,405.1542983819799,Increasing Batt Cap - Benchmark Chemistry,US
 2026,CO,Copper,2108385.3394871284,2108.3853394871285,Increasing Batt Cap - Benchmark Chemistry,US
 2026,CO,Graphite,4518931.394292674,4518.931394292674,Increasing Batt Cap - Benchmark Chemistry,US
@@ -19925,12 +19925,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2027,BC,Lithium,283331.47810658824,283.33147810658824,Increasing Batt Cap - Benchmark Chemistry,CA
 2027,BC,Manganese,140045.70608864876,140.04570608864876,Increasing Batt Cap - Benchmark Chemistry,CA
 2027,BC,Nickel,1297973.6100460123,1297.9736100460123,Increasing Batt Cap - Benchmark Chemistry,CA
-2027,CA,Cobalt,2933507.2630867376,2933.5072630867376,Increasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Copper,15344547.4889248,15344.5474889248,Increasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Graphite,32957593.539662167,32957.593539662164,Increasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Lithium,3511933.2029654738,3511.933202965474,Increasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Manganese,1573134.735546253,1573.1347355462528,Increasing Batt Cap - Benchmark Chemistry,US
-2027,CA,Nickel,14540707.624658486,14540.707624658486,Increasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Cobalt,2930491.533728899,2930.491533728899,Increasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Copper,15331805.462270437,15331.805462270437,Increasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Graphite,32929237.626299635,32929.23762629963,Increasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Lithium,3508837.487774263,3508.837487774263,Increasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Manganese,1571549.9277079946,1571.5499277079946,Increasing Batt Cap - Benchmark Chemistry,US
+2027,CA,Nickel,14526006.041611927,14526.006041611927,Increasing Batt Cap - Benchmark Chemistry,US
 2027,CO,Cobalt,450531.3989799917,450.53139897999165,Increasing Batt Cap - Benchmark Chemistry,US
 2027,CO,Copper,2352230.4565161727,2352.2304565161726,Increasing Batt Cap - Benchmark Chemistry,US
 2027,CO,Graphite,5053643.157122781,5053.64315712278,Increasing Batt Cap - Benchmark Chemistry,US
@@ -20315,12 +20315,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2028,BC,Lithium,413189.1799273366,413.18917992733657,Increasing Batt Cap - Benchmark Chemistry,CA
 2028,BC,Manganese,208997.48209227456,208.99748209227457,Increasing Batt Cap - Benchmark Chemistry,CA
 2028,BC,Nickel,1942888.0121896127,1942.8880121896127,Increasing Batt Cap - Benchmark Chemistry,CA
-2028,CA,Cobalt,3803205.085339298,3803.205085339298,Increasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Copper,19815801.779256903,19815.801779256904,Increasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Graphite,42737214.08554092,42737.21408554092,Increasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Lithium,4555786.186353918,4555.786186353918,Increasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Manganese,2071524.6422794377,2071.5246422794376,Increasing Batt Cap - Benchmark Chemistry,US
-2028,CA,Nickel,19200505.52408566,19200.50552408566,Increasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Cobalt,3798178.181923842,3798.178181923842,Increasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Copper,19794632.27909965,19794.63227909965,Increasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Graphite,42689870.965730876,42689.87096573088,Increasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Lithium,4550616.27547214,4550.61627547214,Increasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Manganese,2068839.1138055287,2068.8391138055285,Increasing Batt Cap - Benchmark Chemistry,US
+2028,CA,Nickel,19175523.02640617,19175.52302640617,Increasing Batt Cap - Benchmark Chemistry,US
 2028,CO,Cobalt,578062.1530635502,578.0621530635502,Increasing Batt Cap - Benchmark Chemistry,US
 2028,CO,Copper,3015408.2181219524,3015.4082181219524,Increasing Batt Cap - Benchmark Chemistry,US
 2028,CO,Graphite,6502215.520405245,6502.215520405245,Increasing Batt Cap - Benchmark Chemistry,US
@@ -20705,12 +20705,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2029,BC,Lithium,518295.90091958613,518.2959009195861,Increasing Batt Cap - Benchmark Chemistry,CA
 2029,BC,Manganese,281528.5987785256,281.5285987785256,Increasing Batt Cap - Benchmark Chemistry,CA
 2029,BC,Nickel,2475790.792853345,2475.790792853345,Increasing Batt Cap - Benchmark Chemistry,CA
-2029,CA,Cobalt,4633848.743863874,4633.848743863874,Increasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Copper,24525820.895356495,24525.820895356494,Increasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Graphite,53161188.35141472,53161.18835141472,Increasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Lithium,5656085.442916571,5656.085442916571,Increasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Manganese,2762455.3636563867,2762.455363656387,Increasing Batt Cap - Benchmark Chemistry,US
-2029,CA,Nickel,24270708.79502231,24270.70879502231,Increasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Cobalt,4625685.258196508,4625.685258196508,Increasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Copper,24490571.26737087,24490.57126737087,Increasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Graphite,53082006.06887747,53082.006068877476,Increasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Lithium,5647468.768860694,5647.468768860694,Increasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Manganese,2757661.0537391314,2757.6610537391316,Increasing Batt Cap - Benchmark Chemistry,US
+2029,CA,Nickel,24228538.843285516,24228.538843285514,Increasing Batt Cap - Benchmark Chemistry,US
 2029,CO,Cobalt,700809.516641943,700.809516641943,Increasing Batt Cap - Benchmark Chemistry,US
 2029,CO,Copper,3720575.01472796,3720.57501472796,Increasing Batt Cap - Benchmark Chemistry,US
 2029,CO,Graphite,8060604.8957493855,8060.604895749386,Increasing Batt Cap - Benchmark Chemistry,US
@@ -21095,12 +21095,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2030,BC,Lithium,630220.989767392,630.2209897673921,Increasing Batt Cap - Benchmark Chemistry,CA
 2030,BC,Manganese,338441.996761508,338.441996761508,Increasing Batt Cap - Benchmark Chemistry,CA
 2030,BC,Nickel,3053991.852844699,3053.9918528446988,Increasing Batt Cap - Benchmark Chemistry,CA
-2030,CA,Cobalt,5548733.053163591,5548.733053163591,Increasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Copper,29888257.06907202,29888.25706907202,Increasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Graphite,64938724.921697296,64938.7249216973,Increasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Lithium,6896691.361424658,6896.691361424659,Increasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Manganese,3322445.6750373067,3322.445675037307,Increasing Batt Cap - Benchmark Chemistry,US
-2030,CA,Nickel,29926023.63223681,29926.023632236807,Increasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Cobalt,5535437.144520414,5535.437144520414,Increasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Copper,29829873.380838506,29829.873380838508,Increasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Graphite,64807165.868717834,64807.165868717835,Increasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Lithium,6882404.552122417,6882.404552122417,Increasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Manganese,3314604.064449769,3314.604064449769,Increasing Batt Cap - Benchmark Chemistry,US
+2030,CA,Nickel,29855239.18482505,29855.23918482505,Increasing Batt Cap - Benchmark Chemistry,US
 2030,CO,Cobalt,834360.9742071753,834.3609742071753,Increasing Batt Cap - Benchmark Chemistry,US
 2030,CO,Copper,4517506.441894449,4517.506441894449,Increasing Batt Cap - Benchmark Chemistry,US
 2030,CO,Graphite,9807003.374103319,9807.003374103318,Increasing Batt Cap - Benchmark Chemistry,US
@@ -21485,12 +21485,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2031,BC,Lithium,768361.7016502296,768.3617016502296,Increasing Batt Cap - Benchmark Chemistry,CA
 2031,BC,Manganese,408032.63380478934,408.0326338047893,Increasing Batt Cap - Benchmark Chemistry,CA
 2031,BC,Nickel,3750333.0113188596,3750.3330113188595,Increasing Batt Cap - Benchmark Chemistry,CA
-2031,CA,Cobalt,6386551.58767464,6386.55158767464,Increasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Copper,35569966.959210716,35569.96695921072,Increasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Graphite,77137030.30804645,77137.03030804645,Increasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Lithium,8164540.82606672,8164.54082606672,Increasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Manganese,3839295.770563699,3839.2957705636986,Increasing Batt Cap - Benchmark Chemistry,US
-2031,CA,Nickel,35190238.45943388,35190.23845943388,Increasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Cobalt,6364896.831663221,6364.896831663221,Increasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Copper,35473305.13005564,35473.30513005565,Increasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Graphite,76918963.05251843,76918.96305251843,Increasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Lithium,8140905.538967719,8140.90553896772,Increasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Manganese,3826493.95476715,3826.4939547671497,Increasing Batt Cap - Benchmark Chemistry,US
+2031,CA,Nickel,35072524.36899114,35072.52436899114,Increasing Batt Cap - Benchmark Chemistry,US
 2031,CO,Cobalt,1017060.0281166433,1017.0600281166434,Increasing Batt Cap - Benchmark Chemistry,US
 2031,CO,Copper,5640584.592227792,5640.584592227792,Increasing Batt Cap - Benchmark Chemistry,US
 2031,CO,Graphite,12240617.264936645,12240.617264936645,Increasing Batt Cap - Benchmark Chemistry,US
@@ -21875,12 +21875,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2032,BC,Lithium,915404.3930005427,915.4043930005427,Increasing Batt Cap - Benchmark Chemistry,CA
 2032,BC,Manganese,486517.41158881196,486.51741158881197,Increasing Batt Cap - Benchmark Chemistry,CA
 2032,BC,Nickel,4491231.73356185,4491.23173356185,Increasing Batt Cap - Benchmark Chemistry,CA
-2032,CA,Cobalt,7509714.956830376,7509.714956830376,Increasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Copper,42071623.0687004,42071.623068700406,Increasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Graphite,91301956.11248831,91301.95611248832,Increasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Lithium,9658171.17208126,9658.17117208126,Increasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Manganese,4537339.97268886,4537.33997268886,Increasing Batt Cap - Benchmark Chemistry,US
-2032,CA,Nickel,41761485.44149687,41761.48544149687,Increasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Cobalt,7474656.351806918,7474.656351806918,Increasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Copper,41914313.06883644,41914.31306883644,Increasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Graphite,90946694.58325757,90946.69458325757,Increasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Lithium,9619690.343308808,9619.690343308808,Increasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Manganese,4516507.49138236,4516.50749138236,Increasing Batt Cap - Benchmark Chemistry,US
+2032,CA,Nickel,41569093.14326107,41569.09314326107,Increasing Batt Cap - Benchmark Chemistry,US
 2032,CO,Cobalt,1195503.3560418733,1195.5033560418733,Increasing Batt Cap - Benchmark Chemistry,US
 2032,CO,Copper,6680363.287646842,6680.363287646842,Increasing Batt Cap - Benchmark Chemistry,US
 2032,CO,Graphite,14503528.221699096,14503.528221699096,Increasing Batt Cap - Benchmark Chemistry,US
@@ -22265,12 +22265,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2033,BC,Lithium,1129389.080361221,1129.389080361221,Increasing Batt Cap - Benchmark Chemistry,CA
 2033,BC,Manganese,600159.9462068405,600.1599462068405,Increasing Batt Cap - Benchmark Chemistry,CA
 2033,BC,Nickel,5590932.969457436,5590.932969457436,Increasing Batt Cap - Benchmark Chemistry,CA
-2033,CA,Cobalt,9094066.335313952,9094.066335313952,Increasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Copper,49852015.09701938,49852.01509701938,Increasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Graphite,108819071.24422571,108819.0712442257,Increasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Lithium,11536598.561664669,11536.598561664669,Increasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Manganese,5500673.61242135,5500.673612421349,Increasing Batt Cap - Benchmark Chemistry,US
-2033,CA,Nickel,51094943.70728006,51094.943707280065,Increasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Cobalt,9037869.162660412,9037.869162660412,Increasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Copper,49598910.32938685,49598.910329386854,Increasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Graphite,108246344.0912183,108246.3440912183,Increasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Lithium,11474591.33490139,11474.59133490139,Increasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Manganese,5467171.027874923,5467.171027874923,Increasing Batt Cap - Benchmark Chemistry,US
+2033,CA,Nickel,50782712.84350699,50782.71284350699,Increasing Batt Cap - Benchmark Chemistry,US
 2033,CO,Cobalt,1454795.213239917,1454.795213239917,Increasing Batt Cap - Benchmark Chemistry,US
 2033,CO,Copper,7961091.095922938,7961.091095922938,Increasing Batt Cap - Benchmark Chemistry,US
 2033,CO,Graphite,17382897.498192593,17382.897498192593,Increasing Batt Cap - Benchmark Chemistry,US
@@ -22655,12 +22655,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2034,BC,Lithium,1288165.1870531954,1288.1651870531955,Increasing Batt Cap - Benchmark Chemistry,CA
 2034,BC,Manganese,684470.072807686,684.470072807686,Increasing Batt Cap - Benchmark Chemistry,CA
 2034,BC,Nickel,6417762.454881372,6417.762454881372,Increasing Batt Cap - Benchmark Chemistry,CA
-2034,CA,Cobalt,10171222.990309712,10171.222990309712,Increasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Copper,55394495.05641658,55394.49505641658,Increasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Graphite,121339614.4522098,121339.6144522098,Increasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Lithium,12872515.17080915,12872.515170809149,Increasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Manganese,6184311.291623539,6184.31129162354,Increasing Batt Cap - Benchmark Chemistry,US
-2034,CA,Nickel,57819571.5593313,57819.5715593313,Increasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Cobalt,10082628.552317811,10082.62855231781,Increasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Copper,54993089.09845135,54993.08909845135,Increasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Graphite,120429803.10381775,120429.80310381774,Increasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Lithium,12774084.19228902,12774.084192289021,Increasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Manganese,6131158.087633605,6131.158087633605,Increasing Batt Cap - Benchmark Chemistry,US
+2034,CA,Nickel,57320978.07751969,57320.97807751969,Increasing Batt Cap - Benchmark Chemistry,US
 2034,CO,Cobalt,1626175.3211943945,1626.1753211943944,Increasing Batt Cap - Benchmark Chemistry,US
 2034,CO,Copper,8854678.910849413,8854.678910849412,Increasing Batt Cap - Benchmark Chemistry,US
 2034,CO,Graphite,19396525.879872546,19396.525879872544,Increasing Batt Cap - Benchmark Chemistry,US
@@ -23045,12 +23045,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2035,BC,Lithium,1442067.5786063452,1442.0675786063453,Increasing Batt Cap - Benchmark Chemistry,CA
 2035,BC,Manganese,767784.9956791078,767.7849956791079,Increasing Batt Cap - Benchmark Chemistry,CA
 2035,BC,Nickel,7215376.826449037,7215.376826449036,Increasing Batt Cap - Benchmark Chemistry,CA
-2035,CA,Cobalt,11184278.651310222,11184.278651310222,Increasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Copper,61223198.86433779,61223.198864337784,Increasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Graphite,134321388.91523015,134321.38891523014,Increasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Lithium,14242193.43258867,14242.19343258867,Increasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Manganese,6870473.788540639,6870.473788540639,Increasing Batt Cap - Benchmark Chemistry,US
-2035,CA,Nickel,64381672.48350545,64381.67248350545,Increasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Cobalt,11047921.266308188,11047.921266308189,Increasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Copper,60599908.65525118,60599.90865525118,Increasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Graphite,132907002.91072994,132907.00291072993,Increasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Lithium,14089334.280859718,14089.334280859719,Increasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Manganese,6787773.7706773905,6787.7737706773905,Increasing Batt Cap - Benchmark Chemistry,US
+2035,CA,Nickel,63604145.60186465,63604.14560186465,Increasing Batt Cap - Benchmark Chemistry,US
 2035,CO,Cobalt,1798457.6444425469,1798.4576444425468,Increasing Batt Cap - Benchmark Chemistry,US
 2035,CO,Copper,9846351.066243682,9846.351066243682,Increasing Batt Cap - Benchmark Chemistry,US
 2035,CO,Graphite,21601943.621437166,21601.943621437167,Increasing Batt Cap - Benchmark Chemistry,US
@@ -23435,12 +23435,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2036,BC,Lithium,1545125.111762416,1545.125111762416,Increasing Batt Cap - Benchmark Chemistry,CA
 2036,BC,Manganese,822091.2597760337,822.0912597760337,Increasing Batt Cap - Benchmark Chemistry,CA
 2036,BC,Nickel,7724213.331342073,7724.213331342073,Increasing Batt Cap - Benchmark Chemistry,CA
-2036,CA,Cobalt,11728516.714237591,11728.51671423759,Increasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Copper,64860740.608286515,64860.74060828651,Increasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Graphite,142433628.81534192,142433.62881534192,Increasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Lithium,15086574.571522,15086.574571522,Increasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Manganese,7304956.964148156,7304.956964148157,Increasing Batt Cap - Benchmark Chemistry,US
-2036,CA,Nickel,68449089.39706703,68449.08939706703,Increasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Cobalt,11535024.133446788,11535.024133446788,Increasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Copper,63960625.63691497,63960.62563691497,Increasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Graphite,140391749.4963275,140391.74949632748,Increasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Lithium,14866343.440669017,14866.343440669018,Increasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Manganese,7185873.662853681,7185.873662853681,Increasing Batt Cap - Benchmark Chemistry,US
+2036,CA,Nickel,67329711.28809063,67329.71128809064,Increasing Batt Cap - Benchmark Chemistry,US
 2036,CO,Cobalt,1890388.505819713,1890.388505819713,Increasing Batt Cap - Benchmark Chemistry,US
 2036,CO,Copper,10464832.461822143,10464.832461822143,Increasing Batt Cap - Benchmark Chemistry,US
 2036,CO,Graphite,22976591.94762246,22976.59194762246,Increasing Batt Cap - Benchmark Chemistry,US
@@ -23825,12 +23825,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2037,BC,Lithium,1651890.2980487032,1651.8902980487032,Increasing Batt Cap - Benchmark Chemistry,CA
 2037,BC,Manganese,876481.0395742028,876.4810395742029,Increasing Batt Cap - Benchmark Chemistry,CA
 2037,BC,Nickel,8225293.470692258,8225.293470692259,Increasing Batt Cap - Benchmark Chemistry,CA
-2037,CA,Cobalt,12036314.177266432,12036.314177266431,Increasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Copper,67782582.3236246,67782.58232362459,Increasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Graphite,148853671.78470942,148853.6717847094,Increasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Lithium,15737801.446549349,15737.801446549349,Increasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Manganese,7629798.67839745,7629.798678397449,Increasing Batt Cap - Benchmark Chemistry,US
-2037,CA,Nickel,71416766.24384639,71416.76624384639,Increasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Cobalt,11867342.133798894,11867.342133798893,Increasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Copper,66976468.810751215,66976.46881075122,Increasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Graphite,147027408.3733996,147027.40837339958,Increasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Lithium,15541382.332327409,15541.382332327408,Increasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Manganese,7523872.009707212,7523.872009707213,Increasing Batt Cap - Benchmark Chemistry,US
+2037,CA,Nickel,70422264.75057179,70422.26475057179,Increasing Batt Cap - Benchmark Chemistry,US
 2037,CO,Cobalt,1956356.3913191995,1956.3563913191995,Increasing Batt Cap - Benchmark Chemistry,US
 2037,CO,Copper,11026876.93891347,11026.87693891347,Increasing Batt Cap - Benchmark Chemistry,US
 2037,CO,Graphite,24211816.808592763,24211.816808592765,Increasing Batt Cap - Benchmark Chemistry,US
@@ -24215,12 +24215,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2038,BC,Lithium,1737176.0981035759,1737.176098103576,Increasing Batt Cap - Benchmark Chemistry,CA
 2038,BC,Manganese,918968.1159796452,918.9681159796452,Increasing Batt Cap - Benchmark Chemistry,CA
 2038,BC,Nickel,8610552.680771364,8610.552680771363,Increasing Batt Cap - Benchmark Chemistry,CA
-2038,CA,Cobalt,12364100.977859613,12364.100977859613,Increasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Copper,71184571.76737441,71184.57176737441,Increasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Graphite,156328437.453975,156328.437453975,Increasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Lithium,16492012.933326881,16492.01293332688,Increasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Manganese,8008138.467607614,8008.138467607614,Increasing Batt Cap - Benchmark Chemistry,US
-2038,CA,Nickel,74853633.43957753,74853.63343957753,Increasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Cobalt,12077127.098820047,12077.127098820047,Increasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Copper,69774071.32734984,69774.07132734984,Increasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Graphite,153137440.53352338,153137.4405335234,Increasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Lithium,16149935.910589647,16149.935910589647,Increasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Manganese,7824151.282969936,7824.151282969936,Increasing Batt Cap - Benchmark Chemistry,US
+2038,CA,Nickel,73128943.6770998,73128.9436770998,Increasing Batt Cap - Benchmark Chemistry,US
 2038,CO,Cobalt,1996780.6570908567,1996.7806570908567,Increasing Batt Cap - Benchmark Chemistry,US
 2038,CO,Copper,11529722.643508779,11529.72264350878,Increasing Batt Cap - Benchmark Chemistry,US
 2038,CO,Graphite,25307464.392801,25307.464392801,Increasing Batt Cap - Benchmark Chemistry,US
@@ -24605,12 +24605,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2039,BC,Lithium,1811543.5627942544,1811.5435627942543,Increasing Batt Cap - Benchmark Chemistry,CA
 2039,BC,Manganese,951789.4165137566,951.7894165137566,Increasing Batt Cap - Benchmark Chemistry,CA
 2039,BC,Nickel,8914895.552443098,8914.895552443098,Increasing Batt Cap - Benchmark Chemistry,CA
-2039,CA,Cobalt,12354132.302122973,12354.132302122973,Increasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Copper,73640686.95207058,73640.68695207058,Increasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Graphite,161531154.9446213,161531.1549446213,Increasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Lithium,16984026.862536866,16984.026862536866,Increasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Manganese,8213352.125190343,8213.352125190342,Increasing Batt Cap - Benchmark Chemistry,US
-2039,CA,Nickel,76749607.96934576,76749.60796934576,Increasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Cobalt,12023898.79933386,12023.89879933386,Increasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Copper,71951824.24100201,71951.824241002,Increasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Graphite,157718830.94194582,157718.8309419458,Increasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Lithium,16577069.559990993,16577.069559990992,Increasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Manganese,7995863.472279296,7995.863472279296,Increasing Batt Cap - Benchmark Chemistry,US
+2039,CA,Nickel,74711576.65275541,74711.57665275541,Increasing Batt Cap - Benchmark Chemistry,US
 2039,CO,Cobalt,2011139.1953474565,2011.1391953474565,Increasing Batt Cap - Benchmark Chemistry,US
 2039,CO,Copper,12021218.999596026,12021.218999596025,Increasing Batt Cap - Benchmark Chemistry,US
 2039,CO,Graphite,26355797.28757135,26355.79728757135,Increasing Batt Cap - Benchmark Chemistry,US
@@ -24995,12 +24995,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2040,BC,Lithium,1867087.2678597202,1867.0872678597202,Increasing Batt Cap - Benchmark Chemistry,CA
 2040,BC,Manganese,980370.8250985971,980.3708250985972,Increasing Batt Cap - Benchmark Chemistry,CA
 2040,BC,Nickel,9182449.560141051,9182.44956014105,Increasing Batt Cap - Benchmark Chemistry,CA
-2040,CA,Cobalt,12655509.825955315,12655.509825955314,Increasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Copper,75300184.70041136,75300.18470041137,Increasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Graphite,165224073.5032633,165224.0735032633,Increasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Lithium,17375310.063038554,17375.310063038552,Increasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Manganese,8412707.043982597,8412.707043982597,Increasing Batt Cap - Benchmark Chemistry,US
-2040,CA,Nickel,78615277.55795816,78615.27755795815,Increasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Cobalt,12302743.941953236,12302.743941953237,Increasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Copper,73496088.05190837,73496.08805190837,Increasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Graphite,161151628.23414648,161151.62823414648,Increasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Lithium,16940585.381055195,16940.585381055196,Increasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Manganese,8180378.780589746,8180.378780589746,Increasing Batt Cap - Benchmark Chemistry,US
+2040,CA,Nickel,76438187.93891002,76438.18793891002,Increasing Batt Cap - Benchmark Chemistry,US
 2040,CO,Cobalt,2087774.6121410804,2087.7746121410805,Increasing Batt Cap - Benchmark Chemistry,US
 2040,CO,Copper,12445882.065539705,12445.882065539705,Increasing Batt Cap - Benchmark Chemistry,US
 2040,CO,Graphite,27299691.348626804,27299.691348626802,Increasing Batt Cap - Benchmark Chemistry,US
@@ -25385,12 +25385,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2041,BC,Lithium,1924737.9478727267,1924.7379478727266,Increasing Batt Cap - Benchmark Chemistry,CA
 2041,BC,Manganese,1010056.4820330393,1010.0564820330393,Increasing Batt Cap - Benchmark Chemistry,CA
 2041,BC,Nickel,9460345.532355806,9460.345532355806,Increasing Batt Cap - Benchmark Chemistry,CA
-2041,CA,Cobalt,12631296.17293345,12631.29617293345,Increasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Copper,75269987.9054441,75269.9879054441,Increasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Graphite,165113832.4245966,165113.83242459662,Increasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Lithium,17361222.873448107,17361.222873448107,Increasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Manganese,8397449.796058549,8397.449796058549,Increasing Batt Cap - Benchmark Chemistry,US
-2041,CA,Nickel,78470375.3135007,78470.3753135007,Increasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Cobalt,12299962.456326205,12299.962456326206,Increasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Copper,73575498.51524092,73575.49851524092,Increasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Graphite,161288807.1376045,161288.8071376045,Increasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Lithium,16952909.73684786,16952.909736847858,Increasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Manganese,8179236.554716859,8179.236554716859,Increasing Batt Cap - Benchmark Chemistry,US
+2041,CA,Nickel,76425554.00968662,76425.55400968662,Increasing Batt Cap - Benchmark Chemistry,US
 2041,CO,Cobalt,2151618.5590216373,2151.6185590216373,Increasing Batt Cap - Benchmark Chemistry,US
 2041,CO,Copper,12802736.797685299,12802.736797685298,Increasing Batt Cap - Benchmark Chemistry,US
 2041,CO,Graphite,28091593.798306454,28091.593798306454,Increasing Batt Cap - Benchmark Chemistry,US
@@ -25775,12 +25775,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2042,BC,Lithium,1985712.993244057,1985.712993244057,Increasing Batt Cap - Benchmark Chemistry,CA
 2042,BC,Manganese,1041507.3510387863,1041.5073510387863,Increasing Batt Cap - Benchmark Chemistry,CA
 2042,BC,Nickel,9754780.010743205,9754.780010743205,Increasing Batt Cap - Benchmark Chemistry,CA
-2042,CA,Cobalt,12814743.29119293,12814.74329119293,Increasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Copper,76273206.23314123,76273.20623314123,Increasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Graphite,167349201.12265366,167349.20112265367,Increasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Lithium,17598232.621981457,17598.232621981457,Increasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Manganese,8518745.373782907,8518.745373782907,Increasing Batt Cap - Benchmark Chemistry,US
-2042,CA,Nickel,79605664.6675222,79605.6646675222,Increasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Cobalt,12539321.235227615,12539.321235227615,Increasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Copper,74864657.304164,74864.65730416401,Increasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Graphite,164169638.41635814,164169.63841635815,Increasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Lithium,17258821.21311059,17258.82121311059,Increasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Manganese,8337355.021528399,8337.3550215284,Increasing Batt Cap - Benchmark Chemistry,US
+2042,CA,Nickel,77905901.3794843,77905.90137948429,Increasing Batt Cap - Benchmark Chemistry,US
 2042,CO,Cobalt,2225429.0572087094,2225.4290572087093,Increasing Batt Cap - Benchmark Chemistry,US
 2042,CO,Copper,13205935.290388545,13205.935290388545,Increasing Batt Cap - Benchmark Chemistry,US
 2042,CO,Graphite,28990188.58116752,28990.18858116752,Increasing Batt Cap - Benchmark Chemistry,US
@@ -26165,12 +26165,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2043,BC,Lithium,2051165.575996202,2051.165575996202,Increasing Batt Cap - Benchmark Chemistry,CA
 2043,BC,Manganese,1075345.8432467654,1075.3458432467655,Increasing Batt Cap - Benchmark Chemistry,CA
 2043,BC,Nickel,10071586.98324468,10071.58698324468,Increasing Batt Cap - Benchmark Chemistry,CA
-2043,CA,Cobalt,13029438.413614746,13029.438413614746,Increasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Copper,77445140.15784465,77445.14015784465,Increasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Graphite,169961413.6531084,169961.41365310838,Increasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Lithium,17875248.9767314,17875.2489767314,Increasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Manganese,8660686.204016006,8660.686204016005,Increasing Batt Cap - Benchmark Chemistry,US
-2043,CA,Nickel,80934231.81622145,80934.23181622145,Increasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Cobalt,12824121.700969903,12824.121700969903,Increasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Copper,76395120.27224247,76395.12027224248,Increasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Graphite,167591170.0638043,167591.1700638043,Increasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Lithium,17622230.624736022,17622.23062473602,Increasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Manganese,8525466.565560192,8525.466565560191,Increasing Batt Cap - Benchmark Chemistry,US
+2043,CA,Nickel,79667122.65406238,79667.12265406238,Increasing Batt Cap - Benchmark Chemistry,US
 2043,CO,Cobalt,2298210.495062748,2298.210495062748,Increasing Batt Cap - Benchmark Chemistry,US
 2043,CO,Copper,13605551.094780117,13605.551094780118,Increasing Batt Cap - Benchmark Chemistry,US
 2043,CO,Graphite,29879941.071121443,29879.941071121444,Increasing Batt Cap - Benchmark Chemistry,US
@@ -26555,12 +26555,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2044,BC,Lithium,2122026.392208966,2122.026392208966,Increasing Batt Cap - Benchmark Chemistry,CA
 2044,BC,Manganese,1112140.8747898312,1112.1408747898313,Increasing Batt Cap - Benchmark Chemistry,CA
 2044,BC,Nickel,10416115.485314839,10416.115485314838,Increasing Batt Cap - Benchmark Chemistry,CA
-2044,CA,Cobalt,13298051.789117912,13298.051789117912,Increasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Copper,78886360.41427585,78886.36041427586,Increasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Graphite,173184397.5876049,173184.3975876049,Increasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Lithium,18217623.8438813,18217.6238438813,Increasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Manganese,8838089.508793544,8838.089508793544,Increasing Batt Cap - Benchmark Chemistry,US
-2044,CA,Nickel,82595242.05101492,82595.24205101491,Increasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Cobalt,13154219.015705746,13154.219015705745,Increasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Copper,78150778.44270329,78150.77844270329,Increasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Graphite,171523944.79386786,171523.94479386785,Increasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Lithium,18040374.116750594,18040.374116750594,Increasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Manganese,8743362.609222865,8743.362609222864,Increasing Batt Cap - Benchmark Chemistry,US
+2044,CA,Nickel,81707580.1424368,81707.5801424368,Increasing Batt Cap - Benchmark Chemistry,US
 2044,CO,Cobalt,2377631.7360627498,2377.63173606275,Increasing Batt Cap - Benchmark Chemistry,US
 2044,CO,Copper,14038186.073409135,14038.186073409135,Increasing Batt Cap - Benchmark Chemistry,US
 2044,CO,Graphite,30844650.201883476,30844.650201883476,Increasing Batt Cap - Benchmark Chemistry,US
@@ -26945,12 +26945,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2045,BC,Lithium,2194698.3778277384,2194.6983778277386,Increasing Batt Cap - Benchmark Chemistry,CA
 2045,BC,Manganese,1149892.7012431456,1149.8927012431457,Increasing Batt Cap - Benchmark Chemistry,CA
 2045,BC,Nickel,10769607.08857065,10769.60708857065,Increasing Batt Cap - Benchmark Chemistry,CA
-2045,CA,Cobalt,13626511.653375344,13626.511653375344,Increasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Copper,80614719.96631058,80614.71996631057,Increasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Graphite,177064054.34244198,177064.054342442,Increasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Lithium,18630565.835003484,18630.565835003483,Increasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Manganese,9054767.762571502,9054.767762571502,Increasing Batt Cap - Benchmark Chemistry,US
-2045,CA,Nickel,84624678.09008878,84624.67809008878,Increasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Cobalt,13523624.818941565,13523.624818941566,Increasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Copper,80088541.55282213,80088.54155282213,Increasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Graphite,175876294.92140397,175876.29492140398,Increasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Lithium,18503775.098121364,18503.775098121365,Increasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Manganese,8987007.469827754,8987.007469827755,Increasing Batt Cap - Benchmark Chemistry,US
+2045,CA,Nickel,83989713.45960547,83989.71345960547,Increasing Batt Cap - Benchmark Chemistry,US
 2045,CO,Cobalt,2458614.531870767,2458.614531870767,Increasing Batt Cap - Benchmark Chemistry,US
 2045,CO,Copper,14475672.672873953,14475.672672873954,Increasing Batt Cap - Benchmark Chemistry,US
 2045,CO,Graphite,31821719.555815663,31821.719555815664,Increasing Batt Cap - Benchmark Chemistry,US
@@ -27335,12 +27335,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2046,BC,Lithium,2288507.9779294915,2288.5079779294915,Increasing Batt Cap - Benchmark Chemistry,CA
 2046,BC,Manganese,1198985.0412275125,1198.9850412275125,Increasing Batt Cap - Benchmark Chemistry,CA
 2046,BC,Nickel,11229378.781391378,11229.378781391379,Increasing Batt Cap - Benchmark Chemistry,CA
-2046,CA,Cobalt,14119095.631529983,14119.095631529983,Increasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Copper,83177509.89085805,83177.50989085805,Increasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Graphite,182829510.4792723,182829.5104792723,Increasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Lithium,19244934.78356606,19244.934783566063,Increasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Manganese,9379500.330747474,9379.500330747474,Increasing Batt Cap - Benchmark Chemistry,US
-2046,CA,Nickel,87666765.4092691,87666.7654092691,Increasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Cobalt,14034980.409304287,14034.980409304288,Increasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Copper,82747332.2648817,82747.3322648817,Increasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Graphite,181858456.71713552,181858.45671713553,Increasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Lithium,19141276.904813226,19141.276904813225,Increasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Manganese,9324102.843658037,9324.102843658038,Increasing Batt Cap - Benchmark Chemistry,US
+2046,CA,Nickel,87147649.51565164,87147.64951565165,Increasing Batt Cap - Benchmark Chemistry,US
 2046,CO,Cobalt,2547336.1339276857,2547.3361339276858,Increasing Batt Cap - Benchmark Chemistry,US
 2046,CO,Copper,14951980.368390866,14951.980368390865,Increasing Batt Cap - Benchmark Chemistry,US
 2046,CO,Graphite,32886760.87311384,32886.76087311384,Increasing Batt Cap - Benchmark Chemistry,US
@@ -27725,12 +27725,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2047,BC,Lithium,2362742.9053399744,2362.7429053399746,Increasing Batt Cap - Benchmark Chemistry,CA
 2047,BC,Manganese,1237682.864822096,1237.682864822096,Increasing Batt Cap - Benchmark Chemistry,CA
 2047,BC,Nickel,11591762.74041675,11591.76274041675,Increasing Batt Cap - Benchmark Chemistry,CA
-2047,CA,Cobalt,14523279.30749157,14523.27930749157,Increasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Copper,85296023.3540428,85296.0233540428,Increasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Graphite,187588574.9660862,187588.57496608622,Increasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Lithium,19751680.02880093,19751.680028800933,Increasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Manganese,9646070.862215836,9646.070862215836,Increasing Batt Cap - Benchmark Chemistry,US
-2047,CA,Nickel,90163669.80596055,90163.66980596056,Increasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Cobalt,14441396.901990794,14441.396901990795,Increasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Copper,84877264.68140867,84877.26468140868,Increasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Graphite,186643297.5738325,186643.2975738325,Increasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Lithium,19650773.72151428,19650.77372151428,Increasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Manganese,9592143.8870316,9592.1438870316,Increasing Batt Cap - Benchmark Chemistry,US
+2047,CA,Nickel,89658333.70889798,89658.33370889798,Increasing Batt Cap - Benchmark Chemistry,US
 2047,CO,Cobalt,2632505.788309938,2632.505788309938,Increasing Batt Cap - Benchmark Chemistry,US
 2047,CO,Copper,15411598.547586896,15411.598547586895,Increasing Batt Cap - Benchmark Chemistry,US
 2047,CO,Graphite,33913465.28995046,33913.46528995046,Increasing Batt Cap - Benchmark Chemistry,US
@@ -28115,12 +28115,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2048,BC,Lithium,2433447.6349528017,2433.4476349528018,Increasing Batt Cap - Benchmark Chemistry,CA
 2048,BC,Manganese,1274515.9590865045,1274.5159590865046,Increasing Batt Cap - Benchmark Chemistry,CA
 2048,BC,Nickel,11936678.2609808,11936.6782609808,Increasing Batt Cap - Benchmark Chemistry,CA
-2048,CA,Cobalt,14918748.915454041,14918.748915454042,Increasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Copper,87416137.65164939,87416.13765164939,Increasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Graphite,192330507.54021692,192330.50754021693,Increasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Lithium,20255453.027439307,20255.453027439307,Increasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Manganese,9907242.407453228,9907.242407453228,Increasing Batt Cap - Benchmark Chemistry,US
-2048,CA,Nickel,92609029.89225951,92609.02989225951,Increasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Cobalt,14826778.435822526,14826.778435822525,Increasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Copper,86945787.08321558,86945.78708321557,Increasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Graphite,191268770.1056765,191268.7701056765,Increasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Lithium,20142114.863736857,20142.114863736857,Increasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Manganese,9846671.522384102,9846.671522384102,Increasing Batt Cap - Benchmark Chemistry,US
+2048,CA,Nickel,92041435.38965878,92041.43538965879,Increasing Batt Cap - Benchmark Chemistry,US
 2048,CO,Cobalt,2714445.6704688235,2714.4456704688237,Increasing Batt Cap - Benchmark Chemistry,US
 2048,CO,Copper,15863038.72054524,15863.038720545239,Increasing Batt Cap - Benchmark Chemistry,US
 2048,CO,Graphite,34917961.70336433,34917.96170336433,Increasing Batt Cap - Benchmark Chemistry,US
@@ -28505,12 +28505,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2049,BC,Lithium,2499415.700081874,2499.415700081874,Increasing Batt Cap - Benchmark Chemistry,CA
 2049,BC,Manganese,1308874.4942452994,1308.8744942452993,Increasing Batt Cap - Benchmark Chemistry,CA
 2049,BC,Nickel,12258419.508396728,12258.419508396728,Increasing Batt Cap - Benchmark Chemistry,CA
-2049,CA,Cobalt,15280311.737641023,15280.311737641023,Increasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Copper,89341542.83822438,89341.54283822438,Increasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Graphite,196642490.7232331,196642.49072323312,Increasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Lithium,20713857.54814751,20713.85754814751,Increasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Manganese,10145926.353207702,10145.926353207702,Increasing Batt Cap - Benchmark Chemistry,US
-2049,CA,Nickel,94844103.57698369,94844.10357698369,Increasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Cobalt,15170933.42726125,15170.93342726125,Increasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Copper,88782166.06137626,88782.16606137627,Increasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Graphite,195379791.57104564,195379.79157104564,Increasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Lithium,20579067.157828916,20579.067157828915,Increasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Manganese,10073890.836011184,10073.890836011184,Increasing Batt Cap - Benchmark Chemistry,US
+2049,CA,Nickel,94169076.89533491,94169.07689533492,Increasing Batt Cap - Benchmark Chemistry,US
 2049,CO,Cobalt,2795370.742268068,2795.3707422680677,Increasing Batt Cap - Benchmark Chemistry,US
 2049,CO,Copper,16305704.613826565,16305.704613826565,Increasing Batt Cap - Benchmark Chemistry,US
 2049,CO,Graphite,35904262.36908638,35904.26236908638,Increasing Batt Cap - Benchmark Chemistry,US
@@ -28895,12 +28895,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2050,BC,Lithium,2554855.225933895,2554.855225933895,Increasing Batt Cap - Benchmark Chemistry,CA
 2050,BC,Manganese,1337666.5085567331,1337.666508556733,Increasing Batt Cap - Benchmark Chemistry,CA
 2050,BC,Nickel,12528013.32945207,12528.01332945207,Increasing Batt Cap - Benchmark Chemistry,CA
-2050,CA,Cobalt,15584621.255577864,15584.621255577864,Increasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Copper,91023135.38247938,91023.13538247939,Increasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Graphite,200382093.56143022,200382.09356143023,Increasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Lithium,21109948.32982658,21109.948329826577,Increasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Manganese,10347264.62642926,10347.26462642926,Increasing Batt Cap - Benchmark Chemistry,US
-2050,CA,Nickel,96728210.39670843,96728.21039670843,Increasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Cobalt,15454720.941408103,15454.720941408103,Increasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Copper,90358806.05795838,90358.80605795838,Increasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Graphite,198882481.65481424,198882.48165481424,Increasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Lithium,20949868.01784648,20949.86801784648,Increasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Manganese,10261713.51229412,10261.71351229412,Increasing Batt Cap - Benchmark Chemistry,US
+2050,CA,Nickel,95926532.46152464,95926.53246152464,Increasing Batt Cap - Benchmark Chemistry,US
 2050,CO,Cobalt,2865528.314850454,2865.528314850454,Increasing Batt Cap - Benchmark Chemistry,US
 2050,CO,Copper,16702346.145102482,16702.34614510248,Increasing Batt Cap - Benchmark Chemistry,US
 2050,CO,Graphite,36782607.47062584,36782.60747062584,Increasing Batt Cap - Benchmark Chemistry,US
@@ -29285,12 +29285,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2026,BC,Lithium,197888.58638943813,197.88858638943813,Increasing Batt Cap - High LFP Chemistry,CA
 2026,BC,Manganese,89797.71848516408,89.79771848516408,Increasing Batt Cap - High LFP Chemistry,CA
 2026,BC,Nickel,844358.4152024674,844.3584152024673,Increasing Batt Cap - High LFP Chemistry,CA
-2026,CA,Cobalt,2013168.9573222676,2013.1689573222675,Increasing Batt Cap - High LFP Chemistry,US
-2026,CA,Copper,11495084.477632364,11495.084477632365,Increasing Batt Cap - High LFP Chemistry,US
-2026,CA,Graphite,24295532.780090213,24295.532780090212,Increasing Batt Cap - High LFP Chemistry,US
-2026,CA,Lithium,2565532.5571103953,2565.5325571103954,Increasing Batt Cap - High LFP Chemistry,US
-2026,CA,Manganese,1054411.8628051209,1054.4118628051208,Increasing Batt Cap - High LFP Chemistry,US
-2026,CA,Nickel,9879052.330746789,9879.052330746788,Increasing Batt Cap - High LFP Chemistry,US
+2026,CA,Cobalt,2011454.091318825,2011.454091318825,Increasing Batt Cap - High LFP Chemistry,US
+2026,CA,Copper,11487292.618009904,11487.292618009904,Increasing Batt Cap - High LFP Chemistry,US
+2026,CA,Graphite,24278483.315580677,24278.483315580677,Increasing Batt Cap - High LFP Chemistry,US
+2026,CA,Lithium,2563686.800770962,2563.6868007709622,Increasing Batt Cap - High LFP Chemistry,US
+2026,CA,Manganese,1053536.0334695631,1053.536033469563,Increasing Batt Cap - High LFP Chemistry,US
+2026,CA,Nickel,9870804.63656891,9870.80463656891,Increasing Batt Cap - High LFP Chemistry,US
 2026,CO,Cobalt,390101.1028984211,390.1011028984211,Increasing Batt Cap - High LFP Chemistry,US
 2026,CO,Copper,2127605.6951109963,2127.6056951109963,Increasing Batt Cap - High LFP Chemistry,US
 2026,CO,Graphite,4525822.1561159175,4525.822156115917,Increasing Batt Cap - High LFP Chemistry,US
@@ -29675,12 +29675,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2027,BC,Lithium,280915.6566313721,280.9156566313721,Increasing Batt Cap - High LFP Chemistry,CA
 2027,BC,Manganese,128475.77838485561,128.4757783848556,Increasing Batt Cap - High LFP Chemistry,CA
 2027,BC,Nickel,1190644.3497573098,1190.6443497573098,Increasing Batt Cap - High LFP Chemistry,CA
-2027,CA,Cobalt,2694817.7574105957,2694.8177574105957,Increasing Batt Cap - High LFP Chemistry,US
-2027,CA,Copper,15654173.267778153,15654.173267778153,Increasing Batt Cap - High LFP Chemistry,US
-2027,CA,Graphite,33068464.594418064,33068.46459441807,Increasing Batt Cap - High LFP Chemistry,US
-2027,CA,Lithium,3485742.2220519693,3485.7422220519693,Increasing Batt Cap - High LFP Chemistry,US
-2027,CA,Manganese,1447700.0712842417,1447.7000712842416,Increasing Batt Cap - High LFP Chemistry,US
-2027,CA,Nickel,13377104.007205488,13377.104007205488,Increasing Batt Cap - High LFP Chemistry,US
+2027,CA,Cobalt,2692054.068518807,2692.054068518807,Increasing Batt Cap - High LFP Chemistry,US
+2027,CA,Copper,15641104.296604881,15641.10429660488,Increasing Batt Cap - High LFP Chemistry,US
+2027,CA,Graphite,33039991.60849202,33039.99160849202,Increasing Batt Cap - High LFP Chemistry,US
+2027,CA,Lithium,3482674.16281914,3482.6741628191403,Increasing Batt Cap - High LFP Chemistry,US
+2027,CA,Manganese,1446247.7142261292,1446.2477142261291,Increasing Batt Cap - High LFP Chemistry,US
+2027,CA,Nickel,13363631.113276236,13363.631113276237,Increasing Batt Cap - High LFP Chemistry,US
 2027,CO,Cobalt,413863.52175450913,413.8635217545091,Increasing Batt Cap - High LFP Chemistry,US
 2027,CO,Copper,2399795.681525451,2399.795681525451,Increasing Batt Cap - High LFP Chemistry,US
 2027,CO,Graphite,5070675.352200366,5070.6753522003655,Increasing Batt Cap - High LFP Chemistry,US
@@ -30065,12 +30065,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2028,BC,Lithium,408231.11899437645,408.23111899437646,Increasing Batt Cap - High LFP Chemistry,CA
 2028,BC,Manganese,184813.95957047137,184.81395957047138,Increasing Batt Cap - High LFP Chemistry,CA
 2028,BC,Nickel,1717917.4705801937,1717.9174705801936,Increasing Batt Cap - High LFP Chemistry,CA
-2028,CA,Cobalt,3371002.544388017,3371.002544388017,Increasing Batt Cap - High LFP Chemistry,US
-2028,CA,Copper,20388016.031930447,20388.016031930445,Increasing Batt Cap - High LFP Chemistry,US
-2028,CA,Graphite,42941261.63231023,42941.26163231023,Increasing Batt Cap - High LFP Chemistry,US
-2028,CA,Lithium,4508448.302854742,4508.448302854742,Increasing Batt Cap - High LFP Chemistry,US
-2028,CA,Manganese,1840628.5748014299,1840.62857480143,Increasing Batt Cap - High LFP Chemistry,US
-2028,CA,Nickel,17052563.126150027,17052.563126150028,Increasing Batt Cap - High LFP Chemistry,US
+2028,CA,Cobalt,3366562.3041451955,3366.5623041451954,Increasing Batt Cap - High LFP Chemistry,US
+2028,CA,Copper,20366069.81947491,20366.06981947491,Increasing Batt Cap - High LFP Chemistry,US
+2028,CA,Graphite,42893641.54239978,42893.64154239978,Increasing Batt Cap - High LFP Chemistry,US
+2028,CA,Lithium,4503342.647478862,4503.342647478862,Increasing Batt Cap - High LFP Chemistry,US
+2028,CA,Manganese,1838256.4600783917,1838.2564600783917,Increasing Batt Cap - High LFP Chemistry,US
+2028,CA,Nickel,17030496.20295798,17030.49620295798,Increasing Batt Cap - High LFP Chemistry,US
 2028,CO,Cobalt,512381.05347086285,512.3810534708629,Increasing Batt Cap - High LFP Chemistry,US
 2028,CO,Copper,3102366.6641215608,3102.366664121561,Increasing Batt Cap - High LFP Chemistry,US
 2028,CO,Graphite,6533224.285905556,6533.224285905556,Increasing Batt Cap - High LFP Chemistry,US
@@ -30455,12 +30455,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2029,BC,Lithium,510804.4668010776,510.8044668010776,Increasing Batt Cap - High LFP Chemistry,CA
 2029,BC,Manganese,240951.77404055683,240.95177404055684,Increasing Batt Cap - High LFP Chemistry,CA
 2029,BC,Nickel,2118883.798861646,2118.883798861646,Increasing Batt Cap - High LFP Chemistry,CA
-2029,CA,Cobalt,3978521.6292868005,3978.5216292868004,Increasing Batt Cap - High LFP Chemistry,US
-2029,CA,Copper,25434684.643711627,25434.684643711626,Increasing Batt Cap - High LFP Chemistry,US
-2029,CA,Graphite,53484678.30258601,53484.67830258601,Increasing Batt Cap - High LFP Chemistry,US
-2029,CA,Lithium,5585030.300709361,5585.030300709362,Increasing Batt Cap - High LFP Chemistry,US
-2029,CA,Manganese,2377590.1954571353,2377.5901954571355,Increasing Batt Cap - High LFP Chemistry,US
-2029,CA,Nickel,20885498.859027177,20885.49885902718,Increasing Batt Cap - High LFP Chemistry,US
+2029,CA,Cobalt,3971543.067868286,3971.543067868286,Increasing Batt Cap - High LFP Chemistry,US
+2029,CA,Copper,25397791.661330353,25397.791661330353,Increasing Batt Cap - High LFP Chemistry,US
+2029,CA,Graphite,53404911.104395375,53404.911104395374,Increasing Batt Cap - High LFP Chemistry,US
+2029,CA,Lithium,5576542.1044154065,5576.542104415406,Increasing Batt Cap - High LFP Chemistry,US
+2029,CA,Manganese,2373491.7762793195,2373.4917762793198,Increasing Batt Cap - High LFP Chemistry,US
+2029,CA,Nickel,20849449.846362483,20849.449846362484,Increasing Batt Cap - High LFP Chemistry,US
 2029,CO,Cobalt,601743.241062268,601.743241062268,Increasing Batt Cap - High LFP Chemistry,US
 2029,CO,Copper,3857968.6072653807,3857.968607265381,Increasing Batt Cap - High LFP Chemistry,US
 2029,CO,Graphite,8109507.106473069,8109.507106473069,Increasing Batt Cap - High LFP Chemistry,US
@@ -30845,12 +30845,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2030,BC,Lithium,619772.6382197423,619.7726382197424,Increasing Batt Cap - High LFP Chemistry,CA
 2030,BC,Manganese,281552.73553103895,281.55273553103893,Increasing Batt Cap - High LFP Chemistry,CA
 2030,BC,Nickel,2540465.342581328,2540.465342581328,Increasing Batt Cap - High LFP Chemistry,CA
-2030,CA,Cobalt,4634621.57995758,4634.62157995758,Increasing Batt Cap - High LFP Chemistry,US
-2030,CA,Copper,31194450.26872677,31194.45026872677,Increasing Batt Cap - High LFP Chemistry,US
-2030,CA,Graphite,65399698.780119434,65399.698780119434,Increasing Batt Cap - High LFP Chemistry,US
-2030,CA,Lithium,6797675.700301075,6797.675700301075,Increasing Batt Cap - High LFP Chemistry,US
-2030,CA,Manganese,2783324.4762646435,2783.3244762646436,Increasing Batt Cap - High LFP Chemistry,US
-2030,CA,Nickel,25059498.354414213,25059.498354414212,Increasing Batt Cap - High LFP Chemistry,US
+2030,CA,Cobalt,4623575.17479325,4623.57517479325,Increasing Batt Cap - High LFP Chemistry,US
+2030,CA,Copper,31132852.2174393,31132.8522174393,Increasing Batt Cap - High LFP Chemistry,US
+2030,CA,Graphite,65267005.33343793,65267.005333437926,Increasing Batt Cap - High LFP Chemistry,US
+2030,CA,Lithium,6783632.555016503,6783.632555016503,Increasing Batt Cap - High LFP Chemistry,US
+2030,CA,Manganese,2776809.5693097673,2776.8095693097675,Increasing Batt Cap - High LFP Chemistry,US
+2030,CA,Nickel,25000689.761001922,25000.689761001922,Increasing Batt Cap - High LFP Chemistry,US
 2030,CO,Cobalt,697010.060494705,697.0100604947049,Increasing Batt Cap - High LFP Chemistry,US
 2030,CO,Copper,4713770.0647853995,4713.7700647854,Increasing Batt Cap - High LFP Chemistry,US
 2030,CO,Graphite,9876267.553043976,9876.267553043976,Increasing Batt Cap - High LFP Chemistry,US
@@ -31235,12 +31235,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2031,BC,Lithium,754367.7642937308,754.3677642937308,Increasing Batt Cap - High LFP Chemistry,CA
 2031,BC,Manganese,331608.7399864802,331.6087399864802,Increasing Batt Cap - High LFP Chemistry,CA
 2031,BC,Nickel,3047606.984645336,3047.606984645336,Increasing Batt Cap - High LFP Chemistry,CA
-2031,CA,Cobalt,5218377.213255554,5218.377213255554,Increasing Batt Cap - High LFP Chemistry,US
-2031,CA,Copper,37273939.83775872,37273.93983775872,Increasing Batt Cap - High LFP Chemistry,US
-2031,CA,Graphite,77734890.98686065,77734.89098686064,Increasing Batt Cap - High LFP Chemistry,US
-2031,CA,Lithium,8038085.618620759,8038.085618620759,Increasing Batt Cap - High LFP Chemistry,US
-2031,CA,Manganese,3148696.756117321,3148.696756117321,Increasing Batt Cap - High LFP Chemistry,US
-2031,CA,Nickel,28840105.311281096,28840.105311281095,Increasing Batt Cap - High LFP Chemistry,US
+2031,CA,Cobalt,5200802.680623042,5200.802680623043,Increasing Batt Cap - High LFP Chemistry,US
+2031,CA,Copper,37171326.33723651,37171.32633723651,Increasing Batt Cap - High LFP Chemistry,US
+2031,CA,Graphite,77514735.51130962,77514.73551130963,Increasing Batt Cap - High LFP Chemistry,US
+2031,CA,Lithium,8014892.016860098,8014.892016860098,Increasing Batt Cap - High LFP Chemistry,US
+2031,CA,Manganese,3138307.078701735,3138.307078701735,Increasing Batt Cap - High LFP Chemistry,US
+2031,CA,Nickel,28744571.095947437,28744.571095947438,Increasing Batt Cap - High LFP Chemistry,US
 2031,CO,Cobalt,830908.6455337191,830.9086455337191,Increasing Batt Cap - High LFP Chemistry,US
 2031,CO,Copper,5912116.748874573,5912.116748874573,Increasing Batt Cap - High LFP Chemistry,US
 2031,CO,Graphite,12335887.795082089,12335.887795082088,Increasing Batt Cap - High LFP Chemistry,US
@@ -31625,12 +31625,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2032,BC,Lithium,897013.2534646677,897.0132534646677,Increasing Batt Cap - High LFP Chemistry,CA
 2032,BC,Manganese,385492.0544034691,385.49205440346907,Increasing Batt Cap - High LFP Chemistry,CA
 2032,BC,Nickel,3558241.545642381,3558.241545642381,Increasing Batt Cap - High LFP Chemistry,CA
-2032,CA,Cobalt,5987875.281882814,5987.875281882814,Increasing Batt Cap - High LFP Chemistry,US
-2032,CA,Copper,44313149.55328756,44313.149553287556,Increasing Batt Cap - High LFP Chemistry,US
-2032,CA,Graphite,92086719.44210336,92086.71944210335,Increasing Batt Cap - High LFP Chemistry,US
-2032,CA,Lithium,9493547.033229694,9493.547033229694,Increasing Batt Cap - High LFP Chemistry,US
-2032,CA,Manganese,3633034.266325919,3633.034266325919,Increasing Batt Cap - High LFP Chemistry,US
-2032,CA,Nickel,33410034.138351995,33410.034138352,Increasing Batt Cap - High LFP Chemistry,US
+2032,CA,Cobalt,5960137.331891797,5960.137331891797,Increasing Batt Cap - High LFP Chemistry,US
+2032,CA,Copper,44145056.91816322,44145.056918163216,Increasing Batt Cap - High LFP Chemistry,US
+2032,CA,Graphite,91727682.88866155,91727.68288866155,Increasing Batt Cap - High LFP Chemistry,US
+2032,CA,Lithium,9455858.112140026,9455.858112140026,Increasing Batt Cap - High LFP Chemistry,US
+2032,CA,Manganese,3616551.8556800336,3616.5518556800334,Increasing Batt Cap - High LFP Chemistry,US
+2032,CA,Nickel,33257815.6475264,33257.8156475264,Increasing Batt Cap - High LFP Chemistry,US
 2032,CO,Cobalt,953140.2232128785,953.1402232128785,Increasing Batt Cap - High LFP Chemistry,US
 2032,CO,Copper,7037341.351806216,7037.341351806216,Increasing Batt Cap - High LFP Chemistry,US
 2032,CO,Graphite,14628507.023491316,14628.507023491316,Increasing Batt Cap - High LFP Chemistry,US
@@ -32015,12 +32015,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2033,BC,Lithium,1104344.8711480144,1104.3448711480144,Increasing Batt Cap - High LFP Chemistry,CA
 2033,BC,Manganese,462060.5949578113,462.0605949578113,Increasing Batt Cap - High LFP Chemistry,CA
 2033,BC,Nickel,4303901.526637554,4303.9015266375545,Increasing Batt Cap - High LFP Chemistry,CA
-2033,CA,Cobalt,7045381.182959896,7045.381182959895,Increasing Batt Cap - High LFP Chemistry,US
-2033,CA,Copper,52907081.91899857,52907.08191899857,Increasing Batt Cap - High LFP Chemistry,US
-2033,CA,Graphite,109885262.82296827,109885.26282296827,Increasing Batt Cap - High LFP Chemistry,US
-2033,CA,Lithium,11315108.241833877,11315.108241833877,Increasing Batt Cap - High LFP Chemistry,US
-2033,CA,Manganese,4279326.624933214,4279.326624933214,Increasing Batt Cap - High LFP Chemistry,US
-2033,CA,Nickel,39712471.876141585,39712.471876141586,Increasing Batt Cap - High LFP Chemistry,US
+2033,CA,Cobalt,7002180.433302638,7002.180433302638,Increasing Batt Cap - High LFP Chemistry,US
+2033,CA,Copper,52634596.457043745,52634.59645704374,Increasing Batt Cap - High LFP Chemistry,US
+2033,CA,Graphite,109305771.97728872,109305.77197728872,Increasing Batt Cap - High LFP Chemistry,US
+2033,CA,Lithium,11254506.102564303,11254.506102564303,Increasing Batt Cap - High LFP Chemistry,US
+2033,CA,Manganese,4253572.0059814,4253.572005981399,Increasing Batt Cap - High LFP Chemistry,US
+2033,CA,Nickel,39472448.99341959,39472.44899341959,Increasing Batt Cap - High LFP Chemistry,US
 2033,CO,Cobalt,1126978.441434107,1126.978441434107,Increasing Batt Cap - High LFP Chemistry,US
 2033,CO,Copper,8449942.270580724,8449.942270580725,Increasing Batt Cap - High LFP Chemistry,US
 2033,CO,Graphite,17553502.279053286,17553.502279053286,Increasing Batt Cap - High LFP Chemistry,US
@@ -32405,12 +32405,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2034,BC,Lithium,1257186.383191808,1257.1863831918079,Increasing Batt Cap - High LFP Chemistry,CA
 2034,BC,Manganese,512400.57347889576,512.4005734788958,Increasing Batt Cap - High LFP Chemistry,CA
 2034,BC,Nickel,4803697.368604191,4803.697368604191,Increasing Batt Cap - High LFP Chemistry,CA
-2034,CA,Cobalt,7664038.443631235,7664.038443631234,Increasing Batt Cap - High LFP Chemistry,US
-2034,CA,Copper,59182605.9415977,59182.6059415977,Increasing Batt Cap - High LFP Chemistry,US
-2034,CA,Graphite,122657707.43819514,122657.70743819514,Increasing Batt Cap - High LFP Chemistry,US
-2034,CA,Lithium,12601701.837346444,12601.701837346443,Increasing Batt Cap - High LFP Chemistry,US
-2034,CA,Manganese,4680098.446318359,4680.0984463183595,Increasing Batt Cap - High LFP Chemistry,US
-2034,CA,Nickel,43709590.154099666,43709.590154099664,Increasing Batt Cap - High LFP Chemistry,US
+2034,CA,Cobalt,7597825.1139316065,7597.825113931606,Increasing Batt Cap - High LFP Chemistry,US
+2034,CA,Copper,58747384.31575247,58747.38431575247,Increasing Batt Cap - High LFP Chemistry,US
+2034,CA,Graphite,121736129.75138263,121736.12975138263,Increasing Batt Cap - High LFP Chemistry,US
+2034,CA,Lithium,12505688.352405414,12505.688352405414,Increasing Batt Cap - High LFP Chemistry,US
+2034,CA,Manganese,4640373.033525528,4640.373033525529,Increasing Batt Cap - High LFP Chemistry,US
+2034,CA,Nickel,43336953.50392648,43336.95350392648,Increasing Batt Cap - High LFP Chemistry,US
 2034,CO,Cobalt,1225314.602228171,1225.314602228171,Increasing Batt Cap - High LFP Chemistry,US
 2034,CO,Copper,9460340.291049447,9460.340291049446,Increasing Batt Cap - High LFP Chemistry,US
 2034,CO,Graphite,19607268.923389778,19607.268923389776,Increasing Batt Cap - High LFP Chemistry,US
@@ -32795,12 +32795,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2035,BC,Lithium,1405026.2987092556,1405.0262987092556,Increasing Batt Cap - High LFP Chemistry,CA
 2035,BC,Manganese,559507.2614068066,559.5072614068066,Increasing Batt Cap - High LFP Chemistry,CA
 2035,BC,Nickel,5257196.6297804685,5257.196629780468,Increasing Batt Cap - High LFP Chemistry,CA
-2035,CA,Cobalt,8208592.532937251,8208.592532937251,Increasing Batt Cap - High LFP Chemistry,US
-2035,CA,Copper,65781401.21193106,65781.40121193105,Increasing Batt Cap - High LFP Chemistry,US
-2035,CA,Graphite,135903380.73183173,135903.38073183174,Increasing Batt Cap - High LFP Chemistry,US
-2035,CA,Lithium,13921228.78620071,13921.228786200709,Increasing Batt Cap - High LFP Chemistry,US
-2035,CA,Manganese,5065736.222319351,5065.73622231935,Increasing Batt Cap - High LFP Chemistry,US
-2035,CA,Nickel,47413937.67159308,47413.93767159308,Increasing Batt Cap - High LFP Chemistry,US
+2035,CA,Cobalt,8109404.561866537,8109.404561866537,Increasing Batt Cap - High LFP Chemistry,US
+2035,CA,Copper,65101174.31560641,65101.17431560641,Increasing Batt Cap - High LFP Chemistry,US
+2035,CA,Graphite,134469234.00448376,134469.23400448376,Increasing Batt Cap - High LFP Chemistry,US
+2035,CA,Lithium,13772378.81666515,13772.37881666515,Increasing Batt Cap - High LFP Chemistry,US
+2035,CA,Manganese,5005579.2533422345,5005.579253342235,Increasing Batt Cap - High LFP Chemistry,US
+2035,CA,Nickel,46848355.4419123,46848.3554419123,Increasing Batt Cap - High LFP Chemistry,US
 2035,CO,Cobalt,1319971.48686536,1319.97148686536,Increasing Batt Cap - High LFP Chemistry,US
 2035,CO,Copper,10579303.615671761,10579.30361567176,Increasing Batt Cap - High LFP Chemistry,US
 2035,CO,Graphite,21856325.688473903,21856.325688473902,Increasing Batt Cap - High LFP Chemistry,US
@@ -33185,12 +33185,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2036,BC,Lithium,1503825.3877442814,1503.8253877442814,Increasing Batt Cap - High LFP Chemistry,CA
 2036,BC,Manganese,585998.8302402924,585.9988302402924,Increasing Batt Cap - High LFP Chemistry,CA
 2036,BC,Nickel,5504954.254338098,5504.954254338098,Increasing Batt Cap - High LFP Chemistry,CA
-2036,CA,Cobalt,8422768.106595464,8422.768106595464,Increasing Batt Cap - High LFP Chemistry,US
-2036,CA,Copper,70002950.88153973,70002.95088153973,Increasing Batt Cap - High LFP Chemistry,US
-2036,CA,Graphite,144213817.0338263,144213.8170338263,Increasing Batt Cap - High LFP Chemistry,US
-2036,CA,Lithium,14730679.920692587,14730.679920692588,Increasing Batt Cap - High LFP Chemistry,US
-2036,CA,Manganese,5270463.156485037,5270.463156485037,Increasing Batt Cap - High LFP Chemistry,US
-2036,CA,Nickel,49324931.715927854,49324.93171592785,Increasing Batt Cap - High LFP Chemistry,US
+2036,CA,Cobalt,8285115.949479509,8285.115949479508,Increasing Batt Cap - High LFP Chemistry,US
+2036,CA,Copper,69015974.13259089,69015.97413259088,Increasing Batt Cap - High LFP Chemistry,US
+2036,CA,Graphite,142141866.92718112,142141.86692718114,Increasing Batt Cap - High LFP Chemistry,US
+2036,CA,Lithium,14516460.53194243,14516.460531942432,Increasing Batt Cap - High LFP Chemistry,US
+2036,CA,Manganese,5185746.351154932,5185.746351154932,Increasing Batt Cap - High LFP Chemistry,US
+2036,CA,Nickel,48528597.24822248,48528.597248222475,Increasing Batt Cap - High LFP Chemistry,US
 2036,CO,Cobalt,1357653.5656063631,1357.6535656063631,Increasing Batt Cap - High LFP Chemistry,US
 2036,CO,Copper,11293520.728120767,11293.520728120766,Increasing Batt Cap - High LFP Chemistry,US
 2036,CO,Graphite,23263476.577007275,23263.476577007274,Increasing Batt Cap - High LFP Chemistry,US
@@ -33575,12 +33575,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2037,BC,Lithium,1606752.13452865,1606.75213452865,Increasing Batt Cap - High LFP Chemistry,CA
 2037,BC,Manganese,613012.7592423505,613.0127592423505,Increasing Batt Cap - High LFP Chemistry,CA
 2037,BC,Nickel,5751699.224216474,5751.699224216474,Increasing Batt Cap - High LFP Chemistry,CA
-2037,CA,Cobalt,8483776.50953276,8483.776509532761,Increasing Batt Cap - High LFP Chemistry,US
-2037,CA,Copper,73411186.93928888,73411.18693928889,Increasing Batt Cap - High LFP Chemistry,US
-2037,CA,Graphite,150796659.4714592,150796.65947145922,Increasing Batt Cap - High LFP Chemistry,US
-2037,CA,Lithium,15356257.38523427,15356.25738523427,Increasing Batt Cap - High LFP Chemistry,US
-2037,CA,Manganese,5402752.873557502,5402.752873557502,Increasing Batt Cap - High LFP Chemistry,US
-2037,CA,Nickel,50507958.236478366,50507.958236478364,Increasing Batt Cap - High LFP Chemistry,US
+2037,CA,Cobalt,8365848.384444295,8365.848384444296,Increasing Batt Cap - High LFP Chemistry,US
+2037,CA,Copper,72524199.96032968,72524.19996032969,Increasing Batt Cap - High LFP Chemistry,US
+2037,CA,Graphite,148942478.6348692,148942.47863486919,Increasing Batt Cap - High LFP Chemistry,US
+2037,CA,Lithium,15165320.409625717,15165.320409625716,Increasing Batt Cap - High LFP Chemistry,US
+2037,CA,Manganese,5328825.061718576,5328.825061718576,Increasing Batt Cap - High LFP Chemistry,US
+2037,CA,Nickel,49813880.71872564,49813.88071872564,Increasing Batt Cap - High LFP Chemistry,US
 2037,CO,Cobalt,1379012.2961230036,1379.0122961230036,Increasing Batt Cap - High LFP Chemistry,US
 2037,CO,Copper,11941615.06218886,11941.61506218886,Increasing Batt Cap - High LFP Chemistry,US
 2037,CO,Graphite,24527583.331822775,24527.583331822774,Increasing Batt Cap - High LFP Chemistry,US
@@ -33965,12 +33965,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2038,BC,Lithium,1689043.1959644605,1689.0431959644604,Increasing Batt Cap - High LFP Chemistry,CA
 2038,BC,Manganese,630774.0292237153,630.7740292237153,Increasing Batt Cap - High LFP Chemistry,CA
 2038,BC,Nickel,5909030.876340314,5909.030876340314,Increasing Batt Cap - High LFP Chemistry,CA
-2038,CA,Cobalt,8554843.70163882,8554.84370163882,Increasing Batt Cap - High LFP Chemistry,US
-2038,CA,Copper,77355981.94787145,77355.98194787145,Increasing Batt Cap - High LFP Chemistry,US
-2038,CA,Graphite,158451546.7685288,158451.5467685288,Increasing Batt Cap - High LFP Chemistry,US
-2038,CA,Lithium,16084123.463234618,16084.123463234619,Increasing Batt Cap - High LFP Chemistry,US
-2038,CA,Manganese,5565914.373351889,5565.914373351889,Increasing Batt Cap - High LFP Chemistry,US
-2038,CA,Nickel,51960305.83453789,51960.305834537896,Increasing Batt Cap - High LFP Chemistry,US
+2038,CA,Cobalt,8358322.829683343,8358.322829683342,Increasing Batt Cap - High LFP Chemistry,US
+2038,CA,Copper,75798937.82011542,75798.93782011542,Increasing Batt Cap - High LFP Chemistry,US
+2038,CA,Graphite,155210135.3950896,155210.1353950896,Increasing Batt Cap - High LFP Chemistry,US
+2038,CA,Lithium,15751732.010794278,15751.732010794278,Increasing Batt Cap - High LFP Chemistry,US
+2038,CA,Manganese,5439919.205866121,5439.919205866121,Increasing Batt Cap - High LFP Chemistry,US
+2038,CA,Nickel,50779231.31615609,50779.23131615609,Increasing Batt Cap - High LFP Chemistry,US
 2038,CO,Cobalt,1381875.2280512708,1381.8752280512708,Increasing Batt Cap - High LFP Chemistry,US
 2038,CO,Copper,12525936.17009491,12525.936170094908,Increasing Batt Cap - High LFP Chemistry,US
 2038,CO,Graphite,25650185.125294786,25650.185125294785,Increasing Batt Cap - High LFP Chemistry,US
@@ -34355,12 +34355,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2039,BC,Lithium,1761524.6191113011,1761.524619111301,Increasing Batt Cap - High LFP Chemistry,CA
 2039,BC,Manganese,642993.2333445663,642.9932333445663,Increasing Batt Cap - High LFP Chemistry,CA
 2039,BC,Nickel,6021244.397227266,6021.244397227266,Increasing Batt Cap - High LFP Chemistry,CA
-2039,CA,Cobalt,8416752.769381166,8416.752769381166,Increasing Batt Cap - High LFP Chemistry,US
-2039,CA,Copper,80201571.14903195,80201.57114903195,Increasing Batt Cap - High LFP Chemistry,US
-2039,CA,Graphite,163778300.12170786,163778.30012170787,Increasing Batt Cap - High LFP Chemistry,US
-2039,CA,Lithium,16563991.994292002,16563.991994292002,Increasing Batt Cap - High LFP Chemistry,US
-2039,CA,Manganese,5620231.308122919,5620.231308122919,Increasing Batt Cap - High LFP Chemistry,US
-2039,CA,Nickel,52450126.76814797,52450.126768147966,Increasing Batt Cap - High LFP Chemistry,US
+2039,CA,Cobalt,8194221.623335189,8194.22162333519,Increasing Batt Cap - High LFP Chemistry,US
+2039,CA,Copper,78333243.21637234,78333.24321637234,Increasing Batt Cap - High LFP Chemistry,US
+2039,CA,Graphite,159904508.122487,159904.50812248702,Increasing Batt Cap - High LFP Chemistry,US
+2039,CA,Lithium,16168524.24840382,16168.524248403819,Increasing Batt Cap - High LFP Chemistry,US
+2039,CA,Manganese,5473674.405883968,5473.674405883968,Increasing Batt Cap - High LFP Chemistry,US
+2039,CA,Nickel,51076778.99837894,51076.77899837894,Increasing Batt Cap - High LFP Chemistry,US
 2039,CO,Cobalt,1370461.2930438756,1370.4612930438757,Increasing Batt Cap - High LFP Chemistry,US
 2039,CO,Copper,13088785.25517588,13088.785255175879,Increasing Batt Cap - High LFP Chemistry,US
 2039,CO,Graphite,26721445.619477242,26721.445619477243,Increasing Batt Cap - High LFP Chemistry,US
@@ -34745,12 +34745,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2040,BC,Lithium,1812601.7511957216,1812.6017511957216,Increasing Batt Cap - High LFP Chemistry,CA
 2040,BC,Manganese,643999.8794574098,643.9998794574099,Increasing Batt Cap - High LFP Chemistry,CA
 2040,BC,Nickel,6030402.180238151,6030.402180238151,Increasing Batt Cap - High LFP Chemistry,CA
-2040,CA,Cobalt,8387907.690566256,8387.907690566255,Increasing Batt Cap - High LFP Chemistry,US
-2040,CA,Copper,82411321.32969289,82411.32132969289,Increasing Batt Cap - High LFP Chemistry,US
-2040,CA,Graphite,167659683.68346775,167659.68368346774,Increasing Batt Cap - High LFP Chemistry,US
-2040,CA,Lithium,16920047.44720342,16920.04744720342,Increasing Batt Cap - High LFP Chemistry,US
-2040,CA,Manganese,5602104.777917891,5602.104777917891,Increasing Batt Cap - High LFP Chemistry,US
-2040,CA,Nickel,52277831.879315555,52277.831879315556,Increasing Batt Cap - High LFP Chemistry,US
+2040,CA,Cobalt,8156836.179981279,8156.836179981279,Increasing Batt Cap - High LFP Chemistry,US
+2040,CA,Copper,80404444.45732424,80404.44445732424,Increasing Batt Cap - High LFP Chemistry,US
+2040,CA,Graphite,163517784.87923563,163517.78487923564,Increasing Batt Cap - High LFP Chemistry,US
+2040,CA,Lithium,16498304.973264923,16498.304973264923,Increasing Batt Cap - High LFP Chemistry,US
+2040,CA,Manganese,5449923.273956317,5449.923273956318,Increasing Batt Cap - High LFP Chemistry,US
+2040,CA,Nickel,50851777.34919734,50851.77734919734,Increasing Batt Cap - High LFP Chemistry,US
 2040,CO,Cobalt,1383969.36409575,1383.96936409575,Increasing Batt Cap - High LFP Chemistry,US
 2040,CO,Copper,13618637.894334747,13618.637894334746,Increasing Batt Cap - High LFP Chemistry,US
 2040,CO,Graphite,27701367.78720705,27701.367787207048,Increasing Batt Cap - High LFP Chemistry,US
@@ -35135,12 +35135,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2041,BC,Lithium,1868612.7305900285,1868.6127305900284,Increasing Batt Cap - High LFP Chemistry,CA
 2041,BC,Manganese,663562.7059324919,663.5627059324919,Increasing Batt Cap - High LFP Chemistry,CA
 2041,BC,Nickel,6213439.658756892,6213.439658756893,Increasing Batt Cap - High LFP Chemistry,CA
-2041,CA,Cobalt,8372916.281167273,8372.916281167274,Increasing Batt Cap - High LFP Chemistry,US
-2041,CA,Copper,82365757.44277321,82365.7574427732,Increasing Batt Cap - High LFP Chemistry,US
-2041,CA,Graphite,167544179.27665102,167544.17927665103,Increasing Batt Cap - High LFP Chemistry,US
-2041,CA,Lithium,16906944.075368818,16906.944075368818,Increasing Batt Cap - High LFP Chemistry,US
-2041,CA,Manganese,5592921.212123142,5592.921212123141,Increasing Batt Cap - High LFP Chemistry,US
-2041,CA,Nickel,52189844.57977266,52189.84457977266,Increasing Batt Cap - High LFP Chemistry,US
+2041,CA,Cobalt,8155883.439057975,8155.883439057975,Increasing Batt Cap - High LFP Chemistry,US
+2041,CA,Copper,80480807.669991,80480.807669991,Increasing Batt Cap - High LFP Chemistry,US
+2041,CA,Graphite,163653920.07967818,163653.92007967818,Increasing Batt Cap - High LFP Chemistry,US
+2041,CA,Lithium,16510824.417322874,16510.824417322874,Increasing Batt Cap - High LFP Chemistry,US
+2041,CA,Manganese,5449985.441990192,5449.985441990192,Increasing Batt Cap - High LFP Chemistry,US
+2041,CA,Nickel,50850429.49181625,50850.429491816256,Increasing Batt Cap - High LFP Chemistry,US
 2041,CO,Cobalt,1426070.6455770144,1426.0706455770144,Increasing Batt Cap - High LFP Chemistry,US
 2041,CO,Copper,14011722.58874815,14011.722588748149,Increasing Batt Cap - High LFP Chemistry,US
 2041,CO,Graphite,28505679.23273759,28505.679232737588,Increasing Batt Cap - High LFP Chemistry,US
@@ -35525,12 +35525,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2042,BC,Lithium,1927849.6314208359,1927.8496314208357,Increasing Batt Cap - High LFP Chemistry,CA
 2042,BC,Manganese,684282.9926008754,684.2829926008754,Increasing Batt Cap - High LFP Chemistry,CA
 2042,BC,Nickel,6407320.553728085,6407.320553728085,Increasing Batt Cap - High LFP Chemistry,CA
-2042,CA,Cobalt,8493683.056114823,8493.683056114822,Increasing Batt Cap - High LFP Chemistry,US
-2042,CA,Copper,83473420.48464955,83473.42048464956,Increasing Batt Cap - High LFP Chemistry,US
-2042,CA,Graphite,169815320.96324497,169815.32096324497,Increasing Batt Cap - High LFP Chemistry,US
-2042,CA,Lithium,17137267.160958353,17137.267160958352,Increasing Batt Cap - High LFP Chemistry,US
-2042,CA,Manganese,5672936.110589854,5672.936110589854,Increasing Batt Cap - High LFP Chemistry,US
-2042,CA,Nickel,52938303.089511104,52938.3030895111,Increasing Batt Cap - High LFP Chemistry,US
+2042,CA,Cobalt,8313273.91394293,8313.27391394293,Increasing Batt Cap - High LFP Chemistry,US
+2042,CA,Copper,81906550.84298725,81906.55084298726,Increasing Batt Cap - High LFP Chemistry,US
+2042,CA,Graphite,166581532.39128897,166581.53239128896,Increasing Batt Cap - High LFP Chemistry,US
+2042,CA,Lithium,16807991.61440534,16807.991614405342,Increasing Batt Cap - High LFP Chemistry,US
+2042,CA,Manganese,5554120.361670261,5554.120361670261,Increasing Batt Cap - High LFP Chemistry,US
+2042,CA,Nickel,51824910.64308765,51824.91064308765,Increasing Batt Cap - High LFP Chemistry,US
 2042,CO,Cobalt,1474657.3478169893,1474.6573478169894,Increasing Batt Cap - High LFP Chemistry,US
 2042,CO,Copper,14456951.676993908,14456.95167699391,Increasing Batt Cap - High LFP Chemistry,US
 2042,CO,Graphite,29418669.765774768,29418.669765774768,Increasing Batt Cap - High LFP Chemistry,US
@@ -35915,12 +35915,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2043,BC,Lithium,1991430.742129009,1991.4307421290089,Increasing Batt Cap - High LFP Chemistry,CA
 2043,BC,Manganese,706567.7938517877,706.5677938517877,Increasing Batt Cap - High LFP Chemistry,CA
 2043,BC,Nickel,6615860.7993277665,6615.8607993277665,Increasing Batt Cap - High LFP Chemistry,CA
-2043,CA,Cobalt,8635000.845681677,8635.000845681676,Increasing Batt Cap - High LFP Chemistry,US
-2043,CA,Copper,84767623.59539004,84767.62359539003,Increasing Batt Cap - High LFP Chemistry,US
-2043,CA,Graphite,172469411.47886047,172469.41147886048,Increasing Batt Cap - High LFP Chemistry,US
-2043,CA,Lithium,17406455.71090392,17406.45571090392,Increasing Batt Cap - High LFP Chemistry,US
-2043,CA,Manganese,5766551.325768604,5766.551325768604,Increasing Batt Cap - High LFP Chemistry,US
-2043,CA,Nickel,53814023.075611606,53814.02307561161,Increasing Batt Cap - High LFP Chemistry,US
+2043,CA,Cobalt,8500512.662184585,8500.512662184585,Increasing Batt Cap - High LFP Chemistry,US
+2043,CA,Copper,83599581.61399685,83599.58161399685,Increasing Batt Cap - High LFP Chemistry,US
+2043,CA,Graphite,170058744.56020924,170058.74456020925,Increasing Batt Cap - High LFP Chemistry,US
+2043,CA,Lithium,17160993.26042714,17160.993260427138,Increasing Batt Cap - High LFP Chemistry,US
+2043,CA,Manganese,5677978.6844341755,5677.978684434175,Increasing Batt Cap - High LFP Chemistry,US
+2043,CA,Nickel,52984031.17034438,52984.03117034438,Increasing Batt Cap - High LFP Chemistry,US
 2043,CO,Cobalt,1522585.5828135354,1522.5855828135354,Increasing Batt Cap - High LFP Chemistry,US
 2043,CO,Copper,14897980.554954201,14897.980554954202,Increasing Batt Cap - High LFP Chemistry,US
 2043,CO,Graphite,30322606.500644233,30322.606500644233,Increasing Batt Cap - High LFP Chemistry,US
@@ -36305,12 +36305,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2044,BC,Lithium,2060253.7536736575,2060.2537536736577,Increasing Batt Cap - High LFP Chemistry,CA
 2044,BC,Manganese,730782.2659138285,730.7822659138285,Increasing Batt Cap - High LFP Chemistry,CA
 2044,BC,Nickel,6842500.048286938,6842.500048286938,Increasing Batt Cap - High LFP Chemistry,CA
-2044,CA,Cobalt,8811576.634048808,8811.576634048808,Increasing Batt Cap - High LFP Chemistry,US
-2044,CA,Copper,86362206.755951,86362.206755951,Increasing Batt Cap - High LFP Chemistry,US
-2044,CA,Graphite,175744923.1975969,175744.92319759692,Increasing Batt Cap - High LFP Chemistry,US
-2044,CA,Lithium,17739012.11997235,17739.012119972347,Increasing Batt Cap - High LFP Chemistry,US
-2044,CA,Manganese,5883339.5491114035,5883.339549111403,Increasing Batt Cap - High LFP Chemistry,US
-2044,CA,Nickel,54907024.654797904,54907.024654797904,Increasing Batt Cap - High LFP Chemistry,US
+2044,CA,Cobalt,8717362.148660019,8717.362148660019,Increasing Batt Cap - High LFP Chemistry,US
+2044,CA,Copper,85543945.46839456,85543.94546839457,Increasing Batt Cap - High LFP Chemistry,US
+2044,CA,Graphite,174056152.20464644,174056.15220464644,Increasing Batt Cap - High LFP Chemistry,US
+2044,CA,Lithium,17567055.611581855,17567.055611581854,Increasing Batt Cap - High LFP Chemistry,US
+2044,CA,Manganese,5821290.783146555,5821.2907831465545,Increasing Batt Cap - High LFP Chemistry,US
+2044,CA,Nickel,54325581.30268883,54325.58130268883,Increasing Batt Cap - High LFP Chemistry,US
 2044,CO,Cobalt,1574854.3692754433,1574.8543692754433,Increasing Batt Cap - High LFP Chemistry,US
 2044,CO,Copper,15375859.867032107,15375.859867032106,Increasing Batt Cap - High LFP Chemistry,US
 2044,CO,Graphite,31302812.107551992,31302.812107551992,Increasing Batt Cap - High LFP Chemistry,US
@@ -36695,12 +36695,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2045,BC,Lithium,2130834.6593652875,2130.8346593652877,Increasing Batt Cap - High LFP Chemistry,CA
 2045,BC,Manganese,755624.633568358,755.624633568358,Increasing Batt Cap - High LFP Chemistry,CA
 2045,BC,Nickel,7075020.365794187,7075.0203657941875,Increasing Batt Cap - High LFP Chemistry,CA
-2045,CA,Cobalt,9027177.870492276,9027.177870492276,Increasing Batt Cap - High LFP Chemistry,US
-2045,CA,Copper,88278623.46437411,88278.6234643741,Increasing Batt Cap - High LFP Chemistry,US
-2045,CA,Graphite,179688990.74193767,179688.99074193765,Increasing Batt Cap - High LFP Chemistry,US
-2045,CA,Lithium,18139914.4896659,18139.914489665898,Increasing Batt Cap - High LFP Chemistry,US
-2045,CA,Manganese,6025690.181659516,6025.690181659516,Increasing Batt Cap - High LFP Chemistry,US
-2045,CA,Nickel,56239955.28284303,56239.95528284303,Increasing Batt Cap - High LFP Chemistry,US
+2045,CA,Cobalt,8959784.119196929,8959.78411919693,Increasing Batt Cap - High LFP Chemistry,US
+2045,CA,Copper,87693302.66704,87693.30266704,Increasing Batt Cap - High LFP Chemistry,US
+2045,CA,Graphite,178480974.67281577,178480.97467281576,Increasing Batt Cap - High LFP Chemistry,US
+2045,CA,Lithium,18016910.111811865,18016.910111811863,Increasing Batt Cap - High LFP Chemistry,US
+2045,CA,Manganese,5981305.2966350755,5981.305296635075,Increasing Batt Cap - High LFP Chemistry,US
+2045,CA,Nickel,55824035.70845202,55824.03570845202,Increasing Batt Cap - High LFP Chemistry,US
 2045,CO,Cobalt,1628116.921379294,1628.1169213792941,Increasing Batt Cap - High LFP Chemistry,US
 2045,CO,Copper,15859536.911183104,15859.536911183104,Increasing Batt Cap - High LFP Chemistry,US
 2045,CO,Graphite,32295701.98683347,32295.701986833472,Increasing Batt Cap - High LFP Chemistry,US
@@ -37085,12 +37085,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2046,BC,Lithium,2221918.738461217,2221.918738461217,Increasing Batt Cap - High LFP Chemistry,CA
 2046,BC,Manganese,787890.7390921523,787.8907390921523,Increasing Batt Cap - High LFP Chemistry,CA
 2046,BC,Nickel,7377117.655006774,7377.117655006774,Increasing Batt Cap - High LFP Chemistry,CA
-2046,CA,Cobalt,9350239.27355089,9350.239273550891,Increasing Batt Cap - High LFP Chemistry,US
-2046,CA,Copper,91123890.094812,91123.890094812,Increasing Batt Cap - High LFP Chemistry,US
-2046,CA,Graphite,185551196.97321907,185551.19697321908,Increasing Batt Cap - High LFP Chemistry,US
-2046,CA,Lithium,18736198.975681853,18736.19897568185,Increasing Batt Cap - High LFP Chemistry,US
-2046,CA,Manganese,6238776.790676606,6238.776790676606,Increasing Batt Cap - High LFP Chemistry,US
-2046,CA,Nickel,58235836.44895413,58235.83644895413,Increasing Batt Cap - High LFP Chemistry,US
+2046,CA,Cobalt,9295141.452745836,9295.141452745836,Increasing Batt Cap - High LFP Chemistry,US
+2046,CA,Copper,90645360.56076586,90645.36056076587,Increasing Batt Cap - High LFP Chemistry,US
+2046,CA,Graphite,184563582.3705772,184563.58237057718,Increasing Batt Cap - High LFP Chemistry,US
+2046,CA,Lithium,18635636.638091568,18635.636638091568,Increasing Batt Cap - High LFP Chemistry,US
+2046,CA,Manganese,6202489.888782508,6202.4898887825075,Increasing Batt Cap - High LFP Chemistry,US
+2046,CA,Nickel,57895801.034117505,57895.8010341175,Increasing Batt Cap - High LFP Chemistry,US
 2046,CO,Cobalt,1686441.587150024,1686.441587150024,Increasing Batt Cap - High LFP Chemistry,US
 2046,CO,Copper,16386495.24379905,16386.49524379905,Increasing Batt Cap - High LFP Chemistry,US
 2046,CO,Graphite,33378091.47416178,33378.09147416178,Increasing Batt Cap - High LFP Chemistry,US
@@ -37475,12 +37475,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2047,BC,Lithium,2294007.844383241,2294.0078443832413,Increasing Batt Cap - High LFP Chemistry,CA
 2047,BC,Manganese,813341.1522289963,813.3411522289963,Increasing Batt Cap - High LFP Chemistry,CA
 2047,BC,Nickel,7615363.468437499,7615.363468437499,Increasing Batt Cap - High LFP Chemistry,CA
-2047,CA,Cobalt,9615468.561164983,9615.468561164982,Increasing Batt Cap - High LFP Chemistry,US
-2047,CA,Copper,93473944.27089106,93473.94427089105,Increasing Batt Cap - High LFP Chemistry,US
-2047,CA,Graphite,190389565.6482179,190389.5656482179,Increasing Batt Cap - High LFP Chemistry,US
-2047,CA,Lithium,19228120.735429104,19228.120735429104,Increasing Batt Cap - High LFP Chemistry,US
-2047,CA,Manganese,6413833.280681143,6413.833280681142,Increasing Batt Cap - High LFP Chemistry,US
-2047,CA,Nickel,59875185.82087815,59875.18582087815,Increasing Batt Cap - High LFP Chemistry,US
+2047,CA,Cobalt,9561833.297701452,9561.833297701452,Increasing Batt Cap - High LFP Chemistry,US
+2047,CA,Copper,93008117.17902732,93008.11717902732,Increasing Batt Cap - High LFP Chemistry,US
+2047,CA,Graphite,189428167.01866865,189428.16701866864,Increasing Batt Cap - High LFP Chemistry,US
+2047,CA,Lithium,19130227.798968922,19130.22779896892,Increasing Batt Cap - High LFP Chemistry,US
+2047,CA,Manganese,6378509.605172241,6378.509605172241,Increasing Batt Cap - High LFP Chemistry,US
+2047,CA,Nickel,59544176.557803616,59544.176557803614,Increasing Batt Cap - High LFP Chemistry,US
 2047,CO,Cobalt,1742453.326447454,1742.453326447454,Increasing Batt Cap - High LFP Chemistry,US
 2047,CO,Copper,16894699.470010508,16894.699470010506,Increasing Batt Cap - High LFP Chemistry,US
 2047,CO,Graphite,34421436.92560311,34421.436925603106,Increasing Batt Cap - High LFP Chemistry,US
@@ -37865,12 +37865,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2048,BC,Lithium,2362670.5792527734,2362.670579252773,Increasing Batt Cap - High LFP Chemistry,CA
 2048,BC,Manganese,837567.8192288496,837.5678192288497,Increasing Batt Cap - High LFP Chemistry,CA
 2048,BC,Nickel,7842147.335408716,7842.147335408717,Increasing Batt Cap - High LFP Chemistry,CA
-2048,CA,Cobalt,9875418.444773909,9875.418444773908,Increasing Batt Cap - High LFP Chemistry,US
-2048,CA,Copper,95819876.07567555,95819.87607567555,Increasing Batt Cap - High LFP Chemistry,US
-2048,CA,Graphite,195208842.17564657,195208.84217564657,Increasing Batt Cap - High LFP Chemistry,US
-2048,CA,Lithium,19717436.654365785,19717.436654365785,Increasing Batt Cap - High LFP Chemistry,US
-2048,CA,Manganese,6585752.821565551,6585.752821565551,Increasing Batt Cap - High LFP Chemistry,US
-2048,CA,Nickel,61484187.86223466,61484.18786223466,Increasing Batt Cap - High LFP Chemistry,US
+2048,CA,Cobalt,9815175.210885808,9815.175210885807,Increasing Batt Cap - High LFP Chemistry,US
+2048,CA,Copper,95296658.16577113,95296.65816577112,Increasing Batt Cap - High LFP Chemistry,US
+2048,CA,Graphite,194128997.33552536,194128.99733552538,Increasing Batt Cap - High LFP Chemistry,US
+2048,CA,Lithium,19607483.11472906,19607.48311472906,Increasing Batt Cap - High LFP Chemistry,US
+2048,CA,Manganese,6546077.199445842,6546.077199445842,Increasing Batt Cap - High LFP Chemistry,US
+2048,CA,Nickel,61112397.60398253,61112.39760398253,Increasing Batt Cap - High LFP Chemistry,US
 2048,CO,Cobalt,1796426.8898364117,1796.4268898364116,Increasing Batt Cap - High LFP Chemistry,US
 2048,CO,Copper,17392740.124335628,17392.74012433563,Increasing Batt Cap - High LFP Chemistry,US
 2048,CO,Graphite,35441894.30457514,35441.89430457514,Increasing Batt Cap - High LFP Chemistry,US
@@ -38255,12 +38255,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2049,BC,Lithium,2426733.9595238506,2426.7339595238504,Increasing Batt Cap - High LFP Chemistry,CA
 2049,BC,Manganese,860167.621313991,860.167621313991,Increasing Batt Cap - High LFP Chemistry,CA
 2049,BC,Nickel,8053700.457910535,8053.700457910535,Increasing Batt Cap - High LFP Chemistry,CA
-2049,CA,Cobalt,10112960.66538228,10112.96066538228,Increasing Batt Cap - High LFP Chemistry,US
-2049,CA,Copper,97951937.6971037,97951.9376971037,Increasing Batt Cap - High LFP Chemistry,US
-2049,CA,Graphite,199591606.5210525,199591.6065210525,Increasing Batt Cap - High LFP Chemistry,US
-2049,CA,Lithium,20162610.807832416,20162.610807832418,Increasing Batt Cap - High LFP Chemistry,US
-2049,CA,Manganese,6742757.976097898,6742.757976097898,Increasing Batt Cap - High LFP Chemistry,US
-2049,CA,Nickel,62953870.17412614,62953.87017412614,Increasing Batt Cap - High LFP Chemistry,US
+2049,CA,Cobalt,10041314.815965228,10041.314815965228,Increasing Batt Cap - High LFP Chemistry,US
+2049,CA,Copper,97329687.04477407,97329.68704477407,Increasing Batt Cap - High LFP Chemistry,US
+2049,CA,Graphite,198307372.6608183,198307.3726608183,Increasing Batt Cap - High LFP Chemistry,US
+2049,CA,Lithium,20031845.67065008,20031.84567065008,Increasing Batt Cap - High LFP Chemistry,US
+2049,CA,Manganese,6695572.6996036675,6695.572699603667,Increasing Batt Cap - High LFP Chemistry,US
+2049,CA,Nickel,62511708.836855695,62511.708836855694,Increasing Batt Cap - High LFP Chemistry,US
 2049,CO,Cobalt,1849702.4504765712,1849.7024504765711,Increasing Batt Cap - High LFP Chemistry,US
 2049,CO,Copper,17881478.60014629,17881.47860014629,Increasing Batt Cap - High LFP Chemistry,US
 2049,CO,Graphite,36443975.12709724,36443.97512709724,Increasing Batt Cap - High LFP Chemistry,US
@@ -38645,12 +38645,12 @@ Year,State_Province,Mineral,Demanded Minerals (kg),Demand Minerals (Tonne),Scena
 2050,BC,Lithium,2480578.8280947716,2480.578828094772,Increasing Batt Cap - High LFP Chemistry,CA
 2050,BC,Manganese,879114.884020607,879.114884020607,Increasing Batt Cap - High LFP Chemistry,CA
 2050,BC,Nickel,8231041.592151299,8231.0415921513,Increasing Batt Cap - High LFP Chemistry,CA
-2050,CA,Cobalt,10313455.134681046,10313.455134681046,Increasing Batt Cap - High LFP Chemistry,US
-2050,CA,Copper,99806518.0156685,99806.5180156685,Increasing Batt Cap - High LFP Chemistry,US
-2050,CA,Graphite,203390458.78815597,203390.458788156,Increasing Batt Cap - High LFP Chemistry,US
-2050,CA,Lithium,20547626.726132326,20547.626726132326,Increasing Batt Cap - High LFP Chemistry,US
-2050,CA,Manganese,6875724.643509678,6875.724643509678,Increasing Batt Cap - High LFP Chemistry,US
-2050,CA,Nickel,64197283.902651645,64197.283902651645,Increasing Batt Cap - High LFP Chemistry,US
+2050,CA,Cobalt,10228366.799380196,10228.366799380196,Increasing Batt Cap - High LFP Chemistry,US
+2050,CA,Copper,99067518.16323613,99067.51816323612,Increasing Batt Cap - High LFP Chemistry,US
+2050,CA,Graphite,201865271.74391803,201865.27174391804,Increasing Batt Cap - High LFP Chemistry,US
+2050,CA,Lithium,20392326.901665684,20392.326901665685,Increasing Batt Cap - High LFP Chemistry,US
+2050,CA,Manganese,6819686.273383959,6819.686273383959,Increasing Batt Cap - High LFP Chemistry,US
+2050,CA,Nickel,63672162.45557749,63672.16245557749,Increasing Batt Cap - High LFP Chemistry,US
 2050,CO,Cobalt,1896008.9364274205,1896.0089364274204,Increasing Batt Cap - High LFP Chemistry,US
 2050,CO,Copper,18317863.371399343,18317.863371399344,Increasing Batt Cap - High LFP Chemistry,US
 2050,CO,Graphite,37335932.54477249,37335.93254477249,Increasing Batt Cap - High LFP Chemistry,US

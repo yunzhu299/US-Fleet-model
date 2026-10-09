@@ -37,19 +37,19 @@ Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2042,Preprocessing,0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2042,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2043,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2043,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2044,Preprocessing,0.001058275884063798,1.058275884063798
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2044,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2044,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2045,Preprocessing,0.07918268796118826,79.18268796118825
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2045,Preprocessing,0.06519016215701669,65.19016215701669
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2045,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2046,Preprocessing,0.23912159515877499,239.121595158775
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2046,Preprocessing,0.21502317627260192,215.02317627260192
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2046,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2047,Preprocessing,0.4842386458908912,484.23864589089123
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2047,Preprocessing,0.45136019580449976,451.36019580449977
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2047,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2048,Preprocessing,0.8168456481250211,816.8456481250212
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2048,Preprocessing,0.7754561237210993,775.4561237210993
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2048,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2049,Preprocessing,1.2323914962402311,1232.3914962402312
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2049,Preprocessing,1.1819017305893529,1181.9017305893528
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2049,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2050,Preprocessing,1.7245028890040401,1724.50288900404
+Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2050,Preprocessing,1.6633547758196172,1663.3547758196173
 Baseline,Increasing Batt Cap,Benchmark Chemistry,California,2050,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2025,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2025,Materials recovery,0.0,0.0
@@ -67,42 +67,42 @@ Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2031,Preprocessin
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2031,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2032,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2032,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2033,Preprocessing,0.00777126240952767,7.77126240952767
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2033,Preprocessing,0.005075965988386946,5.075965988386946
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2033,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2034,Preprocessing,0.11109191437488632,111.09191437488631
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2034,Preprocessing,0.104276250902389,104.276250902389
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2034,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.34545686138093507,345.45686138093504
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.332454903611621,332.454903611621
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2035,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.7342256900159813,734.2256900159813
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.7122287324259805,712.2287324259805
 Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2036,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,1.306967502377581,1306.967502377581
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Materials recovery,0.05274829280859977,52.74829280859977
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,2.163841407287823,2163.841407287823
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.38962867816584174,389.62867816584173
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,3.296315003340202,3296.315003340202
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,1.0021087546652208,1002.1087546652208
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,4.740131333390081,4740.131333390081
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,1.925931565162099,1925.9315651620989
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,6.528269398157533,6528.269398157533
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,3.194076110376551,3194.076110376551
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,8.697617692075307,8697.617692075306
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,4.843430884741325,4843.430884741325
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,11.288586103251074,11288.586103251075
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,6.914405776364092,6914.405776364091
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,14.337840324852971,14337.84032485297
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,9.44366647841299,9443.66647841299
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,17.879538508665235,17879.538508665235
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,12.46537114267225,12465.37114267225
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,21.94808369088873,21948.08369088873
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,16.013922805342744,16013.922805342745
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,26.560960663332224,26560.960663332226
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,20.106806258233235,20106.806258233235
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,31.725530373492717,31725.53037349272
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,24.751382448840726,24751.382448840726
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,37.41916874383941,37419.16874383941
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,29.92502729963441,29925.02729963441
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,43.607534886526594,43607.53488652659
-Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,35.5933999227686,35593.3999227686
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,1.2723197659492163,1272.3197659492162
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Materials recovery,0.04009751397023548,40.097513970235475
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,2.0931137412165497,2093.11374121655
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.34089796968456904,340.89796968456903
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,3.1835790639638613,3183.5790639638612
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.9113697728788805,911.3697728788806
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,4.583433966335991,4583.4339663359915
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,1.7912311556980103,1791.2311556980103
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,6.33071897258584,6330.718972585841
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,3.0185226423948595,3018.5226423948593
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,8.466367328916506,8466.367328916507
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,4.634177479172526,4634.177479172526
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,11.032115546614788,11032.115546614788
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,6.6799321773178075,6679.932177317807
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,14.06341394753686,14063.413947536861
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,9.191237058686879,9191.237058686878
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,17.592107983084336,17592.107983084337
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,12.199937574681355,12199.937574681355
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,21.650494542954096,21650.494542954097
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,15.738330614998114,15738.330614998114
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,26.254542542845094,26254.542542845094
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,19.822385095336113,19822.385095336114
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,31.410547322363765,31410.547322363764
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,24.458396355301783,24458.396355301782
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,37.09501996633755,37095.01996633755
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,29.622875479722573,29622.875479722574
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,43.27264696072812,43272.64696072812
+Baseline,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,35.28050895456014,35280.508954560144
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2025,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2025,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -123,38 +123,38 @@ Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2033,Preprocessin
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2033,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2034,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2034,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2035,Preprocessing,0.07053070376669167,70.53070376669167
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2035,Preprocessing,0.06431553807179223,64.31553807179223
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2035,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.3291540969040773,329.15409690407733
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.3139053326723358,313.90533267233576
 Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2036,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.8151179839311578,815.1179839311577
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Materials recovery,0.0014703674740802963,1.4703674740802963
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,1.645392685261847,1645.392685261847
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.3472515492517693,347.25154925176935
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,2.8188882237753865,2818.8882237753865
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,1.0362535682123086,1036.2535682123087
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,4.381071334672667,4381.071334672667
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,2.1139431595565896,2113.9431595565898
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,6.375564670670885,6375.564670670885
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,3.6239429760018065,3623.9429760018065
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,8.84949221701929,8849.49221701929
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,5.613377002797212,5613.377002797212
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,11.855914793778412,11855.914793778413
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,8.135306060003334,8135.306060003334
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,15.445294362420906,15445.294362420906
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,11.240192109092828,11240.192109092828
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,19.664805260009466,19664.805260009467
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,14.975209487128392,14975.209487128392
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,24.560362572165168,24560.36257216517
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,19.386273279731093,19386.273279731093
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,30.15924463135625,30159.244631356247
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,24.500661819369167,24500.66181936917
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,36.47749910901188,36477.49910901188
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,30.3344227774718,30334.422777471802
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,43.49484642986717,43494.84642986717
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,36.86727657877408,36867.27657877408
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,51.17814752072331,51178.14752072331
-Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,44.066084150077224,44066.08415007722
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.787169029304639,787.1690293046389
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Materials recovery,0.0,0.0
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,1.5812950471518532,1581.2950471518532
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.309632498294214,309.63249829421403
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,2.712705767881547,2712.7057678815468
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,0.9565496994709082,956.5496994709082
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,4.230850650041941,4230.850650041942
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,1.9902010620783022,1990.2010620783021
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,6.184412756090246,6184.412756090246
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,3.459269648573607,3459.2696485736074
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,8.62456759159346,8624.567591593459
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,5.414930964523819,5414.930964523819
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,11.605701185265888,11605.701185265887
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,7.911571038643246,7911.5710386432465
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,15.177058850205702,15177.058850205702
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,10.998435184030061,10998.43518403006
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,19.383501091004103,19383.501091004102
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,14.72038390527546,14720.38390527546
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,24.268831954469192,24268.83195446919
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,19.12122124918755,19121.22124918755
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,29.858806913379176,29858.806913379176
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,24.226702688544535,24226.702688544534
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,36.16841586864322,36168.41586864322
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,30.051818124255583,30051.818124255584
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,43.17651643964538,43176.516439645384
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,36.57542517570474,36575.42517570474
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,50.84900090784707,50849.00090784707
+Baseline,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,43.763416124353434,43763.41612435343
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2025,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2025,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -193,20 +193,20 @@ Baseline,Increasing Batt Cap,High LFP Chemistry,California,2042,Preprocessing,0.
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2042,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2043,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2043,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2044,Preprocessing,0.016874999087411795,16.874999087411794
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2044,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2044,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2045,Preprocessing,0.11552342953628558,115.52342953628558
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2045,Preprocessing,0.08560836033790373,85.60836033790373
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2045,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2046,Preprocessing,0.30131007030993934,301.31007030993936
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2046,Preprocessing,0.26114788748834467,261.1478874883447
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2046,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2047,Preprocessing,0.5782107381945145,578.2107381945145
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2047,Preprocessing,0.5290729505979193,529.0729505979192
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2047,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2048,Preprocessing,0.9491264656597637,949.1264656597637
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2048,Preprocessing,0.8912016852942163,891.2016852942163
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2048,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2049,Preprocessing,1.4096062529858389,1409.6062529858389
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2049,Preprocessing,1.3421934772969126,1342.1934772969125
 Baseline,Increasing Batt Cap,High LFP Chemistry,California,2049,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2050,Preprocessing,1.953128491151958,1953.1284911519579
-Baseline,Increasing Batt Cap,High LFP Chemistry,California,2050,Materials recovery,0.023528718613119098,23.528718613119096
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2050,Preprocessing,1.8745108394908196,1874.5108394908195
+Baseline,Increasing Batt Cap,High LFP Chemistry,California,2050,Materials recovery,0.012323842640906921,12.323842640906921
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2025,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2025,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2026,Preprocessing,0.0,0.0
@@ -223,42 +223,42 @@ Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2031,Preprocessing
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2031,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2032,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2032,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2033,Preprocessing,0.008359344948411715,8.359344948411715
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2033,Preprocessing,0.005664398944088578,5.664398944088578
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2033,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2034,Preprocessing,0.11268785858935586,112.68785858935586
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2034,Preprocessing,0.10587269151954111,105.8726915195411
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2034,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.34873186201388856,348.7318620138886
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.3357295613516981,335.7295613516981
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2035,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.7402362751492781,740.2362751492782
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.7182360749026306,718.2360749026307
 Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2036,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,1.3173311642061647,1317.3311642061647
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2037,Materials recovery,0.05710136950388644,57.10136950388644
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,2.1809629736645726,2180.9629736645725
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.40073965940929424,400.73965940929423
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,3.324243563238862,3324.243563238862
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,1.0240267294305838,1024.0267294305838
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,4.785459876648515,4785.459876648515
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,1.9652495232872367,1965.2495232872366
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,6.60079545102766,6600.79545102766
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,3.260591578113382,3260.5915781133817
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,8.810861676825057,8810.861676825058
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,4.950664284357779,4950.664284357779
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,11.460101271316127,11460.101271316127
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,7.079910359295848,7079.910359295848
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,14.588924265309826,14588.924265309826
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,9.688739833736548,9688.739833736548
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,18.235268581561034,18235.268581561035
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,12.815090630434755,12815.090630434755
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,22.43776683009684,22437.76683009684
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,16.497595359417566,16497.595359417566
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,27.21762531427119,27217.62531427119
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,20.757460324038913,20757.46032403891
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,32.58549857100386,32585.49857100386
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,25.60534006121858,25605.34006121858
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,38.51984398326397,38519.84398326397
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,31.01969195392569,31019.69195392569
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,44.985950252849854,44985.950252849856
-Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,36.96580470395857,36965.804703958565
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,1.28267186219609,1282.67186219609
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2037,Materials recovery,0.04444226774045918,44.44226774045918
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,2.110214313954505,2110.214313954505
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.3519911999458745,351.99119994587454
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,3.211471100604616,3211.4711006046164
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.9332544670429856,933.2544670429857
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,4.628701297174796,4628.701297174796
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,1.830491144060166,1830.491144060166
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,6.40314686480164,6403.14686480164
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,3.0849431921340087,3084.9431921340088
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,8.579462894559107,8579.462894559107
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,4.741265702338476,4741.265702338475
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,11.203417601390486,11203.417601390485
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,6.845226889616854,6845.226889616854
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,14.314202977674604,14314.202977674604
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,9.43601874634797,9436.01874634797
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,17.947437325470165,17947.437325470164
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,12.549259574590533,12549.259574590533
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,22.139635731111028,22139.63573111103
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,16.221464460678394,16221.464460678395
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,26.910469669158097,26910.469669158098
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,20.472304879172466,20472.304879172465
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,32.26950207679752,32269.502076797522
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,25.311343767258894,25311.343767258895
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,38.19429400860831,38194.29400860831
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,30.716142179516684,30716.142179516683
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,44.6491146014589,44649.114601458896
+Baseline,Increasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,36.65096925281427,36650.96925281427
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2025,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2025,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -279,38 +279,38 @@ Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2033,Preprocessing
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2033,Materials recovery,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2034,Preprocessing,0.0,0.0
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2034,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2035,Preprocessing,0.07282292602617638,72.82292602617638
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2035,Preprocessing,0.066606921035718,66.606921035718
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2035,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.335173108608963,335.173108608963
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.3199205863306334,319.9205863306334
 Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2036,Materials recovery,0.0,0.0
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.8270527357844601,827.0527357844602
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2037,Materials recovery,0.007386107622497017,7.386107622497017
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,1.6664884326289855,1666.4884326289855
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.3623282849140222,362.3282849140222
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,2.8544909947886765,2854.4909947886763
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,1.0658373275207131,1065.8373275207132
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,4.439723933802867,4439.723933802867
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,2.1665767469819044,2166.5767469819043
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,6.469882266837243,6469.882266837243
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,3.7122415604632795,3712.2415604632793
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,8.996804691386062,8996.804691386062
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,5.7546704654591,5754.670465459099
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,12.078713922099322,12078.713922099321
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,8.352086176619359,8352.08617661936
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,15.770984492571593,15770.984492571593
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,11.55986322753863,11559.86322753863
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,20.125771481695274,20125.771481695276
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,15.430156697109316,15430.156697109316
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,25.194492525152132,25194.49252515213
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,20.014384221013174,20014.384221013173
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,31.009464499042025,31009.464499042024
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,25.344862675350065,25344.862675350065
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,37.591341225841575,37591.34122584158
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,31.442245882596616,31442.245882596617
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,44.921777133853595,44921.7771338536
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,38.28818827105563,38288.18827105563
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,52.96786748811714,52967.86748811715
-Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,45.84978510576619,45849.78510576619
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.799091679537385,799.0916795373851
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2037,Materials recovery,0.0,0.0
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,1.602369195025463,1602.3691950254631
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.318783995935078,318.783995935078
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,2.748271268401659,2748.271268401659
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,0.9801925497582739,980.1925497582739
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,4.289440983360757,4289.440983360757
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,2.0368687451643717,2036.8687451643716
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,6.278630557550218,6278.630557550218
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,3.5415647998008324,3541.5647998008326
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,8.771728979937782,8771.728979937781
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,5.550169702635396,5550.169702635397
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,11.828283091763936,11828.283091763937
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,8.12223029490855,8122.230294908549
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,15.502448009796773,15502.448009796772
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,11.311901693388386,11311.901693388385
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,19.844058327374263,19844.058327374263
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,15.169018491412878,15169.018491412879
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,24.902409006767968,24902.409006767968
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,19.742875651253584,19742.875651253584
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,30.70827506579808,30708.27506579808
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,25.064248190730694,25064.248190730694
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,37.28122700075374,37281.22700075374
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,31.15270660613335,31152.70660613335
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,44.60202525409469,44602.02525409469
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,37.989011339921305,37989.01133992131
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,52.63674950777475,52636.74950777475
+Baseline,Increasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,45.53924207404836,45539.24207404836
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2025,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2025,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -359,9 +359,9 @@ Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2047,Preprocessing,0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2047,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2048,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2048,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2049,Preprocessing,0.02978497623475478,29.78497623475478
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2049,Preprocessing,0.02348901523395127,23.48901523395127
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2049,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2050,Preprocessing,0.0914491901377812,91.4491901377812
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2050,Preprocessing,0.07833879096667934,78.33879096667934
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,California,2050,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2025,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2025,Materials recovery,0.0,0.0
@@ -383,38 +383,38 @@ Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2033,Preprocessin
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2033,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2034,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2034,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.08574369795135257,85.74369795135257
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.07964988934511907,79.64988934511908
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2035,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.30146166073565717,301.4616607356572
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.2865298944607336,286.5298944607336
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2036,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,0.6678740594235477,667.8740594235477
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,0.6405556852382158,640.5556852382158
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2037,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,1.2712382930605461,1271.238293060546
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.08337071408399824,83.37071408399824
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,2.085604382927808,2085.6043829278083
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.37774328439825994,377.74328439825996
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,3.124956357003097,3124.956357003097
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,0.8971017389205487,897.1017389205487
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,4.3965980806344565,4396.598080634457
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,1.6487499429989083,1648.7499429989084
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,5.910297083678879,5910.297083678879
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,2.642455426490331,2642.455426490331
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,7.677478390212953,7677.478390212953
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,3.889643213471406,3889.643213471406
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,9.707423168483075,9707.423168483076
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,5.399594472188527,5399.594472188527
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,12.007678943141343,12007.678943141344
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,7.179856727293795,7179.856727293795
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,14.58526777466148,14585.267774661479
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,9.237452039260932,9237.452039260932
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,17.43614819365179,17436.14819365179
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,11.56833893869824,11568.33893869824
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,20.550918089665984,20550.918089665985
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,14.163115315159434,14163.115315159434
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,23.911500864788408,23911.50086478841
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,17.00370457072886,17003.70457072886
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,27.4971942492024,27497.194249202403
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,20.06940443558985,20069.404435589848
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,1.2087618945595686,1208.7618945595686
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.0482126897683529,48.212689768352895
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,1.9822421093043152,1982.2421093043151
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.30169938496009924,301.6993849600992
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,2.978883244181392,2978.883244181392
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,0.7783470002841762,778.3470002841763
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,4.210941138733009,4210.941138733009
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,1.4904113752827923,1490.4113752827923
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,5.692136344418864,5692.136344418864
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,2.4516130614156473,2451.6130614156473
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,7.435187761549535,7435.187761549535
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,3.6746709589933184,3674.6709589933184
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,9.448203010716215,9448.203010716215
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,5.167692688606999,5167.692688606999
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,11.736516109918304,11736.516109918304
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,6.936012268256088,6936.012268256089
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,14.305165178094008,14305.165178094008
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,8.984667816878792,8984.667816878793
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,17.148749795777977,17148.749795777978
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,11.308258915009763,11308.258915009763
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,20.256992202438898,20256.992202438898
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,13.896507802117682,13896.507802117681
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,23.61116108290413,23611.161082904127
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,16.730683163029916,16730.683163029917
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,27.18989446053066,27189.89446053066
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,19.78942302110345,19789.42302110345
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2025,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2025,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -437,36 +437,36 @@ Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2034,Preprocessin
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2034,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2035,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2035,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.05122860885037307,51.22860885037307
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.04232495560207125,42.32495560207125
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2036,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.28863908782746794,288.63908782746796
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.26726415777914214,267.2641577791421
 Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2037,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,0.8119380732177083,811.9380732177083
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.03880546583724022,38.80546583724022
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,1.598090210099352,1598.090210099352
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,0.34046408316588367,340.46408316588366
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,2.6654514386452948,2665.4514386452947
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,0.9233317921588263,923.3317921588264
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,4.025165637900708,4025.1656379007077
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,1.7985524718612387,1798.5524718612387
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,5.689993478566965,5689.993478566965
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,2.978886792974496,2978.886792974496
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,7.675722056510025,7675.722056510024
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,4.480121851364554,4480.1218513645545
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,9.996756129149116,9996.756129149117
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,6.316662404450646,6316.662404450646
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,12.6650933070228,12665.0933070228
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,8.500506062771331,8500.50606277133
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,15.69094174956055,15690.941749560548
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,11.041860985756081,11041.86098575608
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,19.072114361129685,19072.114361129687
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,13.938540077772219,13938.540077772219
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,22.800490579207537,22800.490579207537
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,17.18242277629707,17182.42277629707
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,26.85744387245386,26857.44387245386
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,20.754882549990395,20754.882549990394
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,31.222162382244797,31222.1623822448
-Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,24.63510754022833,24635.107540228328
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,0.7552867011568127,755.2867011568127
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.0035290238246704683,3.5290238246704684
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,1.5004225630904637,1500.4225630904637
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,0.2641713662053213,264.1713662053213
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,2.524944214491546,2524.944214491546
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,0.804199498053404,804.199498053404
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,3.84495277898769,3844.95277898769
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,1.6397145429965476,1639.7145429965476
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,5.477174940304743,5477.174940304743
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,2.7874431847606007,2787.4431847606006
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,7.438690741683593,7438.690741683593
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,4.26446546658645,4264.46546658645
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,9.74272774545917,9742.72774545917
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,6.084008950809028,6084.008950809028
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,12.399064062018516,12399.064062018515
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,8.255851747815372,8255.851747815372
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,15.415917273276161,15415.917273276162
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,10.788211439520019,10788.211439520019
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,18.789733464910586,18789.733464910587
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,13.677534111601442,13677.534111601442
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,22.511519122754567,22511.519122754566
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,16.91482624989242,16914.82624989242
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,26.56199165513821,26561.991655138212
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,20.480805262723067,20480.805262723068
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,30.919683136790738,30919.683136790736
+Baseline,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,24.35400322482259,24354.00322482259
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2025,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2025,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -513,11 +513,11 @@ Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2046,Preprocessing,0.
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2046,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2047,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2047,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2048,Preprocessing,0.018033597240582806,18.033597240582807
+Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2048,Preprocessing,0.011443265833685873,11.443265833685873
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2048,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2049,Preprocessing,0.07483647898853314,74.83647898853314
+Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2049,Preprocessing,0.0617280156290296,61.728015629029606
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2049,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2050,Preprocessing,0.16676977823444306,166.76977823444307
+Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2050,Preprocessing,0.14653647417248458,146.5364741724846
 Baseline,Decreasing Batt Cap,High LFP Chemistry,California,2050,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2025,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2025,Materials recovery,0.0,0.0
@@ -539,38 +539,38 @@ Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2033,Preprocessing
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2033,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2034,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2034,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.08698255384772235,86.98255384772236
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.08088845153912931,80.8884515391293
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2035,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.3046926881679791,304.6926881679791
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.28975924829432076,289.75924829432074
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2036,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,0.6742425315032166,674.2425315032166
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,0.6469180368434628,646.9180368434628
 Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2037,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,1.282430158677564,1282.430158677564
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.0881941076213473,88.1941076213473
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,2.1045339958948643,2104.5339958948643
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.3903044252856473,390.3044252856473
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,3.156396841505906,3156.3968415059057
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,0.9221737513436886,922.1737513436887
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,4.447524315976823,4447.524315976823
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,1.693307706261605,1693.307706261605
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,5.990060165779521,5990.060165779521
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,2.715850036511304,2715.8500365113036
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,7.797771420667207,7797.771420667207
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,4.003567771845989,4003.5677718459892
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,9.881806160917003,9881.806160917004
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,5.567608992542786,5567.608992542786
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,12.251366323677658,12251.366323677657
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,7.417175635750439,7417.175635750439
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,14.915212795597776,14915.212795597776
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,9.561028588117559,9561.028588117559
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,17.870573360210553,17870.573360210554
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,11.996395633177336,11996.395633177335
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,21.108977330952285,21108.977330952286
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,14.714806084366069,14714.80608436607
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,24.612420084696307,24612.420084696307
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,17.69825531855709,17698.25531855709
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,28.35963418835073,28359.63418835073
-Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,20.925475902658512,20925.475902658512
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,1.2199435660400142,1219.9435660400143
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.053032009643551196,53.0320096435512
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,2.0011539991521334,2001.1539991521333
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.31424892320267017,314.2489232026702
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,3.010292934855734,3010.292934855734
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,0.8033943393532711,803.3943393532711
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,4.261815854589427,4261.8158545894275
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,1.5349237395339643,1534.9237395339644
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,5.771818768163721,5771.818768163721
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,2.5249331335552583,2524.9331335552583
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,7.555361882226293,7555.361882226293
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,3.7884827280648294,3788.4827280648296
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,9.622418216108736,9622.418216108736
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,5.335545542394272,5335.545542394272
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,11.979972446889919,11979.972446889919
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,7.1731062536224535,7173.106253622454
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,14.634795330461241,14634.79533046124
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,9.307935617640776,9307.935617640776
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,17.582745353952358,17582.74535395236
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,11.735892121578894,11735.892121578894
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,20.814462077144913,20814.46207714491
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,14.447615325218447,14447.615325218447
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,24.311268765279937,24311.268765279936
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,17.424428493800473,17424.428493800475
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,28.051212459614746,28051.212459614744
+Baseline,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,20.64437866858228,20644.37866858228
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2025,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2025,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -593,36 +593,36 @@ Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2034,Preprocessing
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2034,Materials recovery,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2035,Preprocessing,0.0,0.0
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2035,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.053953119333986894,53.9531193339869
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.045048072263241395,45.048072263241394
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2036,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.2956397368313768,295.6397368313768
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.2742589494292341,274.2589494292341
 Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2037,Materials recovery,0.0,0.0
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,0.8254888390045243,825.4888390045243
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.04535558262014738,45.35558262014738
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,1.6220146976061822,1622.0146976061822
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,0.35738792166880506,357.38792166880506
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,2.7058800264012786,2705.8800264012784
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,0.9567597309109014,956.7597309109013
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,4.090997475145431,4090.997475145431
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,1.857383660102054,1857.383660102054
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,5.79310570081627,5793.10570081627
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,3.074998366219892,3074.998366219892
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,7.830971642445978,7830.971642445978
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,4.6283707882966,4628.3707882966
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,10.221465688181283,10221.465688181283
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,6.534371314478906,6534.371314478906
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,12.978801906240525,12978.801906240526
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,8.807214012985147,8807.214012985147
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,16.115488293822427,16115.488293822427
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,11.459406881014049,11459.406881014049
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,19.631161215065283,19631.161215065284
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,14.490586282703905,14490.586282703905
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,23.519165166384475,23519.165166384475
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,17.894096714470095,17894.096714470095
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,27.76129191650592,27761.29191650592
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,21.651729945038547,21651.729945038547
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,32.33640918089112,32336.409180891118
-Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,25.74235368987074,25742.35368987074
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,0.7688274829887511,768.8274829887512
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.010075014006516897,10.075014006516897
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,1.524329431113623,1524.329431113623
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,0.28108344257838885,281.0834425783888
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,2.565341901566373,2565.341901566373
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,0.8376023934781386,837.6023934781385
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,3.9107325987731247,3910.7325987731247
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,1.69849957113189,1698.49957113189
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,5.580205324019536,5580.2053240195355
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,2.883478776825301,2883.4787768253013
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,7.593819287987152,7593.819287987152
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,4.412599221239917,4412.599221239917
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,9.9672661320483,9967.2661320483
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,6.301552545748065,6301.552545748064
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,12.712536835110415,12712.536835110415
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,8.56232972925718,8562.329729257179
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,15.840142471652861,15840.142471652862
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,11.205441846246627,11205.441846246627
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,19.348342228680153,19348.342228680154
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,14.229148083720917,14229.148083720916
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,23.22959379772638,23229.593797726382
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,17.625906133214144,17625.906133214143
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,27.465015646799138,27465.015646799136
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,21.376834462733903,21376.834462733903
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,32.03279366922527,32032.79366922527
+Baseline,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,25.460118965607034,25460.118965607035
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2025,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2025,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -671,9 +671,9 @@ Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2047,Preprocessing,0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2047,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2048,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2048,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2049,Preprocessing,0.002250512720409548,2.250512720409548
+Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2049,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2049,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2050,Preprocessing,0.05947875027985428,59.47875027985428
+Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2050,Preprocessing,0.049569270178778796,49.569270178778794
 Rollback,Increasing Batt Cap,Benchmark Chemistry,California,2050,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2025,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2025,Materials recovery,0.0,0.0
@@ -693,40 +693,40 @@ Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2032,Preprocessin
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2032,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2033,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2033,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2034,Preprocessing,0.031751337724814775,31.751337724814775
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2034,Preprocessing,0.027605268347829115,27.605268347829114
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2034,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.184311063463979,184.311063463979
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.17391324106583173,173.91324106583173
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2035,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.4755383817981523,475.5383817981523
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.4560571016620325,456.0571016620325
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2036,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,0.9259532182083752,925.9532182083751
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,0.8938401872926508,893.8401872926509
 Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2037,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,1.6138897677261137,1613.8897677261136
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.16794302996473853,167.94302996473854
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,2.5061262719693547,2506.1262719693545
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.5401860146549795,540.1860146549795
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,3.6182680321133285,3618.2680321133284
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,1.1323342552459528,1132.3342552459528
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,4.965870100058709,4965.870100058709
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,1.9599428036383328,1959.9428036383329
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,6.574211457795683,6574.211457795684
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,3.0482906418223084,3048.2906418223083
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,8.475922702726864,8475.922702726864
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,4.430008367200489,4430.0083672004885
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,10.708712140001893,10708.712140001893
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,6.142804284922517,6142.804284922517
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,13.311977492701448,13311.977492701448
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,8.226076118069072,8226.076118069072
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,16.332047384540683,16332.047384540683
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,10.726152490355306,10726.152490355305
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,19.793969223703687,19793.969223703687
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,13.668080809965305,13668.080809965306
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,23.710975400665237,23710.975400665237
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,17.065093467373856,17065.093467373856
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,28.074887771373678,28074.887771373677
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,20.909012318529296,20909.012318529298
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,32.86448783386969,32864.48783386969
-Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,25.178618861472305,25178.618861472307
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,1.5457097303434573,1545.7097303434573
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.1318760234978064,131.8760234978064
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,2.3959491986364396,2395.9491986364396
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.4621219722377886,462.1219722377886
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,3.464130543940949,3464.130543940949
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,1.0103097979892983,1010.3097979892983
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,4.770905565912398,4770.905565912398
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,1.7970913004077471,1797.0913004077472
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,6.34560552858793,6345.60552858793
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,2.851797743530279,2851.797743530279
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,8.222179425450369,8222.17942545037
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,4.208378120839718,4208.378120839719
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,10.437194752455634,10437.194752455634
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,5.903399928291982,5903.399928291982
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,13.027810988629687,13027.810988629688
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,7.9740226449130365,7974.022644913037
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,16.038297778114718,16038.297778114718
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,10.464515914845066,10464.515914845066
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,19.492281411654442,19492.281411654443
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,13.398506028831791,13398.50602883179
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,23.402041408213556,23402.041408213558
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,16.788272505837906,16788.272505837907
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,27.758687016757577,27758.687016757576
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,20.624924594828926,20624.924594828924
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,32.540540546818,32540.540546818
+Rollback,Increasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,24.886784605336352,24886.784605336354
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2025,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2025,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -749,36 +749,36 @@ Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2034,Preprocessin
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2034,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2035,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2035,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.12043715472193976,120.43715472193976
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.11129847711576166,111.29847711576166
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2036,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.4298940412077873,429.89404120778727
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.4080777205510685,408.0777205510685
 Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2037,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,1.0126554406037505,1012.6554406037504
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.09826787984296319,98.26787984296318
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,1.8374604286885141,1837.4604286885142
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,0.4385793483747266,438.57934837472664
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,2.92412464632372,2924.12464632372
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,1.0407500464569321,1040.750046456932
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,4.293042837871678,4293.042837871678
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,1.9251747184518893,1925.1747184518892
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,5.9763115911067874,5976.311591106787
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,3.1239499521339993,3123.9499521339994
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,8.01600669650397,8016.00669650397
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,4.679151537978183,4679.151537978183
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,10.461742535915148,10461.742535915148
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,6.640393857836359,6640.393857836359
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,13.36465673496851,13364.65673496851
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,9.058814537336723,9058.814537336722
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,16.782283417415126,16782.283417415125
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,11.991947700230341,11991.947700230341
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,20.74660628083083,20746.606280830827
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,15.471777044093045,15471.777044093045
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,25.275056588446354,25275.056588446354
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,19.515733832155565,19515.733832155565
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,30.360657063513358,30360.657063513358
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,24.11684078766957,24116.84078766957
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,35.98224469350875,35982.24469350875
-Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,29.25393489811196,29253.934898111962
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,0.9546982465318345,954.6982465318346
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.06212700642776606,62.127006427766055
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,1.7374232724846497,1737.4232724846497
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,0.360358512827581,360.358512827581
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,2.7800392237574063,2780.0392237574065
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,0.9184809445473375,918.4809445473376
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,4.108039469979138,4108.039469979138
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,1.7619876712160687,1761.9876712160687
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,5.757587092887178,5757.587092887178
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,2.927041774571109,2927.041774571109
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,7.772074616539009,7772.074616539009
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,4.4570357786699395,4457.03577866994
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,10.19996952823981,10199.96952823981
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,6.400437170817742,6400.437170817742
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,13.090163552538456,13090.163552538455
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,8.806137675563388,8806.137675563388
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,16.498126433416324,16498.126433416324
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,11.729607036888256,11729.607036888256
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,20.454424029953305,20454.424029953305
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,15.201411113872235,15201.411113872235
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,24.975541255999442,24975.54125599944
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,19.23803482036537,19238.03482036537
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,30.053783922192434,30053.783922192433
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,23.83178396700536,23831.78396700536
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,35.66753680061994,35667.53680061994
+Rollback,Increasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,28.96104332587987,28961.04332587987
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2025,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2025,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -827,9 +827,9 @@ Rollback,Increasing Batt Cap,High LFP Chemistry,California,2047,Preprocessing,0.
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2047,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2048,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2048,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,California,2049,Preprocessing,0.028580259445925477,28.580259445925478
+Rollback,Increasing Batt Cap,High LFP Chemistry,California,2049,Preprocessing,0.02112107322969637,21.12107322969637
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2049,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,California,2050,Preprocessing,0.11649504552605096,116.49504552605096
+Rollback,Increasing Batt Cap,High LFP Chemistry,California,2050,Preprocessing,0.10101981599237864,101.01981599237864
 Rollback,Increasing Batt Cap,High LFP Chemistry,California,2050,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2025,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2025,Materials recovery,0.0,0.0
@@ -849,40 +849,40 @@ Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2032,Preprocessing
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2032,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2033,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2033,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2034,Preprocessing,0.03251443813533592,32.51443813533592
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2034,Preprocessing,0.028368656577983056,28.368656577983057
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2034,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.18635324991431862,186.3532499143186
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.17595513867930573,175.95513867930575
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2035,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.47967031053186227,479.67031053186224
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.460185864422474,460.185864422474
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2036,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,0.9334162412737368,933.4162412737368
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,0.9012917345020315,901.2917345020314
 Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2037,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,1.626525655643796,1626.525655643796
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.17311589481705894,173.11589481705894
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,2.527011405441084,2527.011405441084
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.553608125061347,553.6081250613471
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,3.6523978274600504,3652.3978274600504
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,1.1590010275273137,1159.0010275273137
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,5.020687521989133,5020.6875219891335
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,2.007297202503396,2007.2972025033962
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,6.660088049900721,6660.088049900721
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,3.1267042108619836,3126.7042108619835
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,8.606435330119664,8606.435330119664
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,4.5530579715279265,4553.057971527926
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,10.900633364793498,10900.633364793497
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,6.32726248664876,6327.2624866487595
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,13.58547859620534,13585.47859620534
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,8.492114198507599,8492.1141985076
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,16.71142049091769,16711.420490917688
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,11.09806257366695,11098.06257366695
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,20.306974117219607,20306.974117219608
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,14.17362268041587,14173.622680415869
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,24.3883478877697,24388.3478877697
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,17.735002931412957,17735.002931412957
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,28.948768246602985,28948.768246602984
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,21.775429770693247,21775.42977069325
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,33.96712151499784,33967.121514997845
-Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,26.273789519535104,26273.789519535105
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,1.558324332341108,1558.324332341108
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.13703907828607642,137.03907828607643
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,2.416797253273952,2416.797253273952
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.47551847966592015,475.51847966592015
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,3.4981983421786382,3498.198342178638
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,1.0369260490176064,1036.9260490176064
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,4.825625788763055,4825.625788763055
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,1.8443599760490235,1844.3599760490235
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,6.431339237178221,6431.339237178221
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,2.930079904911189,2930.0799049111893
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,8.352492087429331,8352.492087429331
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,4.331239235609298,4331.239235609299
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,10.628847827009709,10628.84782700971
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,6.087601455636678,6087.601455636678
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,13.300961619459365,13300.961619459365
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,8.239721728533333,8239.721728533332
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,16.41721542542778,16417.21542542778
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,10.83598201494875,10835.98201494875
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,20.004690567691913,20004.690567691912
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,13.903463637659884,13903.463637659885
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,24.078624219807175,24078.624219807174
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,17.457403770222143,17457.403770222143
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,28.631509054742466,28631.509054742466
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,21.490295085604433,21490.295085604434
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,33.64175871476497,33641.75871476497
+Rollback,Increasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,25.98055122607393,25980.55122607393
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2025,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2025,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -905,36 +905,36 @@ Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2034,Preprocessing
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2034,Materials recovery,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2035,Preprocessing,0.0,0.0
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2035,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.12331155768881756,123.31155768881756
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.11416998867718858,114.16998867718858
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2036,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.4373267657085519,437.3267657085519
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.4154991985047539,415.4991985047539
 Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2037,Materials recovery,0.0,0.0
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,1.0271298518123957,1027.1298518123956
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.10530956655084377,105.30956655084377
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,1.8629950822455992,1862.9950822455992
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,0.4566812774310472,456.6812774310472
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,2.9670770796571357,2967.0770796571355
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,1.076269755289583,1076.269755289583
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,4.362765640649454,4362.765640649454
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,1.9874647967289012,1987.464796728901
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,6.0857337746628755,6085.7337746628755
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,3.2259394111893225,3225.9394111893225
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,8.182008821463818,8182.008821463817
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,4.837720938437265,4837.7209384372645
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,10.705224038877217,10705.224038877217
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,6.876442636297663,6876.442636297664
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,13.710793224458579,13710.793224458579
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,9.397518302326025,9397.518302326025
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,17.26135948349666,17261.359483496657
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,12.463591041811105,12463.591041811105
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,21.393285296640357,21393.28529664036
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,16.111023335401804,16111.023335401804
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,26.12780475499358,26127.80475499358
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,20.361049274202024,20361.049274202025
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,31.459945060111043,31459.945060111044
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,25.208696059766485,25208.696059766484
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,37.36905268771554,37369.052687715535
-Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,30.63331016781798,30633.31016781798
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,0.9691515202028989,969.1515202028988
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.0691588021451449,69.1588021451449
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,1.7629208564594356,1762.9208564594355
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,0.37843461884868146,378.43461884868145
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,2.8229293682569043,2822.929368256904
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,0.95394961109315,953.94961109315
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,4.177664013330583,4177.664013330583
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,1.824190736613828,1824.190736613828
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,5.86686434679375,5866.86434679375
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,3.0288975505239946,3028.8975505239946
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,7.93787336072925,7937.87336072925
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,4.615413044906495,4615.413044906495
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,10.443177631113343,10443.177631113344
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,6.636223795737589,6636.223795737589
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,13.43594179169098,13435.941791690979
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,9.144494436762225,9144.494436762225
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,16.97673604515018,16976.73604515018
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,12.200795170668423,12200.795170668423
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,21.100492706139423,21100.492706139423
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,15.840058312104665,15840.058312104664
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,25.82748156976161,25827.48156976161
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,20.082553656173847,20082.553656173848
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,31.151991616143988,31151.991616143987
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,24.922570183003227,24922.570183003227
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,37.05290392328236,37052.903923282356
+Rollback,Increasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,30.3389889705886,30338.988970588598
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,California,2025,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,California,2025,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -1007,38 +1007,38 @@ Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2033,Preprocessin
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2033,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2034,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2034,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.008053013034650183,8.053013034650183
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2035,Preprocessing,0.0022051765451763057,2.2051765451763057
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2035,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.12393864819294546,123.93864819294546
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2036,Preprocessing,0.10957467466080463,109.57467466080463
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2036,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,0.36373626587845137,363.7362658784514
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2037,Preprocessing,0.3374050397631358,337.4050397631358
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2037,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,0.8005027269635451,800.5027269635451
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Preprocessing,0.7390013079910726,739.0013079910725
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2038,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,1.3929701231168086,1392.9701231168085
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.07247387660026329,72.4738766002633
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,2.14130630107143,2141.30630107143
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,0.3008165350018848,300.8165350018848
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,3.0446009119101447,3044.6009119101445
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,0.6841176262875992,684.1176262875993
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,4.1093643376088655,4109.364337608866
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,1.22888753243332,1228.8875324333198
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,5.346656739969316,5346.656739969317
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,1.9461864152407702,1946.1864152407702
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,6.771802047598881,6771.8020475988815
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,2.8513382033173365,2851.3382033173366
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,8.400555511184871,8400.555511184872
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,3.9600981473503247,3960.098147350325
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,10.251787827960246,10251.787827960246
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,5.2913369445727,5291.3369445727
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,12.329001585314963,12329.001585314963
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,6.848557182374416,6848.557182374416
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,14.628631023928603,14628.631023928603
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,8.628193101435055,8628.193101435056
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,17.141234935482817,17141.23493548282
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,10.620803493436274,10620.803493436273
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,19.852800378221428,19852.80037822143
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,12.812375416621881,12812.37541662188
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Preprocessing,1.290554976646554,1290.554976646554
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2039,Materials recovery,0.03156014910248132,31.56014910248132
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Preprocessing,1.9961300489878275,1996.1300489878274
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2040,Materials recovery,0.21714170189075474,217.14170189075475
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Preprocessing,2.8598033300641514,2859.8033300641514
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2041,Materials recovery,0.5608214634140788,560.8214634140788
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Preprocessing,3.892046701332757,3892.046701332757
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2042,Materials recovery,1.0730713151296842,1073.0713151296843
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Preprocessing,5.105207653340744,5105.207653340744
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2043,Materials recovery,1.7662387475846717,1766.2387475846717
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Preprocessing,6.513488508008671,6513.4885080086715
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2044,Materials recovery,2.654526082699599,2654.526082699599
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Preprocessing,8.130473319955941,8130.473319955941
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2045,Materials recovery,3.751517375093868,3751.5173750938684
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Preprocessing,9.973073688940552,9973.073688940553
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2046,Materials recovery,5.0741242245254785,5074.124224525479
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Preprocessing,12.04348356222862,12043.48356222862
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2047,Materials recovery,6.624540578260547,6624.540578260547
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Preprocessing,14.337321799308851,14337.321799308851
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2048,Materials recovery,8.398385295787778,8398.385295787777
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Preprocessing,16.844577623392947,16844.577623392946
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2049,Materials recovery,10.385647600318872,10385.647600318873
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Preprocessing,19.55086535415257,19550.86535415257
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,United States,2050,Materials recovery,12.571941811525496,12571.941811525496
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2025,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2025,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -1063,34 +1063,34 @@ Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2035,Preprocessin
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2035,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2036,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2036,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.06386637622506218,63.86637622506218
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2037,Preprocessing,0.05189806886616186,51.898068866161864
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2037,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,0.35385463664637484,353.85463664637484
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Preprocessing,0.3065875442859748,306.5875442859748
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2038,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,0.82887074580441,828.87074580441
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Preprocessing,0.7405451531318594,740.5451531318595
 Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2039,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,1.4901100275545516,1490.1100275545516
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,0.17674576219714166,176.74576219714166
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,2.3378307350094234,2337.8307350094233
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,0.5399729500990131,539.9729500990131
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,3.3810102216645785,3381.0102216645787
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,1.098658917201168,1098.6589172011682
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,4.634802003563211,4634.802003563211
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,1.8679571795467995,1867.9571795467996
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,6.120401142492604,6120.401142492604
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,2.8690627989231925,2869.0627989231925
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,7.859015581982088,7859.0155819820875
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,4.123183718859676,4123.1837188596755
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,9.874130399693637,9874.130399693637
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,5.653805017018227,5653.805017018227
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,12.170555184959825,12170.555184959825
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,7.465736282731414,7465.736282731414
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,14.744328493354264,14744.328493354264
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,9.555016071572851,9555.01607157285
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,17.58492523936959,17584.92523936959
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,11.911119298035178,11911.119298035179
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,20.677386019629587,20677.386019629586
-Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,14.519086558742174,14519.086558742174
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Preprocessing,1.3588733765500514,1358.8733765500513
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2040,Materials recovery,0.1338347038651919,133.8347038651919
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Preprocessing,2.1668297396918934,2166.8297396918933
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2041,Materials recovery,0.4572975474540337,457.29754745403375
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Preprocessing,3.177371670999351,3177.371670999351
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2042,Materials recovery,0.9833459592084909,983.3459592084909
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Preprocessing,4.406940364585713,4406.940364585713
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2043,Materials recovery,1.7284211332418538,1728.4211332418538
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Preprocessing,5.8756014277817465,5875.601427781747
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2044,Materials recovery,2.712588676884887,2712.588676884887
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Preprocessing,7.602381371681555,7602.381371681555
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2045,Materials recovery,3.954875101231695,3954.8751012316948
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Preprocessing,9.608797341624923,9608.797341624922
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2046,Materials recovery,5.476797551622063,5476.797551622063
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Preprocessing,11.898348626850453,11898.348626850453
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2047,Materials recovery,7.281855317294591,7281.85531729459
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Preprocessing,14.466260227017344,14466.260227017343
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2048,Materials recovery,9.365273397908481,9365.27339790848
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Preprocessing,17.301433815750652,17301.433815750654
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2049,Materials recovery,11.715953467088788,11715.953467088788
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Preprocessing,20.388541190654337,20388.541190654338
+Rollback,Decreasing Batt Cap,Benchmark Chemistry,North America,2050,Materials recovery,14.318567322439478,14318.567322439478
 Rollback,Decreasing Batt Cap,High LFP Chemistry,California,2025,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,California,2025,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,California,2026,Preprocessing,0.0,0.0
@@ -1163,38 +1163,38 @@ Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2033,Preprocessing
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2033,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2034,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2034,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.008990339010911121,8.990339010911121
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2035,Preprocessing,0.0031423910295653623,3.1423910295653625
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2035,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.12638663302888045,126.38663302888045
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2036,Preprocessing,0.11202118143262184,112.02118143262184
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2036,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,0.368566776980072,368.566776980072
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2037,Preprocessing,0.3422296830440595,342.22968304405947
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2037,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,0.8089963971403341,808.9963971403341
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Preprocessing,0.7474849145642408,747.4849145642409
 Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2038,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,1.4073209311280968,1407.3209311280968
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.07833101443476241,78.33101443476241
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,2.165100558312977,2165.100558312977
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,0.3161171220666427,316.1171220666427
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,3.0830984326971764,3083.0984326971766
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,0.7141214768978419,714.121476897842
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,4.16969611980345,4169.69611980345
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,1.2807256444511153,1280.7256444511152
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,5.43782261464478,5437.8226146447805
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,2.028858619739445,2028.8586197394452
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,6.904450267875931,6904.450267875931
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,2.9754927534175963,2975.4927534175963
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,8.586921968129596,8586.921968129596
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,4.13797093411826,4137.970934118261
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,10.505977587836332,10505.977587836333
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,5.537033034271998,5537.033034271998
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,12.666431638549854,12666.431638549853
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,7.17749356543252,7177.49356543252
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,15.065650949075572,15065.650949075572
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,9.056719356405235,9056.719356405236
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,17.694540247149057,17694.540247149056
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,11.165615134925723,11165.615134925723
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,20.538831097533347,20538.831097533348
-Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,13.489912465757012,13489.912465757012
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Preprocessing,1.3048881371782013,1304.8881371782013
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2039,Materials recovery,0.03740970306096016,37.40970306096016
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Preprocessing,2.0198936084967203,2019.8936084967204
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2040,Materials recovery,0.23242165482647928,232.42165482647928
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Preprocessing,2.898250626450624,2898.2506264506237
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2041,Materials recovery,0.5907851532273826,590.7851532273826
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Preprocessing,3.952301927094764,3952.301927094764
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2042,Materials recovery,1.1248429343185227,1124.8429343185226
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Preprocessing,5.196263213812201,5196.263213812201
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2043,Materials recovery,1.8488107014829596,1848.8107014829595
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Preprocessing,6.645985536589617,6645.9855365896165
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2044,Materials recovery,2.7785395047073744,2778.5395047073744
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Preprocessing,8.316639067193192,8316.639067193191
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2045,Materials recovery,3.9291995157579493,3929.1995157579495
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Preprocessing,10.226999956100595,10226.999956100595
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2046,Materials recovery,5.319566885112354,5319.566885112354
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Preprocessing,12.380567197329956,12380.567197329956
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2047,Materials recovery,6.953140606788714,6953.140606788714
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Preprocessing,14.773882379605253,14773.882379605253
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2048,Materials recovery,8.82646226951101,8826.46226951101
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Preprocessing,17.397268947354622,17397.268947354623
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2049,Materials recovery,10.929855317707382,10929.855317707383
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Preprocessing,20.236078578974936,20236.078578974935
+Rollback,Decreasing Batt Cap,High LFP Chemistry,United States,2050,Materials recovery,13.248671429774694,13248.671429774693
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2025,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2025,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2026,Preprocessing,0.0,0.0
@@ -1219,31 +1219,31 @@ Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2035,Preprocessing
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2035,Materials recovery,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2036,Preprocessing,0.0,0.0
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2036,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.06714721845479764,67.14721845479764
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2037,Preprocessing,0.05517448898134322,55.174488981343224
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2037,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,0.3621469118882229,362.1469118882229
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Preprocessing,0.3148711449301642,314.87114493016423
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2038,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,0.8450231877141723,845.0231877141723
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Preprocessing,0.7566812403317685,756.6812403317685
 Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2039,Materials recovery,0.0,0.0
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,1.5186433305647988,1518.6433305647988
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,0.18912662329762628,189.12662329762628
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,2.38528667047555,2385.28667047555
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,0.5712764436553773,571.2764436553773
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,3.456189625348825,3456.189625348825
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,1.1576858789756521,1157.685878975652
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,4.748794686639038,4748.794686639038
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,1.9657974207128648,1965.7974207128648
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,6.286379772787092,6286.379772787092
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,3.018888987307919,3018.888987307919
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,8.092174938752047,8092.174938752047
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,4.340190633719874,4340.190633719873
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,10.19200655047626,10192.006550476259
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,5.955528725891085,5955.528725891085
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,12.592395054743625,12592.395054743625
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,7.871423710605452,7871.423710605452
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,15.290647436721452,15290.647436721452
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,10.085182573030279,10085.182573030279
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,18.276831657875352,18276.83165787535
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,12.586873274631175,12586.873274631176
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,21.535890698281506,21535.890698281506
-Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,15.361438795484327,15361.438795484328
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Preprocessing,1.3873770699229098,1387.3770699229099
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2040,Materials recovery,0.14620231003814121,146.2023100381412
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Preprocessing,2.214236031880861,2214.236031880861
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2041,Materials recovery,0.4885677524430922,488.5677524430922
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Preprocessing,3.252474471076102,3252.474471076102
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2042,Materials recovery,1.0423126720853328,1042.312672085333
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Preprocessing,4.5208218066908605,4520.82180669086
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2043,Materials recovery,1.8261664881470911,1826.166488147091
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Preprocessing,6.041426770080395,6041.426770080396
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2044,Materials recovery,2.8622779319836256,2862.2779319836254
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Preprocessing,7.83533634781516,7835.33634781516
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2045,Materials recovery,4.171693990165391,4171.6939901653905
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Preprocessing,9.926404338220507,9926.404338220507
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2046,Materials recovery,5.778268461017738,5778.268461017738
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Preprocessing,12.319834182259019,12319.83418225902
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2047,Materials recovery,7.6872047855032495,7687.20478550325
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Preprocessing,15.012109727731938,15012.109727731937
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2048,Materials recovery,9.894986811423168,9894.986811423169
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Preprocessing,17.992713903564592,17992.713903564592
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2049,Materials recovery,12.39109746770282,12391.09746770282
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Preprocessing,21.246213907110715,21246.213907110716
+Rollback,Decreasing Batt Cap,High LFP Chemistry,North America,2050,Materials recovery,15.160103951695943,15160.103951695943

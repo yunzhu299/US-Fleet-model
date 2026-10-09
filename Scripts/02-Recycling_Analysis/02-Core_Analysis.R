@@ -13,7 +13,7 @@
 
 ## --- 0. Source Data Preparation Script --------------------------------
 
-source(file.path("Scripts", "02-Recycling_Analysis", "01-Recycling_Data_Preparation.R"))
+source(file.path("Scripts", "02-Recycling_Analysis", "01-Data_Preparation.R"))
 
 suppressPackageStartupMessages({
   library(openxlsx)

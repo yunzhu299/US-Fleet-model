@@ -102,8 +102,9 @@ ca_totals_actual <- tribble(
 )
 
 # Car/SUV ratio from existing EV_historical for CA; use 2024 ratio for 2025
+# Exclude existing 2025 rows before appending the 2024-share allocation once.
 ca_seg_ratio <- EV_historical %>%
-  filter(State == "California") %>%
+  filter(State == "California", `Sale Year` <= 2024) %>%
   group_by(`Sale Year`, Propulsion) %>%
   mutate(seg_share = Sales / sum(Sales, na.rm = TRUE)) %>%
   ungroup() %>%
@@ -121,6 +122,17 @@ ca_actual_rows <- ca_totals_actual %>%
          State = "California") %>%
   filter(!is.na(`Global Segment`)) %>%
   select(State, `Sale Year`, Propulsion, `Global Segment`, Sales)
+
+# Each actual total must be allocated once across Car/SUV, including 2025.
+ca_actual_check <- ca_actual_rows %>%
+  group_by(`Sale Year`, Propulsion) %>%
+  summarise(Allocated = sum(Sales), .groups = "drop") %>%
+  right_join(ca_totals_actual, by = c("Sale Year", "Propulsion"))
+stopifnot(!anyDuplicated(ca_actual_rows[c("Sale Year", "Propulsion", "Global Segment")]),
+          all(is.finite(ca_actual_rows$Sales)),
+          all(ca_actual_rows$Sales >= 0),
+          all(is.finite(ca_actual_check$Allocated)),
+          all(abs(ca_actual_check$Allocated - ca_actual_check$total) < 1e-6))
 
 # National totals from original data (sum all states)
 nat_totals <- EV_historical %>%

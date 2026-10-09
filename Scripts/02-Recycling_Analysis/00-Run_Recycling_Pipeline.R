@@ -81,7 +81,7 @@ for (scenario in scenarios) {
   run_env$DISABLE_PARITY_OVERRIDE <- TRUE
 
   source(
-    file.path("Scripts", "02-Recycling_Analysis", "02-Recycling_Analysis.R"),
+    file.path("Scripts", "02-Recycling_Analysis", "02-Core_Analysis.R"),
     local = run_env
   )
 
@@ -110,7 +110,7 @@ for (scenario in scenarios) {
   write_parity("recycling_tonnes_by_state", "recycling_tonnes_by_state.csv", parity_dir, run_env)
 
   source(
-    file.path("Scripts", "02-Recycling_Analysis", "03-Recycling_R_Plots_and_Exports.R"),
+    file.path("Scripts", "02-Recycling_Analysis", "03-Plots_and_Derived_Exports.R"),
     local = run_env
   )
 
@@ -122,11 +122,11 @@ for (scenario in scenarios) {
   write_parity("state_master_all_years", "state_master_all_years.csv", parity_dir, run_env)
 
   source(
-    file.path("Scripts", "02-Recycling_Analysis", "11-Export_National_Mfg_Scrap.R"),
+    file.path("Scripts", "02-Recycling_Analysis", "04-Export_National_Mfg_Scrap.R"),
     local = run_env
   )
   source(
-    file.path("Scripts", "02-Recycling_Analysis", "22-Export_Geographic_Boundary_Inputs.R"),
+    file.path("Scripts", "02-Recycling_Analysis", "05-Export_Geographic_Boundary_Inputs.R"),
     local = run_env
   )
 }

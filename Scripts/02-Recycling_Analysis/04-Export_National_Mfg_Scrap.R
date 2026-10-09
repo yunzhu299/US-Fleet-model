@@ -9,7 +9,7 @@ if (!FLEET_SCENARIO %in% c("ACCII", "Repeal")) {
 
 if (!exists("NA_manu", envir = environment(), inherits = TRUE) ||
     !is.data.frame(get("NA_manu", envir = environment(), inherits = TRUE))) {
-  source(file.path("Scripts", "02-Recycling_Analysis", "02-Recycling_Analysis.R"))
+  source(file.path("Scripts", "02-Recycling_Analysis", "02-Core_Analysis.R"))
 }
 
 out_dir <- file.path(

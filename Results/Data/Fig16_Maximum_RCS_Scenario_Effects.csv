@@ -1,271 +1,271 @@
 Geography,Scope,Mineral,Scenario effect,Year,Reference maximum RCS (%),Change (percentage points),Resulting maximum RCS (%)
-California,California-origin / US network,Nickel,ΔPolicy,2030,1.8626287964136357,1.7770111619557245,3.63963995836936
-California,California-origin / US network,Nickel,ΔPolicy,2035,5.606346712108963,3.2687372456027424,8.875083957711706
-California,California-origin / US network,Nickel,ΔPolicy,2040,19.306833429782294,5.628723330974406,24.9355567607567
-California,California-origin / US network,Nickel,ΔPolicy,2045,33.23114532291244,-3.310092360999498,29.92105296191294
-California,California-origin / US network,Nickel,ΔPolicy,2050,53.72479658198477,-6.700645977902667,47.0241506040821
-California,California-origin / US network,Nickel,ΔCapacity,2030,1.8626287964136357,0.6570724597883959,2.5197012562020316
-California,California-origin / US network,Nickel,ΔCapacity,2035,5.606346712108963,3.6873998235886836,9.293746535697647
-California,California-origin / US network,Nickel,ΔCapacity,2040,19.306833429782294,12.815449685346877,32.12228311512917
-California,California-origin / US network,Nickel,ΔCapacity,2045,33.23114532291244,11.843952959140836,45.075098282053276
-California,California-origin / US network,Nickel,ΔCapacity,2050,53.72479658198477,6.83171746403184,60.55651404601661
-California,California-origin / US network,Nickel,ΔChemistry,2030,1.8626287964136357,0.36202523570631695,2.2246540321199526
-California,California-origin / US network,Nickel,ΔChemistry,2035,5.606346712108963,1.9099671073188684,7.516313819427832
-California,California-origin / US network,Nickel,ΔChemistry,2040,19.306833429782294,8.511284376319427,27.81811780610172
-California,California-origin / US network,Nickel,ΔChemistry,2045,33.23114532291244,9.180409873060277,42.41155519597272
-California,California-origin / US network,Nickel,ΔChemistry,2050,53.72479658198477,7.229380414860451,60.95417699684522
-California,California-origin / US network,Manganese,ΔPolicy,2030,1.8785538405328805,1.7920232739382482,3.6705771144711288
-California,California-origin / US network,Manganese,ΔPolicy,2035,4.413375894332881,2.4145754322629003,6.827951326595781
-California,California-origin / US network,Manganese,ΔPolicy,2040,16.146208706933585,3.7850972071361575,19.931305914069743
-California,California-origin / US network,Manganese,ΔPolicy,2045,33.03285199438063,-3.9252348812926883,29.10761711308794
-California,California-origin / US network,Manganese,ΔPolicy,2050,53.83293751586984,-6.795456713835996,47.03748080203384
-California,California-origin / US network,Manganese,ΔCapacity,2030,1.8785538405328805,0.6632994646053259,2.5418533051382064
-California,California-origin / US network,Manganese,ΔCapacity,2035,4.413375894332881,2.8106049194252627,7.223980813758144
-California,California-origin / US network,Manganese,ΔCapacity,2040,16.146208706933585,10.148745890436928,26.294954597370513
-California,California-origin / US network,Manganese,ΔCapacity,2045,33.03285199438063,11.35147705379547,44.3843290481761
-California,California-origin / US network,Manganese,ΔCapacity,2050,53.83293751586984,6.798958848584412,60.63189636445425
-California,California-origin / US network,Manganese,ΔChemistry,2030,1.8785538405328805,0.36489536321641913,2.2434492037492997
-California,California-origin / US network,Manganese,ΔChemistry,2035,4.413375894332881,1.4707826595814355,5.884158553914316
-California,California-origin / US network,Manganese,ΔChemistry,2040,16.146208706933585,6.874189277223678,23.020397984157263
-California,California-origin / US network,Manganese,ΔChemistry,2045,33.03285199438063,8.887951722612698,41.920803716993326
-California,California-origin / US network,Manganese,ΔChemistry,2050,53.83293751586984,7.196978818088311,61.02991633395815
-California,California-origin / US network,Cobalt,ΔPolicy,2030,2.4294971008107455,2.372139887857817,4.801636988668562
-California,California-origin / US network,Cobalt,ΔPolicy,2035,6.680880957350202,3.9646641046151823,10.645545061965384
-California,California-origin / US network,Cobalt,ΔPolicy,2040,23.153868958005244,6.622796516154491,29.776665474159735
-California,California-origin / US network,Cobalt,ΔPolicy,2045,38.64414850521647,-4.030272853320902,34.61387565189557
-California,California-origin / US network,Cobalt,ΔPolicy,2050,58.527407024615826,-7.505534691631574,51.02187233298425
-California,California-origin / US network,Cobalt,ΔCapacity,2030,2.4294971008107455,0.8685137920178412,3.2980108928285867
-California,California-origin / US network,Cobalt,ΔCapacity,2035,6.680880957350202,4.459143734307086,11.140024691657288
-California,California-origin / US network,Cobalt,ΔCapacity,2040,23.153868958005244,15.52941446009812,38.683283418103365
-California,California-origin / US network,Cobalt,ΔCapacity,2045,38.64414850521647,14.21142870044116,52.85557720565763
-California,California-origin / US network,Cobalt,ΔCapacity,2050,58.527407024615826,7.769275507421085,66.29668253203691
-California,California-origin / US network,Cobalt,ΔChemistry,2030,2.4294971008107455,0.477915402212127,2.9074125030228726
-California,California-origin / US network,Cobalt,ΔChemistry,2035,6.680880957350202,2.3102934016038192,8.991174358954021
-California,California-origin / US network,Cobalt,ΔChemistry,2040,23.153868958005244,10.353209285078943,33.50707824308419
-California,California-origin / US network,Cobalt,ΔChemistry,2045,38.64414850521647,10.954582735941116,49.59873124115759
-California,California-origin / US network,Cobalt,ΔChemistry,2050,58.527407024615826,8.133831155543263,66.66123818015909
-California,California-origin / US network,Lithium,ΔPolicy,2030,1.470154721722684,1.2066912257870832,2.6768459475097672
-California,California-origin / US network,Lithium,ΔPolicy,2035,4.556816540052597,2.3879755147367634,6.94479205478936
-California,California-origin / US network,Lithium,ΔPolicy,2040,15.591901679380236,4.471278242268376,20.06317992164861
-California,California-origin / US network,Lithium,ΔPolicy,2045,28.368266666169266,-2.0481031958968536,26.320163470272412
-California,California-origin / US network,Lithium,ΔPolicy,2050,44.85883948947131,-4.650213437003025,40.20862605246828
-California,California-origin / US network,Lithium,ΔCapacity,2030,1.470154721722684,0.4847219212964653,1.9548766430191493
-California,California-origin / US network,Lithium,ΔCapacity,2035,4.556816540052597,2.706367071235576,7.263183611288173
-California,California-origin / US network,Lithium,ΔCapacity,2040,15.591901679380236,9.25550811611798,24.847409795498216
-California,California-origin / US network,Lithium,ΔCapacity,2045,28.368266666169266,9.167008652789715,37.53527531895898
-California,California-origin / US network,Lithium,ΔCapacity,2050,44.85883948947131,5.373924198278274,50.23276368774958
-California,California-origin / US network,Lithium,ΔChemistry,2030,1.470154721722684,0.02256925034316426,1.4927239720658483
-California,California-origin / US network,Lithium,ΔChemistry,2035,4.556816540052597,0.10113332505840322,4.657949865111
-California,California-origin / US network,Lithium,ΔChemistry,2040,15.591901679380236,0.351519266618574,15.94342094599881
-California,California-origin / US network,Lithium,ΔChemistry,2045,28.368266666169266,0.3683292680931487,28.736595934262414
-California,California-origin / US network,Lithium,ΔChemistry,2050,44.85883948947131,0.23324971124251448,45.09208920071382
-California,California-origin / US network,Graphite,ΔPolicy,2030,1.5743936916398749,1.2553132563219882,2.829706947961863
-California,California-origin / US network,Graphite,ΔPolicy,2035,4.980126569154077,2.5571412120805963,7.537267781234673
-California,California-origin / US network,Graphite,ΔPolicy,2040,17.05582331071645,4.879473690277891,21.93529700099434
-California,California-origin / US network,Graphite,ΔPolicy,2045,31.434078290621354,-2.1284573735658796,29.305620917055474
-California,California-origin / US network,Graphite,ΔPolicy,2050,49.93179981444138,-5.009483816723993,44.92231599771739
-California,California-origin / US network,Graphite,ΔCapacity,2030,1.5743936916398749,0.5106935451289627,2.0850872367688376
-California,California-origin / US network,Graphite,ΔCapacity,2035,4.980126569154077,2.8969588632431105,7.8770854323971875
-California,California-origin / US network,Graphite,ΔCapacity,2040,17.05582331071645,9.925150548558861,26.98097385927531
-California,California-origin / US network,Graphite,ΔCapacity,2045,31.434078290621354,9.967424441443452,41.401502732064806
-California,California-origin / US network,Graphite,ΔCapacity,2050,49.93179981444138,5.903803561110095,55.83560337555148
-California,California-origin / US network,Graphite,ΔChemistry,2030,1.5743936916398749,-0.011795451949297986,1.5625982396905769
-California,California-origin / US network,Graphite,ΔChemistry,2035,4.980126569154077,-0.05616061987490717,4.92396594927917
-California,California-origin / US network,Graphite,ΔChemistry,2040,17.05582331071645,-0.2117720405805521,16.844051270135896
-California,California-origin / US network,Graphite,ΔChemistry,2045,31.434078290621354,-0.24520700288072206,31.188871287740632
-California,California-origin / US network,Graphite,ΔChemistry,2050,49.93179981444138,-0.17845083159188135,49.7533489828495
-California,California-origin / US network,Copper,ΔPolicy,2030,1.621883879793803,1.237512044530333,2.859395924324136
-California,California-origin / US network,Copper,ΔPolicy,2035,5.211437455726815,2.5945753265289575,7.806012782255772
-California,California-origin / US network,Copper,ΔPolicy,2040,17.828818154905857,5.081781594348282,22.91059974925414
-California,California-origin / US network,Copper,ΔPolicy,2045,33.28751061611756,-2.0100844489864578,31.2774261671311
-California,California-origin / US network,Copper,ΔPolicy,2050,52.57708541014131,-4.978863728896798,47.59822168124451
-California,California-origin / US network,Copper,ΔCapacity,2030,1.621883879793803,0.5144342598496867,2.13631813964349
-California,California-origin / US network,Copper,ΔCapacity,2035,5.211437455726815,2.9385391075766876,8.149976563303502
-California,California-origin / US network,Copper,ΔCapacity,2040,17.828818154905857,10.048189414649492,27.87700756955535
-California,California-origin / US network,Copper,ΔCapacity,2045,33.28751061611756,10.279620890092758,43.567131506210316
-California,California-origin / US network,Copper,ΔCapacity,2050,52.57708541014131,6.118959769588599,58.69604517972991
-California,California-origin / US network,Copper,ΔChemistry,2030,1.621883879793803,-0.07297468497063253,1.5489091948231706
-California,California-origin / US network,Copper,ΔChemistry,2035,5.211437455726815,-0.35134014846799655,4.860097307258818
-California,California-origin / US network,Copper,ΔChemistry,2040,17.828818154905857,-1.3170131449519928,16.511805009953864
-California,California-origin / US network,Copper,ΔChemistry,2045,33.28751061611756,-1.5782405351954232,31.709270080922135
-California,California-origin / US network,Copper,ΔChemistry,2050,52.57708541014131,-1.1537436854544083,51.4233417246869
-United States,US-origin / US network,Nickel,ΔPolicy,2030,1.1011864351769571,0.3157928323927912,1.4169792675697483
-United States,US-origin / US network,Nickel,ΔPolicy,2035,3.4513112042782152,0.5110496497208121,3.9623608539990274
-United States,US-origin / US network,Nickel,ΔPolicy,2040,12.52472543029449,0.28012170947447856,12.804847139768968
-United States,US-origin / US network,Nickel,ΔPolicy,2045,26.90313620860595,-2.2342054676135206,24.66893074099243
-United States,US-origin / US network,Nickel,ΔPolicy,2050,47.1029407719777,-2.9628015489440713,44.14013922303363
-United States,US-origin / US network,Nickel,ΔCapacity,2030,1.1011864351769571,0.3828881843176064,1.4840746194945635
-United States,US-origin / US network,Nickel,ΔCapacity,2035,3.4513112042782152,2.1783148148829152,5.6296260191611305
-United States,US-origin / US network,Nickel,ΔCapacity,2040,12.52472543029449,7.698384362145751,20.22310979244024
-United States,US-origin / US network,Nickel,ΔCapacity,2045,26.90313620860595,8.873398984475628,35.77653519308158
-United States,US-origin / US network,Nickel,ΔCapacity,2050,47.1029407719777,5.614998244050213,52.71793901602791
-United States,US-origin / US network,Nickel,ΔChemistry,2030,1.1011864351769571,0.20731495970097047,1.3085013948779276
-United States,US-origin / US network,Nickel,ΔChemistry,2035,3.4513112042782152,1.1196653061662047,4.57097651044442
-United States,US-origin / US network,Nickel,ΔChemistry,2040,12.52472543029449,5.1387633841554905,17.66348881444998
-United States,US-origin / US network,Nickel,ΔChemistry,2045,26.90313620860595,6.967398832659164,33.870535041265114
-United States,US-origin / US network,Nickel,ΔChemistry,2050,47.1029407719777,6.089769526664455,53.192710298642154
-United States,US-origin / US network,Manganese,ΔPolicy,2030,1.0576651734062947,0.303453566622498,1.3611187400287927
-United States,US-origin / US network,Manganese,ΔPolicy,2035,2.837196467702962,0.3714224489610025,3.2086189166639647
-United States,US-origin / US network,Manganese,ΔPolicy,2040,11.133982957306712,0.07286641760600432,11.206849374912716
-United States,US-origin / US network,Manganese,ΔPolicy,2045,27.093344503114057,-2.315712500926839,24.777632002187218
-United States,US-origin / US network,Manganese,ΔPolicy,2050,47.25789062939012,-2.972263780889108,44.28562684850101
-United States,US-origin / US network,Manganese,ΔCapacity,2030,1.0576651734062947,0.36617396736443864,1.4238391407707334
-United States,US-origin / US network,Manganese,ΔCapacity,2035,2.837196467702962,1.7054389037872921,4.542635371490254
-United States,US-origin / US network,Manganese,ΔCapacity,2040,11.133982957306712,6.460958134189992,17.594941091496704
-United States,US-origin / US network,Manganese,ΔCapacity,2045,27.093344503114057,8.728020405545319,35.821364908659376
-United States,US-origin / US network,Manganese,ΔCapacity,2050,47.25789062939012,5.627584930699669,52.88547556008979
-United States,US-origin / US network,Manganese,ΔChemistry,2030,1.0576651734062947,0.19857033569845206,1.2562355091047468
-United States,US-origin / US network,Manganese,ΔChemistry,2035,2.837196467702962,0.8949588065572116,3.732155274260174
-United States,US-origin / US network,Manganese,ΔChemistry,2040,11.133982957306712,4.411146650473961,15.545129607780673
-United States,US-origin / US network,Manganese,ΔChemistry,2045,27.093344503114057,6.893533507417249,33.986878010531306
-United States,US-origin / US network,Manganese,ΔChemistry,2050,47.25789062939012,6.0856561472226005,53.34354677661272
-United States,US-origin / US network,Cobalt,ΔPolicy,2030,1.3513618100125429,0.4048839911550215,1.7562458011675643
-United States,US-origin / US network,Cobalt,ΔPolicy,2035,3.9703461191063436,0.6034088684481942,4.573754987554538
-United States,US-origin / US network,Cobalt,ΔPolicy,2040,14.916905591670815,0.2649227660304927,15.181828357701308
-United States,US-origin / US network,Cobalt,ΔPolicy,2045,31.024442595642054,-2.6770302802263437,28.34741231541571
-United States,US-origin / US network,Cobalt,ΔPolicy,2050,51.10717880441926,-3.3074413776036096,47.79973742681565
-United States,US-origin / US network,Cobalt,ΔCapacity,2030,1.3513618100125429,0.48206337342070915,1.833425183433252
-United States,US-origin / US network,Cobalt,ΔCapacity,2035,3.9703461191063436,2.5746681564404668,6.54501427554681
-United States,US-origin / US network,Cobalt,ΔCapacity,2040,14.916905591670815,9.384751776374149,24.301657368044964
-United States,US-origin / US network,Cobalt,ΔCapacity,2045,31.024442595642054,10.639518827185785,41.66396142282784
-United States,US-origin / US network,Cobalt,ΔCapacity,2050,51.10717880441926,6.356498061363311,57.463676865782574
-United States,US-origin / US network,Cobalt,ΔChemistry,2030,1.3513618100125429,0.25919509351526293,1.6105569035278058
-United States,US-origin / US network,Cobalt,ΔChemistry,2035,3.9703461191063436,1.3144994206867917,5.284845539793135
-United States,US-origin / US network,Cobalt,ΔChemistry,2040,14.916905591670815,6.244269298317622,21.161174889988438
-United States,US-origin / US network,Cobalt,ΔChemistry,2045,31.024442595642054,8.2522490197297,39.27669161537175
-United States,US-origin / US network,Cobalt,ΔChemistry,2050,51.10717880441926,6.804849871508232,57.912028675927495
-United States,US-origin / US network,Lithium,ΔPolicy,2030,1.024504746476817,0.23460798877863298,1.25911273525545
-United States,US-origin / US network,Lithium,ΔPolicy,2035,3.340213907203033,0.48152701306118306,3.821740920264216
-United States,US-origin / US network,Lithium,ΔPolicy,2040,11.099604524407699,0.6898829894836158,11.789487513891315
-United States,US-origin / US network,Lithium,ΔPolicy,2045,23.80372709881015,-1.2700444489512286,22.53368264985892
-United States,US-origin / US network,Lithium,ΔPolicy,2050,39.901179275272796,-1.8680982009235763,38.03308107434922
-United States,US-origin / US network,Lithium,ΔCapacity,2030,1.024504746476817,0.31064743909910275,1.3351521855759199
-United States,US-origin / US network,Lithium,ΔCapacity,2035,3.340213907203033,1.7651785537258098,5.105392460928843
-United States,US-origin / US network,Lithium,ΔCapacity,2040,11.099604524407699,5.657060445864317,16.756664970272016
-United States,US-origin / US network,Lithium,ΔCapacity,2045,23.80372709881015,6.811083203700381,30.61481030251053
-United States,US-origin / US network,Lithium,ΔCapacity,2050,39.901179275272796,4.411174766421908,44.312354041694704
-United States,US-origin / US network,Lithium,ΔChemistry,2030,1.024504746476817,0.014563056502536753,1.0390678029793539
-United States,US-origin / US network,Lithium,ΔChemistry,2035,3.340213907203033,0.06811166869949625,3.4083255759025293
-United States,US-origin / US network,Lithium,ΔChemistry,2040,11.099604524407699,0.22443816138933137,11.32404268579703
-United States,US-origin / US network,Lithium,ΔChemistry,2045,23.80372709881015,0.2874581715884865,24.091185270398636
-United States,US-origin / US network,Lithium,ΔChemistry,2050,39.901179275272796,0.20328610967525407,40.10446538494805
-United States,US-origin / US network,Graphite,ΔPolicy,2030,1.1400325177455704,0.24963333048236658,1.389665848227937
-United States,US-origin / US network,Graphite,ΔPolicy,2035,3.7683204260639647,0.5398401849272512,4.308160610991216
-United States,US-origin / US network,Graphite,ΔPolicy,2040,12.336997335799664,0.8337659450619466,13.17076328086161
-United States,US-origin / US network,Graphite,ΔPolicy,2045,26.552226402251826,-1.307593910050386,25.24463249220144
-United States,US-origin / US network,Graphite,ΔPolicy,2050,44.54201875659744,-1.9929074570877674,42.549111299509676
-United States,US-origin / US network,Graphite,ΔCapacity,2030,1.1400325177455704,0.33658967717884636,1.4766221949244167
-United States,US-origin / US network,Graphite,ΔCapacity,2035,3.7683204260639647,1.9339014915496575,5.702221917613622
-United States,US-origin / US network,Graphite,ΔCapacity,2040,12.336997335799664,6.0987882661519155,18.43578560195158
-United States,US-origin / US network,Graphite,ΔCapacity,2045,26.552226402251826,7.411454975323416,33.96368137757524
-United States,US-origin / US network,Graphite,ΔCapacity,2050,44.54201875659744,4.8547459045648935,49.39676466116234
-United States,US-origin / US network,Graphite,ΔChemistry,2030,1.1400325177455704,-0.007868792583222595,1.1321637251623478
-United States,US-origin / US network,Graphite,ΔChemistry,2035,3.7683204260639647,-0.03896376095138354,3.729356665112581
-United States,US-origin / US network,Graphite,ΔChemistry,2040,12.336997335799664,-0.13789750630790287,12.199099829491761
-United States,US-origin / US network,Graphite,ΔChemistry,2045,26.552226402251826,-0.19318561989698324,26.359040782354842
-United States,US-origin / US network,Graphite,ΔChemistry,2050,44.54201875659744,-0.1548560105640746,44.38716274603337
-United States,US-origin / US network,Copper,ΔPolicy,2030,1.231870113757575,0.25361750798459615,1.485487621742171
-United States,US-origin / US network,Copper,ΔPolicy,2035,4.111280052897484,0.589040793597194,4.700320846494678
-United States,US-origin / US network,Copper,ΔPolicy,2040,13.189109044526589,1.027845841735859,14.216954886262448
-United States,US-origin / US network,Copper,ΔPolicy,2045,28.3491895473567,-1.1745420884432534,27.174647458913448
-United States,US-origin / US network,Copper,ΔPolicy,2050,47.07971986765946,-1.9097993521571155,45.16992051550235
-United States,US-origin / US network,Copper,ΔCapacity,2030,1.231870113757575,0.3514767048553029,1.5833468186128778
-United States,US-origin / US network,Copper,ΔCapacity,2035,4.111280052897484,2.022701325508315,6.1339813784057995
-United States,US-origin / US network,Copper,ΔCapacity,2040,13.189109044526589,6.221451016401179,19.410560060927768
-United States,US-origin / US network,Copper,ΔCapacity,2045,28.3491895473567,7.633980591150525,35.98317013850723
-United States,US-origin / US network,Copper,ΔCapacity,2050,47.07971986765946,5.034763636868192,52.114483504527655
-United States,US-origin / US network,Copper,ΔChemistry,2030,1.231870113757575,-0.05063080529194108,1.1812393084656339
-United States,US-origin / US network,Copper,ΔChemistry,2035,4.111280052897484,-0.2528877194620245,3.85839233343546
-United States,US-origin / US network,Copper,ΔChemistry,2040,13.189109044526589,-0.875412102448502,12.313696942078087
-United States,US-origin / US network,Copper,ΔChemistry,2045,28.3491895473567,-1.2548913746838082,27.094298172672893
-United States,US-origin / US network,Copper,ΔChemistry,2050,47.07971986765946,-1.0084829537543385,46.071236913905125
-North America,North America-origin / NA network,Nickel,ΔPolicy,2030,1.076652122357384,0.3771011572450651,1.453753279602449
-North America,North America-origin / NA network,Nickel,ΔPolicy,2035,3.5348991207763976,0.6533525545983525,4.18825167537475
-North America,North America-origin / NA network,Nickel,ΔPolicy,2040,13.277809250762473,0.4860770366921532,13.763886287454627
-North America,North America-origin / NA network,Nickel,ΔPolicy,2045,29.21600260998039,-2.149703346372636,27.066299263607753
-North America,North America-origin / NA network,Nickel,ΔPolicy,2050,52.21724440087957,-3.253091286076419,48.96415311480315
-North America,North America-origin / NA network,Nickel,ΔCapacity,2030,1.076652122357384,0.3714230967776282,1.4480752191350121
-North America,North America-origin / NA network,Nickel,ΔCapacity,2035,3.5348991207763976,2.207348632571461,5.742247753347859
-North America,North America-origin / NA network,Nickel,ΔCapacity,2040,13.277809250762473,8.019642620010849,21.297451870773322
-North America,North America-origin / NA network,Nickel,ΔCapacity,2045,29.21600260998039,9.488719647178836,38.704722257159226
-North America,North America-origin / NA network,Nickel,ΔCapacity,2050,52.21724440087957,6.176159328104866,58.39340372898444
-North America,North America-origin / NA network,Nickel,ΔChemistry,2030,1.076652122357384,0.20098050718250748,1.2776326295398914
-North America,North America-origin / NA network,Nickel,ΔChemistry,2035,3.5348991207763976,1.1321892647590182,4.667088385535416
-North America,North America-origin / NA network,Nickel,ΔChemistry,2040,13.277809250762473,5.341662630818586,18.61947188158106
-North America,North America-origin / NA network,Nickel,ΔChemistry,2045,29.21600260998039,7.394971449745864,36.61097405972625
-North America,North America-origin / NA network,Nickel,ΔChemistry,2050,52.21724440087957,6.513550296964141,58.73079469784371
-North America,North America-origin / NA network,Manganese,ΔPolicy,2030,1.0265464501395765,0.36052230824946796,1.3870687583890444
-North America,North America-origin / NA network,Manganese,ΔPolicy,2035,2.9349833082488517,0.4861052277720854,3.421088536020937
-North America,North America-origin / NA network,Manganese,ΔPolicy,2040,11.931778858800778,0.25498436248853373,12.186763221289311
-North America,North America-origin / NA network,Manganese,ΔPolicy,2045,29.432699504103127,-2.2331287694504596,27.199570734652667
-North America,North America-origin / NA network,Manganese,ΔPolicy,2050,52.36284729030647,-3.250984598467788,49.11186269183868
-North America,North America-origin / NA network,Manganese,ΔCapacity,2030,1.0265464501395765,0.3524363148912557,1.3789827650308322
-North America,North America-origin / NA network,Manganese,ΔCapacity,2035,2.9349833082488517,1.7433486819737367,4.678331990222588
-North America,North America-origin / NA network,Manganese,ΔCapacity,2040,11.931778858800778,6.812731662807225,18.744510521608003
-North America,North America-origin / NA network,Manganese,ΔCapacity,2045,29.432699504103127,9.35626710399147,38.7889666080946
-North America,North America-origin / NA network,Manganese,ΔCapacity,2050,52.36284729030647,6.189010634187184,58.55185792449365
-North America,North America-origin / NA network,Manganese,ΔChemistry,2030,1.0265464501395765,0.1910336337107288,1.2175800838503053
-North America,North America-origin / NA network,Manganese,ΔChemistry,2035,2.9349833082488517,0.9119305425028812,3.846913850751733
-North America,North America-origin / NA network,Manganese,ΔChemistry,2040,11.931778858800778,4.63237837883351,16.564157237634287
-North America,North America-origin / NA network,Manganese,ΔChemistry,2045,29.432699504103127,7.3233304953005955,36.75602999940372
-North America,North America-origin / NA network,Manganese,ΔChemistry,2050,52.36284729030647,6.497158283478036,58.860005573784505
-North America,North America-origin / NA network,Cobalt,ΔPolicy,2030,1.3159097155278527,0.4782160572581,1.7941257727859528
-North America,North America-origin / NA network,Cobalt,ΔPolicy,2035,4.079076900334414,0.7780129691970137,4.8570898695314275
-North America,North America-origin / NA network,Cobalt,ΔPolicy,2040,15.865112886110397,0.5305300080212891,16.395642894131687
-North America,North America-origin / NA network,Cobalt,ΔPolicy,2045,33.703587877126566,-2.567843159081221,31.135744718045345
-North America,North America-origin / NA network,Cobalt,ΔPolicy,2050,56.671652828026865,-3.604239640538175,53.06741318748869
-North America,North America-origin / NA network,Cobalt,ΔCapacity,2030,1.3159097155278527,0.46562080289971863,1.7815305184275714
-North America,North America-origin / NA network,Cobalt,ΔCapacity,2035,4.079076900334414,2.6155181743224754,6.694595074656889
-North America,North America-origin / NA network,Cobalt,ΔCapacity,2040,15.865112886110397,9.80959619105142,25.67470907716182
-North America,North America-origin / NA network,Cobalt,ΔCapacity,2045,33.703587877126566,11.397194920800295,45.10078279792686
-North America,North America-origin / NA network,Cobalt,ΔCapacity,2050,56.671652828026865,7.0294299908060225,63.70108281883289
-North America,North America-origin / NA network,Cobalt,ΔChemistry,2030,1.3159097155278527,0.2504222544932415,1.5663319700210943
-North America,North America-origin / NA network,Cobalt,ΔChemistry,2035,4.079076900334414,1.333993742124278,5.413070642458692
-North America,North America-origin / NA network,Cobalt,ΔChemistry,2040,15.865112886110397,6.5213958864847985,22.386508772595196
-North America,North America-origin / NA network,Cobalt,ΔChemistry,2045,33.703587877126566,8.793466266380563,42.49705414350713
-North America,North America-origin / NA network,Cobalt,ΔChemistry,2050,56.671652828026865,7.342676054939147,64.01432888296601
-North America,North America-origin / NA network,Lithium,ΔPolicy,2030,0.9856087322663003,0.29566385118117644,1.2812725834474767
-North America,North America-origin / NA network,Lithium,ΔPolicy,2035,3.362622694972137,0.5874378163342606,3.950060511306398
-North America,North America-origin / NA network,Lithium,ΔPolicy,2040,11.602588811762137,0.8409551623809826,12.44354397414312
-North America,North America-origin / NA network,Lithium,ΔPolicy,2045,25.393416483220086,-1.1529659599122866,24.2404505233078
-North America,North America-origin / NA network,Lithium,ΔPolicy,2050,43.4336011016753,-1.82996335438569,41.60363774728961
-North America,North America-origin / NA network,Lithium,ΔCapacity,2030,0.9856087322663003,0.2987206854268669,1.2843294176931672
-North America,North America-origin / NA network,Lithium,ΔCapacity,2035,3.362622694972137,1.7722641358088027,5.13488683078094
-North America,North America-origin / NA network,Lithium,ΔCapacity,2040,11.602588811762137,5.866118940718886,17.468707752481023
-North America,North America-origin / NA network,Lithium,ΔCapacity,2045,25.393416483220086,7.199230086819888,32.592646570039975
-North America,North America-origin / NA network,Lithium,ΔCapacity,2050,43.4336011016753,4.710152495713636,48.14375359738894
-North America,North America-origin / NA network,Lithium,ΔChemistry,2030,0.9856087322663003,0.013904827835039102,0.9995135601013394
-North America,North America-origin / NA network,Lithium,ΔChemistry,2035,3.362622694972137,0.06771358361323276,3.43033627858537
-North America,North America-origin / NA network,Lithium,ΔChemistry,2040,11.602588811762137,0.2280585816255325,11.83064739338767
-North America,North America-origin / NA network,Lithium,ΔChemistry,2045,25.393416483220086,0.29256218091760644,25.685978664137693
-North America,North America-origin / NA network,Lithium,ΔChemistry,2050,43.4336011016753,0.19552536247159935,43.6291264641469
-North America,North America-origin / NA network,Graphite,ΔPolicy,2030,1.0941171518102084,0.31802509763231623,1.4121422494425246
-North America,North America-origin / NA network,Graphite,ΔPolicy,2035,3.783589912058523,0.6530653923289487,4.436655304387472
-North America,North America-origin / NA network,Graphite,ΔPolicy,2040,12.867626088450706,0.9902142336981683,13.857840322148874
-North America,North America-origin / NA network,Graphite,ΔPolicy,2045,28.257086003056763,-1.1790406693150324,27.07804533374173
-North America,North America-origin / NA network,Graphite,ΔPolicy,2050,48.3666470877455,-1.9213450293756082,46.44530205836989
-North America,North America-origin / NA network,Graphite,ΔCapacity,2030,1.0941171518102084,0.3232029949555999,1.4173201467658083
-North America,North America-origin / NA network,Graphite,ΔCapacity,2035,3.783589912058523,1.9381634059654846,5.721753318024008
-North America,North America-origin / NA network,Graphite,ΔCapacity,2040,12.867626088450706,6.318348842823383,19.18597493127409
-North America,North America-origin / NA network,Graphite,ΔCapacity,2045,28.257086003056763,7.819775139567888,36.07686114262465
-North America,North America-origin / NA network,Graphite,ΔCapacity,2050,48.3666470877455,5.160347873219855,53.526994960965354
-North America,North America-origin / NA network,Graphite,ΔChemistry,2030,1.0941171518102084,-0.007502560590752827,1.0866145912194556
-North America,North America-origin / NA network,Graphite,ΔChemistry,2035,3.783589912058523,-0.038695727342749286,3.7448941847157737
-North America,North America-origin / NA network,Graphite,ΔChemistry,2040,12.867626088450706,-0.140254161291141,12.727371927159565
-North America,North America-origin / NA network,Graphite,ΔChemistry,2045,28.257086003056763,-0.1970035662464653,28.060082436810298
-North America,North America-origin / NA network,Graphite,ΔChemistry,2050,48.3666470877455,-0.15101124076488048,48.21563584698062
-North America,North America-origin / NA network,Copper,ΔPolicy,2030,1.1785604861829408,0.3289718674340891,1.50753235361703
-North America,North America-origin / NA network,Copper,ΔPolicy,2035,4.113489316854729,0.7059487926541781,4.819438109508907
-North America,North America-origin / NA network,Copper,ΔPolicy,2040,13.71184277023911,1.1867604512000334,14.898603221439144
-North America,North America-origin / NA network,Copper,ΔPolicy,2045,30.045666302211625,-1.0274152927752667,29.01825100943636
-North America,North America-origin / NA network,Copper,ΔPolicy,2050,50.89507215113726,-1.7645614032054908,49.13051074793177
-North America,North America-origin / NA network,Copper,ΔCapacity,2030,1.1785604861829408,0.33690656816768705,1.515467054350628
-North America,North America-origin / NA network,Copper,ΔCapacity,2035,4.113489316854729,2.022328991406696,6.135818308261425
-North America,North America-origin / NA network,Copper,ΔCapacity,2040,13.71184277023911,6.438238871060351,20.15008164129946
-North America,North America-origin / NA network,Copper,ΔCapacity,2045,30.045666302211625,8.031939560201305,38.07760586241293
-North America,North America-origin / NA network,Copper,ΔCapacity,2050,50.89507215113726,5.3145446836288315,56.209616834766095
-North America,North America-origin / NA network,Copper,ΔChemistry,2030,1.1785604861829408,-0.04815030309273616,1.1304101830902047
-North America,North America-origin / NA network,Copper,ΔChemistry,2035,4.113489316854729,-0.25046465297561005,3.8630246638791186
-North America,North America-origin / NA network,Copper,ΔChemistry,2040,13.71184277023911,-0.8875321951622137,12.824310575076897
-North America,North America-origin / NA network,Copper,ΔChemistry,2045,30.045666302211625,-1.2719941710603422,28.773672131151283
-North America,North America-origin / NA network,Copper,ΔChemistry,2050,50.89507215113726,-0.9690263801841752,49.92604577095309
+California,California-origin / US network,Nickel,ΔPolicy,2030,1.7981141033931305,1.7154988127312771,3.5136129161244076
+California,California-origin / US network,Nickel,ΔPolicy,2035,5.323575564682702,3.0993148701705433,8.422890434853246
+California,California-origin / US network,Nickel,ΔPolicy,2040,16.733548650001204,4.043469729246848,20.77701837924805
+California,California-origin / US network,Nickel,ΔPolicy,2045,32.26210101835374,-3.991534686771491,28.27056633158225
+California,California-origin / US network,Nickel,ΔPolicy,2050,53.62173344619292,-6.866503773444457,46.75522967274846
+California,California-origin / US network,Nickel,ΔCapacity,2030,1.7981141033931305,0.6355859785504454,2.433700081943576
+California,California-origin / US network,Nickel,ΔCapacity,2035,5.323575564682702,3.4949428987388504,8.818518463421553
+California,California-origin / US network,Nickel,ΔCapacity,2040,16.733548650001204,10.773705132869047,27.50725378287025
+California,California-origin / US network,Nickel,ΔCapacity,2045,32.26210101835374,11.073005972127667,43.33510699048141
+California,California-origin / US network,Nickel,ΔCapacity,2050,53.62173344619292,6.740282217919855,60.362015664112775
+California,California-origin / US network,Nickel,ΔChemistry,2030,1.7981141033931305,0.34915463893016074,2.1472687423232912
+California,California-origin / US network,Nickel,ΔChemistry,2035,5.323575564682702,1.806189967153455,7.129765531836157
+California,California-origin / US network,Nickel,ΔChemistry,2040,16.733548650001204,7.18604335338258,23.919592003383784
+California,California-origin / US network,Nickel,ΔChemistry,2045,32.26210101835374,8.678369614643906,40.940470632997645
+California,California-origin / US network,Nickel,ΔChemistry,2050,53.62173344619292,7.173934283351144,60.795667729544064
+California,California-origin / US network,Manganese,ΔPolicy,2030,1.829291154310416,1.7460534585665606,3.5753446128769766
+California,California-origin / US network,Manganese,ΔPolicy,2035,4.19342578615184,2.2878630512863083,6.481288837438148
+California,California-origin / US network,Manganese,ΔPolicy,2040,14.094633597324757,2.487004285676326,16.581637883001083
+California,California-origin / US network,Manganese,ΔPolicy,2045,32.275170466514005,-4.483150874260218,27.792019592253787
+California,California-origin / US network,Manganese,ΔPolicy,2050,53.76340556774149,-6.945500873726942,46.81790469401455
+California,California-origin / US network,Manganese,ΔCapacity,2030,1.829291154310416,0.6472686957467415,2.4765598500571575
+California,California-origin / US network,Manganese,ΔCapacity,2035,4.19342578615184,2.6630184944115367,6.856444280563377
+California,California-origin / US network,Manganese,ΔCapacity,2040,14.094633597324757,8.530885825281858,22.625519422606615
+California,California-origin / US network,Manganese,ΔCapacity,2045,32.275170466514005,10.750204756571847,43.02537522308585
+California,California-origin / US network,Manganese,ΔCapacity,2050,53.76340556774149,6.733723271687424,60.49712883942892
+California,California-origin / US network,Manganese,ΔChemistry,2030,1.829291154310416,0.35506882075583013,2.184359975066246
+California,California-origin / US network,Manganese,ΔChemistry,2035,4.19342578615184,1.3900600083297228,5.583485794481563
+California,California-origin / US network,Manganese,ΔChemistry,2040,14.094633597324757,5.816057614098975,19.91069121142373
+California,California-origin / US network,Manganese,ΔChemistry,2045,32.275170466514005,8.492897894332863,40.76806836084687
+California,California-origin / US network,Manganese,ΔChemistry,2050,53.76340556774149,7.1577468448280825,60.921152412569576
+California,California-origin / US network,Cobalt,ΔPolicy,2030,2.3619416975170973,2.3080406860010587,4.669982383518156
+California,California-origin / US network,Cobalt,ΔPolicy,2035,6.368287811009692,3.78383206453684,10.152119875546532
+California,California-origin / US network,Cobalt,ΔPolicy,2040,19.991496103085904,4.676393264413676,24.66788936749958
+California,California-origin / US network,Cobalt,ΔPolicy,2045,37.457297214386756,-4.862165084613295,32.59513212977346
+California,California-origin / US network,Cobalt,ΔPolicy,2050,58.40674079556501,-7.70058863658673,50.70615215897828
+California,California-origin / US network,Cobalt,ΔCapacity,2030,2.3619416975170973,0.8461603550201273,3.2081020525372246
+California,California-origin / US network,Cobalt,ΔCapacity,2035,6.368287811009692,4.247675386833775,10.615963197843467
+California,California-origin / US network,Cobalt,ΔCapacity,2040,19.991496103085904,13.030451442739182,33.021947545825086
+California,California-origin / US network,Cobalt,ΔCapacity,2045,37.457297214386756,13.268526397339059,50.725823611725815
+California,California-origin / US network,Cobalt,ΔCapacity,2050,58.40674079556501,7.655628439710007,66.06236923527501
+California,California-origin / US network,Cobalt,ΔChemistry,2030,2.3619416975170973,0.4643212690398668,2.826262966556964
+California,California-origin / US network,Cobalt,ΔChemistry,2035,6.368287811009692,2.1944705672932354,8.562758378302927
+California,California-origin / US network,Cobalt,ΔChemistry,2040,19.991496103085904,8.709876948523625,28.70137305160953
+California,California-origin / US network,Cobalt,ΔChemistry,2045,37.457297214386756,10.332760228444876,47.79005744283163
+California,California-origin / US network,Cobalt,ΔChemistry,2050,58.40674079556501,8.063812228564124,66.47055302412913
+California,California-origin / US network,Lithium,ΔPolicy,2030,1.4202270105536157,1.1640332883353481,2.584260298888964
+California,California-origin / US network,Lithium,ΔPolicy,2035,4.336242945962637,2.2600970579391744,6.596340003901811
+California,California-origin / US network,Lithium,ΔPolicy,2040,13.647376074522436,3.2411829940837418,16.888559068606178
+California,California-origin / US network,Lithium,ΔPolicy,2045,27.6381138089266,-2.567769956172288,25.070343852754313
+California,California-origin / US network,Lithium,ΔPolicy,2050,44.78020369163412,-4.77096454950275,40.00923914213137
+California,California-origin / US network,Lithium,ΔCapacity,2030,1.4202270105536157,0.4685051397932476,1.8887321503468633
+California,California-origin / US network,Lithium,ΔCapacity,2035,4.336242945962637,2.558485329885002,6.894728275847639
+California,California-origin / US network,Lithium,ΔCapacity,2040,13.647376074522436,7.73611355627933,21.383489630801765
+California,California-origin / US network,Lithium,ΔCapacity,2045,27.6381138089266,8.595717283203154,36.233831092129755
+California,California-origin / US network,Lithium,ΔCapacity,2050,44.78020369163412,5.303809972599055,50.084013664233176
+California,California-origin / US network,Lithium,ΔChemistry,2030,1.4202270105536157,0.021776800476118074,1.4420038110297337
+California,California-origin / US network,Lithium,ΔChemistry,2035,4.336242945962637,0.09572765551959694,4.4319706014822335
+California,California-origin / US network,Lithium,ΔChemistry,2040,13.647376074522436,0.2973566180136267,13.944732692536062
+California,California-origin / US network,Lithium,ΔChemistry,2045,27.6381138089266,0.34773508104887085,27.985848889975472
+California,California-origin / US network,Lithium,ΔChemistry,2050,44.78020369163412,0.23057237652049167,45.01077606815461
+California,California-origin / US network,Graphite,ΔPolicy,2030,1.5193874597502144,1.2090952667244101,2.7284827264746245
+California,California-origin / US network,Graphite,ΔPolicy,2035,4.738449792502326,2.417182212317984,7.15563200482031
+California,California-origin / US network,Graphite,ΔPolicy,2040,14.960497711418771,3.548720124462637,18.509217835881408
+California,California-origin / US network,Graphite,ΔPolicy,2045,30.64748574419958,-2.689640198798916,27.957845545400666
+California,California-origin / US network,Graphite,ΔPolicy,2050,49.84685782011648,-5.139728684094976,44.70712913602151
+California,California-origin / US network,Graphite,ΔCapacity,2030,1.5193874597502144,0.4928849038907108,2.012272363640925
+California,California-origin / US network,Graphite,ΔCapacity,2035,4.738449792502326,2.735176876947553,7.473626669449879
+California,California-origin / US network,Graphite,ΔCapacity,2040,14.960497711418771,8.290021477336797,23.250519188755568
+California,California-origin / US network,Graphite,ΔCapacity,2045,30.64748574419958,9.35301456040742,40.000500304607
+California,California-origin / US network,Graphite,ΔCapacity,2050,49.84685782011648,5.828307509574692,55.675165329691175
+California,California-origin / US network,Graphite,ΔChemistry,2030,1.5193874597502144,-0.011369920975875303,1.508017538774339
+California,California-origin / US network,Graphite,ΔChemistry,2035,4.738449792502326,-0.053162598085977564,4.6852871944163486
+California,California-origin / US network,Graphite,ΔChemistry,2040,14.960497711418771,-0.18033098616588816,14.780166725252883
+California,California-origin / US network,Graphite,ΔChemistry,2045,30.64748574419958,-0.23328218804047296,30.41420355615911
+California,California-origin / US network,Graphite,ΔChemistry,2050,49.84685782011648,-0.1769698464462337,49.66988797367025
+California,California-origin / US network,Copper,ΔPolicy,2030,1.5650678255033772,1.1911671596024909,2.756234985105868
+California,California-origin / US network,Copper,ΔPolicy,2035,4.961364370716581,2.4509681730257444,7.412332543742325
+California,California-origin / US network,Copper,ΔPolicy,2040,15.680815188175002,3.7085262472719354,19.389341435446937
+California,California-origin / US network,Copper,ΔPolicy,2045,32.48163199382855,-2.5865934421018224,29.895038551726728
+California,California-origin / US network,Copper,ΔPolicy,2050,52.489879004320194,-5.110862558848709,47.379016445471485
+California,California-origin / US network,Copper,ΔCapacity,2030,1.5650678255033772,0.49616912063177443,2.0612369461351516
+California,California-origin / US network,Copper,ΔCapacity,2035,4.961364370716581,2.771870348759162,7.7332347194757425
+California,California-origin / US network,Copper,ΔCapacity,2040,15.680815188175002,8.37903346195658,24.05984865013158
+California,California-origin / US network,Copper,ΔCapacity,2045,32.48163199382855,9.652943493034513,42.13457548686306
+California,California-origin / US network,Copper,ΔCapacity,2050,52.489879004320194,6.041281717030699,58.53116072135089
+California,California-origin / US network,Copper,ΔChemistry,2030,1.5650678255033772,-0.07033288954085104,1.4947349359625262
+California,California-origin / US network,Copper,ΔChemistry,2035,4.961364370716581,-0.3327631009538088,4.628601269762772
+California,California-origin / US network,Copper,ΔChemistry,2040,15.680815188175002,-1.125314173616104,14.555501014558898
+California,California-origin / US network,Copper,ΔChemistry,2045,32.48163199382855,-1.5055669244946408,30.97606506933391
+California,California-origin / US network,Copper,ΔChemistry,2050,52.489879004320194,-1.144667443177994,51.3452115611422
+United States,US-origin / US network,Nickel,ΔPolicy,2030,1.0878417927993849,0.31139640071389896,1.3992381935132838
+United States,US-origin / US network,Nickel,ΔPolicy,2035,3.395734204749353,0.4983837968425986,3.8941180015919516
+United States,US-origin / US network,Nickel,ΔPolicy,2040,12.051574313326933,0.16514750940997835,12.216721822736911
+United States,US-origin / US network,Nickel,ΔPolicy,2045,26.735272113308266,-2.27619268849201,24.459079424816256
+United States,US-origin / US network,Nickel,ΔPolicy,2050,47.07721533772564,-2.9738946196674263,44.103320718058214
+United States,US-origin / US network,Nickel,ΔCapacity,2030,1.0878417927993849,0.3783162864439398,1.4661580792433246
+United States,US-origin / US network,Nickel,ΔCapacity,2035,3.395734204749353,2.1395803862559526,5.535314591005306
+United States,US-origin / US network,Nickel,ΔCapacity,2040,12.051574313326933,7.318688799338011,19.370263112664944
+United States,US-origin / US network,Nickel,ΔCapacity,2045,26.735272113308266,8.739423092850206,35.47469520615847
+United States,US-origin / US network,Nickel,ΔCapacity,2050,47.07721533772564,5.598195576401437,52.67541091412708
+United States,US-origin / US network,Nickel,ΔChemistry,2030,1.0878417927993849,0.20470291792415796,1.2925447107235428
+United States,US-origin / US network,Nickel,ΔChemistry,2035,3.395734204749353,1.0997484393755559,4.495482644124909
+United States,US-origin / US network,Nickel,ΔChemistry,2040,12.051574313326933,4.902207371393272,16.953781684720205
+United States,US-origin / US network,Nickel,ΔChemistry,2045,26.735272113308266,6.883482088491238,33.618754201799504
+United States,US-origin / US network,Nickel,ΔChemistry,2050,47.07721533772564,6.079630277790329,53.15684561551597
+United States,US-origin / US network,Manganese,ΔPolicy,2030,1.047418594813043,0.300098124407719,1.347516719220762
+United States,US-origin / US network,Manganese,ΔPolicy,2035,2.794195652278918,0.3623877382066456,3.156583390485564
+United States,US-origin / US network,Manganese,ΔPolicy,2040,10.759272017682402,-0.022007253076861133,10.737264764605541
+United States,US-origin / US network,Manganese,ΔPolicy,2045,26.96119737280159,-2.3509276638118735,24.610269708989716
+United States,US-origin / US network,Manganese,ΔPolicy,2050,47.23769944968231,-2.9825381686201595,44.25516128106215
+United States,US-origin / US network,Manganese,ΔCapacity,2030,1.047418594813043,0.36273974822674115,1.4101583430397842
+United States,US-origin / US network,Manganese,ΔCapacity,2035,2.794195652278918,1.6758763284414488,4.470071980720367
+United States,US-origin / US network,Manganese,ΔCapacity,2040,10.759272017682402,6.16248084351038,16.921752861192783
+United States,US-origin / US network,Manganese,ΔCapacity,2045,26.96119737280159,8.623366239181653,35.58456361198324
+United States,US-origin / US network,Manganese,ΔCapacity,2050,47.23769944968231,5.615188613386415,52.852888063068725
+United States,US-origin / US network,Manganese,ΔChemistry,2030,1.047418594813043,0.19656724438928586,1.2439858392023289
+United States,US-origin / US network,Manganese,ΔChemistry,2035,2.794195652278918,0.8795834378541763,3.6737790901330944
+United States,US-origin / US network,Manganese,ΔChemistry,2040,10.759272017682402,4.224037913835206,14.983309931517608
+United States,US-origin / US network,Manganese,ΔChemistry,2045,26.96119737280159,6.827467814580356,33.788665187381945
+United States,US-origin / US network,Manganese,ΔChemistry,2050,47.23769944968231,6.078166787680587,53.3158662373629
+United States,US-origin / US network,Cobalt,ΔPolicy,2030,1.3372360525185387,0.4001965751282901,1.7374326276468288
+United States,US-origin / US network,Cobalt,ΔPolicy,2035,3.9080835907672578,0.5898527545636858,4.4979363453309436
+United States,US-origin / US network,Cobalt,ΔPolicy,2040,14.333545118305407,0.12595360046219461,14.459498718767602
+United States,US-origin / US network,Cobalt,ΔPolicy,2045,30.81830976838334,-2.7275843933273656,28.090725375055975
+United States,US-origin / US network,Cobalt,ΔPolicy,2050,51.07736537755726,-3.320725811689364,47.75663956586789
+United States,US-origin / US network,Cobalt,ΔCapacity,2030,1.3372360525185387,0.47724554540999087,1.8144815979285296
+United States,US-origin / US network,Cobalt,ΔCapacity,2035,3.9080835907672578,2.5314658026114287,6.4395493933786865
+United States,US-origin / US network,Cobalt,ΔCapacity,2040,14.333545118305407,8.918203491242172,23.25174860954758
+United States,US-origin / US network,Cobalt,ΔCapacity,2045,30.81830976838334,10.475047507786737,41.29335727617008
+United States,US-origin / US network,Cobalt,ΔCapacity,2050,51.07736537755726,6.3356733485007055,57.41303872605796
+United States,US-origin / US network,Cobalt,ΔChemistry,2030,1.3372360525185387,0.2563892309110989,1.5936252834296376
+United States,US-origin / US network,Cobalt,ΔChemistry,2035,3.9080835907672578,1.2918420776664545,5.199925668433712
+United States,US-origin / US network,Cobalt,ΔChemistry,2040,14.333545118305407,5.948354406343077,20.281899524648484
+United States,US-origin / US network,Cobalt,ΔChemistry,2045,30.81830976838334,8.147510743763345,38.965820512146685
+United States,US-origin / US network,Cobalt,ΔChemistry,2050,51.07736537755726,6.7920153642307355,57.86938074178799
+United States,US-origin / US network,Lithium,ΔPolicy,2030,1.014736024807092,0.23169520174563196,1.246431226552724
+United States,US-origin / US network,Lithium,ΔPolicy,2035,3.29990217751749,0.4716716474624212,3.771573824979911
+United States,US-origin / US network,Lithium,ΔPolicy,2040,10.764609970311785,0.5878975999616838,11.352507570273469
+United States,US-origin / US network,Lithium,ΔPolicy,2045,23.683312043510924,-1.3069036905894897,22.376408352921434
+United States,US-origin / US network,Lithium,ΔPolicy,2050,39.883073355289426,-1.876906734703411,38.006166620586015
+United States,US-origin / US network,Lithium,ΔCapacity,2030,1.014736024807092,0.30742332329124333,1.3221593480983354
+United States,US-origin / US network,Lithium,ΔCapacity,2035,3.29990217751749,1.7377792705273976,5.0376814480448875
+United States,US-origin / US network,Lithium,ΔCapacity,2040,10.764609970311785,5.394595870618854,16.15920584093064
+United States,US-origin / US network,Lithium,ΔCapacity,2045,23.683312043510924,6.717225185139323,30.400537228650247
+United States,US-origin / US network,Lithium,ΔCapacity,2050,39.883073355289426,4.399089539014305,44.28216289430373
+United States,US-origin / US network,Lithium,ΔChemistry,2030,1.014736024807092,0.014418032895291644,1.0291540577023837
+United States,US-origin / US network,Lithium,ΔChemistry,2035,3.29990217751749,0.06718864260358925,3.367090820121079
+United States,US-origin / US network,Lithium,ΔChemistry,2040,10.764609970311785,0.21576082348234316,10.980370793794128
+United States,US-origin / US network,Lithium,ΔChemistry,2045,23.683312043510924,0.28430779467563383,23.967619838186558
+United States,US-origin / US network,Lithium,ΔChemistry,2050,39.883073355289426,0.20288215984546554,40.08595551513489
+United States,US-origin / US network,Graphite,ΔPolicy,2030,1.1293731575312849,0.24650460396111784,1.3758777614924027
+United States,US-origin / US network,Graphite,ΔPolicy,2035,3.7246818833559785,0.5290190280603757,4.253700911416354
+United States,US-origin / US network,Graphite,ΔPolicy,2040,11.979227319197857,0.7217083618247084,12.700935681022566
+United States,US-origin / US network,Graphite,ΔPolicy,2045,26.423365142480804,-1.3480973235774911,25.075267818903313
+United States,US-origin / US network,Graphite,ΔPolicy,2050,44.52262051641162,-2.0025161883419997,42.52010432806962
+United States,US-origin / US network,Graphite,ΔCapacity,2030,1.1293731575312849,0.3330894996652225,1.4624626571965074
+United States,US-origin / US network,Graphite,ΔCapacity,2035,3.7246818833559785,1.9043239002359775,5.629005783591956
+United States,US-origin / US network,Graphite,ΔCapacity,2040,11.979227319197857,5.819070526852677,17.798297846050534
+United States,US-origin / US network,Graphite,ΔCapacity,2045,26.423365142480804,7.311259815875054,33.73462495835586
+United States,US-origin / US network,Graphite,ΔCapacity,2050,44.52262051641162,4.84183416164241,49.36445467805403
+United States,US-origin / US network,Graphite,ΔChemistry,2030,1.1293731575312849,-0.007792152369662464,1.1215810051616224
+United States,US-origin / US network,Graphite,ΔChemistry,2035,3.7246818833559785,-0.03845999264405364,3.686221890711925
+United States,US-origin / US network,Graphite,ΔChemistry,2040,11.979227319197857,-0.1329176383101629,11.846309680887694
+United States,US-origin / US network,Graphite,ΔChemistry,2045,26.423365142480804,-0.1913749829513769,26.231990159529428
+United States,US-origin / US network,Graphite,ΔChemistry,2050,44.52262051641162,-0.1546295321983493,44.36799098421327
+United States,US-origin / US network,Copper,ΔPolicy,2030,1.2210203329621467,0.25051404364484187,1.4715343766069886
+United States,US-origin / US network,Copper,ΔPolicy,2035,4.066962915288638,0.5778543147011943,4.644817229989832
+United States,US-origin / US network,Copper,ΔPolicy,2040,12.82812015932878,0.9092546007126359,13.737374760041416
+United States,US-origin / US network,Copper,ΔPolicy,2045,28.21876887569633,-1.2173734573032284,27.001395418393102
+United States,US-origin / US network,Copper,ΔPolicy,2050,47.06022060832335,-1.9197375261552239,45.140483082168124
+United States,US-origin / US network,Copper,ΔCapacity,2030,1.2210203329621467,0.34794909092458726,1.568969423886734
+United States,US-origin / US network,Copper,ΔCapacity,2035,4.066962915288638,1.9928558946430464,6.059818809931684
+United States,US-origin / US network,Copper,ΔCapacity,2040,12.82812015932878,5.940864438943038,18.768984598271818
+United States,US-origin / US network,Copper,ΔCapacity,2045,28.21876887569633,7.533159141630474,35.751928017326804
+United States,US-origin / US network,Copper,ΔCapacity,2050,47.06022060832335,5.021685869054004,52.08190647737735
+United States,US-origin / US network,Copper,ΔChemistry,2030,1.2210203329621467,-0.05016630094338348,1.1708540320187633
+United States,US-origin / US network,Copper,ΔChemistry,2035,4.066962915288638,-0.24984211873544915,3.817120796553189
+United States,US-origin / US network,Copper,ΔChemistry,2040,12.82812015932878,-0.8456676578398117,11.982452501488968
+United States,US-origin / US network,Copper,ΔChemistry,2045,28.21876887569633,-1.2440368096340002,26.97473206606233
+United States,US-origin / US network,Copper,ΔChemistry,2050,47.06022060832335,-1.0071322429774483,46.0530883653459
+North America,North America-origin / NA network,Nickel,ΔPolicy,2030,1.06519138078969,0.37250117975908115,1.4376925605487711
+North America,North America-origin / NA network,Nickel,ΔPolicy,2035,3.48706440660655,0.6400118191104718,4.127076225717022
+North America,North America-origin / NA network,Nickel,ΔPolicy,2040,12.872276200954294,0.3671453863816918,13.239421587335986
+North America,North America-origin / NA network,Nickel,ΔPolicy,2045,29.073543095796484,-2.1932123995712978,26.880330696225187
+North America,North America-origin / NA network,Nickel,ΔPolicy,2050,52.20054057510842,-3.2654936718732444,48.935046903235175
+North America,North America-origin / NA network,Nickel,ΔCapacity,2030,1.06519138078969,0.3674852056363904,1.4326765864260804
+North America,North America-origin / NA network,Nickel,ΔCapacity,2035,3.48706440660655,2.1738614392196296,5.6609258458261795
+North America,North America-origin / NA network,Nickel,ΔCapacity,2040,12.872276200954294,7.692004505659115,20.56428070661341
+North America,North America-origin / NA network,Nickel,ΔCapacity,2045,29.073543095796484,9.373714860957637,38.44725795675412
+North America,North America-origin / NA network,Nickel,ΔCapacity,2050,52.20054057510842,6.162269411759048,58.36280998686747
+North America,North America-origin / NA network,Nickel,ΔChemistry,2030,1.06519138078969,0.19873537073980474,1.2639267515294947
+North America,North America-origin / NA network,Nickel,ΔChemistry,2035,3.48706440660655,1.1150070442324531,4.602071450839003
+North America,North America-origin / NA network,Nickel,ΔChemistry,2040,12.872276200954294,5.13836564282027,18.010641843774565
+North America,North America-origin / NA network,Nickel,ΔChemistry,2045,29.073543095796484,7.323238267525856,36.39678136332234
+North America,North America-origin / NA network,Nickel,ΔChemistry,2050,52.20054057510842,6.5051086118431485,58.70564918695157
+North America,North America-origin / NA network,Manganese,ΔPolicy,2030,1.0177432539714575,0.357008775860866,1.3747520298323235
+North America,North America-origin / NA network,Manganese,ΔPolicy,2035,2.8980176105620377,0.4764680672958246,3.3744856778578622
+North America,North America-origin / NA network,Manganese,ΔPolicy,2040,11.611437399330594,0.15715325886023024,11.768590658190824
+North America,North America-origin / NA network,Manganese,ΔPolicy,2045,29.32094730805921,-2.269402161438773,27.051545146620438
+North America,North America-origin / NA network,Manganese,ΔPolicy,2050,52.35087732045136,-3.2624663582426265,49.088410962208734
+North America,North America-origin / NA network,Manganese,ΔCapacity,2030,1.0177432539714575,0.3494768976279612,1.3672201515994187
+North America,North America-origin / NA network,Manganese,ΔCapacity,2035,2.8980176105620377,1.7178119197936494,4.615829530355687
+North America,North America-origin / NA network,Manganese,ΔCapacity,2040,11.611437399330594,6.555601412727658,18.16703881205825
+North America,North America-origin / NA network,Manganese,ΔCapacity,2045,29.32094730805921,9.266561469803115,38.587508777862325
+North America,North America-origin / NA network,Manganese,ΔCapacity,2050,52.35087732045136,6.178924615810686,58.52980193626205
+North America,North America-origin / NA network,Manganese,ΔChemistry,2030,1.0177432539714575,0.1893111960524858,1.2070544500239433
+North America,North America-origin / NA network,Manganese,ΔChemistry,2035,2.8980176105620377,0.8986741547572326,3.79669176531927
+North America,North America-origin / NA network,Manganese,ΔChemistry,2040,11.611437399330594,4.471809074760017,16.08324647409061
+North America,North America-origin / NA network,Manganese,ΔChemistry,2045,29.32094730805921,7.2669200877435784,36.58786739580279
+North America,North America-origin / NA network,Manganese,ΔChemistry,2050,52.35087732045136,6.490969548088991,58.84184686854035
+North America,North America-origin / NA network,Cobalt,ΔPolicy,2030,1.3037780511481896,0.4733359932268215,1.777114044375011
+North America,North America-origin / NA network,Cobalt,ΔPolicy,2035,4.025519094929882,0.7637186024945111,4.789237697424393
+North America,North America-origin / NA network,Cobalt,ΔPolicy,2040,15.365150092419746,0.3869033831412967,15.752053475561043
+North America,North America-origin / NA network,Cobalt,ΔPolicy,2045,33.5285310664327,-2.620198776621823,30.908332289810875
+North America,North America-origin / NA network,Cobalt,ΔPolicy,2050,56.651940390139785,-3.6188620082985707,53.033078381841214
+North America,North America-origin / NA network,Cobalt,ΔCapacity,2030,1.3037780511481896,0.4614707768791062,1.7652488280272958
+North America,North America-origin / NA network,Cobalt,ΔCapacity,2035,4.025519094929882,2.5781867555817657,6.6037058505116475
+North America,North America-origin / NA network,Cobalt,ΔCapacity,2040,15.365150092419746,9.407050824757313,24.77220091717706
+North America,North America-origin / NA network,Cobalt,ΔCapacity,2045,33.5285310664327,11.255992427827223,44.78452349425992
+North America,North America-origin / NA network,Cobalt,ΔCapacity,2050,56.651940390139785,7.012199043548378,63.66413943368816
+North America,North America-origin / NA network,Cobalt,ΔChemistry,2030,1.3037780511481896,0.24801100872263349,1.551789059870823
+North America,North America-origin / NA network,Cobalt,ΔChemistry,2035,4.025519094929882,1.3144627347687239,5.339981829698606
+North America,North America-origin / NA network,Cobalt,ΔChemistry,2040,15.365150092419746,6.267101215200302,21.63225130762005
+North America,North America-origin / NA network,Cobalt,ΔChemistry,2045,33.5285310664327,8.703928927979234,42.23245999441193
+North America,North America-origin / NA network,Cobalt,ΔChemistry,2050,56.651940390139785,7.332051659443977,63.98399204958376
+North America,North America-origin / NA network,Lithium,ΔPolicy,2030,0.9772002159713694,0.2924645591185634,1.2696647750899328
+North America,North America-origin / NA network,Lithium,ΔPolicy,2035,3.327803859241403,0.5767294851419358,3.904533344383339
+North America,North America-origin / NA network,Lithium,ΔPolicy,2040,11.31575603412948,0.7341319139585067,12.049887948087987
+North America,North America-origin / NA network,Lithium,ΔPolicy,2045,25.291215009558925,-1.1914646000982358,24.09975040946069
+North America,North America-origin / NA network,Lithium,ΔPolicy,2050,43.42126058028601,-1.8393390832447238,41.581921497041286
+North America,North America-origin / NA network,Lithium,ΔCapacity,2030,0.9772002159713694,0.2959378435193708,1.2731380594907402
+North America,North America-origin / NA network,Lithium,ΔCapacity,2035,3.327803859241403,1.7485108303203618,5.076314689561765
+North America,North America-origin / NA network,Lithium,ΔCapacity,2040,11.31575603412948,5.640217924903913,16.955973959033393
+North America,North America-origin / NA network,Lithium,ΔCapacity,2045,25.291215009558925,7.1188411857434275,32.41005619530235
+North America,North America-origin / NA network,Lithium,ΔCapacity,2050,43.42126058028601,4.699997162039502,48.12125774232551
+North America,North America-origin / NA network,Lithium,ΔChemistry,2030,0.9772002159713694,0.013779705360953853,0.9909799213323233
+North America,North America-origin / NA network,Lithium,ΔChemistry,2035,3.327803859241403,0.06691311937595934,3.3947169786173625
+North America,North America-origin / NA network,Lithium,ΔChemistry,2040,11.31575603412948,0.22061082057056858,11.536366854700049
+North America,North America-origin / NA network,Lithium,ΔChemistry,2045,25.291215009558925,0.2898678072441889,25.581082816803114
+North America,North America-origin / NA network,Lithium,ΔChemistry,2050,43.42126058028601,0.19515374389490603,43.616414324180916
+North America,North America-origin / NA network,Graphite,ΔPolicy,2030,1.0849389157250577,0.31456108560140694,1.3995000013264647
+North America,North America-origin / NA network,Graphite,ΔPolicy,2035,3.7458762272985107,0.641261370084627,4.387137597383138
+North America,North America-origin / NA network,Graphite,ΔPolicy,2040,12.561327010380793,0.872657125852422,13.433984136233216
+North America,North America-origin / NA network,Graphite,ΔPolicy,2045,28.147722579104656,-1.221389627438441,26.926332951666215
+North America,North America-origin / NA network,Graphite,ΔPolicy,2050,48.353390124013856,-1.9315310809321886,46.42185904308167
+North America,North America-origin / NA network,Graphite,ΔCapacity,2030,1.0849389157250577,0.3201809846397581,1.4051199003648158
+North America,North America-origin / NA network,Graphite,ΔCapacity,2035,3.7458762272985107,1.91251107695303,5.658387304251541
+North America,North America-origin / NA network,Graphite,ΔCapacity,2040,12.561327010380793,6.077673320576249,18.639000330957042
+North America,North America-origin / NA network,Graphite,ΔCapacity,2045,28.147722579104656,7.733983623947378,35.88170620305203
+North America,North America-origin / NA network,Graphite,ΔCapacity,2050,48.353390124013856,5.149478830293539,53.502868954307395
+North America,North America-origin / NA network,Graphite,ΔChemistry,2030,1.0849389157250577,-0.0074364039465606435,1.077502511778497
+North America,North America-origin / NA network,Graphite,ΔChemistry,2035,3.7458762272985107,-0.038258616778886534,3.707617610519624
+North America,North America-origin / NA network,Graphite,ΔChemistry,2040,12.561327010380793,-0.1359824157970806,12.425344594583713
+North America,North America-origin / NA network,Graphite,ΔChemistry,2045,28.147722579104656,-0.19545581665104095,27.952266762453615
+North America,North America-origin / NA network,Graphite,ΔChemistry,2050,48.353390124013856,-0.1508017607782861,48.20258836323557
+North America,North America-origin / NA network,Copper,ΔPolicy,2030,1.1692131467872897,0.3254914757889107,1.4947046225762004
+North America,North America-origin / NA network,Copper,ΔPolicy,2035,4.075155513138654,0.6936591425990626,4.7688146557377165
+North America,North America-origin / NA network,Copper,ΔPolicy,2040,13.402851159833288,1.0619817762755819,14.46483293610887
+North America,North America-origin / NA network,Copper,ΔPolicy,2045,29.93497207886192,-1.0722952908756582,28.862676787986263
+North America,North America-origin / NA network,Copper,ΔPolicy,2050,50.88158559501922,-1.7749991495858382,49.10658644543338
+North America,North America-origin / NA network,Copper,ΔCapacity,2030,1.1692131467872897,0.3338593830467662,1.503072529834056
+North America,North America-origin / NA network,Copper,ΔCapacity,2035,4.075155513138654,1.996427514118193,6.071583027256847
+North America,North America-origin / NA network,Copper,ΔCapacity,2040,13.402851159833288,6.1969578943636865,19.599809054196975
+North America,North America-origin / NA network,Copper,ΔCapacity,2045,29.93497207886192,7.945657561091505,37.880629639953426
+North America,North America-origin / NA network,Copper,ΔCapacity,2050,50.88158559501922,5.30350168211443,56.18508727713365
+North America,North America-origin / NA network,Copper,ΔChemistry,2030,1.1692131467872897,-0.047749014681473856,1.1214641321058159
+North America,North America-origin / NA network,Copper,ΔChemistry,2035,4.075155513138654,-0.24781946484033845,3.8273360482983154
+North America,North America-origin / NA network,Copper,ΔChemistry,2040,13.402851159833288,-0.862026525666522,12.540824634166766
+North America,North America-origin / NA network,Copper,ΔChemistry,2045,29.93497207886192,-1.2627158383738752,28.672256240488046
+North America,North America-origin / NA network,Copper,ΔChemistry,2050,50.88158559501922,-0.9677532264190987,49.91383236860012
